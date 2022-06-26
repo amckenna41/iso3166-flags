@@ -1,0 +1,6 @@
+requests
+tqdm
+beautifulsoup4
+iso3166
+SVGCompress
+scour 
