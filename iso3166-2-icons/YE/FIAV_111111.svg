@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960" height="630" xmlns="http://www.w3.org/2000/svg">
+<g stroke="#000" stroke-linecap="round">
+<path stroke-width="30" d="m0,315h960M315,0v630m330,0V0"/>
+<path stroke-width="200" stroke-dasharray="0,330" d="M810,150H149m1,330H811"/>
+</g></svg>

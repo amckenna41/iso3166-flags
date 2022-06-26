@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="594px"
+   height="396px"
+   viewBox="0 0 594 396"
+   enable-background="new 0 0 594 396"
+   xml:space="preserve"
+   sodipodi:docname="Komitee-ontwerp_van_Unievlag_1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata68"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs66" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1600"
+   inkscape:window-height="837"
+   id="namedview64"
+   showgrid="false"
+   inkscape:zoom="1.6893939"
+   inkscape:cx="297"
+   inkscape:cy="198"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<rect
+   x="0"
+   fill="#003884"
+   width="594"
+   height="396"
+   id="rect2" />
+<rect
+   x="0"
+   fill="#FFFFFF"
+   width="594"
+   height="264"
+   id="rect4" />
+<rect
+   x="0"
+   fill="#003399"
+   width="594"
+   height="132"
+   id="rect6" />
+<g
+   transform="translate(211,165.5)"
+   id="g53">
+	<g
+   id="UK"
+   transform="translate(0,10.5)">
+		<path
+   fill="#003884"
+   d="M-6.523-39.787V83.5h184.929V-39.787H-6.523z"
+   id="path8" />
+		<g
+   id="g18">
+			<defs
+   id="defs11"><rect
+     id="SVGID_1_"
+     x="-6.523"
+     y="-39.787"
+     width="184.929"
+     height="123.287" /></defs>
+			<clipPath
+   id="SVGID_2_">
+				<use
+   xlink:href="#SVGID_1_"
+   overflow="visible"
+   id="use13" />
+			</clipPath>
+			<path
+   clip-path="url(#SVGID_2_)"
+   stroke="#FFFFFF"
+   stroke-width="24.6573"
+   d="M-6.523-39.787L178.406,83.5 M178.406-39.787     L-6.523,83.5"
+   id="path16" />
+		</g>
+		<g
+   id="g28">
+			<defs
+   id="defs21"><clipPath
+     id="SVGID_4_">
+				<path
+   id="SVGID_3_"
+   d="M 178.406,83.5 -6.523,-39.787 V 21.855 H 178.406 Z M -6.523,83.5 178.406,-39.787 H 85.943 V 83.5 Z" /></clipPath></defs>
+			<path
+   clip-path="url(#SVGID_4_)"
+   stroke="#CF142B"
+   stroke-width="16.4382"
+   d="M-6.523-39.787L178.406,83.5 M178.406-39.787     L-6.523,83.5"
+   id="path26" />
+		</g>
+		<path
+   stroke="#FFFFFF"
+   stroke-width="41.0954"
+   d="M85.943-39.787V83.5 M-6.523,21.855h184.929"
+   id="path30" />
+		<path
+   stroke="#CF142B"
+   stroke-width="24.6573"
+   d="M85.943-39.787V83.5 M-6.523,21.855h184.929"
+   id="path32" />
+	</g>
+	<g
+   id="Transvaal"
+   transform="translate(107,10.5)">
+		<rect
+   x="-312"
+   y="-39.787"
+   fill="#003884"
+   width="183.75"
+   height="123.287"
+   id="rect35" />
+		<rect
+   x="-312"
+   y="-39.787"
+   fill="#FFFFFF"
+   width="183.75"
+   height="82.192"
+   id="rect37" />
+		<rect
+   x="-312"
+   y="-39.787"
+   fill="#CE1126"
+   width="183.75"
+   height="41.096"
+   id="rect39" />
+		<rect
+   x="-312"
+   y="-39.787"
+   fill="#007A4D"
+   width="51.05"
+   height="123.287"
+   id="rect41" />
+	</g>
+	<g
+   id="Orange"
+   transform="translate(64)">
+		<rect
+   x="128"
+   y="-29.287"
+   fill="#FFFFFF"
+   width="184.931"
+   height="123.287"
+   id="rect44" />
+		<path
+   stroke="#CE1126"
+   stroke-width="17.6124"
+   d="M207.256-20.481H128"
+   id="path46" />
+		<path
+   stroke="#003884"
+   stroke-width="17.6124"
+   d="M207.256,14.744H128"
+   id="path48" />
+		<path
+   stroke="#FF8400"
+   stroke-width="17.6124"
+   d="M312.931-2.868H207.256 M312.931,32.356H128 M312.931,67.582H128"
+   id="path50" />
+	</g>
+</g>
+<rect
+   x="0"
+   fill="#FFFFFF"
+   width="242.5"
+   height="120.5"
+   id="rect55" />
+<rect
+   x="351.5"
+   fill="#FFFFFF"
+   width="242.5"
+   height="120.5"
+   id="rect57" />
+<rect
+   x="351.5"
+   y="275.5"
+   fill="#FFFFFF"
+   width="242.5"
+   height="120.5"
+   id="rect59" />
+<rect
+   x="0"
+   y="275.5"
+   fill="#FFFFFF"
+   width="242.5"
+   height="120.5"
+   id="rect61" />
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="12.5in" height="8.33333in"
+     viewBox="0 0 1125 750">
+<polyline  points="0,187.5 1125,187.5" style="fill:none;stroke:#E03C31;stroke-width:375" />
+<polyline  points="0,562.5 1125,562.5" style="fill:none;stroke:#001489;stroke-width:375" />
+<polyline  points="562.5,375 1125,375" style="fill:none;stroke:white;stroke-width:250" />
+<polyline  points="0,0 562.5,375 0,750" style="fill:none;stroke:white;stroke-width:250" />
+<polyline  points="0,0 562.5,375 0,750" style="fill:#FFB81C" />
+<polyline  points="562.5,375 1125,375" style="fill:none;stroke:#007749;stroke-width:150" />
+<polyline  points="0,0 562.5,375 0,750" style="fill:none;stroke:#007749;stroke-width:150" />
+
+
+</svg>

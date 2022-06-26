@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="12.5in" height="8.33333in"
+     viewBox="0 0 900 600">
+
+
+     <polygon fill="#0229b9" stroke="none" stroke-width="4" points="0.00,600.00 0.00,220.00 450.00,600.00 900.00,220.00 900.00,600.00"></polygon>
+     <polygon fill="#fde300" stroke="none" stroke-width="4" points="0.00,220.00 450.00,600.00 900.00,220.00"></polygon>
+     <polygon fill="#000000" stroke="none" stroke-width="4" points="0.00,66.00 112.50,171.00 225.00,66.00 337.50,171.00 450.00,66.00 562.50,171.00 675.00,66.00 787.50,171.00 900.00,66.00 900.00,220.00 0.00,220.00"></polygon>
+     <polygon fill="#f70119" stroke="none" stroke-width="4" points="0.00,13.00 112.50,118.00 225.00,13.00 337.50,118.00 450.00,13.00 562.50,118.00 675.00,13.00 787.50,118.00 900.00,13.00 900.00,0.00 0.00,0.00"></polygon>
+     <polygon fill="#fde300" stroke="none" stroke-width="4" points="0.00,13.00 112.50,118.00 225.00,13.00 337.50,118.00 450.00,13.00 562.50,118.00 675.00,13.00 787.50,118.00 900.00,13.00 900.00,66.00 787.50,171.00 675.00,66.00 562.50,171.00 450.00,66.00 337.50,171.00 225.00,66.00 112.50,171.00 0.00,66.00"></polygon>
+</svg>

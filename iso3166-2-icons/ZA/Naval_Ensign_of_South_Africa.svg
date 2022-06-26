@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="350" width="525">
+  <defs>
+    <clipPath id="c1"><rect width="50.16" height="30" /></clipPath>
+    <clipPath id="c2"><rect width="51" height="31" /></clipPath>
+    <clipPath id="t"><path d="M 0,0 22.5,15 0,30" /></clipPath>
+  </defs>
+  <rect height="350" width="525" fill="#fff" />
+  <path d="M 262.5,350 V 0 M 525,175 H -3.35e-4 Z" stroke="#007749" stroke-width="50" />
+  <g transform="scale(4.6875)">
+    <rect id="red" width="48.666668" height="30" fill="#e03c31" />
+    <rect id="blue" width="48.666668" height="10" x="0" y="20" fill="#001489" />
+    <path id="diagonal_white" d="M 0,0 24.333333,15 0,30 M 24.333333,15 h 25.333334" stroke="#fff" stroke-width="10" fill="none" clip-path="url(#c2)" />
+    <path id="black_triangle_with_yellow_fimbration" d="M 0,0 24.333333,15 0,30" fill="#000" stroke="#ffb81c" stroke-width="10" clip-path="url(#t)" />
+    <path id="green" d="M 0,0 24.333333,15 0,30 M 24.333333,15 h 24.333334" stroke="#007749" stroke-width="6" fill="none" clip-path="url(#c1)" />
+  </g>
+</svg>

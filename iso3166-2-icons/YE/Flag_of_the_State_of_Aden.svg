@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2210"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   width="300"
+   height="200"
+   version="1.0"
+   sodipodi:docname="Flag_of_the_State_of_Aden.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2215">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2213" />
+  <sodipodi:namedview
+     inkscape:window-height="838"
+     inkscape:window-width="1245"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10000"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     width="300px"
+     height="200px"
+     inkscape:grid-points="true"
+     inkscape:zoom="1.4588151"
+     inkscape:cx="-11.6071"
+     inkscape:cy="47.596981"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="g2257"
+     inkscape:snap-page="true"
+     inkscape:window-maximized="1" />
+  <rect
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect2990"
+     width="300"
+     height="200"
+     x="0"
+     y="0" />
+  <g
+     id="g2257">
+    <path
+       transform="matrix(0.6674889,0,0,0.6975253,81.353674,36.82067)"
+       d="M 110,80 L 144.53241,80.360173 L 155.36008,47.567201 L 165.68864,80.520779 L 200.22254,80.684918 L 172.07353,100.69118 L 182.58899,133.58559 L 154.86338,112.99656 L 126.82839,133.16229 L 137.84204,100.43131 L 110,80 z "
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="-2.1915236"
+       sodipodi:arg1="-2.8198421"
+       sodipodi:r2="17.99708"
+       sodipodi:r1="47.434166"
+       sodipodi:cy="95"
+       sodipodi:cx="155"
+       sodipodi:sides="5"
+       id="path2229"
+       style="fill:#009e60;fill-opacity:1;stroke:none;stroke-width:1.10000002000000000;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="star" />
+    <path
+       id="rect2231"
+       d="M 0,0 L 0,200 L 85,130 L 85,70 L 0,0 z "
+       style="fill:#ce1126;fill-opacity:1;stroke:none;stroke-width:1.10000002000000000;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 85,130 L 300,130 L 300,200 L 0,200 L 85,130 z "
+       id="path2223"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path2221"
+       d="M 85,70 L 300,70 L 300,0 L 0,0 L 85,70 z "
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

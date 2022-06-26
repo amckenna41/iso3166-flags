@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="12.5in" height="8.33333in"
+     viewBox="0 0 1125 750">
+  <path id="backg"
+        fill="white" stroke="none" stroke-width="1"
+        d="M 0,0
+           C 0,00 1125.00,0 1125.00,0
+             1125.00,0 1125.00,750.00 1125.00,750.00
+             1125.00,750.00 0,750.00 0,750.00" />
+  <path id="greentop"
+        fill="none" stroke="#007B4C" stroke-width="160"
+        d="M 0,80
+           C 0,80 1125.00,80 1125.00,80" />
+  <path id="greenbottom"
+        fill="none" stroke="#007B4C" stroke-width="160"
+        d="M 0,670
+           C 0,670 1125.00,670 1125.00,670" />
+  <path id="redtop"
+        fill="none" stroke="red" stroke-width="30"
+        d="M 0,200
+           C 0,200 1125.00,200 1125.00,200" />
+  <path id="redbottom"
+        fill="none" stroke="red" stroke-width="30"
+        d="M 0,550
+           C 0,550 1125.00,550 1125.00,550" />
+  <path id="blue"
+        fill="#001E96" stroke="null" stroke-width="1"
+        d="M 0.00,0.0
+           C 0,0 574.50,372.00 574.50,372.00
+             574.50,372.00 0,750.00 0,750.00" />
+<path id="ray0" fill="none" stroke="#FCD20F" stroke-width="30" d="M 270,375 C 270,375 270,500 270,500" />
+<path id="ray1" fill="none" stroke="#FCD20F" stroke-width="30" d="M 263,400 C 263,400 201,508 201,508" />
+<path id="ray2" fill="none" stroke="#FCD20F" stroke-width="30" d="M 245,418 C 245,418 137,481 137,481" />
+<path id="ray3" fill="none" stroke="#FCD20F" stroke-width="30" d="M 220,425 C 220,425 95,425 95,425" />
+<path id="ray4" fill="none" stroke="#FCD20F" stroke-width="30" d="M 195,418 C 195,418 87,356 87,356" />
+<path id="ray5" fill="none" stroke="#FCD20F" stroke-width="30" d="M 177,400 C 177,400 114,292 114,292" />
+<path id="ray6" fill="none" stroke="#FCD20F" stroke-width="30" d="M 170,375 C 170,375 170,250 170,250" />
+<path id="ray7" fill="none" stroke="#FCD20F" stroke-width="30" d="M 177,350 C 177,350 239,242 239,242" />
+<path id="ray8" fill="none" stroke="#FCD20F" stroke-width="30" d="M 195,332 C 195,332 303,269 303,269" />
+<path id="ray9" fill="none" stroke="#FCD20F" stroke-width="30" d="M 220,325 C 220,325 345,325 345,325" />
+<path id="ray10" fill="none" stroke="#FCD20F" stroke-width="30" d="M 245,332 C 245,332 353,394 353,394" />
+<path id="ray11" fill="none" stroke="#FCD20F" stroke-width="30" d="M 263,350 C 263,350 326,458 326,458" />
+
+  <circle cx="220" cy="375" r="70" stroke="#001E96" stroke-width="30" fill="#FCD20F" />
+</svg>

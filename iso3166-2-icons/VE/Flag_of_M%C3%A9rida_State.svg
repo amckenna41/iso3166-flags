@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="900" height="600">
+  <path style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M0 0h900v600H0z"/>
+  <path d="M450-1e-7h450V600L450-1e-7z" style="fill:#74acdf;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+  <path d="M0 0h450L0 600V0z" style="fill:#008033;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+  <path d="m450 164.32371 33.50376 103.88604 109.15473-.23858-88.44827 63.96653 33.95757 103.73859L450 371.32373l-88.1678 64.35255 33.95757-103.73858-88.44826-63.96653 109.15472.23858L450 164.32371z" style="fill:#cf142b;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+</svg>
