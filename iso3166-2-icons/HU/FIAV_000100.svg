@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="320" height="210" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="100" width="320" height="10" fill="black" />
+<rect y="0" x="100" width="10" height="210" fill="black" />
+<rect y="0" x="210" width="10" height="210" fill="black" />
+<circle cx="50" cy="160" fill="black" r="33.333333" />
+</svg>

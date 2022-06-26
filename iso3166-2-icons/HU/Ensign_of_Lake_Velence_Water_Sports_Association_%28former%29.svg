@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="600"
+   width="900"
+   version="1.1"
+   viewBox="0 0 900.00001 600.00001"
+   id="svg12"
+   sodipodi:docname="Ensign_of_Lake_Velence_Water_Sports_Association_(former).svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.44626295"
+     inkscape:cx="450"
+     inkscape:cy="300"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     transform="translate(0,-452.36214)"
+     id="g10">
+    <path
+       d="m 0,452.3622 h 899.99971 v 600 H 0 Z"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:#00613c;fill-opacity:1" />
+    <g
+       transform="matrix(2.7777771,0,0,2.7777771,0.19961279,-1870.468)"
+       id="g8">
+      <path
+         d="M -0.07184656,836.21906 H 161.92812 V 944.21905 H -0.07184656 Z"
+         id="path4"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         d="m -0.07186062,836.21905 v 10.82422 L 63.939858,890.21905 -0.07186062,933.39483 v 10.82422 H 17.85978 l 63.068359,-42.54102 63.070311,42.54102 h 17.92968 V 933.39483 L 97.916421,890.21905 161.92813,847.04327 V 836.21905 H 144.0004 L 80.928139,878.76202 17.855874,836.21905 Z"
+         id="path6"
+         inkscape:connector-curvature="0"
+         style="fill:#e5143c;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

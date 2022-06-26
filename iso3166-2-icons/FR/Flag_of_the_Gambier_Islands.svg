@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 180 120" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path fill="#fff" d="M0 0h180v120H0z"/>
+  <path fill="#233e8c" d="M0 40h180v40H0z"/>
+  <g id="c" transform="matrix(18 0 0 18 21 21.5)">
+    <g id="b">
+      <path id="a" transform="rotate(18 3.157 -.5)" d="M0 0v1h.5z"/>
+      <use xlink:href="#a" transform="scale(-1 1)"/>
+    </g>
+    <use xlink:href="#b" transform="rotate(72)"/>
+    <use xlink:href="#b" transform="rotate(-72)"/>
+    <use xlink:href="#b" transform="rotate(144)"/>
+    <use xlink:href="#b" transform="rotate(-144)"/>
+  </g>
+  <use fill="#233e8c" xlink:href="#c"/>
+  <use fill="#233e8c" xlink:href="#c" transform="translate(0 81)"/>
+  <use fill="#233e8c" xlink:href="#c" transform="translate(138 81)"/>
+  <use fill="#233e8c" xlink:href="#c" transform="translate(138)"/>
+  <use fill="#fff" xlink:href="#c" transform="translate(69 40.5)"/>
+</svg>

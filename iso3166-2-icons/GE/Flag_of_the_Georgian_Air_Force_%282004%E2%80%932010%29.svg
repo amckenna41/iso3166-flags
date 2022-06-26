@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="216" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="324" height="216" style="fill:#ffffff"/>
+<g style="fill:#d11d20"><rect x="140.5" width="43" height="216"/>
+<rect y="86.5" width="324" height="43"/></g>
+<path id="Tring" style="fill:#006fbb" d="M0,0V81H135Z"/>
+<use xlink:href="#Tring" transform="rotate(180,162,108)"/>
+<path id="Tring2" style="fill:#006fbb" d="M0,216H135V135Z"/>
+<use xlink:href="#Tring2" transform="rotate(180,162,108)"/></svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg1741"
+   width="800"
+   height="576"
+   viewBox="0 0 800 576"
+   sodipodi:docname="Forest Finns(new).svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1747">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1745" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview1743"
+     showgrid="false"
+     inkscape:zoom="0.355"
+     inkscape:cx="328.66494"
+     inkscape:cy="312.56644"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1741" />
+  <rect
+     style="fill:#039803;fill-opacity:1;stroke:#039803;stroke-width:0.99850935;stroke-miterlimit:4;stroke-dasharray:0, 10.98360238;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1816"
+     width="799.00122"
+     height="575.00146"
+     x="0.49938965"
+     y="0.49926758" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99850911px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 0.499245,224.11095 v 127.7781 H 224.2197 V 575.50074 H 352.05993 V 351.88905 H 799.50076 V 224.11095 H 352.05993 V 0.499255 H 224.2197 V 224.11095 Z"
+     id="path1824"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#000000;stroke-width:1.33333337"
+     d="M 255.99999,448 V 320 h -128 H 4.9999999e-6 V 288 256 H 127.99999 h 128 V 128 0 h 32 32 v 128 128 h 240 240 v 32 32 h -240 -240 v 128 128 h -32 -32 z"
+     id="path1753"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   width="750" height="500"
+   version="1.0">
+  <metadata><rdf:RDF>
+    <cc:Work rdf:about="">
+      <dc:title>Flag of Tuamotu Archipelago (French Polynesia)</dc:title>
+      <dc:description>Flag of Tuamotu Archipelago (French Polynesia)</dc:description>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>oceania</rdf:li>
+          <rdf:li>French</rdf:li>
+          <rdf:li>Polynesia</rdf:li>
+          <rdf:li>France</rdf:li>
+          <rdf:li>Tuamotu</rdf:li>
+          <rdf:li>Archipelago</rdf:li>
+          <rdf:li>flag</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:publisher>
+        <cc:Agent>
+          <dc:title>Stéphane-Eymeric BREDTHAUER</dc:title>
+        </cc:Agent>
+      </dc:publisher>
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Stéphane-Eymeric BREDTHAUER</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <dc:rights>
+        <cc:Agent>
+          <dc:title>Stéphane-Eymeric BREDTHAUER</dc:title>
+        </cc:Agent>
+      </dc:rights>
+      <dc:date>21/09/2006</dc:date>
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      <dc:language>en</dc:language>
+    </cc:Work>
+    <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+      <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+      <cc:permits rdf:resource="http://web.resource.org/cc/Distribution" />
+      <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+    </cc:License>
+  </rdf:RDF></metadata>
+  <title>Flag of Tuamotu Archipelago</title>
+  <defs>
+    <polygon transform="matrix(0.708472,3.36346e-2,-3.218247e-2,0.702696,0,0)"
+       style="fill:#233e8c;fill-opacity:1;fill-rule:evenodd;stroke:none" id="Star"
+       points="659.701,186.567 667.432,156.723 642.135,139.104 672.907,137.234 681.847,107.73 693.134,136.418 723.957,135.803 700.161,155.403 710.27,184.527 684.276,167.953 659.701,186.567"/>
+  </defs>
+  <rect width="750" height="500" fill="#ee252a"/>
+  <rect width="750" height="166.666667" y="166.666667" fill="white"/>
+  <rect width="214.28529" height="500" fill="#233e8c"/>
+  <g transform="scale(1.0079365)">
+    <use x="-230.4185" y="80.58547" xlink:href="#Star"/>
+    <use x="-164.9185" y="80.58547" xlink:href="#Star"/>
+    <use x="-99.41064" y="80.58547" xlink:href="#Star"/>
+    <use x="-33.90277" y="80.58547" xlink:href="#Star"/>
+    <use x="31.60511" y="80.58547" xlink:href="#Star"/>
+    <use x="97.11298" y="80.58547" xlink:href="#Star"/>
+    <use x="162.6209" y="80.58547" xlink:href="#Star"/>
+    <use x="228.1287" y="80.58547" xlink:href="#Star"/>
+    <use x="-230.4185" y="163.2744" xlink:href="#Star"/>
+    <use x="-164.9185" y="163.2863" xlink:href="#Star"/>
+    <use x="-99.41068" y="163.2863" xlink:href="#Star"/>
+    <use x="-33.90281" y="163.2863" xlink:href="#Star"/>
+    <use x="31.60507" y="163.2863" xlink:href="#Star"/>
+    <use x="97.11299" y="163.2863" xlink:href="#Star"/>
+    <use x="162.6209" y="163.2863" xlink:href="#Star"/>
+    <use x="228.1287" y="163.2863" xlink:href="#Star"/>
+  </g>
+</svg>

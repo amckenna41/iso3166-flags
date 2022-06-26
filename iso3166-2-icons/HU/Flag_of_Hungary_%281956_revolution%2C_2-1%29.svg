@@ -1,0 +1,7 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="600" width="1200" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 6 3">
+ <g>
+  <path d="m0 100v400h1200v-400h-1200zm600 22.25a177.75 177.75 0 0 1 177.75 177.75 177.75 177.75 0 0 1 -177.75 177.75 177.75 177.75 0 0 1 -177.75 -177.75 177.75 177.75 0 0 1 177.75 -177.75z" transform="scale(.005)" fill="#fff"/>
+  <path d="m0 400v200h1200v-200h-453.07227a177.75 177.75 0 0 1 -146.92773 77.75 177.75 177.75 0 0 1 -146.74023 -77.75h-453.25977z" fill="#436f4d" transform="scale(.005)"/>
+  <path d="m0 0v200h453.07227a177.75 177.75 0 0 1 146.92773 -77.75 177.75 177.75 0 0 1 146.74023 77.75h453.25977v-200h-1200z" fill="#cd2a3e" transform="scale(.005)"/>
+ </g>
+</svg>

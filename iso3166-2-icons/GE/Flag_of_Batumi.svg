@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="1200" width="1800" viewBox="-892.5 -595 1785 1190">
+	<defs>
+		<clipPath id="clip_shield">
+			<path id="shield" d="m-300-365h600v555c0 200-190 50-300 175-110-125-300 25-300-175z"/>
+		</clipPath>
+	</defs>
+	<rect x="-50%" y="-50%" height="100%" width="100%" fill="#2c5aa0"/>
+	<rect x="-50%" y="-425" height="170" width="100%" fill="#fff"/>
+	<rect x="-50%" y="-85" height="170" width="100%" fill="#fff"/>
+	<rect x="-50%" y="255" height="170" width="100%" fill="#fff"/>
+	<g id="coat_of_arms">
+		<use xlink:href="#shield" fill="#d81e05"/>
+		<circle r="55" cy="-150" fill="#ffcc00"/>
+		<circle r="55" cy="-270" cx="-150" fill="#ffcc00"/>
+		<circle r="55" cy="-270" cx="150" fill="#ffcc00"/>
+		<path d="M-330,0q30 20 60 0t60 0 60 0 60 0 60 0 60 0 60 0 60 0 60 0 60 0 60 0l-30 390h-600z" fill="#fff" clip-path="url(#clip_shield)"/>
+		<use xlink:href="#shield" fill="none" stroke="#000" stroke-width="6"/>
+	</g>
+</svg>

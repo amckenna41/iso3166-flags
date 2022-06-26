@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="Flag of General in Independent State of Croatia.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2486-9" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2486" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-762.20933"
+     inkscape:cy="373.28872"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-9"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="844"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-252.36218)">
+    <rect
+       style="opacity:0.98999999000000005;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect2985"
+       width="800"
+       height="800"
+       x="0.00408452"
+       y="252.36337" />
+    <rect
+       style="opacity:0.98999999;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3131"
+       width="800"
+       height="265"
+       x="0.00390625"
+       y="787.36218" />
+    <rect
+       style="opacity:0.98999999000000005;fill:#dd0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3131-5"
+       width="800"
+       height="265"
+       x="0.00026226509"
+       y="252.36179" />
+    <path
+       id="path3152-2"
+       d="m 384.52787,634.5513 v -62.27259 l 15.72616,12.93007 16.17124,-12.93007 v 61.08347 H 479.479 l -13.79761,18.35491 13.79761,17.31471 h -66.02067 l -8.60481,-6.83689 v 57.51655 l -17.06185,12.4842 c 0,0 9.94006,-24.2247 9.64364,-71.63529 -4.5995,3.71539 -11.42397,9.21424 -11.42397,9.21424 H 321.771 l 12.75923,-17.53719 -12.75923,-18.13198 62.75687,0.44586 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffcc00;fill-opacity:1" />
+    <g
+       id="layer1-9"
+       inkscape:label="Layer 1"
+       transform="translate(-1293.7871,151.09722)" />
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="1000" width="1500" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0,-52.362183)">
+  <g transform="matrix(2.4390243,0,0,2.4390243,0,-1514.3748)">
+   <path d="M0,642.36218,0,1052.3622,615,847.36218z" fill="#cd2a3e"/>
+   <path d="M0,697.36216,0,997.36218,440,847.36216z" fill="#FFF"/>
+   <path d="M0,757.36216,0,937.36218,270,847.36216z" fill="#436f4d"/>
+  </g>
+ </g>
+</svg>

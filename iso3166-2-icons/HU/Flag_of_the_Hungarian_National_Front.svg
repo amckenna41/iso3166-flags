@@ -1,0 +1,28 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="600" width="1000" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(0,-452.36218)">
+  <g transform="matrix(0.95238101,0,0,0.95238101,1.3253332e-7,50.112417)">
+   <path fill="#D00" d="m0.0000027832032,422.36214,1049.999697,0,0,629.99996-1049.999697,0z"/>
+   <path d="m315,872.36232,734.9997,0,0,89.9997-734.9997,0z" fill="#FFF"/>
+   <path d="m315,692.36212,734.9997,0,0,90.00004-734.9997,0z" fill="#FFF"/>
+   <path d="m315,512.36218,734.9997,0,0,90.00003-734.9997,0z" fill="#FFF"/>
+   <path fill="#000" d="m0.0000027832032,422.36214,393.7498872,0,0,629.99996-393.7498872,0z"/>
+   <path d="m136.42862,580.72398,0,133.2744,42,0,0-47.7372,36.8928,0,0,47.7372,42,0,0-133.2744-42,0,0,47.7372-36.8928,0,0-47.7372z" fill="#FFF"/>
+   <g stroke-miterlimit="4" stroke="#FFF" stroke-dasharray="none" transform="matrix(4.2,0,0,4.2,-2425.9661,-2461.73)" fill="#FFF">
+    <path style="text-align:start;" d="m636.60534,792.21326-5.1672,0,0,13.82942-8.04701-13.82942-5.83896,0,0,24.67549,5.16772,0-0.00053-13.82975,8.04666,13.82975,5.83932,0z" stroke-width="0.50996011"/>
+    <path style="text-align:start;" d="m589.43318,792.20084-1.7922,24.68992,5.27901,0,0.94508-17.98756,4.20369,17.98756,5.27901,0,4.20369-17.98756,0.91243,17.98756,5.27901,0-1.75973-24.68992-7.29941,0-3.97567,13.84184-4.00797-13.84184z" stroke-width="0.50999999"/>
+    <path style="text-align:start;" d="m654.12953,792.23056,7.20146,24.65869-5.51353,0-1.40111-5.73613-7.88604,0-1.40129,5.73613-5.51406,0,7.20164-24.65869zm-3.6562,4.55159-2.90035,10.13155,5.80052,0z" stroke-width="0.50996011"/>
+   </g>
+   <path d="m51.974991,647.36118,144.899979-144.899,144.9,144.90005l-144.89997,144.89995z" stroke="#FFF" stroke-miterlimit="4" stroke-width="25.20000076" fill="none"/>
+  </g>
+ </g>
+</svg>

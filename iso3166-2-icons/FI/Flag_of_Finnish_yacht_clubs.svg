@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   width="1800"
+   height="1100"
+   style="fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 1801.7595 1101.76"
+   id="svg2"
+   version="1.1"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+ <defs
+   id="defs4"><style
+     type="text/css"
+     id="style6">
+   
+    .str2 {stroke:#000000;stroke-width:15}
+    .str3 {stroke:#000000;stroke-width:15;stroke-linecap:round}
+    .str1 {stroke:#FFFFFF;stroke-width:35}
+    .str0 {stroke:#014189;stroke-width:170}
+    .fil1 {fill:none}
+    .fil0 {fill:#FFFFFF}
+   
+  </style></defs>
+ 
+ 
+<path
+   class="fil0"
+   d="M 1802.5616,0 H -0.3184 v 1101.76 h 1802.88 z"
+   id="path8-2"
+   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.76032;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><path
+   id="path861"
+   style="fill:#002f6c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.919297;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   d="m 500.4816,0 v 400.64 h -500.8 v 120.192 h 620.992 V 0 Z m 180.288,0 v 520.832 h 1121.792 V 400.64 h -1001.6 V 0 Z M -0.3184,580.928 V 701.12 h 500.8 v 400.64 h 120.192 V 580.928 Z m 681.088,0 v 520.832 h 120.192 V 701.12 h 1001.6 V 580.928 Z" /><g
+   id="g964"
+   transform="matrix(1.76,0,0,1.76,-2397.7482,-176.2816)"><g
+     id="g922-9"
+     style="fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     transform="translate(1361.4487,99.97818)"><circle
+       class="fil1 str2"
+       cx="143"
+       cy="114"
+       r="67"
+       id="circle19-3" /><path
+       class="fil1 str3"
+       d="m 169,87 -53,54"
+       id="path23-6" /><path
+       class="fil1 str3"
+       d="m 116,87 53,54"
+       id="path966" /></g></g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="600" width="800" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g transform="matrix(1.20038,0,0,1.20038,1357.87,748.059)"></g>
+ <g fill="#0f0" transform="matrix(1.20038,0,0,1.20038,1357.87,748.059)"></g>
+ <g transform="matrix(1.20038,0,0,1.20038,1426.44,87.043)"></g>
+ <g fill="#0f0" transform="matrix(1.20038,0,0,1.20038,1426.44,87.043)"></g>
+ <g transform="matrix(.71111111 0 0 .66666665 0 -101.57478)" fill-rule="evenodd">
+  <path d="m0 152.36218v300h750l-750-300z" fill="#cd2a3e"/>
+  <path d="m0 452.36218v300h750l375-150-375-150h-750z" fill="#fff"/>
+  <path d="m0 752.36219v300.00001l750-300.00001h-750z" fill="#436f4d"/>
+ </g>
+</svg>

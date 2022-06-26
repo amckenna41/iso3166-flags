@@ -1,0 +1,12 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="600" width="900" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 900.00001 600.00001">
+ <g transform="translate(0,-452.36216)">
+  <path d="m0 452.36216h900v599.99994h-900z" fill="#fff"/>
+  <g fill="#cd2a3e">
+   <rect transform="rotate(90)" height="900" width="22" y="-900" x="858.36218"/>
+   <rect transform="rotate(90)" height="900" width="22" y="-900" x="902.36218"/>
+   <rect transform="rotate(90)" height="900" width="22" y="-900" x="946.36218"/>
+   <rect transform="rotate(90)" height="900" width="22" y="-900" x="990.36218"/>
+   <path d="m128.0516 495.36216v46.09569h-42.8965v43.63672h42.8965v42.07813h-86.0516v43.63671h86.0516v86.55274h43.6347v-86.55274h88.3137v-43.63671h-88.3137v-42.07813h44.3789v-43.63672h-44.3789v-46.09569z"/>
+  </g>
+ </g>
+</svg>
