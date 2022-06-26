@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="585" height="390">
+	<defs>
+		<g id="star" transform="scale(12)">
+			<g id="cone">
+				<polygon id="triangle" fill="#FFF" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+				<use xlink:href="#triangle" transform="scale(-1,1)"/>
+			</g>
+			<use xlink:href="#cone" transform="rotate(72)"/>
+			<use xlink:href="#cone" transform="rotate(-72)"/>
+			<use xlink:href="#cone" transform="rotate(144)"/>
+			<use xlink:href="#cone" transform="rotate(-144)"/>
+		</g>
+	</defs>
+	<rect fill="#f8c300" width="585" height="390"/>
+	<line x1="50%" x2="50%" y2="100%" style="stroke:#00923f;stroke-dasharray:30,30;stroke-width:1950;"/>
+	<rect fill="#003984" width="195" height="150"/>
+	<g id="g_stars">
+		<use xlink:href="#star" x="48.75" y="25"/>
+		<use xlink:href="#star" x="81.25" y="25"/>
+		<use xlink:href="#star" x="113.75" y="25"/>
+		<use xlink:href="#star" x="146.75" y="25"/>
+	</g>
+	<use xlink:href="#g_stars" y="25"/>
+	<use xlink:href="#g_stars" y="50"/>
+	<use xlink:href="#g_stars" y="75"/>
+	<use xlink:href="#g_stars" y="100" x="16.25"/>
+	<use xlink:href="#star" x="32.5" y="125"/>
+</svg>

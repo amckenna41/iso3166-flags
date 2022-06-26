@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="700px" viewBox="-1000 -700 2000 1400">
+	<defs>
+		<g id="star">
+			<g id="cone">
+				<polygon id="triangle" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+				<use xlink:href="#triangle" transform="scale(-1,1)"/>
+			</g>
+			<use xlink:href="#cone" transform="rotate(72)"/>
+			<use xlink:href="#cone" transform="rotate(-72)"/>
+			<use xlink:href="#cone" transform="rotate(144)"/>
+			<use xlink:href="#cone" transform="rotate(-144)"/>
+		</g>
+		<g id="stars_21">
+			<use id="star1" xlink:href="#star" transform="translate(0,-165) scale(20)"/><use xlink:href="#star1" transform="rotate(17.142857)"/><use xlink:href="#star1" transform="rotate(34.285714)"/><use xlink:href="#star1" transform="rotate(51.428571)"/><use xlink:href="#star1" transform="rotate(68.571429)"/><use xlink:href="#star1" transform="rotate(85.714286)"/><use xlink:href="#star1" transform="rotate(102.857143)"/><use xlink:href="#star1" transform="rotate(120)"/><use xlink:href="#star1" transform="rotate(137.142857)"/><use xlink:href="#star1" transform="rotate(154.285714)"/><use xlink:href="#star1" transform="rotate(171.428571)"/><use xlink:href="#star1" transform="rotate(188.571429)"/><use xlink:href="#star1" transform="rotate(205.714286)"/><use xlink:href="#star1" transform="rotate(222.857143)"/><use xlink:href="#star1" transform="rotate(240)"/><use xlink:href="#star1" transform="rotate(257.142857)"/><use xlink:href="#star1" transform="rotate(274.285714)"/><use xlink:href="#star1" transform="rotate(291.428571)"/><use xlink:href="#star1" transform="rotate(308.571429)"/><use xlink:href="#star1" transform="rotate(325.714286)"/><use xlink:href="#star1" transform="rotate(342.857143)"/>
+		</g>
+	</defs>
+
+	<rect id="field" fill="#00923f" x="-50%" y="-50%" width="100%" height="100%"/>
+	<path id="rhombus" fill="#f8c300" d="M -1000,0 L 0,700 L 1000,0 L 0,-700 z"/>
+	<use id="main_star" fill="#ffffff" xlink:href="#star" transform="scale(500)"/>
+	<path id="stary_circle" fill="#00AEEF" fill-rule="evenodd" d="M 0,-190 a190,190 0 0,0 0,380 a190,190 0 0,0 0,-380z  M 0,-140 a140,140 0 0,0 0,280 a140,140 0 0,0 0,-280z"/>
+	<use fill="#ffffff" xlink:href="#stars_21"/>
+	<path id="cross" fill="#ff0000" fill-rule="evenodd" d="m-55,-125  h 110 l -30,30 v 70 h 70 l 30,-30 v 110 l -30,-30 h -70 v 70 l 30,30 h -110 l 30,-30 v -70 h -70 l -30,30 v -110 l 30,30 h 70 v -70 z M-6,-95  h 12 v 89 h89 v12 h-89 v89 h-12 v-89 h-89 v-12 h89 z"/>
+
+	<g id="armillary_sphere" stroke="#f8c300">
+		<path fill="none" stroke-width="5" d="M0,-90 a 90,90 0 1 0 0,180 90,90 0 0 0 0,-180 70,90 0 1 0 0,180 70,90 0 1 0 0,-180 40,90 0 1 0 0,180 40,90 0 1 0 0,-180 v 180 m -90,-90 h 180 M-74.8331477,-50 h 149.6662955 M-74.8331477,50 h 149.6662955 M-41.23105626,-80 h 82.46211251 M-41.23105626,80 h 82.46211251"/>
+		<g transform="rotate(30)">
+			<rect fill="#f8c300"  x="-90" y="-7.5" width="180" height="15" />
+			<rect fill="none" stroke="#f8c300" stroke-width="5" x="-90" y="-12.5" width="180" height="25" />
+		</g>
+	</g>
+</svg>

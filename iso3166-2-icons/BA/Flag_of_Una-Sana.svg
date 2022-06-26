@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="450" viewBox="0 0 180 90">
+<clipPath id="cp">
+<path d="M31,45C31,55 38,65 54,70C70,65 77,55 77,45V20H31z" id="shield"/>
+</clipPath>
+<rect height="90" width="180" fill="#090"/>
+<rect height="60" width="180" fill="#fff"/>
+<rect height="30" width="180" fill="#009"/>
+<g clip-path="url(#cp)">
+<use xlink:href="#shield" fill="#009"/>
+<path d="M32,62.5H76V53C54,56 54,50 32,53z" fill="#090"/>
+<path d="M32,56.5C54,53 54,60 76,56.5" fill="none" stroke="#009" stroke-width="0.4"/>
+<g fill="#fff">
+<path d="M48,47H31V38H77V47H60V42C60,38 48,38 48,42z"/>
+<path d="M31,48.5H77" stroke="#fff"/>
+<path d="m31.5,37v-3h3v2h3v-2h3v2h3v-2h3v2h3v-2h3v2h3v-2h3v2h3v-2h3v2h3v-2h3v2h3v-2h3v3z"/>
+</g>
+<g stroke="#009">
+<path d="M38.5,41v3"/>
+<path d="M42,40v3"/>
+<path d="M66,40v3"/>
+<path d="M69.5,41v3"/>
+</g>
+<g id="star">
+<path id="hs" fill="#fc0" d="M54,23 52.5775,27 54,31 55.4225,27zM50,27 54,28.4225 58,27 54,25.5775z"/>
+<use xlink:href="#hs" transform="rotate(45,54,27)"/>
+</g>
+<use xlink:href="#star" transform="translate(9,2.5)"/>
+<use xlink:href="#star" transform="translate(-9,2.5)"/>
+<use xlink:href="#shield" fill="none" stroke="#fff" stroke-width="2.4"/>
+</g>
+<use xlink:href="#shield" fill="none" stroke="#fc0" stroke-width="0.8"/>
+</svg>

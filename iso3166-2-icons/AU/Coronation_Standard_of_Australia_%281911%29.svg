@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="300">
+	<rect width="400" height="300" fill="#fff"/>
+	<path d="M 200,0 V 300 M 0,150 H 400" stroke="#002f5e" stroke-width="75"/>
+	<path d="M 200,0 V 300 M 0,150 H 400" stroke="#fff" stroke-width="60"/>
+	<path d="M 200,0 V 300 M 0,150 H 400" stroke="#d71414" stroke-width="45"/>
+	<path d="M 0,0 V 300 H 400 V 0 z m 40,40 H 360 V 260 H 40 z" fill="#002f5e"/>
+	<use xlink:href="#star" y="-80"/>
+	<use xlink:href="#star" x="-92.6"/>
+	<g id="star" fill="#fff">
+		<path id="triangle" d="M 200,130 l -17.4,30 h 34.8 z"/>
+		<path d="M 200,170 l 17.4,-30 h -34.8 z"/>
+	</g>
+	<use xlink:href="#star" x="92.6"/>
+	<use xlink:href="#star" y="80"/>
+	<g id="shield">
+	    <path d="M 115,2.875 c -2.73,2.255 -7.455,3.086 -14.101,1.424 c -1.424,17.684 4.963,29.909 14.101,32.995 c 9.139,-3.086 15.525,-15.31 14.101,-32.995 c -6.646,1.662 -11.371,0.831 -14.101,-1.424 z" fill="#fff"/>
+	    <path d="M 115,11.171 l -12.15,12.149 c 0.692,2.046 1.526,3.917 2.501,5.57 l 9.649,-9.648 l 9.649,9.65 c 0.976,-1.654 1.81,-3.526 2.501,-5.572 z" fill="#d71414"/>
+	    <path d="M 115,2.875 c -2.73,2.255 -7.455,3.086 -14.101,1.424 c -1.424,17.684 4.963,29.909 14.101,32.995 c 9.139,-3.086 15.525,-15.31 14.101,-32.995 c -6.646,1.662 -11.371,0.831 -14.101,-1.424 z" fill="none" stroke="#002f5e" stroke-width="1.4"/>
+	</g>
+	<use xlink:href="#shield" x="170"/>
+	<use xlink:href="#shield" x="-95" y="130"/>
+	<use xlink:href="#shield" x="265" y="130"/>
+	<use xlink:href="#shield" y="260"/>
+	<use xlink:href="#shield" x="170" y="260"/>
+</svg>

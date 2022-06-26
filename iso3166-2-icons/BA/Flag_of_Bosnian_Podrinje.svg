@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="450" viewBox="0 0 180 90">
+<clipPath id="cp">
+<path id="shield" d="M65,27V38C75,34 75,47 65,43C65,68 87,66 90,80C100,80 115,61 115,45V10z" fill="none"/>
+</clipPath>
+<rect width="180" height="90" fill="#fee600"/>
+<rect width="90" height="90" fill="#002395"/>
+<g clip-path="url(#cp)">
+<rect width="120" height="90" fill="#002395"/>
+<path id="wave" d="m88,44s2.5,-1 4,0s2.5,1 4,0s2.5,-1 4,0s2.5,1 4,0s2.5,-1 4,0s2.5,1 4,0s2.5,-1 4,0" fill="none" stroke="#fee600" stroke-width="1.5"/>
+<use xlink:href="#wave" y="6"/>
+<use xlink:href="#wave" y="12"/>
+<use xlink:href="#wave" y="18"/>
+<use xlink:href="#wave" y="24"/>
+<g stroke="#002395" stroke-width="3">
+<use xlink:href="#shield"/>
+<path d="M90,0V90"/>
+</g>
+<rect width="90" height="90" fill="#fee600"/>
+<path id="star" d="M76,31 80.1459,32.3471V36.7063L82.7082,33.1796 86.8541,34.5267 84.2918,31 86.8541,27.4733 82.7082,28.8204 80.1459,25.2937V29.6529z" fill="none" stroke="#002395" stroke-width="0.5"/>
+<use xlink:href="#star" y="14"/>
+<use xlink:href="#star" y="28"/>
+<g fill="#fee600">
+<path d="M99.4,33.9C98.5,33.9 98.5,35 99.4,35H100.8C101.8,35 101.2,36.4 100.7,37C101.8,38 101.4,39 102,39C102.8,39 102.2,38 103.3,37C103,36.4 102.2,35 103.2,35H104.6C105.3,35 105.3,33.9 104.6,33.9z"/>
+<path d="M101.4,34C101.4,31 100,28.4 100,26C100,24.6 101,23.6 102,23C103,23.6 104,24.6 104,26C104,28.4 102.6,31 102.6,34z"/>
+<path id="leaf" d="M101.2,34C101.2,31.8 100,29.2 98.4,29.2C95.8,29.2 94.8,32.4 98,34C97.4,33 97.6,32 98.8,32C99.2,32 100.2,32.6 100.8,34z"/>
+<use xlink:href="#leaf" transform="matrix(-1,0,0,1,204,0)"/>
+</g>
+</g>
+<use xlink:href="#shield" stroke="#002395" stroke-width="2"/>
+<use xlink:href="#shield" stroke="#fee600" stroke-width="0.5"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   width="600" height="600">
+  <metadata><rdf:RDF><cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Flag of Governor-General of Belgian Congo</dc:title>
+  </cc:Work></rdf:RDF></metadata>
+  <rect width="600" height="600" fill="#ed2939"/>
+  <rect width="400" height="600" fill="#fae042"/>
+  <rect width="200" height="600"/>
+  <rect width="300" height="300" style="fill:#0039a5"/>
+  <polygon style="fill:#fae042;fill-opacity:1;stroke:none"
+     points="-0.951057,-0.309017 0.951057,-0.309017 -0.587785,0.809017 0,-1 0,-1 0.587785,0.809017"
+     transform="translate(150,161.04445)scale(115.66079)"/>
+</svg>

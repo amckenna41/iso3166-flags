@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 84 42" fill="#fff">
+<clipPath id="c1"><path d="M0 0H12V6H0z"/></clipPath>
+<clipPath id="c2"><path d="M0 0v1.5h7v2zM0 3v.5H3V0H6z"/></clipPath>
+<g transform="scale(7)">
+<rect width="12" height="6" fill="#00247d"/>
+<path d="M0 0 6 3M6 0 0 3" stroke="#fff" stroke-width=".6" clip-path="url(#c1)"/>
+<path d="M0 0 6 3M6 0 0 3" stroke="#cc142b" stroke-width=".4" clip-path="url(#c2)"/>
+<path d="M0 1.5H7M3 0V3.5" stroke="#fff"/>
+<path d="M6 0h6v6H6z"/>
+<path d="M0 1.5H12M3 0V3.5M9 0V3.5" stroke="#cc142b" stroke-width=".6"/>
+<path d="M0 3.2h12V6H0z"/>
+<g id="b">
+<path id="a" d="M8.745.5427h.51l-.4126.2998.1576-.485.1576.485z"/>
+<use xlink:href="#a" x="1.65" y=".9"/>
+</g>
+<use xlink:href="#a" y=".9"/>
+<use xlink:href="#b" x="-1.65" y=".9"/>
+</g>
+<path d="M0 21h84v3H0zm0 6H84v3H0zm0 6H84v3H0zm0 6H84v3H0z" fill="#0083e6"/>
+</svg>

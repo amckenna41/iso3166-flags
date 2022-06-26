@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="525" viewBox="-1000 -700 2000 1400">
+	<defs>
+		<g id="star">
+			<g id="cone">
+				<polygon id="triangle" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+				<use xlink:href="#triangle" transform="scale(-1,1)"/>
+			</g>
+			<use xlink:href="#cone" transform="rotate(72)"/>
+			<use xlink:href="#cone" transform="rotate(-72)"/>
+			<use xlink:href="#cone" transform="rotate(144)"/>
+			<use xlink:href="#cone" transform="rotate(-144)"/>
+		</g>
+	</defs>
+	<rect id="field" fill="#00923f" x="-50%" y="-50%" width="100%" height="100%"/>
+	<path id="rhombus" fill="#f8c300" d="M -1000,0 L 0,700 L 1000,0 L 0,-700 z"/>
+	<g id="cross">
+		<path fill="#d7110e" d="M-225,-500 h 450 l -125,125 v 280 h 280 l 125,-125 v 450 l -125,-125 h -280 v 280 l 125,125 h -450 l 125,-125 v -280 h -280 l -125,125 v -450 l 125,125 h 280 v -280 z"/>
+		<path fill="#fff" d="M-50,-375 h 100 v 330 h330 v100 h-330 v330 h-100 v-330 h-330 v-100 h330 z"/>
+	</g>
+	<circle id="circle" fill="#00AEEF" r="300"/>
+	<g id="stars_21" fill="#fff">
+		<use id="star1" xlink:href="#star" transform="translate(0,-250) scale(30)"/><use xlink:href="#star1" transform="rotate(17.142857)"/><use xlink:href="#star1" transform="rotate(34.285714)"/><use xlink:href="#star1" transform="rotate(51.428571)"/><use xlink:href="#star1" transform="rotate(68.571429)"/><use xlink:href="#star1" transform="rotate(85.714286)"/><use xlink:href="#star1" transform="rotate(102.857143)"/><use xlink:href="#star1" transform="rotate(120)"/><use xlink:href="#star1" transform="rotate(137.142857)"/><use xlink:href="#star1" transform="rotate(154.285714)"/><use xlink:href="#star1" transform="rotate(171.428571)"/><use xlink:href="#star1" transform="rotate(188.571429)"/><use xlink:href="#star1" transform="rotate(205.714286)"/><use xlink:href="#star1" transform="rotate(222.857143)"/><use xlink:href="#star1" transform="rotate(240)"/><use xlink:href="#star1" transform="rotate(257.142857)"/><use xlink:href="#star1" transform="rotate(274.285714)"/><use xlink:href="#star1" transform="rotate(291.428571)"/><use xlink:href="#star1" transform="rotate(308.571429)"/><use xlink:href="#star1" transform="rotate(325.714286)"/><use xlink:href="#star1" transform="rotate(342.857143)"/>
+	</g>
+	<g id="Crux" fill="#fff" transform="scale(0.7)">
+		<use transform="translate(65,220) rotate(-20) scale(65)" id="Alpha_Crucis" xlink:href="#star"/>
+		<use transform="translate(-220,65) rotate(-20) scale(65)" id="Beta_Crucis" xlink:href="#star"/>
+		<use transform="translate(-65,-220) rotate(-20) scale(65)" id="Gamma_Crucis" xlink:href="#star"/>
+		<use transform="translate(170,-60) rotate(-20) scale(65)" id="Delta_Crucis" xlink:href="#star"/>
+		<use transform="translate(30,20) rotate(-20)  scale(55)" id="Epsilon_Crucis" xlink:href="#star"/>
+	</g>
+</svg>

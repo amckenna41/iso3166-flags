@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1290"
+   height="690"
+   viewBox="-3780 -28980 108360 57960"
+   fill="none"
+   font-family="Calibri,Arial,'Liberation Sans',sans-serif"
+   version="1.1"
+   id="svg103"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title2">Flag of UAE — construction sheet</title>
+  <!-- DIMENSIONS
+		SVG:
+			S_RAW:     108360.00 × 57960.00
+			S_DISPLAY:  1290.00 × 690.00
+		FLAG:
+			F_RAW:     100800.00 × 50400.00
+			F_DISPLAY:  1200.00 × 600.00
+			F_LABEL:       6.00 × 3.00
+			F_RATIO:       2.00 × 1.00
+	-->
+  <g
+     id="g828"
+     style="opacity:0.5"
+     transform="matrix(8400,0,0,8400,0,-25200)">
+    <rect
+       width="12"
+       height="6"
+       fill="#00732f"
+       id="green"
+       x="0"
+       y="0" />
+    <rect
+       width="12"
+       height="4"
+       y="2"
+       fill="#ffffff"
+       id="rect3"
+       x="0" />
+    <rect
+       width="12"
+       height="2"
+       y="4"
+       id="rect5"
+       style="fill:#000000;fill-opacity:1"
+       x="0" />
+    <rect
+       width="3"
+       height="6"
+       fill="#ff0000"
+       id="red"
+       x="0"
+       y="0" />
+  </g>
+  <defs
+     id="defs7">
+    <marker
+       id="left-arrow"
+       viewBox="-4 -4 10 8"
+       orient="auto"
+       markerWidth="10"
+       markerHeight="8">
+      <path
+         fill="blue"
+         d="m2 0 4 4-10-4L6-4z"
+         id="path4" />
+    </marker>
+  </defs>
+  <g
+     stroke="#000"
+     stroke-width="140"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     id="g33">
+    <g
+       opacity=".4"
+       stroke-width="100"
+       id="g25">
+      <path
+         stroke-dasharray="747,327,105,327"
+         stroke-dashoffset="368"
+         d="m50400 0v-25200m0 25200v25200"
+         id="path21" />
+      <path
+         stroke-dasharray="743,323,105,323"
+         stroke-dashoffset="368"
+         d="m50400 0H0m50400 0h50400"
+         id="path23" />
+    </g>
+    <path
+       stroke="#444"
+       stroke-width="250"
+       d="m0-25200h100800v50400H0z"
+       id="path27" />
+    <path
+       d="m 25200,-8400 h 75600 M 25200,8400 h 75600 M 25200,-25200 V 0 25200"
+       id="path29" />
+    <path
+       stroke="#222222"
+       stroke-width="75"
+       stroke-dasharray="210, 210"
+       d="M 0,-27720 V 0 M 0,27720 V 0 M 25200,-27720 V 0 m 75600,-27720 V 0 m 0,27720 V 0 M -2520,-25200 h 52920 m 52920,0 H 50400 m 52920,16800 h -2520 m 2520,16800 h -2520 M -2520,25200 h 52920 m 52920,0 H 50400"
+       id="path31" />
+  </g>
+  <g
+     fill="#008"
+     opacity=".8"
+     id="g41" />
+  <g
+     stroke="#00f"
+     stroke-width="75"
+     marker-start="url(#left-arrow)"
+     id="g71">
+    <path
+       d="M 300,-26775 H 11844"
+       id="path43" />
+    <path
+       d="M 24864,-26775 H 13440"
+       id="path45" />
+    <path
+       d="M 25499.964,-26775 H 63000"
+       id="path47" />
+    <path
+       d="M 100500,-26775 H 64680"
+       id="path49" />
+    <path
+       d="M 300,26775 H 48880.02"
+       id="path51" />
+    <path
+       d="M 100500,26775 H 51919.98"
+       id="path53" />
+    <path
+       d="m-1575 24900V1100"
+       id="path55" />
+    <path
+       d="m-1575-24900v23800"
+       id="path57" />
+    <path
+       d="m102375-8700v-7100"
+       id="path59" />
+    <path
+       d="m102375-24900v7100"
+       id="path61" />
+    <path
+       d="m102375 8100V1000"
+       id="path63" />
+    <path
+       d="m102375-8100v7100"
+       id="path65" />
+    <path
+       d="m102375 24900v-7100"
+       id="path67" />
+    <path
+       d="m102375 8700v7100"
+       id="path69" />
+  </g>
+  <g
+     fill="#000"
+     text-anchor="middle"
+     font-size="50"
+     transform="scale(50)"
+     id="g101">
+    <g
+       id="g901">
+      <g
+         id="g79">
+        <text
+           x="252.00031"
+           y="-520"
+           id="text73">3</text>
+        <text
+           x="1276.8003"
+           y="-520"
+           id="text75">9</text>
+        <text
+           x="1008"
+           y="550"
+           id="text77">12</text>
+      </g>
+      <g
+         transform="rotate(270)"
+         id="g89">
+        <text
+           y="-17"
+           id="text81">6</text>
+        <text
+           x="336"
+           y="2062"
+           id="text83">2</text>
+        <text
+           y="2062"
+           id="text85">2</text>
+        <text
+           x="-336"
+           y="2062"
+           id="text87">2</text>
+      </g>
+      <g
+         font-size="27"
+         id="g99">
+        <text
+           x="-37"
+           y="554"
+           id="text93">[<tspan
+   font-weight="bold"
+   fill="#080"
+   id="tspan91">AE</tspan>]</text>
+        <text
+           x="2053"
+           y="554"
+           id="text97">[<tspan
+   font-weight="bold"
+   fill="#080"
+   id="tspan95">1:2</tspan>]</text>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata1197">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Flag of UAE — construction sheet</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

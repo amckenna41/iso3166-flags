@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="400"
+   viewBox="-1200 -1000 3000 2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="ZZ.svg">
+  <metadata
+     id="metadata149">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     id="namedview147"
+     showgrid="false"
+     inkscape:zoom="0.834386"
+     inkscape:cx="385.94583"
+     inkscape:cy="98.04931"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Republic_star" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="600 : 200 : 1"
+       inkscape:persp3d-origin="300 : 133.33333 : 1"
+       id="perspective151" />
+    <style
+       type="text/css"
+       id="style6">
+			.fil0 {fill:#fff}
+			.fil1 {fill:#00afef}
+			.fil2 {fill:#fff212}
+			.fil3 {fill:#00a859}
+			.fil4 {fill:#ed3237}
+			.fil5 {fill:#ffde20}
+			.fil6 {fill:#003070}
+			</style>
+    <g
+       id="star">
+      <g
+         id="cone">
+        <polygon
+           id="triangle"
+           points="0.5,1 0,0 0,1 "
+           transform="matrix(0.95105652,0.30901699,-0.30901699,0.95105652,0,-1)" />
+        <use
+           xlink:href="#triangle"
+           transform="scale(-1,1)"
+           id="use11"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+      </g>
+      <use
+         xlink:href="#cone"
+         transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,0)"
+         id="use13"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+      <use
+         xlink:href="#cone"
+         transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)"
+         id="use15"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+      <use
+         xlink:href="#cone"
+         transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,0,0)"
+         id="use17"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+      <use
+         xlink:href="#cone"
+         transform="matrix(-0.80901699,-0.58778525,0.58778525,-0.80901699,0,0)"
+         id="use19"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+    </g>
+  </defs>
+  <path
+     id="field"
+     class="fil2"
+     d="M -1200,-1000 H 1800 L 1200,0 1800,1000 h -3000 z"
+     style="fill:#f8c300;fill-opacity:1" />
+  <g
+     id="21_stars"
+     style="fill:#03316f;fill-opacity:1;stroke:none">
+    <use
+       id="star_base"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       xlink:href="#star"
+       transform="scale(50,50)"
+       x="0"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="-1000"
+       id="use24"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="-800"
+       id="use26"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="-600"
+       id="use28"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="-400"
+       id="use30"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="-200"
+       id="use32"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="200"
+       id="use34"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="400"
+       id="use36"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="600"
+       id="use38"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="800"
+       id="use40"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       x="1000"
+       id="use42"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       y="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="-875"
+       id="use44"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="-700"
+       id="use46"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="-525"
+       id="use48"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="-350"
+       id="use50"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="-175"
+       id="use52"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="175"
+       id="use54"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="350"
+       id="use56"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="525"
+       id="use58"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="700"
+       id="use60"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+    <use
+       xlink:href="#star_base"
+       y="875"
+       id="use62"
+       style="fill:#03316f;fill-opacity:1;stroke:none"
+       x="0"
+       width="3000"
+       height="2000" />
+  </g>
+  <g
+     id="Republic_star"
+     transform="matrix(0.4,0,0,0.4,-600,-500)">
+    <path
+       id="main_star_1"
+       class="fil5"
+       d="m 0,-885 255.68658,533.07761 585.99844,78.44235 L 413.70958,134.42239 520.18995,715.98004 0,435 l -520.18995,280.98004 106.48037,-581.55765 -427.97544,-407.90243 585.99844,-78.44235 z"
+       style="fill:#ffde20;stroke:none" />
+    <path
+       id="main_star_2"
+       class="fil4"
+       d="m 0,-785 226.79545,472.84285 519.78392,69.57881 L 366.96274,119.23342 461.41142,635.07834 0,385.84746 l -461.41142,249.23088 94.44868,-515.84492 -379.61663,-361.81176 519.78392,-69.57881 z"
+       style="fill:#e71a00;fill-opacity:1;stroke:none" />
+    <g
+       id="main_star3">
+      <g
+         class="fil2"
+         id="g68"
+         style="fill:#fff212">
+        <g
+           id="yellow_point">
+          <path
+             id="point"
+             d="M 0,-685 197.90431,-272.39191 0,0 z"
+             style="stroke:none" />
+          <use
+             xlink:href="#point"
+             transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,0)"
+             id="use72"
+             style="stroke:none"
+             x="0"
+             y="0"
+             width="3000"
+             height="2000" />
+          <use
+             xlink:href="#point"
+             transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)"
+             id="use74"
+             x="0"
+             y="0"
+             width="3000"
+             height="2000" />
+          <use
+             xlink:href="#point"
+             transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,0,0)"
+             id="use76"
+             x="0"
+             y="0"
+             width="3000"
+             height="2000" />
+          <use
+             xlink:href="#point"
+             transform="matrix(-0.80901699,-0.58778525,0.58778525,-0.80901699,0,0)"
+             id="use78"
+             x="0"
+             y="0"
+             width="3000"
+             height="2000" />
+        </g>
+      </g>
+      <use
+         xlink:href="#yellow_point"
+         transform="scale(-1,1)"
+         class="fil3"
+         id="use80"
+         style="fill:#00a859;stroke:none"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+    </g>
+    <circle
+       id="shield"
+       class="fil1"
+       r="435"
+       d="M 435,0 C 435,240.24387 240.24387,435 0,435 -240.24387,435 -435,240.24387 -435,0 c 0,-240.24387 194.75613,-435 435,-435 240.24387,0 435,194.75613 435,435 z"
+       style="fill:#00afef;stroke:none"
+       cx="0"
+       cy="0"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="435"
+       sodipodi:ry="435" />
+    <g
+       id="border">
+      <path
+         id="perfil_bordadura"
+         class="fil5"
+         d="m 0,-435 a 435,435 0 0 0 0,870 435,435 0 0 0 0,-870 z m 0,135 a 300,300 0 0 0 0,600 300,300 0 0 0 0,-600 z"
+         style="fill:#ffde20;fill-rule:evenodd;stroke:none" />
+      <path
+         class="fil1"
+         d="m 0,-410 a 410,410 0 0 0 0,820 410,410 0 0 0 0,-820 z m 0,85 a 325,325 0 0 0 0,650 325,325 0 0 0 0,-650 z"
+         id="path85"
+         style="fill:#00afef;fill-rule:evenodd;stroke:none" />
+      <g
+         id="27_stars"
+         class="fil0"
+         style="fill:#ffffff">
+        <use
+           id="star1"
+           xlink:href="#star"
+           transform="matrix(35,0,0,35,0,-367.5)"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.97304487,0.23061587,-0.23061587,0.97304487,0,0)"
+           id="use89"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.89363264,0.44879919,-0.44879919,0.89363264,0,0)"
+           id="use91"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.76604444,0.64278761,-0.64278761,0.76604444,0,0)"
+           id="use93"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.5971586,0.80212319,-0.80212319,0.5971586,0,0)"
+           id="use95"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.39607976,0.91821611,-0.91821611,0.39607976,0,0)"
+           id="use97"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.17364818,0.98480775,-0.98480775,0.17364818,0,0)"
+           id="use99"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.05814482,0.99830816,-0.99830816,-0.05814482,0,0)"
+           id="use101"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.28680324,0.95798951,-0.95798951,-0.28680324,0,0)"
+           id="use103"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)"
+           id="use105"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.68624163,0.72737365,-0.72737365,-0.68624163,0,0)"
+           id="use107"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.83548781,0.54950897,-0.54950897,-0.83548781,0,0)"
+           id="use109"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.93969262,0.34202014,-0.34202014,-0.93969262,0,0)"
+           id="use111"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.99323836,0.11609292,-0.11609292,-0.99323836,0,0)"
+           id="use113"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.99323836,-0.11609292,0.11609292,-0.99323836,0,0)"
+           id="use115"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.93969262,-0.34202014,0.34202014,-0.93969262,0,0)"
+           id="use117"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.83548781,-0.54950897,0.54950897,-0.83548781,0,0)"
+           id="use119"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.68624163,-0.72737365,0.72737365,-0.68624163,0,0)"
+           id="use121"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)"
+           id="use123"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.28680324,-0.95798951,0.95798951,-0.28680324,0,0)"
+           id="use125"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(-0.05814482,-0.99830816,0.99830816,-0.05814482,0,0)"
+           id="use127"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.17364818,-0.98480775,0.98480775,0.17364818,0,0)"
+           id="use129"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.39607976,-0.91821611,0.91821611,0.39607976,0,0)"
+           id="use131"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.5971586,-0.80212319,0.80212319,0.5971586,0,0)"
+           id="use133"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.76604444,-0.64278761,0.64278761,0.76604444,0,0)"
+           id="use135"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.89363264,-0.44879919,0.44879919,0.89363264,0,0)"
+           id="use137"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+        <use
+           xlink:href="#star1"
+           transform="matrix(0.97304487,-0.23061587,0.23061587,0.97304487,0,0)"
+           id="use139"
+           x="0"
+           y="0"
+           width="3000"
+           height="2000" />
+      </g>
+    </g>
+    <g
+       id="Crux"
+       class="fil0"
+       style="fill:#ffffff">
+      <use
+         transform="matrix(61.08002,-22.231309,22.231309,61.08002,65,220)"
+         id="Alpha_Crucis"
+         xlink:href="#star"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+      <use
+         transform="matrix(61.08002,-22.231309,22.231309,61.08002,-220,65)"
+         id="Beta_Crucis"
+         xlink:href="#star"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+      <use
+         transform="matrix(61.08002,-22.231309,22.231309,61.08002,-65,-220)"
+         id="Gamma_Crucis"
+         xlink:href="#star"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+      <use
+         transform="matrix(61.08002,-22.231309,22.231309,61.08002,170,-60)"
+         id="Delta_Crucis"
+         xlink:href="#star"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+      <use
+         transform="matrix(51.683094,-18.811108,18.811108,51.683094,30,20)"
+         id="Epsilon_Crucis"
+         xlink:href="#star"
+         x="0"
+         y="0"
+         width="3000"
+         height="2000" />
+    </g>
+  </g>
+</svg>

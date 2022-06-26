@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="eureka_flag_svg" width="640" height="416">
+<desc>Eureka flag</desc>
+<defs>
+<g id="stplus">
+<polygon points="0,-1 0.70710678118654752440084436210485,0.70710678118654752440084436210485 -1,0 0.70710678118654752440084436210485,-0.70710678118654752440084436210485 0,1 -0.70710678118654752440084436210485,-0.70710678118654752440084436210485 1,0 -0.70710678118654752440084436210485,0.70710678118654752440084436210485" fill="#142A62" transform="scale(58)"/>
+<polygon points="0,-1  0.70710678118654752440084436210485,0.70710678118654752440084436210485 -1,0 0.70710678118654752440084436210485,-0.70710678118654752440084436210485 0,1 -0.70710678118654752440084436210485,-0.70710678118654752440084436210485 1,0 -0.70710678118654752440084436210485,0.70710678118654752440084436210485" fill="#fff" transform="scale(50)"/>
+</g>
+</defs>
+<rect width="640" height="416" fill="#142A62"/>
+<g transform="translate(320,208)">
+<path d="M 33,33 v118 h-66 v-118 h-212 v-66 h212 v-118 h66 v118 h212 v66 z" fill="#fff"/>
+<use xlink:href="#stplus"/>
+<use xlink:href="#stplus" transform="translate(255,0)"/>
+<use xlink:href="#stplus" transform="translate(-255,0)"/>
+<use xlink:href="#stplus" transform="translate(0,151)"/>
+<use xlink:href="#stplus" transform="translate(0,-151)"/>
+</g>
+</svg>

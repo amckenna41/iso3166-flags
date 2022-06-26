@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="980"
+   height="630"
+   viewBox="-910 -585 1820 1170"
+   id="svg2">
+  <defs
+     id="defs57" />
+  <g
+     id="g3092">
+    <rect
+       width="1820"
+       height="1170"
+       x="-910"
+       y="-585"
+       style="fill:#3b3481;fill-opacity:1"
+       id="blue" />
+    <rect
+       width="1820"
+       height="390"
+       x="-910"
+       y="-195"
+       style="fill:#ffffff"
+       id="white" />
+    <g
+       style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-width:1.5;stroke-opacity:1"
+       id="sun">
+      <g
+         style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+         id="16rays">
+        <g
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="8rays">
+          <g
+             style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+             id="4rays">
+            <g
+               style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+               id="2rays">
+              <path
+                 d="M -8,0 L -2,153 C -2,153 -2,156 0,156 C 2,156 2,153 2,153 L 8,0"
+                 style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+                 id="path11" />
+              <path
+                 d="M -4,0 L 0,105 L 4,0"
+                 style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+                 id="path13" />
+              <g
+                 transform="matrix(0.9799247,0.1993679,-0.1993679,0.9799247,0,0)"
+                 style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+                 id="g15">
+                <path
+                   d="M -4.5,51.5 C -9.5,72 1.5,86 -4,104 C -9.5,122 -1,135 0,142.5 C 1,150 -5,153.5 -3,155 C -1,156.5 5,151.5 5.5,141 C 6,130.5 -1.5,126 5,104 C 11.5,82 1,74 8,54"
+                   style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+                   id="path17" />
+                <path
+                   d="M -1,56 C -4,76 6,87 0,105 C 8,91 -2,78 3,57"
+                   style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+                   id="path19" />
+              </g>
+            </g>
+            <use
+               transform="scale(-1,-1)"
+               style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+               id="use21"
+               x="0"
+               y="0"
+               width="1820"
+               height="1170"
+               xlink:href="#2rays" />
+          </g>
+          <use
+             transform="matrix(0,1,-1,0,0,0)"
+             style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+             id="use23"
+             x="0"
+             y="0"
+             width="1820"
+             height="1170"
+             xlink:href="#4rays" />
+        </g>
+        <use
+           transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="use25"
+           x="0"
+           y="0"
+           width="1820"
+           height="1170"
+           xlink:href="#8rays" />
+      </g>
+      <use
+         transform="matrix(0.9238795,0.3826834,-0.3826834,0.9238795,0,0)"
+         style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+         id="use27"
+         x="0"
+         y="0"
+         width="1820"
+         height="1170"
+         xlink:href="#16rays" />
+      <circle
+         cx="0"
+         cy="0"
+         r="60"
+         style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-width:1;stroke-opacity:1"
+         id="circle29" />
+      <g
+         style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+         id="face_right">
+        <path
+           d="M 41,-14 C 29.5,-24 15,-25.5 7,-18 C 1.1936273,-10.23694 1.7110236,-1.0962716 8.5,8.5 C 8,8.5 7,9 6.5,9.5 C 1.457445,-0.10281648 0.59005143,-9.991103 4,-19 C 15,-28 30,-29 41,-14"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path32" />
+        <path
+           d="M 23,-17 C 16.5,-17 15,-15.5 12,-13 C 9,-10.5 7.5,-11 7,-10.5 C 6.5,-10 7,-8.5 8,-9 C 9,-9.5 11,-10.5 14,-13 C 17,-15.5 20,-15.5 23,-15.5 C 32,-15.5 37,-8 38,-8.5 C 39,-9 33,-17 23,-17"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path34" />
+        <path
+           d="M 34.5,-8.5 C 28,-15.5 16,-16 11,-8 L 13,-8 C 18,-16 30,-12.5 31,-9 L 31,-8"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path36" />
+        <circle
+           cx="22"
+           cy="-9"
+           r="4.5"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="circle38" />
+        <path
+           d="M 11,-8 C 16,-3.5 27,-3 34.5,-8.5 L 31,-9 C 26,-3.5 18,-4 13,-8 L 13,-9"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path40" />
+        <path
+           d="M 35,-6 C 26.5,0.5 18,0 13,-3 C 8,-6 8,-7 9,-7 C 10,-7 11,-6 15,-4 C 19,-2 25,-2 35,-6"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path42" />
+        <path
+           d="M 10.5,9 C 11.91609,9.5034893 12.741084,10.977139 12.430035,12.447534 C 12.118986,13.917928 10.767895,14.931246 9.2692225,14.818143 C 7.7705501,14.70504 6.5868446,13.500423 6.5,12 C 6,13 4,16 0,16 L -1,16 L 0,17.5 C 1,17.5 4,17.5 6,16 C 7.1633883,17.669092 9.3019644,18.349966 11.216194,17.660715 C 13.130424,16.971465 14.344072,15.083568 14.176399,13.055952 C 14.008726,11.028336 12.501448,9.3654448 10.5,9"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path44" />
+        <path
+           d="M 16.5,30 C 12,27 10,22.5 5,22.5 C 4,22.5 2,23 0,24 L -1,24 L 0,25.5 C 2,25.5 5,23 8.5,25 C 12,27 14,29 16.5,30"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path46" />
+        <path
+           d="M 15,30 C 5,27 3,29 0,29 L -1,29 L 0,31 C 4,31 6,28 15,30"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path48" />
+        <path
+           d="M 16.5,30 C 5.5,29 9,35.5 0,35.5 L -1,35.5 L 0,37 C 11,37 6,31 16.5,30"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path50" />
+        <path
+           d="M 9,46 C 9,41.029437 4.9705627,37 2.5494743e-15,37 C -4.9705627,37 -9,41.029437 -9,46 C -8.0103271,41.830032 -4.2858007,38.886001 1.0005764e-15,38.886001 C 4.2858007,38.886001 8.0103271,41.830032 9,46"
+           style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+           id="path52" />
+      </g>
+      <use
+         transform="scale(-1,1)"
+         style="fill:#da251d;fill-opacity:1;stroke:#843511;stroke-opacity:1"
+         id="use54"
+         x="0"
+         y="0"
+         width="1820"
+         height="1170"
+         xlink:href="#face_right" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,-1585.8725,-360.79462)"
+       id="g5943">
+      <g
+         transform="matrix(4.5232085e-5,0,0,4.5232085e-5,-1275.6713,-603.77071)"
+         id="g321">
+        <g
+           id="g323">
+          <path
+             d="M 8939290,10635200 C 8939290,10635200 8711920,11388030 8550240,12156030 C 8388550,12923990 8327920,12858320 8358240,13464600 C 8358240,13464600 8070260,13939540 10369140,13939540 C 12445750,13939540 12157730,13464600 12157730,13464600 C 12157730,13464600 12071840,12428840 11940470,12267180 C 11940470,12267180 11996040,11231380 11647400,10908050 C 11647400,10908050 11612080,10271420 11233120,10049110 C 11233120,10049110 11167450,9503420 10626810,9442790 C 10626810,9442790 10399450,9185130 10020530,9185130 C 10020530,9185130 9348550,9377130 9222220,9503420 C 9222220,9503420 8550240,10079420 8423940,10301730 C 8423940,10301730 7974240,10397720 8135920,10721090 C 8292570,11039380 8838220,10847420 8802870,10655420 C 8802870,10655420 9313160,10589720 9540550,10397720 C 9540550,10397720 9540550,10205750 9313160,10175400 C 9313160,10175400 9540550,10271420 9540550,10397720 C 9540550,10529090 9540550,10397720 9540550,10397720 C 9540550,10397720 10050810,10721090 10434810,10463420 C 10434810,10463420 10035680,10736270 9540550,10397720 C 9651710,10478550 9540550,10397720 9540550,10397720 C 9540550,10397720 9181810,10635200 8939290,10635200 z "
+             style="fill:#da251d;stroke:#1f1a17;stroke-width:33020"
+             id="_61724904" />
+          <g
+             id="g326">
+            <path
+               d="M 8469400,10887800 C 8469400,10887800 8631050,10832220 8646220,10726110"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61723912" />
+            <path
+               d="M 8348150,10877700 C 8348150,10877700 8479490,10812030 8509830,10751400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61722920" />
+            <path
+               d="M 8211720,10806900 C 8211720,10806900 8272350,10811950 8332980,10766500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61721928" />
+            <path
+               d="M 8140980,10721100 C 8140980,10721100 8196550,10751410 8262260,10695840"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61720936" />
+            <path
+               d="M 8782640,10569500 C 8782640,10569500 8828140,10614950 8914030,10630130"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61719944" />
+            <path
+               d="M 8853400,10503800 C 8853400,10503800 8979690,10604870 9106030,10599810"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61718952" />
+            <path
+               d="M 9035270,10463400 C 9035270,10463400 9131290,10549290 9252530,10549290"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61717952" />
+            <path
+               d="M 9459710,10104600 C 9459710,10104600 9404140,10185450 9474850,10256170"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61716960" />
+            <path
+               d="M 9540550,10185500 C 9540550,10185500 9500120,10337060 9545570,10392630"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61715968" />
+            <path
+               d="M 9636530,10261300 C 9636530,10261300 9570860,10377540 9636530,10448260"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61714976" />
+            <path
+               d="M 9737570,10337100 C 9737570,10337100 9697160,10433120 9788100,10503840"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61713952" />
+            <path
+               d="M 8428990,10286500 C 8428990,10286500 8540160,10246110 8605810,10281460"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61712960" />
+            <path
+               d="M 8514880,10185500 C 8514880,10185500 8620960,10150110 8701830,10185500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61711968" />
+            <path
+               d="M 8636130,10054100 C 8636130,10054100 8752330,10008600 8853400,10038920"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61710976" />
+            <path
+               d="M 8782640,9902550 C 8782640,9902550 8883710,9862120 8964550,9927820"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61709952" />
+            <path
+               d="M 9803270,9255800 C 9803270,9255800 9980100,9225530 10081160,9306340"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61708960" />
+            <path
+               d="M 9621360,9321510 C 9621360,9321510 9884120,9276050 9985180,9331600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61707968" />
+            <path
+               d="M 9464720,9372010 C 9464720,9372010 9793140,9321510 9884120,9402360"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61706976" />
+            <path
+               d="M 9363690,9417490 C 9363690,9417490 9681990,9372010 9762830,9457900"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61705952" />
+            <path
+               d="M 9297990,9457900 C 9297990,9457900 9560740,9432660 9641580,9513510"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61704960" />
+            <path
+               d="M 9222220,9523600 C 9222220,9523600 9434400,9483160 9484940,9558960"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61703968" />
+            <path
+               d="M 9131290,9584230 C 9131290,9584230 9308120,9553920 9363690,9624660"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61702976" />
+            <path
+               d="M 9060530,9654970 C 9060530,9654970 9212100,9624660 9277810,9680250"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61701952" />
+            <path
+               d="M 8989810,9720640 C 8989810,9720640 9141380,9685290 9181810,9735820"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61700960" />
+            <path
+               d="M 8893810,9801490 C 8893810,9801490 8989810,9761050 9085810,9816660"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61699968" />
+            <path
+               d="M 10187200,9200230 C 10187200,9200230 10273130,9250790 10263000,9346770"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61698976" />
+            <path
+               d="M 10359100,9255800 C 10359100,9255800 10465170,9372010 10465170,9432660"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61697984" />
+            <path
+               d="M 10606600,9432660 C 10606600,9432660 10657120,9498340 10662210,9599400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61696992" />
+            <path
+               d="M 10768300,9473070 C 10768300,9473070 10834020,9654970 10783480,9750990"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61696000" />
+            <path
+               d="M 10904700,9538770 C 10904700,9538770 10945130,9710550 10909740,9801490"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61695008" />
+            <path
+               d="M 11061300,9680250 C 11061300,9680250 11126970,9937920 11015820,10170320"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61694016" />
+            <path
+               d="M 11111900,10377500 C 11192750,10205720 11197790,9912650 11197790,9912650"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61693024" />
+            <path
+               d="M 11303900,10109700 C 11303900,10109700 11303900,10488650 11167470,10680650"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61692032" />
+            <path
+               d="M 11425100,10225900 C 11425100,10225900 11510990,10589680 11273510,10998950"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61691040" />
+            <path
+               d="M 11581800,10559400 C 11581800,10559400 11556540,10968660 11303910,11251600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61690048" />
+            <path
+               d="M 11662600,10908000 C 11662600,10908000 11384710,11579940 11263460,11726490"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61689056" />
+            <path
+               d="M 11733300,11044400 C 11733300,11044400 11581750,11635500 11278600,11938660"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61688064" />
+            <path
+               d="M 11824300,11206100 C 11824300,11206100 11718220,11706300 11399890,11994280"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61687072" />
+            <path
+               d="M 11900100,11519400 C 11900100,11519400 11748510,11918540 11526230,12105460"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61686080" />
+            <path
+               d="M 11935400,11767000 C 11935400,11767000 11920260,12029710 11763620,12145910"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61685088" />
+            <path
+               d="M 10672300,11741700 C 10672300,11741700 10399450,11938720 10207450,11979150"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61684096" />
+            <path
+               d="M 10273200,11857800 C 10273200,11857800 10035720,11989210 9914460,12009390"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61683104" />
+            <path
+               d="M 10768300,11812400 C 10768300,11812400 10642020,11938700 10450020,11989260"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61682112" />
+            <path
+               d="M 10879400,11857800 C 10879400,11857800 10758150,11953820 10662170,11994220"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61681120" />
+            <path
+               d="M 10990600,11898300 C 10990600,11898300 10904710,11989270 10823860,12009450"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61680128" />
+          </g>
+          <g
+             id="g373">
+            <line
+               id="_61678480"
+               x1="11167500"
+               y1="9831800"
+               x2="10985600"
+               y2="9993490"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61677504"
+               x1="11031000"
+               y1="9649900"
+               x2="10889600"
+               y2="9735820"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61676528"
+               x1="11096700"
+               y1="9705510"
+               x2="10904700"
+               y2="9816660"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <path
+               d="M 11127000,9761050 C 11127000,9761050 10985540,9887380 10929960,9902550"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61675536" />
+            <path
+               d="M 11207900,9927820 C 11207900,9927820 11041160,10104640 11005810,10104640"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61674544" />
+            <line
+               id="_61673568"
+               x1="11233100"
+               y1="10054100"
+               x2="11005800"
+               y2="10246100"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <path
+               d="M 11303900,10109700 C 11303900,10109700 11121990,10296650 11086640,10326970"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61672576" />
+            <line
+               id="_61671600"
+               x1="11384700"
+               y1="10175400"
+               x2="11101800"
+               y2="10463400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61670624"
+               x1="11455400"
+               y1="10281500"
+               x2="11137100"
+               y2="10584600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61669648"
+               x1="11521100"
+               y1="10392600"
+               x2="11167500"
+               y2="10721100"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61668664"
+               x1="11940500"
+               y1="12105400"
+               x2="11824300"
+               y2="12196400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61667688"
+               x1="11940500"
+               y1="12004400"
+               x2="11703000"
+               y2="12161000"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <path
+               d="M 11935400,11868000 C 11935400,11868000 11606970,12140850 11566580,12140850"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61666696" />
+            <path
+               d="M 11935400,11731600 C 11935400,11731600 11526170,12085280 11445320,12090330"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61665704" />
+            <path
+               d="M 11920300,11605300 C 11920300,11605300 11591880,11923600 11440320,12004440"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61664712" />
+            <path
+               d="M 11884900,11478900 C 11884900,11478900 11430190,11918470 11359440,11923520"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61663720" />
+            <path
+               d="M 11869800,11347600 C 11869800,11347600 11389820,11797270 11349380,11797270"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61662728" />
+            <line
+               id="_61661752"
+               x1="11829300"
+               y1="11261700"
+               x2="11303900"
+               y2="11676000"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <path
+               d="M 11804100,11165700 C 11804100,11165700 11495860,11428410 11359440,11519380"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61660744" />
+            <path
+               d="M 11758600,11069700 C 11758600,11069700 11480710,11302140 11384690,11372860"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61659784" />
+            <path
+               d="M 11677800,10968600 C 11677800,10968600 11485800,11155560 11344330,11246500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61658792" />
+            <path
+               d="M 11647400,10847400 C 11647400,10847400 11430170,11069680 11273530,11155600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61657800" />
+            <path
+               d="M 11622200,10726100 C 11622200,10726100 11374630,11003990 11152310,11100010"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61656776" />
+            <path
+               d="M 11591900,10630100 C 11591900,10630100 11344320,10872620 11212940,10918080"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61655784" />
+            <path
+               d="M 11556500,10503800 C 11556500,10503800 11359410,10710980 11212890,10806950"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61654792" />
+          </g>
+          <g
+             id="g400">
+            <line
+               id="_61653144"
+               x1="8914030"
+               y1="10766500"
+               x2="9100980"
+               y2="10711000"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61652168"
+               x1="8878660"
+               y1="10887800"
+               x2="9126240"
+               y2="10806900"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61651192"
+               x1="8843270"
+               y1="10999000"
+               x2="9085810"
+               y2="10933300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61650216"
+               x1="8787730"
+               y1="11155600"
+               x2="9030220"
+               y2="11059600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61649240"
+               x1="8772550"
+               y1="11261700"
+               x2="9020090"
+               y2="11180800"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61648264"
+               x1="8732110"
+               y1="11403100"
+               x2="9004960"
+               y2="11292000"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61647288"
+               x1="8701830"
+               y1="11524400"
+               x2="8949380"
+               y2="11428400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61646312"
+               x1="8671490"
+               y1="11660800"
+               x2="8898850"
+               y2="11575000"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61645336"
+               x1="8631050"
+               y1="11812400"
+               x2="8853400"
+               y2="11706300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61644328"
+               x1="8605810"
+               y1="11918500"
+               x2="8858440"
+               y2="11822500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61643352"
+               x1="8590640"
+               y1="12019600"
+               x2="8843270"
+               y2="11933600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61642376"
+               x1="8565420"
+               y1="12100400"
+               x2="8908940"
+               y2="11994300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+          </g>
+          <g
+             id="g414">
+            <path
+               d="M 9419270,10584600 C 9419270,10584600 9580960,10478490 9601140,10438100"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61640712" />
+            <path
+               d="M 9489990,10670500 C 9489990,10670500 9681990,10534090 9707290,10493680"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61639712" />
+            <path
+               d="M 9545570,10756400 C 9545570,10756400 9772960,10625020 9833580,10544220"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61638720" />
+            <path
+               d="M 9747690,10806900 C 9747690,10806900 9939660,10614900 9954830,10569450"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61637728" />
+            <path
+               d="M 9863900,10852400 C 9863900,10852400 10076080,10655350 10096340,10574500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61636736" />
+            <path
+               d="M 10106400,10806900 C 10106400,10806900 10207430,10680600 10242790,10549230"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61635736" />
+            <path
+               d="M 10283300,10751400 C 10283300,10751400 10369190,10645290 10379280,10508880"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620"
+               id="_61634744" />
+          </g>
+        </g>
+        <line
+           id="_61632424"
+           x1="8893810"
+           y1="13186700"
+           x2="8575510"
+           y2="13616200"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <path
+           d="M 10834000,13793000 C 10834000,13793000 11096720,13899110 11334200,13873840"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61631432" />
+        <path
+           d="M 10945100,13732400 C 10945100,13732400 11288670,13883950 11677710,13833430"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61630440" />
+        <path
+           d="M 11329100,13722200 C 11329100,13722200 11637300,13888970 12046540,13661570"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61629448" />
+        <path
+           d="M 11521100,13641400 C 11521100,13641400 11910150,13737420 12087010,13606030"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61628456" />
+        <line
+           id="_61627480"
+           x1="11521100"
+           y1="13227100"
+           x2="10960300"
+           y2="13889000"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61626504"
+           x1="11607000"
+           y1="13257400"
+           x2="11137100"
+           y2="13843500"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61625528"
+           x1="11728300"
+           y1="13302900"
+           x2="11308900"
+           y2="13803100"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61624552"
+           x1="11829300"
+           y1="13358500"
+           x2="11460500"
+           y2="13818300"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61623576"
+           x1="11940500"
+           y1="13419100"
+           x2="11728300"
+           y2="13762700"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61622600"
+           x1="12051600"
+           y1="13464600"
+           x2="11925300"
+           y2="13681800"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <path
+           d="M 8479490,13661600 C 8504750,13600980 8610870,13565620 8666440,13540360"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61621608" />
+        <path
+           d="M 8600770,13727300 C 8600770,13707070 8651310,13676760 8666440,13671710"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61620616" />
+        <path
+           d="M 12112300,13530200 C 12117340,13580730 12076930,13605990 12041580,13626220"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61618992" />
+      </g>
+      <path
+         d="M -793.658,-37.515255 L -793.658,120.88733 C -808.31806,128.45373 -822.15074,121.31152 -822.15074,121.31152 L -822.15074,-37.514543 C -822.15074,-37.514543 -793.658,-40.828712 -793.658,-37.514543 L -793.658,-37.515255 z "
+         style="fill:#8f5444;stroke:#1f1a17;stroke-width:0.77469581"
+         id="_61618120" />
+      <g
+         transform="matrix(4.5232085e-5,0,0,4.5232085e-5,-1275.6713,-603.77071)"
+         id="g438">
+        <g
+           id="g440">
+          <g
+             id="g442">
+            <path
+               d="M 8348150,13535300 C 8413810,13247280 9484940,12944150 10379230,12944150 C 11288710,12944150 12157730,13439280 12172860,13520110 C 12182990,13565600 12092060,12443950 11980900,12282260 C 11900060,12166060 10818810,12009410 10823860,12009410 C 10631860,12009410 10672300,11994240 10288290,11989230 C 9621360,11979100 8686660,12211510 8605810,12241820 C 8524980,12277210 8398680,12171100 8343070,12807730 C 8272350,13585820 8348150,13535300 8348150,13535300 z "
+               style="fill:#da251d;stroke:#1f1a17;stroke-width:33020"
+               id="_61616696" />
+            <line
+               id="_61615688"
+               x1="11980900"
+               y1="12282300"
+               x2="11470600"
+               y2="12393400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61614712"
+               x1="12021300"
+               y1="12373200"
+               x2="11591900"
+               y2="12499500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61613736"
+               x1="12061700"
+               y1="12499500"
+               x2="11576700"
+               y2="12641000"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61612760"
+               x1="12076900"
+               y1="12620800"
+               x2="11495800"
+               y2="12827900"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61611752"
+               x1="12107200"
+               y1="12762300"
+               x2="11672700"
+               y2="12903700"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61610776"
+               x1="12132500"
+               y1="12903700"
+               x2="11662600"
+               y2="13090700"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61609800"
+               x1="12157700"
+               y1="13065400"
+               x2="11748500"
+               y2="13242300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61608824"
+               x1="12172900"
+               y1="13232200"
+               x2="11895000"
+               y2="13338300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61607848"
+               x1="12183000"
+               y1="13383700"
+               x2="12071800"
+               y2="13434300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61606872"
+               x1="10530800"
+               y1="12140800"
+               x2="10263000"
+               y2="12297400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61605896"
+               x1="10586400"
+               y1="12196400"
+               x2="10359100"
+               y2="12307600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61604920"
+               x1="10576300"
+               y1="12282300"
+               x2="10450000"
+               y2="12348000"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61603944"
+               x1="10657100"
+               y1="12297400"
+               x2="10520700"
+               y2="12378300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61602968"
+               x1="10783500"
+               y1="12307600"
+               x2="10642000"
+               y2="12393400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61601992"
+               x1="10879400"
+               y1="12332800"
+               x2="10753100"
+               y2="12403500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61601016"
+               x1="11000700"
+               y1="12348000"
+               x2="10904700"
+               y2="12393400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61600040"
+               x1="11096700"
+               y1="12363100"
+               x2="11031000"
+               y2="12403500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61599056"
+               x1="8580550"
+               y1="12252000"
+               x2="8727070"
+               y2="12297400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61598080"
+               x1="8469400"
+               y1="12297400"
+               x2="8671490"
+               y2="12363100"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61597104"
+               x1="8428990"
+               y1="12373200"
+               x2="8636130"
+               y2="12459100"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61596128"
+               x1="8403730"
+               y1="12449000"
+               x2="8555290"
+               y2="12524800"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61595120"
+               x1="8383510"
+               y1="12524800"
+               x2="8514880"
+               y2="12595500"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61594144"
+               x1="8363290"
+               y1="12610700"
+               x2="8479490"
+               y2="12656200"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61593168"
+               x1="8348150"
+               y1="12696600"
+               x2="8454220"
+               y2="12747100"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61592192"
+               x1="8343070"
+               y1="12807800"
+               x2="8439090"
+               y2="12848200"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61591184"
+               x1="8343070"
+               y1="12898700"
+               x2="8428990"
+               y2="12954300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61590208"
+               x1="8332980"
+               y1="12984600"
+               x2="8413810"
+               y2="13035100"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+          </g>
+          <g
+             id="g472">
+            <line
+               id="_61588560"
+               x1="11677800"
+               y1="12277200"
+               x2="12021300"
+               y2="12388400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61587584"
+               x1="11581800"
+               y1="12317600"
+               x2="12061700"
+               y2="12504600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61586600"
+               x1="11566600"
+               y1="12418700"
+               x2="12071800"
+               y2="12600600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61585624"
+               x1="11612100"
+               y1="12514700"
+               x2="12092100"
+               y2="12721900"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61584648"
+               x1="11612100"
+               y1="12656200"
+               x2="12132500"
+               y2="12868400"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61583672"
+               x1="11647400"
+               y1="12777400"
+               x2="12142600"
+               y2="12994700"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61582696"
+               x1="11743400"
+               y1="12944200"
+               x2="12147600"
+               y2="13110900"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61581720"
+               x1="11687800"
+               y1="13019900"
+               x2="12157700"
+               y2="13247300"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+            <line
+               id="_61580744"
+               x1="11748500"
+               y1="13161400"
+               x2="12162800"
+               y2="13368600"
+               style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+          </g>
+        </g>
+        <path
+           d="M 10894600,13075500 C 10894600,13075500 11425100,13323070 11622150,13328120"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61578408" />
+        <line
+           id="_61577432"
+           x1="9474850"
+           y1="13343300"
+           x2="9863900"
+           y2="12979500"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61576456"
+           x1="9666850"
+           y1="12999700"
+           x2="9313160"
+           y2="13338300"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61575480"
+           x1="9419270"
+           y1="13050300"
+           x2="9126240"
+           y2="13398900"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61574504"
+           x1="9222220"
+           y1="13095700"
+           x2="8893810"
+           y2="13520100"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61573528"
+           x1="9050440"
+           y1="13136100"
+           x2="8732110"
+           y2="13585800"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61572552"
+           x1="8671490"
+           y1="13272600"
+           x2="8509830"
+           y2="13505000"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61571576"
+           x1="10657100"
+           y1="13191700"
+           x2="10909800"
+           y2="13019900"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61570568"
+           x1="10662200"
+           y1="13267500"
+           x2="11026000"
+           y2="13040200"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61569592"
+           x1="10672300"
+           y1="13368600"
+           x2="11157300"
+           y2="13075500"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <line
+           id="_61568616"
+           x1="10687500"
+           y1="13464600"
+           x2="11273500"
+           y2="13121000"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <path
+           d="M 10743000,13272600 C 10743000,13272600 11389760,13585880 11935410,13520170"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61567624" />
+        <path
+           d="M 10753100,13171500 C 10753100,13171500 11293710,13474650 11955600,13464520"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61566600" />
+        <path
+           d="M 10743000,13075500 C 10743000,13075500 11303870,13378650 11718180,13398870"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61565608" />
+        <line
+           id="_61564776"
+           x1="9596140"
+           y1="13393800"
+           x2="10055900"
+           y2="12969400"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620" />
+        <path
+           d="M 10066000,13121000 C 10066000,13121000 10414630,13050250 10591460,13136140"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61563784" />
+        <path
+           d="M 8403730,13505000 C 8403730,13505000 8908940,12979540 10399450,12979540 C 10606600,12979540 11445340,13040150 12147640,13545410"
+           style="fill:none;stroke:#1f1a17;stroke-width:12700"
+           id="_61562760" />
+        <path
+           d="M 10055900,13075500 C 10055900,13075500 10242810,12979520 10591450,13065410"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61561768" />
+        <path
+           d="M 8459310,13520100 C 8459310,13520100 9100980,13019900 10369140,13019900 C 11238170,13019900 11895010,13434220 12117290,13575680"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61560744" />
+        <path
+           d="M 8843270,13358500 C 8843270,13358500 9697160,13019980 10379230,13075570 C 11056300,13131140 11500920,13257480 11950560,13545460"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61559720" />
+        <path
+           d="M 8408770,13606000 C 8413810,13540340 8474440,13510020 8524980,13489800 C 8620960,13454450 8716980,13419090 8823090,13434230"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61558696" />
+        <path
+           d="M 11394800,13171500 C 11374580,13196760 11344260,13201800 11324040,13222020 C 11243190,13328100 11177530,13429150 11081510,13515050"
+           style="fill:none;stroke:#1f1a17;stroke-width:7620"
+           id="_61557040" />
+      </g>
+    </g>
+    <use
+       transform="translate(0,783.70666)"
+       id="use6119"
+       x="0"
+       y="0"
+       width="1820"
+       height="1170"
+       xlink:href="#g5943" />
+    <use
+       transform="matrix(-1,0,0,1,-4.3707965,5.1428571)"
+       id="use6121"
+       x="0"
+       y="0"
+       width="1820"
+       height="1170"
+       xlink:href="#g5943" />
+    <use
+       transform="matrix(-1,0,0,1,-4.3707965,783.70666)"
+       id="use6123"
+       x="0"
+       y="0"
+       width="1820"
+       height="1170"
+       xlink:href="#g5943" />
+  </g>
+</svg>

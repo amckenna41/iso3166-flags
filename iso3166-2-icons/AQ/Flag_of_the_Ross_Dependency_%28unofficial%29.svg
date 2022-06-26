@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="480" viewBox="0 0 240 120">
+<title>Unofficial Flag of Ross Dependency, New Zealand</title>
+<clipPath id="t">
+<path d="M60,30h60v30zv30h-60zh-60v-30zv-30h60z"/>
+</clipPath>
+<clipPath id="u">
+<rect width="120" height="60"/>
+</clipPath>
+<rect width="240" height="120" fill="#fff"/>
+<rect width="240" height="102" fill="#6699e5"/>
+<rect width="120" height="60" fill="#00247d"/>
+<g stroke="#cf142b" stroke-width="12">
+<path d="M0,0L120,60M120,0L0,60" clip-path="url(#u)" stroke="#fff"/>
+<path d="M0,0L120,60M120,0L0,60" clip-path="url(#t)" stroke-width="8"/>
+<path d="M60,0v60M0,30h120" stroke="#fff" stroke-width="20"/>
+<path d="M60,0 v60M0,30h120"/>
+</g>
+<path id="s" d="M0,-513674 301930,415571 -488533,-158734H488533L-301930,415571z" transform="scale(0.00000102347231405)"/>
+<g transform="translate(0,-8.5)">
+<g transform="translate(180,24)">
+<use xlink:href="#s" fill="#fff" transform="scale(18.472135955)"/>
+<use xlink:href="#s" fill="#ce142b" transform="scale(12)"/>
+</g>
+<g transform="translate(180,96)">
+<use xlink:href="#s" fill="#fff" transform="scale(20.472135955)"/>
+<use xlink:href="#s" fill="#ce142b" transform="scale(14)"/>
+</g>
+<g transform="rotate(-8,180,48) translate(204,48) rotate(8)">
+<use xlink:href="#s" fill="#fff" transform="scale(16.472135955)"/>
+<use xlink:href="#s" fill="#ce142b" transform="scale(10)"/>
+</g>
+<g transform="rotate(-8,180,48) translate(152,48) rotate(8)">
+<use xlink:href="#s" fill="#fff" transform="scale(18.472135955)"/>
+<use xlink:href="#s" fill="#ce142b" transform="scale(12)"/>
+</g>
+</g>
+</svg>

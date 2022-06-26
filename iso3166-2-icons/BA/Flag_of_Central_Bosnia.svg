@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="400">
+<clipPath id="cp1">
+<path id="shield" d="M145,142V160L150,165V200C150,235 160,255 204,278C248,255 258,235 258,200V165L263,160V142L250,137V144L221,137V126L204,119 186,126V137L157,144V137z"/>
+</clipPath>
+<clipPath id="cp2">
+<rect id="rect" width="84" height="80" x="186" y="200"/>
+</clipPath>
+<rect width="800" height="400" fill="#090"/>
+<rect width="800" height="300" fill="#fff"/>
+<rect width="800" height="100" fill="#f00"/>
+<g clip-path="url(#cp1)">
+<rect width="270" height="280" fill="#fff"/>
+<rect width="222" height="200" fill="#f00"/>
+<use xlink:href="#branch" fill="#009" stroke="#009"/>
+<use xlink:href="#rect" fill="#090"/>
+<g id="mountains" fill="#fff" stroke="#333">
+<path d="M150,212V200C165,194 166,186 178,190C195,188 201,176 210,186C217,178 224,185 226,188C233,188 239,199 258,199V212"/>
+<path d="M178,190C181,191 184,192 187,194"/>
+<path d="M201,190C204,189 207,189 210,186"/>
+<path d="M217,194C220,192 223,188 226,188"/>
+</g>
+<g stroke-width="2">
+<path id="wave" d="m150,204.5c3,-2 6,-2 9,0s5,2 8,0s5,-2 8,0s5,2 8,0s6,-2 9,0s5,2 8,0s5,-2 8,0s5,2 8,0s6,-2 9,0s5,2 8,0s5,-2 8,0s5,2 8,0s6,-2 9,0" fill="none" stroke="#009"/>
+<use xlink:href="#wave" y="3.5"/>
+</g>
+<use xlink:href="#wave" y="7.5" stroke-width="3"/>
+<g fill="#009">
+<path id="star" d="M229,145 235.062,155.5H222.938zM229,159 222.938,148.5H235.062z"/>
+<use xlink:href="#star" x="16"/>
+</g>
+<use xlink:href="#star" x="-16" fill="#fff"/>
+<g fill="#fff" stroke="#fff" clip-path="url(#cp2)">
+<g id="branch">
+<g stroke="none">
+<path d="m176,249c3,-2 3,-6 12,-2c-5,7 -8,2 -12,2z"/>
+<path d="m168,242c4,-2 3,-6 13,-2c-6,7 -9,3 -13,2z"/>
+<path d="m161,234c4,-2 4,-4 13,0c-6,4 -9,1 -13,0z"/>
+<path d="M160,220c5,3 8,2 12,12c-10,-4 -9,-8 -12,-12z"/>
+<path d="M174,220c2,5 5,7 2,15c-6,-9 -2,-11 -2,-15z"/>
+<path d="m182,228c2,5 4,7 0,13c-5,-9 -1,-9 0,-13z"/>
+<path d="m190,236c2,5 4,7 0,13c-5,-10 -1,-9 0,-13z"/>
+</g>
+<path d="m172,232c8,6,15,14,22,22" fill="none" stroke-linecap="round" stroke-width="2"/>
+</g>
+</g>
+</g>
+<use xlink:href="#shield" fill="none" stroke="#ffcb03" stroke-width="4"/>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="450" viewBox="-300,-225 600,450">
+	<rect x="-300" y="-225" width="600" height="450" fill="#003070"/>
+	<g id="star" fill="#fff">
+		<g id="c">
+			<path id="t" d="M 0,-11.25 v 11.25 h 5.625" transform="rotate(18 0,-11.25)"/>
+			<use xlink:href="#t" transform="scale(-1,1)"/>
+		</g>
+		<use xlink:href="#c" transform="rotate(72)"/>
+		<use xlink:href="#c" transform="rotate(144)"/>
+		<use xlink:href="#c" transform="rotate(216)"/>
+		<use xlink:href="#c" transform="rotate(288)"/>
+	</g>
+	<use xlink:href="#star" x="-45"/>
+	<use xlink:href="#star" x="45"/>
+	<use xlink:href="#star" x="-90"/>
+	<use xlink:href="#star" x="90"/>
+	<use xlink:href="#star" x="-135"/>
+	<use xlink:href="#star" x="135"/>
+	<use xlink:href="#star" x="-180"/>
+	<use xlink:href="#star" x="180"/>
+	<use xlink:href="#star" x="-225"/>
+	<use xlink:href="#star" x="225"/>
+	<use xlink:href="#star" x="-270"/>
+	<use xlink:href="#star" x="270"/>
+	<use xlink:href="#star" y="-45"/>
+	<use xlink:href="#star" y="45"/>
+	<use xlink:href="#star" y="-90"/>
+	<use xlink:href="#star" y="90"/>
+	<use xlink:href="#star" y="-135"/>
+	<use xlink:href="#star" y="135"/>
+	<use xlink:href="#star" y="-180"/>
+	<use xlink:href="#star" y="180"/>
+</svg>

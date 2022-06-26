@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4136"
+   viewBox="0 0 431.99999 216"
+   height="60.959999mm"
+   width="121.92mm">
+  <defs
+     id="defs4138" />
+  <metadata
+     id="metadata4141">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-48.57143,-412.36221)"
+     id="layer1">
+    <rect
+       y="412.36221"
+       x="48.57143"
+       height="216"
+       width="432"
+       id="rect4688"
+       style="fill:#000099;fill-opacity:1" />
+    <path
+       transform="matrix(0.98546949,0,0,0.85344161,0.70576765,92.091752)"
+       d="M 48.571427,375.26932 267.75629,501.81577 48.571426,628.36221 Z"
+       id="path4692"
+       style="fill:#009900;fill-opacity:1" />
+    <path
+       d="m 410.75521,558.54595 -27.39669,-12.14145 -10.78708,27.95768 -10.78708,-27.95768 -27.39668,12.14145 12.14145,-27.39669 -27.95769,-10.78708 27.95769,-10.78708 -12.14145,-27.39668 27.39668,12.14145 10.78708,-27.95769 10.78708,27.95769 27.39669,-12.14145 -12.14145,27.39668 27.95768,10.78708 -27.95768,10.78708 z"
+       id="path4694"
+       style="fill:#ffffff;fill-opacity:1" />
+    <path
+       id="path9194"
+       d="m 123.11253,564.36221 c 9.44521,-9.92991 10.6253,-16.55377 9.54594,-22.27385 12.53565,-4.5233 23.35352,-10.7644 26.78166,-24.39519 1.79698,-15.21736 -5.71636,-24.03387 -15.1144,-31.55465 -6.00709,-4.5235 -9.71853,-7.6696 -12.19759,-10.07627 -4.68113,4.15425 -9.17782,8.30851 -15.9099,12.46276 -7.87954,5.38578 -14.54123,12.51133 -17.500893,24.92552 -1.79809,22.95718 13.416943,27.46377 23.864853,29.16815 3.20128,6.12641 -2.70833,10.59629 -6.89429,15.37958 z"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

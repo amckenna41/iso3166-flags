@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="300">
+<rect width="450" height="300" fill="#fff"/>
+<path d="M0,150 H450 M225,0 V300" stroke="#032270" stroke-width="90"/>
+<polygon points="225,70 240.3,113 281.6,93.4 262,134.7 305,150 262,165.3 281.6,206.6 240.3,187 225,230 209.7,187 
+		168.4,206.6 188,165.3 145,150 188,134.7 168.4,93.4 209.7,113" fill="#d2392b"/>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="900"
+   height="600"
+   id="svg2449">
+  <defs
+     id="defs2451" />
+  <g
+     id="g2489">
+    <g
+       id="g2485">
+      <rect
+         width="900"
+         height="600"
+         x="0"
+         y="0"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2481" />
+      <rect
+         width="300"
+         height="600"
+         x="0"
+         y="0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2483" />
+    </g>
+    <path
+       d="M 460,268.56408 L 566.9597,268.56408 L 599.9997,166.82045 L 633.04,268.56408 L 740,268.56408 L 653.4799,331.43621 L 686.5199,433.1795 L 599.9997,370.30749 L 513.4799,433.1795 L 546.5196,331.43621 L 460,268.56408 z "
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.62907499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2388" />
+  </g>
+</svg>

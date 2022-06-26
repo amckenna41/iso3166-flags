@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1008 504" width="1200" height="600"  fill="#fff">
+<defs>
+<path d="M0-36l6.94214 21.584498 21.203794-8.030131-12.547087 18.885298 19.498558 11.571089-22.588101 1.965083 3.110511 22.459042L0 16l-15.619815 16.434879 3.110511-22.459042-22.588101-1.965083 19.498558-11.571089-12.547087-18.885298 21.203794 8.030131z" id="Star7"/>
+<path d="M0-21l5.485996 13.449175 14.486191 1.061468-11.095659 9.373515 3.466963 14.105198L0 9.333333l-12.34349 7.656024 3.466963-14.105198-11.095659-9.373515 14.486191-1.061468z" id="Star5"/>
+<clipPath id="z">
+<path d="M462 210V105H0V0zM462 0H231V210H0z"/>
+</clipPath>
+<clipPath id="c">
+<path d="M0 0h504v252H0z"/>
+</clipPath>
+</defs>
+<rect width="1008" height="504" fill="#6ba4b8"/>
+<rect width="504" height="252" fill="#012169"/>
+<path d="M0 0L462 210M0 210L462 0" stroke-width="42" stroke="#fff" clip-path="url(#c)"/>
+<path d="M0 0L462 210M0 210L462 0" stroke-width="28" stroke="#e4002b" clip-path="url(#z)"/>
+<path d="M231 0V215M0 105H465" stroke-width="70" stroke="#fff"/>
+<path d="M231 0V215M0 105H465" stroke-width="42" stroke="#e4002b"/>
+<path d="M504 0V504M0 252H1008" stroke-width="84" stroke="#fff"/>
+<path d="M504 0V504M0 252H1008" stroke-width="50.4" stroke="#012169"/>
+<use transform="translate(231 399) scale(1.75)" id="Commonwealth_Star" xlink:href="#Star7"/>
+<g transform="translate(756 252) rotate(-45)">
+<use y="197.4" id="Star_Alpha_Crucis" xlink:href="#Star7"/>
+<use x="-126" y="-2.1" id="Star_Beta_Crucis" xlink:href="#Star7"/>
+<use y="-138.6" id="Star_Gamma_Crucis" xlink:href="#Star7"/>
+<use x="112" y="-35.7" id="Star_Delta_Crucis" xlink:href="#Star7"/>
+<use x="50.4" y="50.4" id="Star_Epsilon_Crucis" xlink:href="#Star5"/>
+</g>
+
+</svg>

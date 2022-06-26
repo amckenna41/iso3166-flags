@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720px"
+   height="504px"
+   viewBox="-2100 -1470 4200 2940"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="Flag_of_Brazil_(Escobar_project).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <metadata
+     id="metadata115">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="538"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.75416667"
+     inkscape:cx="360"
+     inkscape:cy="252"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1" />
+  <title
+     id="title4">Flag of Brazil (1889–1960)</title>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 252 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="720 : 252 : 1"
+       inkscape:persp3d-origin="360 : 168 : 1"
+       id="perspective117" />
+    <path
+       id="O"
+       d="M 0,0 a 31.5,35 0 0,0 0,-70 a 31.5,35 0 0,0 0,70 M 0,-13 a 18.5,22 0 0,0 0,-44 a 18.5,22 0 0,0 0,44"
+       fill-rule="evenodd" />
+    <g
+       id="R">
+      <use
+         xlink:href="#P"
+         id="use10" />
+      <path
+         d="M 28,0 c 0,-10 0,-32 -15,-32 h -19 c 22,0 22,22 22,32"
+         id="path12" />
+    </g>
+    <path
+       id="D"
+       d="M -31.5,0 h 33 a 30,30 0 0,0 30,-30 v -10 a 30,30 0 0,0 -30,-30 H -31.5 z M -18.5,-13 h 19 a 19,19 0 0,0 19,-19 v -6 a 19,19 0 0,0 -19,-19 H -18.5 z"
+       fill-rule="evenodd" />
+    <path
+       id="E"
+       d="M 0,0 h 63 v -13 H 12 v -18 h 40 v -12 h -40 v -14 H 60 v -13 H 0 z"
+       transform="translate(-31.5)" />
+    <path
+       id="M"
+       d="M -31.5,0 h 12 v -48 l 14,48 h 11 l 14,-48 V 0 h 12 V -70 h -17.5 l -14,48 l -14,-48 H -31.5 z" />
+    <path
+       id="E_"
+       d="M -26.25,0 h 52.5 v -12 h -40.5 v -16 h 33 v -12 h -33 v -11 H 25 v -12 H -26.25 z" />
+    <path
+       id="P"
+       d="M -31.5,0 h 13 v -26 h 28 a 22,22 0 0,0 0,-44 h -40 z M -18.5,-39 h 27 a 9,9 0 0,0 0,-18 h -27 z"
+       fill-rule="evenodd" />
+    <g
+       id="G">
+      <clipPath
+         id="gcut">
+        <path
+           d="M -31.5,0 v -70 h 63 v 70 z M 0,-47 v 12 h 31.5 v -12 z"
+           id="path21" />
+      </clipPath>
+      <use
+         xlink:href="#O"
+         clip-path="url(#gcut)"
+         id="use23" />
+      <rect
+         x="5"
+         y="-35"
+         width="26.5"
+         height="10"
+         id="rect25" />
+      <rect
+         x="21.5"
+         y="-35"
+         width="10"
+         height="35"
+         id="rect27" />
+    </g>
+    <path
+       id="S"
+       d="M -15.75,-22 C -15.75,-15 -9,-11.5 1,-11.5 C 11,-11.5 15.74,-14.75 15.75,-19.25 C 15.75,-33.5 -31,-24.5 -30.75,-49.5 C -30.5,-71 -6,-70 3,-70 C 12,-70 29,-66 28.75,-48.75 L 13.5,-48.75 C 13.5,-56.25 6.5,-59 -1.5,-59 C -9.25,-59 -14.75,-57.75 -14.75,-50.5 C -15,-38.75 31.5,-46.5 31.5,-21.75 C 31.5,-3.5 13.5,0 0,0 C -11.5,0 -31.55,-4.5 -31.5,-22 z" />
+    <g
+       id="star">
+      <g
+         id="cone">
+        <polygon
+           id="triangle"
+           points="0,0 0,1 .5,1"
+           transform="translate(0,-1) rotate(18)" />
+        <use
+           xlink:href="#triangle"
+           transform="scale(-1,1)"
+           id="use33" />
+      </g>
+      <use
+         xlink:href="#cone"
+         transform="rotate(72)"
+         id="use35" />
+      <use
+         xlink:href="#cone"
+         transform="rotate(-72)"
+         id="use37" />
+      <use
+         xlink:href="#cone"
+         transform="rotate(144)"
+         id="use39" />
+      <use
+         xlink:href="#cone"
+         transform="rotate(-144)"
+         id="use41" />
+    </g>
+    <use
+       id="star1"
+       xlink:href="#star"
+       transform="scale(31.5)" />
+    <use
+       id="star2"
+       xlink:href="#star"
+       transform="scale(26.25)" />
+    <use
+       id="star3"
+       xlink:href="#star"
+       transform="scale(21)" />
+    <use
+       id="star4"
+       xlink:href="#star"
+       transform="scale(15)" />
+    <use
+       id="star5"
+       xlink:href="#star"
+       transform="scale(10.5)" />
+  </defs>
+  <rect
+     id="field"
+     fill="#00923f"
+     x="-50%"
+     y="-50%"
+     width="100%"
+     height="100%"
+     style="fill:#009b3a;fill-opacity:1" />
+  <path
+     id="rhombus"
+     fill="#f8c300"
+     d="M -1743,0 L 0,1113 L 1743,0 L 0,-1113 z"
+     style="fill:#fedf00;fill-opacity:1" />
+  <circle
+     id="circle"
+     fill="#28166f"
+     r="735"
+     style="fill:#002776;fill-opacity:1" />
+  <clipPath
+     id="clipcircle">
+    <use
+       xlink:href="#circle"
+       id="use52" />
+  </clipPath>
+  <g
+     id="stars"
+     fill="white">
+    <use
+       id="Alpha_Canis_Minoris"
+       xlink:href="#star1"
+       transform="translate(-600,-132)" />
+    <use
+       id="Alpha_Canis_Majoris"
+       xlink:href="#star1"
+       transform="translate(-535,177)" />
+    <use
+       id="Alpha_Virginis"
+       xlink:href="#star1"
+       transform="translate(228,-228)" />
+    <g
+       id="Scorpio">
+      <use
+         id="Alpha_Scorpii"
+         xlink:href="#star1"
+         transform="translate(515,258)" />
+      <use
+         id="Beta_Scorpii"
+         xlink:href="#star3"
+         transform="translate(617,265)" />
+      <use
+         id="Epsilon_Scorpii"
+         xlink:href="#star2"
+         transform="translate(545,323)" />
+      <use
+         id="Theta_Scorpii"
+         xlink:href="#star2"
+         transform="translate(368,477)" />
+      <use
+         id="Iota_Scorpii"
+         xlink:href="#star3"
+         transform="translate(367,551)" />
+      <use
+         id="Kappa_Scorpii"
+         xlink:href="#star3"
+         transform="translate(441,419)" />
+      <use
+         id="Lambda_Scorpii"
+         xlink:href="#star2"
+         transform="translate(500,382)" />
+      <use
+         id="Mu_Scorpii"
+         xlink:href="#star3"
+         transform="translate(365,405)" />
+    </g>
+    <g
+       id="Crux">
+      <use
+         id="Alpha_Crucis"
+         xlink:href="#star1"
+         transform="translate(0,330)" />
+      <use
+         id="Beta_Crucis"
+         xlink:href="#star2"
+         transform="translate(85,184)" />
+      <use
+         id="Gamma_Crucis"
+         xlink:href="#star2"
+         transform="translate(0,118)" />
+      <use
+         id="Delta_Crucis"
+         xlink:href="#star3"
+         transform="translate(-74,184)" />
+      <use
+         id="Epsilon_Crucis"
+         xlink:href="#star4"
+         transform="translate(-37,235)" />
+    </g>
+    <g
+       id="Triangulum_Australe">
+      <use
+         id="Alpha_Trianguli_Australe"
+         xlink:href="#star2"
+         transform="translate(220,495)" />
+      <use
+         id="Beta_Trianguli_Australe"
+         xlink:href="#star3"
+         transform="translate(283,430)" />
+      <use
+         id="Gamma_Trianguli_Australe"
+         xlink:href="#star3"
+         transform="translate(162,412)" />
+    </g>
+    <use
+       id="Alpha_Carinae"
+       xlink:href="#star1"
+       transform="translate(-295,390)" />
+    <use
+       id="Sigma_Octantis"
+       xlink:href="#star5"
+       transform="translate(0,575)" />
+  </g>
+</svg>

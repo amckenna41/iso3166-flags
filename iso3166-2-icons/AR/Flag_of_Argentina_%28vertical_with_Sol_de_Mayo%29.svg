@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="500"
+   height="800"
+   viewBox="0 0 500 800"
+   version="1.1">
+
+  <g
+     transform="translate(0,-322.51965)" />
+
+  <rect stroke="none"
+     fill="#74acdf" 
+     y="0"
+     x="0"
+     height="800"
+     width="500"/>
+  <rect stroke="none"
+     fill="white"
+     x="166.667"
+     y="0"
+     height="800"
+     width="166.667"/>
+
+  <g
+     id="sun"
+     transform="matrix(0.42538438,0,0,0.42538438,250,400)"
+     style="fill:#fcbf49;stroke:#843511;stroke-width:1.5">
+    <g
+       id="rays-16">
+      <g
+         id="rays-8">
+        <g
+           id="rays-4">
+          <g
+             id="rays-2">
+            <path
+               id="path957"
+               d="m -8,0 6,159.5 c 0,0 0,3 2,3 2,0 2,-3 2,-3 L 8,0"/>
+            <path
+               id="path959"
+               d="M -4,0 0,109.5 4,0"
+               style="fill:#843511;stroke:none" />
+            <g
+               id="g965"
+               transform="rotate(11.5)">
+              <path
+                 id="path961"
+                 d="m -4.5,53.5 c -5,21.5 6,36 0.5,55 -5.5,19 3,32 4,40 1,8 -5,11.5 -3,13 C -1,163 5,158 5.5,147 6,136 -1.5,131.25 5,108 11.5,84.75 1,77 8,56"/>
+              <path
+                 id="path963"
+                 d="M -1,58 C -4,79 6,90.5 0,109 8,95 -2,81 3,59"
+                 style="fill:#843511;stroke:none" />
+            </g>
+          </g>
+          <use
+             id="use968"
+             transform="scale(-1)"
+             xlink:href="#rays-2"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <use
+           id="use971"
+           transform="rotate(90)"
+           xlink:href="#rays-4"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         id="use974"
+         transform="rotate(45)"
+         xlink:href="#rays-8"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+
+    <use
+       id="use977"
+       transform="rotate(22.5)"
+       xlink:href="#rays-16"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <circle
+       id="circle979"
+       r="65"
+       cx="0"
+       cy="0"
+       style="stroke-width:1" />
+
+    <g
+       id="face_right"
+       style="fill:#843511;stroke:none">
+      <path
+         d="M 41,-14 C 29.5,-24 15,-25.5 7,-18 A 140,50 10 0 0 8.5,8.5 C 8,8.5 7,9 6.5,9.5 A 80,50 10 0 1 4,-19 c 11,-9 26,-10 37,5"
+         id="eyebrow_nose"/>
+      <path
+         d="m 23,-17 c -6.5,0 -8,1.5 -11,4 -3,2.5 -4.5,2 -5,2.5 -0.5,0.5 0,2 1,1.5 1,-0.5 3,-1.5 6,-4 3,-2.5 6,-2.5 9,-2.5 9,0 14,7.5 15,7 C 39,-9 33,-17 23,-17"
+         id="uppalpebra"/>
+      <path
+         d="M 34.5,-8.5 C 28,-15.5 16,-16 11,-8 h 2 c 5,-8 17,-4.5 18,-1 v 1"
+         id="upeyecontour"/>
+      <circle
+         r="4.5"
+         cy="-9"
+         cx="22"
+         id="pupil" />
+      <path
+         d="m 11,-8 c 5,4.5 16,5 23.5,-0.5 L 31,-9 c -5,5.5 -13,5 -18,1 v -1"
+         id="loweyecontour"/>
+      <path
+         d="M 35,-6 C 26.5,0.5 18,0 13,-3 8,-6 8,-7 9,-7 c 1,0 2,1 6,3 4,2 10,2 20,-2"
+         id="lowpalpebra"/>
+      <path
+         d="m 10.5,9 a 3,3 0 1 1 -4,3 C 6,13 4,16 0,16 h -1 l 1,1.5 c 1,0 4,0 6,-1.5 a 4.5,4.5 0 1 0 4.5,-7"
+         id="nose"/>
+      <path
+         d="M 16.5,30 C 12,27 10,22.5 5,22.5 4,22.5 2,23 0,24 h -1 l 1,1.5 c 2,0 5,-2.5 8.5,-0.5 3.5,2 5.5,4 8,5"
+         id="uplip1"/>
+      <path
+         d="M 15,30 C 5,27 3,29 0,29 h -1 l 1,2 c 4,0 6,-3 15,-1"
+         id="midlip"/>
+      <path
+         d="M 16.5,30 C 5.5,29 9,35.5 0,35.5 H -1 L 0,37 c 11,0 6,-6 16.5,-7"
+         id="uplip2"/>
+      <path
+         d="M 9,46 A 9,9 0 0 0 -9,46 9.25,9.25 0 0 1 9,46"
+         id="chin"/>
+    </g>
+
+    <use
+       id="use993"
+       transform="scale(-1,1)"
+       xlink:href="#face_right"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+
+</svg>
