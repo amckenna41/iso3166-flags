@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300mm" height="200mm" version="1.1" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<rect id="b" x="-.36" y="-.06" width="624" height="842"/>
+<clipPath id="a">
+<use width="100%" height="100%" xlink:href="#b"/>
+</clipPath>
+<clipPath id="c">
+<path d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+</clipPath>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-188.06 -26.637)">
+<path d="m188.06 26.637h300v200h-300z" fill="#cafda9" style="paint-order:fill markers stroke"/>
+<g transform="matrix(.35278 0 0 .35278 288.01 -263.8)" fill-rule="evenodd"></g>
+<g transform="matrix(.26458 0 0 .26458 178 44.098)"></g>
+<polygon class="st2" transform="matrix(.26458 0 0 .26458 352.93 280.3)" points="" clip-path="url(#a)" fill="#92bf1e"/>
+<rect class="st2" x="400.54" y="341.71" width="0" height="0" clip-path="url(#a)" fill="#92bf1e" stroke-width=".26458"/>
+<rect class="st2" x="400.54" y="341.71" width="0" height="0" clip-path="url(#a)" fill="#92bf1e" stroke-width=".26458"/>
+<rect class="st5" transform="rotate(-31.481)" x="262.91" y="356.59" width="0" height=".079373" fill="#0c3388" stroke-width=".26458"/>
+<g transform="translate(3.7133 -1.7464)"></g>
+<g transform="matrix(2.6742 0 0 -2.6742 -115.62 1720.3)">
+<g clip-path="url(#c)">
+<g transform="translate(156.27 593.39)">
+<path d="m0 0-3e-3 3e-3c-2.769 1.077-4.155 2.518-4.463 4.216-0.742 4.089 5.492 8.647 10.985 10.911zm7.186 16.88c-11.962-3.922-19.4-11.387-17.629-17.821 0.913-3.317 4.265-5.63 8.979-6.709 0 0 2.195-0.598 3.504-0.689l5.248 13.209 1.096-13.071s4.484 0.204 7.409 1.439l-4.466 33.045z" fill="#006937"/>
+</g>
+<g transform="translate(180.35 598.08)">
+<path d="m0 0-0.262-0.129-2.635 13.553c5.272 0.093 8.678-1.226 9.41-4.426 0.688-2.999-1.957-6.517-6.513-8.998m13.138 7.531c-1.387 5.04-7.685 7.438-16.411 7.3l-1.198 7.309-5.791-14.667 0.953-7.2 1.706 4.299 2.352-15.363c12.049 3.904 20.169 11.859 18.389 18.322" fill="#00a2cb"/>
+</g>
+</g>
+</g>
+<g transform="matrix(2.0482 0 0 2.0482 141.63 -351.19)">
+<path class="st0" d="m87.95 214.57c-15.62 5.12-25.33 14.87-23.01 23.27 1.19 4.33 5.57 7.35 11.72 8.76 0 0 2.87 0.78 4.58 0.9l6.85-17.25 1.43 17.07s5.85-0.27 9.67-1.88l-5.83-43.14zm-9.38 22.04c-3.62-1.41-5.43-3.29-5.83-5.51-0.97-5.34 7.17-11.29 14.34-14.25z" clip-path="url(#a)" fill="#006428"/>
+<rect x="113.43" y="253.66" width="2.11" height="11.2"/>
+<polygon points="81.74 257.5 81.74 258.62 84.39 258.62 84.39 264.86 86.49 264.86 86.49 253.65 84.38 253.65 84.39 257.5"/>
+<polygon points="100.62 253.66 98.51 253.66 98.51 264.86 100.62 264.86 100.62 258.62 102.13 258.62 102.13 257.5 100.62 257.5"/>
+<path d="m109.39 257.64v-2.28h2.77v-1.08h-2.77v-0.9h-2.23v0.9h-2.83v1.08h2.83v2.77c0 2.2-1.1 4.79-3.24 5.11l0.7 1.55s2.39-0.19 3.63-3.05c0 0 1.74 3.01 3.89 3.05l0.64-1.4s-3.42-0.75-3.39-5.75z"/>
+<path d="m128.53 259.06c0.45-0.33 0.64-0.66 0.65-1.46v-2.46c0.02-0.79-0.59-1.29-1.46-1.29h-8.95v1.08h8.15v3.16c0.01 0.68-0.18 0.95-0.63 0.97l-0.33 0.01h-8.07v1.36h4.85v4.43h2.25v-4.43h4.95v-1.36z"/>
+<path d="m69.29 253.9h-7.43v4.24s0.03 0.93 1.21 0.93h6.23v-1.22h-5.52v-2.84h5.51z"/>
+<polygon points="72.43 253.67 70.32 253.67 70.32 259.35 72.43 259.35 72.43 256.77 74.16 256.77 74.16 255.65 72.43 255.65"/>
+<path d="m62.28 263.71c-0.02 0.79 0.6 1.29 1.47 1.29h8.68v-1.23h-7.88v-0.84h7.88v-3.25h-10.14v1.23h8.24v0.79h-8.25z"/>
+<path d="m92.41 255.37v2.77c0 2.2-1.1 4.79-3.24 5.11l0.7 1.55s2.39-0.19 3.64-3.05c0 0 1.74 3.01 3.89 3.05l0.64-1.4s-3.42-0.75-3.39-5.75v-2.52h2.76v-1.1h-7.64v1.1h2.64z"/>
+<path d="m77.52 253.77v4.26c0 2.2-0.79 4.89-2.93 5.21l0.7 1.55s2.18-0.28 3.43-3.13c0 0 1.01 2.79 4.1 3.13l0.64-1.4s-3.94-0.79-3.71-5.85v-3.77z"/>
+</g>
+</g>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#009A53;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E8380D;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#0062B1;}
+	.st3{fill:#909090;}</style>
+<style type="text/css">.st0{fill:#009944;}
+	.st1{fill:#004EA2;}
+	.st2{fill:none;}
+	.st3{fill:#E60012;}</style>
+<style type="text/css">.st0{fill:#00559D;}
+	.st1{fill:#90B1DD;}</style>
+<style type="text/css">.st0{fill:#F18D00;}
+	.st1{fill:#22AC38;}
+	.st2{fill:#00479D;}</style>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#009944;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E60012;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#004098;}</style>
+<style type="text/css">.st0{clip-path:url(#a);fill:#727171;}
+	.st1{clip-path:url(#a);fill:#C9CACA;}
+	.st2{clip-path:url(#a);fill:none;stroke:#727171;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{clip-path:url(#a);}
+	.st4{fill:#45B035;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#9FA0A0;}
+	.st7{fill:#005BAC;}
+	.st8{fill:#EA5520;}
+	.st9{fill:#727171;}
+	.st10{fill:none;stroke:#000000;stroke-width:0.16;}</style>
+<style type="text/css">.st0{fill:#8FC31F;}
+	.st1{fill:none;}
+	.st2{fill:#92BF1E;}
+	.st3{fill:#0075C2;}
+	.st4{fill:#9FA0A0;}
+	.st5{fill:#F6AB00;}
+	.st6{fill:#71756F;}</style>
+<style type="text/css">.st0{fill:#009342;}
+	.st1{fill:#0052A5;}
+	.st2{fill:#E8381B;}
+	.st3{fill:#5B5C57;}</style>
+<style type="text/css">.st0{fill:#295CAA;}
+	.st1{fill:#F04E4C;}
+	.st2{fill:#626466;}</style>
+<style type="text/css">.st0{fill:none;}
+	.st1{fill:#C70025;}
+	.st2{fill:#003686;}</style>
+<style type="text/css">.st0{fill:#2E3192;}
+	.st1{fill:#FAA61A;}
+	.st2{fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill:#E60012;}
+	.st2{fill:#1D2088;}</style>
+<style type="text/css">.st0{fill:none;stroke:#000000;stroke-width:0.1;}
+	.st1{fill:#9FAFD6;}
+	.st2{fill:#F5B2B2;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#9FA0A0;stroke-width:0.3;}
+	.st5{fill:#0C3388;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#0C3388;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill:#E60012;}
+	.st2{fill:#1D2088;}</style>
+<style type="text/css">.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#000000;}
+	.st4{fill:#890C84;}
+	.st5{fill:#00A242;}</style>
+<style type="text/css">.st0{fill:#009B6B;}
+	.st1{fill:#4D4586;}
+	.st2{fill:#C8161D;}</style>
+<style type="text/css">.st0{fill:url(#b);}
+	.st1{fill:#005BAC;}
+	.st2{fill:#686D71;}</style>
+<style type="text/css">.st0{fill:#767575;}</style>
+<style type="text/css">.st0{fill:#00A040;}
+	.st1{clip-path:url(#a);fill:url(#SVGID_3_);}
+	.st2{fill:#004098;}</style>
+<style type="text/css">.st0{fill:#00A040;}
+	.st1{fill:url(#b);}</style>
+<style type="text/css">.st0{fill:#009944;}</style>
+<style type="text/css">.st0{fill:#00A73C;}
+	.st1{fill:#005DAC;}</style>
+<style type="text/css">.st0{fill:url(#b);}
+	.st1{fill:url(#a);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{fill:url(#SVGID_8_);}
+	.st8{fill:url(#SVGID_9_);}
+	.st9{fill:#F9F27F;}</style>
+<style type="text/css">.st0{fill:#1D2088;stroke:#FFFFFF;}
+	.st1{fill:#009944;stroke:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:none;stroke:#1D2088;stroke-width:2.8346;}
+	.st1{stroke:#000000;stroke-width:0.0283;}
+	.st2{fill:#FFEA00;}
+	.st3{fill:#1D2088;}</style>
+<style type="text/css">.st0{fill:#006428;}
+	.st1{fill:#00A0CA;}</style>
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="750"
+   height="600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Flag_of_Pontianak_Sultanate.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 300 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="750 : 300 : 1"
+       inkscape:persp3d-origin="375 : 200 : 1"
+       id="perspective13" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="744"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.49592124"
+     inkscape:cx="356.38734"
+     inkscape:cy="265.77758"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3158" />
+  </sodipodi:namedview>
+  <g
+     id="g3198">
+    <rect
+       style="fill:#fff813;fill-opacity:1"
+       x="0.062958971"
+       id="rect6"
+       height="599.95667"
+       width="749.93707"
+       y="0.043319099" />
+    <path
+       transform="matrix(0.8719978,0,0,0.8131274,-40.690145,46.918634)"
+       d="M 693.47427,345.63419 A 214.38419,239.20036 0 1 1 264.7059,345.63419 A 214.38419,239.20036 0 1 1 693.47427,345.63419 z"
+       sodipodi:ry="239.20036"
+       sodipodi:rx="214.38419"
+       sodipodi:cy="345.63419"
+       sodipodi:cx="479.09009"
+       id="path3156"
+       style="opacity:1;fill:#009400;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.27900001000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:25;stroke-dasharray:none;stroke-opacity:0"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.7329215,0,0,0.7896739,24.95288,82.903991)"
+       d="M 680,260 A 200,200 0 1 1 280,260 A 200,200 0 1 1 680,260 z"
+       sodipodi:ry="200"
+       sodipodi:rx="200"
+       sodipodi:cy="260"
+       sodipodi:cx="480"
+       id="path3160"
+       style="opacity:1;fill:#fff813;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.27900001000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:25;stroke-dasharray:none;stroke-opacity:0"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0.9999465,1.0345748e-2,-1.0345748e-2,0.9999465,69.885859,25.439061)"
+       d="M 362.65219,178.85552 L 308.51173,140.41152 L 255.39265,180.25489 L 275.22475,116.8844 L 220.91675,78.677433 L 287.31412,77.95632 L 306.86901,14.499746 L 328.07275,77.42456 L 394.46633,76.413207 L 341.17359,116.02399 L 362.65219,178.85552 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5577505"
+       sodipodi:arg1="0.92943197"
+       sodipodi:r2="34.674309"
+       sodipodi:r1="91.248177"
+       sodipodi:cy="105.74016"
+       sodipodi:cx="308.05939"
+       sodipodi:sides="5"
+       id="path3164"
+       style="opacity:1;fill:#009400;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.27900001000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:25;stroke-dasharray:none;stroke-opacity:0"
+       sodipodi:type="star" />
+  </g>
+</svg>

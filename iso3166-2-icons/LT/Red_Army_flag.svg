@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="300">
+	<defs>
+		<g id="star">
+			<g id="c">
+				<path id="t" d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)"/>
+				<use xlink:href="#t" transform="scale(-1,1)"/>
+			</g>
+			<use xlink:href="#c" transform="rotate(72)"/>
+			<use xlink:href="#c" transform="rotate(144)"/>
+			<use xlink:href="#c" transform="rotate(216)"/>
+			<use xlink:href="#c" transform="rotate(288)"/>
+		</g>
+	</defs>
+	<rect width="450" height="300" fill="#de0000"/>
+	<use xlink:href="#star" transform="translate(225,160) scale(110)" fill="#fcd116"/>
+	<use xlink:href="#star" transform="translate(225,160) scale(70)" fill="#de0000"/>
+</svg>

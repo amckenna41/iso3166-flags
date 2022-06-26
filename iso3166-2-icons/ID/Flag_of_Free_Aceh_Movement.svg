@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1000">
+	<defs> 
+		<g id="star" transform="scale(95) rotate(18)"> 
+			<g id="cone"> 
+				<polygon id="triangle" fill="#fff" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/> 
+				<use xlink:href="#triangle" transform="scale(-1,1)"/> 
+			</g> 
+			<use xlink:href="#cone" transform="rotate(72)"/> 
+			<use xlink:href="#cone" transform="rotate(-72)"/> 
+			<use xlink:href="#cone" transform="rotate(144)"/> 
+			<use xlink:href="#cone" transform="rotate(-144)"/> 
+		</g> 
+	</defs>
+	<rect fill="#ca111a" width="1500" height="1000" />
+	<rect fill="#fff" width="1500" height="100" y="840" />
+	<rect fill="#fff" width="1500" height="100" y="60" />
+	<rect fill="#000" width="1500" height="60" y="860" />
+	<rect fill="#000" width="1500" height="60" y="80" />
+	<path fill="#fff" d="M812.222,408.375a130,130 0 1,0 0,183.25a165,165 0 1,1 0-183.25z" />
+	<use xlink:href="#star" x="905" y="500"/>
+</svg>

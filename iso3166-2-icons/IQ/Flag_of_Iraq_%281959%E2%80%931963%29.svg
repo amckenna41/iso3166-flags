@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450">
+<rect width="900" height="450" style="fill:#ffffff"/>
+<rect x="600" width="300" height="450" style="fill:#007a3d"/>
+<rect width="300" height="450"/>
+<path transform="translate(450,225)" style="fill:#ce1126" d="M0,125.0363L88.414,-88.414L-125.0363,0L88.414,88.414L0,-125.0363L-88.414,88.414L125.0363,0L-88.414,-88.414Z"/>
+<circle cx="450" cy="225" r="57.5" fill="#ffffff"/>
+<circle cx="450" cy="225" r="47.5" fill="#ffe800"/></svg>

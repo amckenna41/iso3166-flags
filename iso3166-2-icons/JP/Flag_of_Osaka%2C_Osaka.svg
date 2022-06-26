@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="900" height="600">
+<rect width="900" height="600" x="0" y="0" fill="#1f2063"/>
+<g stroke="#ffd700">
+	<path stroke-width="39" d="M 450,195 V 478"/>
+	<path stroke-width="34" d="M 295,420 573.5,141.5 M 326.5,141.5 605,420"/>
+</g>
+<path fill="#ffd700" d="M 285,124 320,159 H 580 L 615,124 H 285 z"/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="600px" viewBox="0 0 1200 600" style="fill-rule: evenodd;" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#000;stroke-width:1}
+    .fil3 {fill:white}
+    .fil1 {fill:#c1272d}
+    .fil4 {fill:white}
+    .fil0 {fill:#006a44}
+    .fil2 {fill:#fdb913}
+   ]]>
+  </style>
+ </defs>
+  <rect class="fil3" width="1200" height="600"/>
+  <rect class="fil1" width="600" height="300"/>
+  <rect class="fil0" width="600" height="200"/>
+  <rect class="fil2" width="600" height="100"/>
+ <g id="star">
+  <path class="fil1" d="M900 200l28.87 50 57.73 0 -28.87 50 28.87 50 -57.73 0 -28.87 50 -28.87 -50 -57.73 0 28.87 -50 -28.87 -50 57.73 0 28.87 -50zm14.44 25m43.3 25m14.44 25m0 50m-14.44 25m-43.3 25m-28.87 0m-43.3 -25m-14.44 -25m0 -50m14.44 -25m43.3 -25z"/>
+  <line class="str0" x1="851" y1="300" x2="949" y2="300"/>
+  <line class="str0" x1="875.5" y1="257.5" x2="924.5" y2="342.5"/>
+  <line class="str0" x1="924.5" y1="257.5" x2="875.5" y2="342.5"/>
+  <path class="fil3" d="M900 205l27.43 47.5 54.77 0 -27.43 47.5 27.43 47.5 -54.77 0 -27.43 47.5 -27.43 -47.5 -54.77 0 27.43 -47.5 -27.43 -47.5 54.77 0 27.43 -47.5zm0 15l23 40 46.18 0 -23 40 23 40 -46.18 0 -23 40 -23 -40 -46.18 0 23 -40 -23 -40 46.18 0 23 -40z"/>
+ </g>
+  <use xlink:href="#star" transform="translate(120, -150)"/>
+  <use xlink:href="#star" transform="translate(-120, 150)"/>
+</svg>

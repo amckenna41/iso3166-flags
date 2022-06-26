@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="900"
+   height="600"
+   id="Flag_of_the_Holy_Roman_Empire_between_1200_and_1350"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Flag_of_the_Ottoman_Empire_(eight_pointed_star).svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.65"
+     inkscape:cx="422.78444"
+     inkscape:cy="274.81735"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Flag_of_the_Holy_Roman_Empire_between_1200_and_1350">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2817" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:#e30a17;fill-opacity:1"
+     id="rect4900"
+     width="900"
+     height="600"
+     x="0"
+     y="0" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#ffffff;fill-opacity:1"
+     id="path3951"
+     sodipodi:cx="30.928383"
+     sodipodi:cy="58.355438"
+     sodipodi:rx="30.344828"
+     sodipodi:ry="30.053051"
+     d="m 61.273211,58.355438 a 30.344828,30.053051 0 1 1 -60.68965578,0 30.344828,30.053051 0 1 1 60.68965578,0 z"
+     transform="matrix(5.9318181,0,0,5.4902912,216.53846,-20.388352)" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#e30a17;fill-opacity:1"
+     id="path3953"
+     sodipodi:cx="67.400528"
+     sodipodi:cy="68.567642"
+     sodipodi:rx="26.259947"
+     sodipodi:ry="24.801062"
+     d="m 93.660475,68.567642 a 26.259947,24.801062 0 1 1 -52.519894,0 26.259947,24.801062 0 1 1 52.519894,0 z"
+     transform="matrix(6.2833336,0,0,6.2497325,31.500005,-128.52942)" />
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1"
+     id="path3976-8"
+     sodipodi:sides="8"
+     sodipodi:cx="79.655174"
+     sodipodi:cy="54.270557"
+     sodipodi:r1="13.4003"
+     sodipodi:r2="7.4315596"
+     sodipodi:arg1="0.78726607"
+     sodipodi:arg2="1.1799652"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 89.112902,63.763683 -6.626623,-2.621959 -2.856135,6.52911 -2.831725,-6.539735 -6.63637,2.597186 2.621959,-6.626623 -6.52911,-2.856135 6.539735,-2.831724 -2.597186,-6.636371 6.626623,2.621959 2.856135,-6.52911 2.831724,6.539735 6.636371,-2.597186 -2.62196,6.626623 6.529111,2.856135 -6.539735,2.831724 z"
+     transform="matrix(-5.2237727,6.3402774e-8,-6.3402774e-8,-5.2237727,906.10053,583.49705)" />
+</svg>

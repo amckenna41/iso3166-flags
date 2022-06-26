@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300mm" height="200mm" version="1.1" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="b">
+<path d="M 0,841.89 H 595.28 V 0 H 0 Z"/>
+</clipPath>
+<linearGradient id="a" x2="1" gradientTransform="matrix(-22.896 0 0 22.896 189.43 507.86)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#e6232a" offset=".5"/>
+<stop stop-color="#e6232a" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-188.32 -26.637)">
+<path d="m188.32 26.637h300v200h-300z" fill="#fff" style="paint-order:fill markers stroke"/>
+<g transform="matrix(.35278 0 0 .35278 288.01 -263.8)" fill-rule="evenodd"></g>
+<g transform="translate(-.6463 -4.1339)">
+<g transform="translate(.31545)">
+<g transform="matrix(1.527 0 0 -1.527 67.116 883.14)">
+<g clip-path="url(#b)">
+<g transform="translate(186.26 528.91)">
+<path d="m0 0v0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(196.75 530.66)">
+<path d="m0 0v0.193s0-0.193-0.194-0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(197.33 530.85)">
+<path d="m0 0h-0.194v-0.193s0.194 0 0.194 0.193" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(197.72 530.66)">
+<path d="m0 0v0.193h-0.389s0.195-0.193 0-0.193h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(211.13 515.89)">
+<path d="m0 0v0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.49 502.87)">
+<path d="m0 0c-0.193 0.194 0 0.194-0.193 0.194h0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.49 502.67)">
+<path d="m0 0v0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.49 502.28)">
+<path d="m0 0v0.389z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.49 502.09)">
+<path d="m0 0v0.194-0.194 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(152.44 484.99)">
+<path d="m0 0c-0.193-0.194 0 0-0.193 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.49 501.89)">
+<path d="m0 0c-0.193 0 0 0 0 0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(152.05 484.79)">
+<path d="m0 0h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.22 484.99)">
+<path d="M 0,0 C -0.194,0 -0.194,0.194 -0.194,0.194 0,0.194 0,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(152.63 484.79)">
+<path d="m0 0h-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.41 484.79)">
+<path d="m0 0s-0.194 0.194 0 0.194c0 0 0.195-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.3 501.7)">
+<path d="m0 0h0.193c0 0.193 0 0-0.193 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(152.83 484.6)">
+<path d="M 0,0 H -0.194 V 0.194 H 0.195 C 0.195,0 0,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(152.83 484.4)">
+<path d="m0 0v0.194h0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.49 505.2)">
+<path d="M 0,0 V 0.195 H 0.195 0 C 0,0 0.195,0 0,0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.22 484.4)">
+<path d="m0 0h-0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.02 484.4)">
+<path d="m0 0c-0.195-0.194-0.195 0 0 0h-0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(212.3 501.31)">
+<path d="m0 0v0.193c0.193 0 0-0.193 0-0.193" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.99 484.6)">
+<path d="m0 0h-0.195v0.194l0.195-0.194s0.193 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(154.38 484.6)">
+<path d="m0 0h-0.195s0.389 0.194 0.195 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.61 484.21)">
+<path d="m 0,0 -0.195,0.194 h -0.194 0.194 C 0,0.583 -0.778,0 -0.195,0.389 V 0.194 C 0,0.194 0,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.22 484.21)">
+<path d="m0 0c-0.194-0.195-0.194 0 0 0 0 0.194 0.194 0 0 0-0.194-0.195 0.194 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.99 484.01)">
+<path d="m0 0h-0.389v0.195-0.195 0.39-0.195h0.389z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.55 484.4)">
+<path d="m0 0c-0.195-0.194 0.193 0 0 0 0 0 0.193 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.13 484.4)">
+<path d="m0 0s-0.195 0.194 0 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.35 484.01)">
+<path d="m0 0c-0.194 0-0.194 0.195-0.194 0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.49 484.79)">
+<path d="m0 0c-0.194-0.194 0.195 0 0 0 0 0 0.195 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.16 484.01)">
+<path d="m0 0c-0.195-0.193 0.194 0 0 0 0 0 0.194 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.74 484.01)">
+<path d="m0 0c-0.193 0 0.194 0 0 0.195 0 0 0.194 0 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.94 483.82)">
+<path d="m0 0h-0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.91 483.82)">
+<path d="m0 0h-0.388l-0.195 0.193h-0.194v0.196h-0.195 0.195c0.194 0 0.194-0.196 0.194-0.196h0.388v-0.193 0.193-0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.1 483.63)">
+<path d="m0 0c-0.194 0 0.195 0 0 0 0 0-0.194 0.195 0 0.195 0 0 0.195-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(153.99 482.85)">
+<path d="m0 0h0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.74 483.24)">
+<path d="m0 0c-0.193 0-0.193 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.71 483.24)">
+<path d="m0 0c-0.193 0 0 0-0.193 0.194 0 0 0.388-0.194 0.193-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.49 483.43)">
+<path d="m0 0v0 0.193h-0.194s-0.195 0 0 0h0.389c-0.195 0 0-0.193-0.195-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.88 483.43)">
+<path d="m 0,0 h -0.194 c -0.195,0.193 0,0.193 0,0.193 C 0,0.193 0,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(158.07 483.43)">
+<path d="m0 0c-0.583 0 0.584-0.194 0 0-0.194 0 0 0 0 0h-0.194 0.389z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(154.38 482.27)">
+<path d="m0 0s-0.195 0.195 0 0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.69 483.24)">
+<path d="m0 0c-0.389 0 0 0 0 0s0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(158.27 483.24)">
+<path d="M 0,0 C -0.389,0 0,0.194 0,0.194 0,0 0.194,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(154.97 482.46)">
+<path d="m0 0h-0.194v0z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(154.97 482.27)">
+<path d="M 0,0 C -0.194,0 0.195,0.195 0.195,0.195 0.195,0 0.195,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(154.58 482.07)">
+<path d="m0 0s-0.194 0.193 0 0.193c0 0 0.195-0.193 0-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.1 482.65)">
+<path d="m0 0-0.194 0.195c0.389 0.195-0.195-0.195 0 0h0.194s0.195-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(154.97 482.07)">
+<path d="m0 0h-0.194v0.193h0.194v0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.3 482.65)">
+<path d="m0 0c-0.195 0 0.194 0 0 0 0 0 0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(158.46 482.85)">
+<path d="m0 0v0.194c0 0.195 0.195 0 0 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(158.85 482.85)">
+<path d="m0 0h-0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(159.63 483.04)">
+<path d="m0 0c-0.194 0 0.195 0 0 0 0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.88 482.46)">
+<path d="m0 0s-0.194 0.193 0 0.193c0 0 0.194-0.193 0-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.55 481.68)">
+<path d="m0 0c-0.195 0-0.195 0.193-0.195 0.193h-0.194v0.196c-0.389-0.196-0.194 0 0 0v-0.196l0.194 0.196s0.195 0 0-0.196h0.195v0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.13 481.68)">
+<path d="M 0,0 C -0.195,0 0,0 -0.195,0.193 0,0.193 0,0.193 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.33 481.68)">
+<path d="m0 0h-0.194l0.194 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.21 482.85)">
+<path d="m0 0h-0.194c-0.194 0-0.194 0.194 0 0.194 0 0 0-0.194 0.194-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.41 482.85)">
+<path d="m0 0c-0.195 0 0.194 0 0 0 0 0 0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.57 483.04)">
+<path d="m0 0c-0.195 0 0 0.194 0 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.77 483.04)">
+<path d="m0 0h-0.194s0.194 0 0.194 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.91 481.29)">
+<path d="m0 0c-0.388 0 0 0.193 0 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.19 482.46)">
+<path d="m0 0s-0.195 0-0.195 0.193v-0.193 0.193h-0.389c-0.194 0-0.194 0.196-0.194 0.196h0.389v-0.196l0.194 0.196v-0.196h0.389z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.38 482.65)">
+<path d="m0 0v0s0.389 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.96 482.46)">
+<path d="m0 0h-0.389v0.193h0.194s0.388-0.193 0.195-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.38 482.27)">
+<path d="m0 0c-0.194 0 0.195 0 0 0 0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.35 482.46)">
+<path d="m0 0c-0.194 0 0.195 0 0 0 0 0 0.195 0.193 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.41 481.88)">
+<path d="m0 0v0.195c0.194 0 0-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.13 482.65)">
+<path d="m0 0v0.195l-0.194-0.195v0.195h0.194s0.195-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(155.94 480.32)">
+<path d="m0 0h-0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.69 480.91)">
+<path d="m0 0h-0.195v0.194-0.194c-0.194 0-0.194 0.194-0.194 0.194l-0.195-0.194 0.195 0.194v-0.194h0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.91 480.52)">
+<path d="m0 0s-0.195 0.194 0 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<path d="m160.8 482.07h0.193v-0.195h-0.193z" fill="#2f318b" fill-rule="evenodd"/>
+<g transform="translate(161.77 482.07)">
+<path d="m0 0c0 0.193 0.195 0.193 0.195 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.74 482.27)">
+<path d="m0 0h-0.194s-0.195 0.195 0 0.195c0.194-0.195 0.194 0 0.194 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.93 482.46)">
+<path d="m0 0h-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.19 481.88)">
+<path d="m0 0c-0.195 0 0.194 0 0 0 0 0 0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.93 482.27)">
+<path d="m0 0v0.195c0.194 0 0-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(156.13 480.13)">
+<path d="m0 0v0.195 0s0.194 0 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.16 482.07)">
+<path d="m0 0s-0.193 0 0 0c-0.193-0.195 0.389 0.193 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.96 481.88)">
+<path d="m0 0c-0.195 0 0.193 0 0 0 0 0 0.193 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.99 481.49)">
+<path d="m0 0v0.195c0.195 0.194 0.195 0 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.3 480.32)">
+<path d="m0 0v0.194c0.194 0 0.194 0 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.96 481.68)">
+<path d="M 0,0 H -0.195 C 0,0.193 0,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.52 482.07)">
+<path d="m0 0v0.193c-0.194 0-0.194-0.193-0.194-0.193v0.193h0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.88 480.32)">
+<path d="m0 0v0.194c0.194 0 0.194-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.93 481.88)">
+<path d="M 0,0 C -0.195,0 0,0 0,0 V 0.195 C 0,0 0.194,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.52 482.07)">
+<path d="m0 0v0.193-0.193c0.195 0.193 0.195 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(158.66 480.52)">
+<path d="m0 0v0.194h-0.584v0.195c-0.194 0-0.194-0.195 0-0.195h0.195v-0.194l0.194 0.194 0.195-0.194v0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.71 482.07)">
+<path d="M 0,0 0.194,0.193 C 0.194,0 0.194,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<path d="m156.71 479.94h-0.193v0.193h0.193z" fill="#2f318b" fill-rule="evenodd"/>
+<g transform="translate(157.69 480.13)">
+<path d="m0 0c-0.195 0-0.195 0.195-0.195 0.195s0.195 0 0.195 0.195v-0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.35 481.68)">
+<path d="m0 0c-0.194-0.195-0.194 0-0.194 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(159.05 480.52)">
+<path d="m0 0h-0.195c0.195 0-0.389 0 0 0z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.93 481.68)">
+<path d="m0 0h-0.195c-0.194 0 0.195 0 0 0h-0.194 0.389s0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.49 482.07)">
+<path d="m0 0c-0.194 0 0.195 0 0 0 0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.1 479.74)">
+<path d="m0 0v0.195c-0.194-0.195-0.194 0 0 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.16 481.29)">
+<path d="m0 0h0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.3 479.74)">
+<path d="m0 0c-0.195 0-0.195 0.195 0 0.195 0 0 0.194-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(158.46 480.13)">
+<path d="m0 0h-0.389s-0.194 0 0 0v0.195s-0.194-0.195 0 0l0.195-0.195v0.195-0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.1 481.88)">
+<path d="m0 0v0.195h-0.195c-0.194 0 0 0 0 0h0.195v-0.195h0.194-0.194c0-0.193 0.194 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.07 481.88)">
+<path d="m0 0s-0.195 0-0.195 0.195c0-0.195 0 0 0.195 0 0.971 0-1.167-0.195 0 0 0-0.195 0.193-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(157.49 479.55)">
+<path d="m0 0v0.193c-0.194-0.193 0 0-0.194 0h0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.54 481.1)">
+<path d="m0 0v0.194c0.194 0 0-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.71 481.49)">
+<path d="m0 0-0.195-0.193s-0.194 0.193 0 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.27 481.88)">
+<path d="M 0,0 C 0,0 -0.193,0 0,0.195 V 0 0.195 C 0,0 0.195,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.49 481.68)">
+<path d="m0 0h-0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(159.24 479.93)">
+<path d="m0 0h-0.194s0.194 0 0.194 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.68 481.49)">
+<path d="m0 0c-0.195 0-0.195 0.195 0 0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.65 481.88)">
+<path d="m0 0h-0.194c0.194 0 0 0 0 0z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.43 482.07)">
+<path d="m0 0s-0.193 0.193 0 0.193c0 0 0.194-0.193 0-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.93 480.91)">
+<path d="m0 0v0.194s0.194-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.82 482.07)">
+<path d="M 0,0 C -0.195,0 0,0 -0.195,0.193 0,0.193 0,0.193 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.88 481.49)">
+<path d="M 0,0 C -0.193,0 0,0.195 0,0.195 0,0 0.195,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.19 480.32)">
+<path d="m0 0v0.194c0.194 0 0-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.91 481.1)">
+<path d="m0 0c0 0.194-0.194 0.194 0 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.01 482.07)">
+<path d="m0 0c-0.193 0 0 0 0 0v0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.13 480.91)">
+<path d="m0 0s-0.194 0.194 0 0.194c0 0 0.195-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.04 481.88)">
+<path d="m0 0c-0.194-0.193 0.195 0 0 0 0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.07 481.49)">
+<path d="m0 0c-0.389-0.193 0 0 0 0s0.193 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.57 480.32)">
+<path d="m0 0h-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.46 481.29)">
+<path d="m0 0c-0.195 0-0.195 0.193-0.195 0.193h0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.8 479.93)">
+<path d="m0 0c0.193 0 0 0 0 0h-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.6 479.74)">
+<path d="m0 0v0.195c-0.194 0 0 0 0-0.195" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(158.66 479.35)">
+<path d="m0 0h-0.195v0.195-0.195 0.195h-0.972l0.195 0.194v-0.194h0.972c0.193 0 0.193-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.29 480.91)">
+<path d="m0 0c-0.194 0-0.194 0.194-0.194 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.65 481.29)">
+<path d="M 0,0 V 0.193 C 0,0 0.195,0 0.195,0 Z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.01 481.68)">
+<path d="m0 0h-0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.4 481.88)">
+<path d="m0 0c-0.194-0.193 0 0-0.194 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.38 479.93)">
+<path d="m0 0h-0.194s-0.195 0 0 0z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.85 481.29)">
+<path d="m0 0v0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.16 480.13)">
+<path d="m0 0c-0.193 0-0.193 0 0 0v0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.4 481.68)">
+<path d="m0 0h-0.194 0.194v0c-1.165-0.583 1.166 0.582 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.88 480.91)">
+<path d="m0 0c-0.193-0.194 0.195 0 0 0 0 0 0.195 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.6 481.68)">
+<path d="M 0,0 H -0.195 C 0,0 0,0.193 0,0.193 V 0 c 0,0 0.194,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.49 480.71)">
+<path d="m0 0h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.85 480.91)">
+<path d="m0 0h-0.195v0.194h-0.194v0c-0.195 0-0.195-0.194-0.195-0.194v0.194h-0.582l-0.195 0.195h-0.194s0 0.193 0.194 0.193v-0.193h0.195c0.193-0.195 0.193 0 0.193 0h0.196v-0.195l0.193 0.195v-0.195 0.195l0.195-0.195h0.389z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.68 480.52)">
+<path d="m0 0c-0.195 0 0 0.194 0 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.18 481.68)">
+<path d="m0 0h-0.389 0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.93 479.93)">
+<path d="m0 0c-0.389 0 0 0.193 0 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.82 481.1)">
+<path d="m0 0c-0.195 0-0.195 0.194-0.195 0.194v-0.194c-0.194 0 0 0.194-0.194 0.194 0-0.194 0.194-0.194 0-0.194v0.194l-0.194-0.194v0.194l-0.195-0.194v0.194l-0.194-0.194 0.194 0.194 0.195 0.194v-0.194l0.194 0.194v-0.194h0.194v0.194h-0.194v0.195-0.195c-0.194 0.195 0 0.195-0.194 0.195h-0.195c0.195 0 0.195 0.193 0.195 0.193l0.194-0.193v0c0.194 0 0 0 0 0h0.194l0.195-0.195v0.195l0.193-0.195c-0.388 0 0 0.195-0.193 0h-0.195v-0.194h0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.57 481.49)" fill-rule="evenodd">
+<path d="m0 0c-0.389 0 0 0.195-0.193 0.195v-0.195 0.195c-0.196-0.195 0 0-0.196 0h0.583-0.194c-0.193-0.195 0.194 0 0-0.195" fill="#2f318b"/>
+<path d="m0 0 0.194 0.195s0-0.195-0.194-0.195" fill="#17499b"/>
+</g>
+<g transform="translate(163.52 479.93)">
+<path d="m0 0h-0.389c0 0.193 0 0.193-0.194 0.193h0.389v-0.193 0.193l0.194-0.193h0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.07 480.32)">
+<path d="m0 0v0.194s-0.195 0 0 0h0.193v-0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.46 480.32)">
+<path d="m0 0h-0.195s0.195 0.194 0.195 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.79 481.1)">
+<path d="m0 0s-0.194 0 0 0c0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(170.9 482.07)">
+<path d="m0 0h-0.583 0.583s0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(169.54 481.49)">
+<path d="m0 0h-0.194v0.195c-0.195 0 0-0.195-0.195-0.195h-0.194v0.195c-0.194 0 0 0 0 0h0.389c0-0.195 0.194 0 0.194 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.85 480.32)">
+<path d="m0 0c-0.195 0 0 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(169.93 481.49)">
+<path d="m0 0-0.194 0.195c-0.195-0.195-0.195 0-0.195 0h0.584-0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(188.39 486.93)">
+<path d="m0 0c0.193 0.195 0.193 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.49 479.74)">
+<path d="m0 0c-0.388 0 0 0.195 0 0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.43 480.32)">
+<path d="m0 0c-0.389 0 0 0.194 0 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.8 478.96)">
+<path d="m0 0h-0.195v0.195s-0.194-0.195 0-0.195h-0.194 0.194l0.195-0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(159.05 479.16)">
+<path d="m0 0v0.193-0.193c0.194 0 0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.68 479.74)">
+<path d="M 0,0 C -0.195,0 0.193,0.195 0.193,0.195 0,0 0.193,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.6 480.52)">
+<path d="m0 0-0.195 0.194h0.195s-0.195 0 0 0c0 0 0.194-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(171.1 481.68)">
+<path d="m0 0h-0.195s0-0.195 0.195 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(173.23 482.27)">
+<path d="m0 0c-0.195-0.193 0 0-0.195 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(171.68 481.68)">
+<path d="m0 0h-0.193c-0.196 0 0 0 0-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.27 479.74)">
+<path d="m0 0c-0.193-0.193 0 0 0 0s0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.65 481.88)">
+<path d="m0 0h-0.389v0.195l-0.195-0.195v0.195l-0.193-0.195v0.195h-0.196l0.196 0.194v-0.194 0.194-0.194h0.388c0.194 0 0.194-0.195 0.194-0.195s0.195 0 0.195 0.195v-0.195s0.194 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.46 479.55)">
+<path d="m0 0v0.193s0.194 0 0-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.4 480.32)">
+<path d="m0 0c-0.194 0-0.194 0-0.194-0.195-0.195 0-0.195 0.195-0.195 0.195 1.166 0.389-0.971-0.584 0.195 0v0.194h0.194s0.195-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.21 480.13)">
+<path d="m0 0h-0.389l-0.195 0.195h-0.194c0.194 0 0.194 0 0.389 0.195 0-0.195 0-0.195-0.195-0.195h0.195v-0.195 0.195l0.194-0.195h0.195s0.194 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.8 478.38)">
+<path d="m0 0v0c0.193 0 0.193 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(159.63 478.77)">
+<path d="M 0,0 V 0.193 C 0,0 0.195,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.4 480.13)">
+<path d="m0 0s-0.194 0 0 0v0.195c0.195 0 0 0 0 0h0.195v-0.195h-0.195s0.195 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.26 481.49)">
+<path d="m0 0h-0.195v0.195s0-0.195-0.194-0.195v0.195-0.195 0.195l-0.195-0.195v0.195-0.195c-0.193 0 0 0 0 0h-1.554v0.195h0.389c0.193 0.194 0 0 0.193 0h0.972c0.195 0 0.195 0.194 0.195 0.194v-0.194s0 0.194 0.194 0.194v-0.194l0.195 0.194s0.194 0 0.194-0.194c0 0.194 0 0.194 0.195 0.194 0-0.194-0.195-0.194-0.389-0.194h-0.195 0.195s0.194-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.46 481.68)">
+<path d="m0 0c-0.194-0.195 0 0 0 0s0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.19 479.16)">
+<path d="m0 0s-0.389-0.777-0.195-0.777c0 0 0.389 0.777 0.195 0.777" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.27 479.55)">
+<path d="m0 0c-0.193 0-0.193 0 0 0h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.65 481.49)">
+<path d="m0 0c-0.195 0 0 0.195 0 0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(174.79 482.27)">
+<path d="m0 0c-0.195-0.193 0.193 0 0 0 0 0 0.193 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.57 480.32)">
+<path d="m0 0c-0.193 0-0.193 0-0.193-0.195v0.195c-0.196-0.195-0.196 0 0 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.79 479.93)">
+<path d="m0 0v0.193c-0.194-0.193 0 0 0 0s0.195-0.193 0-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(175.18 482.27)">
+<path d="m0 0c-0.195-0.193 0.193 0 0 0 0 0 0.193 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.38 480.13)">
+<path d="m0 0c-0.195 0-0.195 0-0.195-0.193v0.193s-0.194 0-0.194-0.193v0.193h-0.195c0.195 0 0 0.195 0 0.195 0.195 0-0.194-0.195 0.195 0v-0.195 0.195c0.194 0 0 0 0 0h0.194v-0.195h0.195c-0.195 0 0 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(175.37 482.07)">
+<path d="m0 0v0.193h0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.02 478.38)">
+<path d="m0 0s-0.194 0.194 0 0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.38 479.93)">
+<path d="m0 0h-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(176.15 482.27)">
+<path d="m0 0c-0.584-0.193 0.389 0-0.195 0h-0.194c-0.195-0.193 0 0 0 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.21 478.38)">
+<path d="m0 0s-0.194 0 0 0c0.195 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.52 478.38)">
+<path d="m0 0h-0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.76 479.74)">
+<path d="m0 0c-0.388 0 0.777 0.195 0 0.195v-0.195 0.195l-0.194-0.195s0.194 0.195 0 0.195h0.389s0-0.195-0.195-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(175.18 481.68)">
+<path d="m0 0h-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.6 478.19)">
+<path d="m0 0c-0.194 0-0.194 0.194-0.194 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(160.99 477.99)">
+<path d="m0 0h-0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.13 478.38)">
+<path d="m0 0c0 0.194-0.194 0.389 0 0.194 0 0 0.195-0.194 0-0.194" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.35 478.19)">
+<path d="M 0,0 C -0.194,0 0.195,0.194 0.195,0.194 0.195,0 0.195,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.07 480.32)">
+<path d="m0 0h-0.193 0.193s0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.32 478.38)">
+<path d="M 0,0 V 0.194 C 0,0 0.194,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(161.38 477.8)">
+<path d="m0 0h-0.194z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.93 477.99)">
+<path d="m0 0h-0.195v0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.46 480.13)">
+<path d="m0 0v0l-0.194-0.193v0.193c-0.195 0-0.195-0.193-0.195-0.193v0.193c-0.194 0-0.194-0.193-0.194-0.193v0.193l-0.195-0.193h-1.36s0.195 0 0 0h-0.194v0.193l-0.195-0.193-0.194 0.193h-0.195 0.195c-0.195-0.193 0 0-0.195 0 0 0 0-0.193-0.193-0.193v0.193h-0.195v-0.193h-0.194s0 0.193 0.194 0.193h-0.389l-0.194-0.193s-0.194 0-0.194 0.193v-0.193 0.193c0.194 0-0.195 0 0 0h0.194v0.195h0.971v-0.195c0 0.195 0 0.195 0.195 0.195v-0.195h0.194l0.195 0.195h0.389v-0.195 0.195-0.195l0.193 0.195c0.195-0.195 0.195 0 0.195 0v-0.195l0.195 0.195v-0.195s0 0.195 0.193 0.195v-0.195 0.195-0.195l0.196 0.195 0.193-0.195 0.195 0.195v-0.195h0.389s0.194 0.195 0 0.195h0.194v-0.195c0.195 0 0 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.52 477.6)">
+<path d="m0 0v0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.82 478.38)">
+<path d="m0 0v0.194h-0.195l-0.194 0.195-0.194-0.195c-0.195 0-0.195 0.195-0.195 0.195h-0.194v-0.195h0.583c0-0.194 0 0 0.194 0v-0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.91 477.6)">
+<path d="m0 0c-0.194 0 0.195 0 0 0 0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.35 477.21)">
+<path d="m0 0h-0.194c-0.193 0.195-0.193 0-0.193 0.195h-0.196l-0.193 0.194h0.389v-0.194h0.193l0.194-0.195s0.195 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(162.74 477.21)">
+<path d="m0 0c-0.194 0 0 0 0 0s0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.29 477.41)">
+<path d="m0 0s-0.194 0.193 0 0.193v-0.193c0.194 0 0.194 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.91 477.21)">
+<path d="m0 0s-0.194 0.195 0 0h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.65 477.6)">
+<path d="m0 0v0.195h-0.194 0.194v-0.195h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.68 477.21)">
+<path d="m0 0v0.195c-0.195 0-0.195 0 0 0z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.65 477.41)">
+<path d="M 0,0 C -0.194,0 0,0 -0.194,0.193 0,0.193 0,0.193 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.49 477.21)">
+<path d="m0 0s-0.194 0 0 0h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.52 477.02)">
+<path d="m0 0h-0.194 0.194s0.195-0.195 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.29 477.02)">
+<path d="M 0,0 -0.194,0.193 C 0,0.193 0,0.193 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.04 477.41)">
+<path d="m0 0v0.193c-0.194-0.193 0 0 0 0 0.195 0 0.195-0.193 0-0.193" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.21 477.8)">
+<path d="m0 0c-0.389-0.195 0 0 0 0s0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.4 477.6)">
+<path d="m0 0c-0.194 0 0.195 0 0 0.195 0 0 0.195 0 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.27 477.02)">
+<path d="m0 0h-0.193v0.193h-0.196c-0.193 0 0.196 0 0 0h-0.193s0.193 0 0 0v0.196l0.193-0.196h0.389z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.68 476.82)">
+<path d="m0 0s-0.195 0.195 0 0.195c0 0 0.193-0.195 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(163.91 476.82)">
+<path d="m0 0h-0.389s0 0.195 0.195 0.195v-0.195h0.389c-0.195 0 0-0.193-0.195 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.46 477.02)">
+<path d="m0 0s-0.195 0.193 0 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.1 476.63)">
+<path d="m0 0s-0.195 0.193 0 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.88 476.82)">
+<path d="m0 0c-0.389 0 0 0.195 0 0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.63 477.21)">
+<path d="m 0,0 v 0.195 c -0.194,0 -0.194,0 0,0 H 0.195 C 0,0 0.195,0 0,0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.68 476.63)">
+<path d="m0 0c-0.195 0 0 0.193 0 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.27 476.82)">
+<path d="m0 0h-0.193s-0.196 0 0 0z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.21 477.21)">
+<path d="m0 0h-0.195v0.195-0.195h0.195s0.194 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.96 477.41)">
+<path d="m0 0v0.193h-0.195 0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(179.06 480.13)">
+<path d="m0 0h-1.749c-0.584-0.193 0.776 0 0 0v-0.193c0.387 0-0.195 0 0 0h0.776v0.193h0.195v-0.193l0.194 0.193h0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.04 476.82)">
+<path d="m0 0c-0.194-0.193 0.195 0 0.195 0z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.88 476.44)">
+<path d="m0 0c-0.193 0-0.193 0 0 0 0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.21 477.02)">
+<path d="m0 0h-0.778v0.193h-0.389v0.196l-0.193-0.196v0.196h0.193l0.196-0.196h0.387v-0.193h0.389z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.88 476.44)">
+<path d="m0 0c-0.193-0.195 0.195 0 0 0 0 0 0.195 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(167.4 476.82)">
+<path d="m0 0v0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(166.63 476.63)">
+<path d="m0 0h-0.194l-0.193 0.193v-0.193 0.193h0.193v-0.193l0.194 0.193v-0.193s0.195 0 0 0" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(170.32 477.41)">
+<path d="M 0,0 V -0.195 C 0,0 -0.193,0 -0.193,0 Z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.49 475.85)">
+<path d="m0 0s-0.194 0 0 0c0 0 0.195 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(171.49 477.21)">
+<path d="m0 0s-0.195 0 0 0c0 0 0.193 0 0 0" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(171.29 477.02)">
+<path d="m0 0v0.193h-0.194 0.389v-0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(164.88 475.66)">
+<path d="m0 0c-0.389 0 0 0.193 0 0.193z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(171.87 477.02)">
+<path d="m0 0c-0.195 0-0.195 0-0.195 0.193-0.194-0.193 0.195 0 0 0h0.195z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(165.27 475.66)">
+<path d="m0 0h-0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.26 477.02)">
+<path d="m0 0h-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(172.46 476.82)">
+<path d="m0 0c0.195 0.195-0.194 0.195-0.194 0.195h0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(174.21 476.82)">
+<path d="m0 0c-0.194 0 0.195 0.195 0 0.195 0 0 0.195 0 0-0.195" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(174.98 477.02)">
+<path d="m0 0h-0.193z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(168.96 475.66)">
+<path d="m0 0h0.194-0.194v-0.195z" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(195.19 477.99)">
+<path d="m0 0s-0.194 0 0 0v0.195s0.195 0 0-0.195" fill="#17499b" fill-rule="evenodd"/>
+</g>
+<g transform="translate(186.26 474.69)">
+<path d="m0 0h0.194v0.195h0.777v0.194-0.194c0.195 0 0.195 0.194 0.195 0.194v-0.194c0 0.194 0.194 0.194 0.194 0.194v-0.194c0.194 0 0.194 0.194 0.194 0.194 0.196 0 0.389 0 0.584 0.195 0.194 0 0-0.195 0 0h0.194s0.193 0 0.193 0.193h0.196l0.194 0.196v0h0.388s0.196 0 0.389 0.193h0.584-0.195 0.195c0.194 0.195-0.195 0 0 0h0.194c0 0.195-0.194 0.195 0 0.195s-0.194-0.195 0-0.195v0.195h0.194c0.194 0.194 0.194 0 0.194 0l0.194 0.194h0.389v0.195h0.195c0 0.194 0.194 0 0.194 0.194 0.195 0.194 0.195 0 0.389 0v0.194h0.195l0.193 0.195h0.194v0.193h0.389v0.196h0.389v-0.196 0.196h0.389v0.193h0.195c0.193 0.195 0.193 0.195 0.388 0.195v0.194s0.194 0 0.194 0.195c0.194 0 0.389 0 0.582 0.194h0.196c0 0.195 0.194 0.195 0.194 0.195h0.194v0.387c0.194 0.196 0.194 0 0.389 0.196h0.194v0.193c0.195 0 0 0 0 0h0.195l0.194 0.195h0.388l0.194 0.194v0.195h0.195v0.193h0.583v0.196h0.195l-0.195 0.194h0.195s-0.195 0 0 0h0.193-0.193c0.193 0.194 0.193 0 0.193 0.194h0.39v0.195h0.194c0 0.194 0 0.194 0.194 0.194h-0.194 0.194v0.194h0.389l-0.194 0.194c0.583 0.388-0.389-0.388 0.194 0v0.195h0.194l0.195 0.193h0.193v0.196h0.196v0.388h0.194v0.194c0.194 0 0.194-0.194 0.194 0h0.195v0.195h0.195c0 0.194 0 0.194 0.193 0.194v0.195h0.389v0.387l0.194 0.196 0.195 0.193h0.194v0.195c0.195 0.195 0 0.195 0.195 0.195l0.194 0.194 0.195 0.194v0.195c0.193 0.194 0.193 0 0.193 0v0.194h0.196s0 0.195 0.193 0.195v0.194l0.195 0.193c0.194 0 0.194 0.195 0.194 0.195v0.195h0.194v0.194h0.195v0.194h0.193v0.196h0.195v0.193h0.194v0.195h0.195v0.194h0.194v0.194h0.195v0.194l0.194 0.195 0.195 0.194h-0.195 0.195c0 0.194 0 0.194 0.193 0.389h0.194v0.389c0.195 0 0.195 0 0.195 0.194h0.194v0.195l0.195 0.194 0.194 0.195 0.195 0.193v0.195c0.193 0.194 0 0.194 0.193 0.194v0.194l0.196 0.195c0.193 0 0 0 0 0l0.193 0.194s0.195 0 0.195 0.195v0.582h0.194v0.196h0.194v0.388h0.195v0.388h0.194v0.389h0.195v0.584h0.193v0.582h0.196v0.195h0.193v0.583h0.195-0.195 0.195v0.389l0.194 0.193h0.195l-0.195 0.195h0.195v0.389c0.194 0 0 0 0.194 0.193v0.196h0.194c0 0.193-0.194 0.193 0 0.193v0.583h0.194v0.195l0.194 0.194v0.389h0.196v1.166h0.193c0 0.194 0 0.194-0.193 0.194h0.193v0.388l0.196 0.196h-0.196 0.196v0.777h0.193v1.165h0.195v1.556l0.194-0.196h-0.194 0.194v0 0.196h-0.194v0.582c0 0.195 0.194 0.778 0.194 0.584h-0.194v0.194h0.194-0.194c0 0.195 0.194 0.195 0.194 0.195h-0.194 0.194c0 0.194-0.194 0.194-0.194 0.194h0.194c0 0.195-0.194 0.195-0.194 0.195h0.194-0.194v0.776h0.194c-0.194 0 0 0.195 0 0.195v0.388c0.195 0.195 0 0.195 0 0.389h-0.194c0.194 0 0 0.194 0 0.194h0.194v0.196c0 0.193-0.194 0.386-0.194 0.582h0.194c-0.194 0.193-0.194 0.388-0.194 0.388v0.389c0 0.194 0 0.39-0.195 0.583h0.195c0 0.195-0.195 0.389-0.195 0.582v0.195h0.195c0 0.195-0.195 0.195-0.195 0.389h0.195l-0.195 0.194 0.195 0.196-0.195 0.193h0.195c0 0.195-0.195 0.389-0.195 0.777v0.195c0 0.194 0 0.388-0.193 0.583v0.583c-0.196 0-0.196 0.195-0.196 0.195v0.389h-0.193v0.387c0 0.196 0 0.196-0.196 0.389v0.194c-0.194 0-0.194 0.195-0.194 0.195v0.194h-0.194v0.778h-0.194v0.389c-0.194 0-0.194 0-0.194 0.194v-0.194 0.388h-0.195v0.389h-0.194v0.584c-0.195 0-0.195 0.193-0.195 0.193v0.778h-0.193 0.193l-0.193 0.194v0.584c-0.196 0-0.196 0.193-0.196 0.193-0.193 0.195-0.193 0.195-0.193 0.389h-0.195v0.195c-0.194 0-0.194 0.194-0.194 0.194v0.195h-0.195v0.194c0.195 0 0 0 0.195-0.194 0 0 0.194 0.194 0 0.194h-0.195v0.193h-0.194v0.196h-0.194v0.388 0 0.194s0.194 0 0 0v0.388h-0.195v0.196-0.196 0.196l-0.193 0.194v0.194h-0.196c0 0.195-0.193 0-0.193 0.195 0 0 0 0.193-0.195 0.193 0 0.195-0.194 0-0.194 0v0.389h-0.195v0.195h-0.194s0.194 0 0 0h-0.777v0.193h0.195-0.195s0.195 0 0 0v1.749h-0.194v0.389h-0.195c-0.194 0.195 0 0.195 0 0.195h-0.194v0.389h-0.195v0.194h-0.194l-0.195 0.195-0.193 0.194h-0.195v0.193h-0.388s0.194 0 0 0.196h-0.388l-0.196 0.193h0.196-0.196v0.195h-0.971 0.194l-0.194 0.194h-0.195v0.195l-0.194-0.195v0.195h-0.389v0.194h-0.971v0.195-0.195 0.195h-0.196v0.194h-0.388v0.194-0.194 0.194h-0.388v0.195h-0.389v0.194h-0.194v0.194h-0.194v0.195h-0.196v-0.195s0 0.195-0.193 0v0.195s0.193 0 0 0.194v0.194h-0.195v0.196l-0.194-0.196v0.196h-0.389c0 0.193-0.195 0-0.195 0v0.388h0.195-0.195v0.194-0.194c-0.194-0.195 0.195 0.194-0.194 0 0 0 0.194-0.195 0-0.195v0.195c0-0.195-0.194-0.195-0.388-0.195h-0.778v-0.193h-0.194v0.193l-0.194 0.195h-0.778v0.194h-0.776c-0.389 0-0.973 0-1.362-0.194-1.165-0.195-2.331-0.584-3.302-0.778-0.39-0.194-0.778-0.389-1.361-0.389 0 0-0.195 0-0.388-0.194l-0.196-0.194h-0.194v-0.195h-0.389v-0.194h-0.195v0 0.194s0-0.194-0.193-0.194v0.194c0-0.194-0.196-0.194-0.196-0.194h-0.193c-0.194 0 0 0 0 0h-0.389c0-0.194-0.194-0.194-0.194-0.194-0.195 0-0.195 0-0.195-0.195h-0.194c0-0.194-0.195-0.194-0.195-0.194h-0.193l0.193-0.195h-0.193v-0.194h-0.195v-0.195s0-0.193-0.194-0.193c0 0 0 0.193-0.195 0v-0.196h-0.388l-0.195-0.193v-0.389h-0.389v-0.194c-0.193 0-0.193-0.195-0.193-0.195h-0.195v-0.194h-0.194v-0.388c-0.195-0.196-0.195 0-0.195-0.196h-0.194v-0.193h-0.195v-0.195l-0.194-0.194h-0.193v-0.194l-0.195-0.194v-0.39l-0.194-0.193v-0.778l0.194 0.194v-0.194h-0.194l0.194-0.195h-0.194l0.194-0.193h-0.194c0-0.195 0.194-0.389 0.194-0.583 0.195-0.389 0.195-0.778 0.195-1.166-0.195 0-0.389-0.196-0.389-0.196h-0.778v-0.193c-0.195 0 0 0 0 0h-0.195v-0.194c0-0.195-0.193 0-0.193-0.195v-0.194s-0.195 0-0.195-0.195h-0.194v-0.389h-0.194v-0.582h-0.195v-1.167h-0.194v-1.166h0.194v-0.388h0.195v-0.195c0-0.194 0-0.389 0.194-0.389v-0.193h0.194v-0.39h0.195v-0.194 0.194-0.194h0.193v-0.195h0.195v-0.194h0.194v-0.193h0.195v-0.196h0.389v-0.194l0.194-0.193v-0.196s0.195 0.196 0.195 0h0.193v-0.193h0.194v-0.195h0.195v-0.195h0.389v-0.194h0.389v-0.194 0.194l0.193-0.194h0.389l0.195-0.195h0.194s0-0.194 0.194-0.194v-0.194c0.195 0 0.195-0.195 0.195-0.195v-0.193h0.194v-0.195h0.195v0-0.389l0.777-0.193c0.194 0 0.194-0.196 0.194-0.196h0.195v-0.194h0.194v-0.194h0.193c0.196-0.195 0.196-0.195 0.196-0.39h0.193c0.195-0.193 0-0.193 0.195-0.193v-0.194h0.195s0.194 0 0.194-0.195h0.194v-0.193h0.389v-0.196h0.582v-0.194h0.196v-0.194h0.194l0.194-0.195h0.194c4.86-2.332 5.053-7.385 5.053-7.385v-0.388h0.195v-0.194c0.194 0 0 0 0 0s0-0.195 0.194-0.195v-0.388l0.194-0.196c-0.194 0 0-0.388 0-0.388v-2.138c0-0.193 0.195-0.193 0.195-0.193h-0.195 0.195l-0.195-0.196s0.195 0 0.195-0.194h-0.195l0.195-0.193h-0.195v-0.778h-0.194 0.194-0.194 0.194l-0.194-0.195v-0.582c-0.194-0.195 0-0.195-0.194-0.39v-0.193h-0.195l0.195-0.195h-0.195v-0.194s0-0.195-0.193-0.195c0.193 0 0.193-0.193 0.193-0.193h-0.193 0.193-0.193v-0.584h-0.195v-0.389l-0.194-0.194v-0.389h-0.195v-0.389h-0.194s0.194-0.193 0.194 0v0-0.582c-0.194-0.195-0.194-0.195-0.389-0.195v-0.194h-0.389v-0.389h-0.194l-0.193-0.194-0.195-0.195c0-0.193 0 0-0.194-0.193v-0.195h-0.195v-0.194h-0.194c-0.195-0.195-0.195 0-0.195-0.195h-0.193v-0.194h-0.196v-0.195h-0.194s-0.194 0-0.194-0.194h-0.194v-0.195h-0.194v-0.194h-0.389v-0.194h-0.195c0-0.195 0-0.195-0.193-0.195 0-0.194-0.196-0.194-0.39-0.194v-0.194h-0.388c0-0.194 0-0.194-0.196-0.194h-0.193v-0.195c0.193 0.195 0.193 0.195 0.389 0.195 0 0 0.194 0 0.194 0.194h0.194v0.194h0.39l0.193 0.194v-0.194h-0.193v-0.194h-0.196v-0.194h-0.388v-0.195h0.194v0.195h0.194v0.194h0.389c0.195 0 0 0 0 0v-0.194h0.195-0.195v-0.195h-0.193l-0.196-0.193c-0.194 0-0.194 0-0.194-0.196h-0.194c0-0.194 0-0.194-0.194-0.194v-0.194h-0.389 0.193-0.193v-0.195h-0.194l-0.195-0.195h-0.193v-0.193h-0.196l-0.194-0.194h-0.194v-0.195h-0.39c0-0.194 0 0-0.193-0.194-0.196-0.195-0.196-0.195-0.389-0.195-0.194 0-0.194 0-0.389-0.194h-0.194c0-0.194-0.195-0.194-0.389-0.194h-0.195v-0.195h-0.388s0-0.195-0.194-0.195h0.194-0.389v-0.193h-0.388v-0.196c-0.195 0 0 0.196-0.195 0.196v-0.196c-0.193 0-0.193 0-0.389-0.193-0.193 0-0.388 0-0.582-0.194h-0.584c-0.387-0.195-0.776-0.195-0.971-0.389-0.389-0.195-0.971-0.389-1.36-0.584v0.195c-0.389-0.195-0.389-0.195-0.583-0.195h-0.778l-0.194-0.193v0.193s0-0.193-0.194-0.193h-0.196c-0.193 0-0.193 0-0.388-0.196h-0.194v0.196c-0.193 0-0.193-0.196-0.389-0.196h-3.886v-0.193l0.193 0.193v-0.193h0.196c0.193 0 0 0.193 0.193 0.193v-0.193h0.195c0.194 0 0.194 0.193 0.389 0.193l0.194-0.193s0 0.193 0.195 0.193v-0.193 0.193-0.193s0.194 0 0.194 0.193v-0.193h-0.972s0-0.195-0.195-0.195v0.195-0.195 0.195c-0.193 0-0.193-0.195-0.389-0.195h-1.553s0.193 0 0 0h-0.584l-0.194-0.194v0.194l-0.195-0.194v0.194h-0.194s0-0.194-0.194-0.194v0.194-0.194 0.194c-0.195 0-0.195-0.194-0.195-0.194l-0.193 0.194s0-0.194-0.196-0.194v0.194c-0.194 0-0.194-0.194-0.194-0.194h-0.194v0.194h-0.778s-0.194 0-0.194-0.194v0.194c-0.193 0-0.193 0-0.389-0.194h-0.388l0.194 0.194v-0.194c0.194 0 0.194 0.194 0.194 0.194h-1.166c-0.194 0 0-0.194 0.195-0.194-0.195 0-0.195 0-0.195-0.194h0.195v0.194-0.194h0.389v0.194h0.194c-0.389-0.194 0.388 0.194 0 0v-0.194s0.194 0.194 0 0.194h0.194v-0.194s0-0.194-0.194-0.194v0.194s0-0.194-0.194 0l-0.195-0.194v0.194h-0.389s0-0.194-0.194-0.194v0.194h-0.971 0.194v-0.194c0.195 0 0.195 0.194 0.388 0.194v-0.194c0.194 0 0.194 0.194 0.194 0h0.195-0.195 0.195c0-0.195 0.194 0 0.194 0h0.195v-0.195l0.194 0.195v-0.195 0.195h0.389l0.194-0.195h0.583v0c0.194 0 0-0.194 0.194 0 0 0-0.194 0 0 0v-0.194l0.195 0.194 0.194-0.194v0.194c0.195 0 0.195-0.194 0.195-0.194l0.194 0.194 0.194-0.194s0 0.194 0.194 0.194v-0.194 0.194-0.194c0.196 0 0 0.194 0.196 0.194h0.193v-0.194c0.195 0 0.195 0.194 0.389 0.194v-0.194s0 0.194 0.194 0.194v-0.194 0.194-0.194l0.195 0.194v-0.194c0.194 0 0.194 0.194 0.194 0.194v-0.194h0.195c0.193 0.194 0 0 0.193 0 0.196 0 0.196 0.194 0.196 0.194v-0.194h0.193s0 0.194 0.195 0.194v-0.194h2.721v-0.194h-2.332c-0.195-0.196 0-0.196 0-0.196h0.194c-0.194 0 0 0 0 0v-0.193s0-0.195 0.194-0.195h1.166v-0.194h-0.194c4.47 0.194 9.134 0.194 0.194 0.194-0.194 0-0.194-0.194-0.194-0.194v0.194l-0.195-0.194v0.194s0-0.194-0.193-0.194v0.194-0.194h-0.196v0.194c-0.193 0-0.193-0.194-0.193-0.194v0.194c-0.195 0-0.195-0.194-0.389-0.194v0.194-0.194 0.194c-0.194 0-0.194-0.194-0.389-0.194v0.194l-0.194-0.194v0.194-0.194 0.194c-0.195 0-0.195-0.194-0.195-0.194v0.194-0.194c-0.193 0-0.193 0.194-0.193 0.194v-0.194 0.194c-0.196 0-0.196-0.194-0.196-0.194v0.194l-0.193-0.194v0.194l-0.195-0.194v0.194c-0.194 0-0.194-0.194-0.194-0.194v0.194c-0.195 0-0.195-0.194-0.195-0.194v0.194c-0.194 0-0.194-0.194-0.388-0.194l-0.195 0.194v-0.194 0.194l-0.193-0.194v0.194l-0.196-0.194v0.194-0.194 0.194c-0.194 0-0.194-0.194-0.194-0.194h-0.194v0.194l-0.194-0.194v0.194s0-0.194-0.195-0.194v0.194-0.194 0.194h-0.194l-0.195-0.194v0.194l-0.194-0.194v0.194s0-0.194-0.193-0.194v0.194s0-0.194-0.196-0.194v0.194h-2.137v0.195-0.195h0.388s0-0.194 0.194-0.194v0.194l0.195-0.194h0.194s0.195 0 0 0h-0.194v-0.195l-0.195 0.195-0.194-0.195h-0.582s0-0.193-0.195-0.193v0.193h-1.167v0.195h-1.359l0.194 0.194h-0.388c0 0.195 0 0-0.196 0v0.195h-0.193v-0.195h-0.972v0.195h0.194-0.194l-0.194 0.193h-0.583s0.193 0 0 0c0-0.193 0 0-0.195-0.193v0.193h-0.194v0.196l-0.195-0.196-0.194 0.196h-0.388v0.194c-0.194-0.194-0.194 0-0.194-0.194v0.194h-0.389v0.194h-0.389v0.195h-0.389s-0.195 0 0 0c0 0-0.195 0-0.195 0.194v-0.194h-0.194c-0.193 0 0 0.194 0 0.194l-0.193-0.194v0.194h-0.195v0.194h-0.195c-0.194 0 0-0.194-0.194-0.194v0.194h0.194-0.776v0.194h0.193c0.195 0 0 0 0 0-0.193 0 0 0.195-0.193 0.195-0.196 0 0-0.195 0-0.195h-0.196c0 0.195 0 0-0.194 0v0.195h-0.194v0.193l-0.195-0.193v0.193h-0.193v-0.193h0.193v-0.195h0.389l0.194-0.194c0.196 0 0.196-0.194 0.196-0.194h0.388c0.194-0.194 0 0 0.194 0v-0.194h0.194l0.195-0.195h0.195v0.195 0l0.193-0.195v-0.194h0.583v-0.194h0.389c0-0.196 0 0 0.195 0v-0.196c0.583 0-0.584 0.196 0 0 0.194 0 0 0 0 0 0.194 0.196 0 0 0.194 0v0h0.583v-0.193h0.194v-0.195h0.778v-0.194h1.167l0.193-0.195s0 0.195 0.194 0.195v-0.195l0.195 0.195v-0.195h0.389c0-0.193 0.194 0 0.194 0v-0.193h0.972v-0.196h0.776c0.195 0 0-0.193 0.195-0.193h0.778v0-0.194l0.194 0.194v-0.194 0.194l0.195-0.194h0.582c0.194 0 0.194-0.195 0.194-0.195h0.389l0.195 0.195v-0.195h1.36c0.194 0 0 0 0.194-0.194l0.195 0.389c0-0.195-0.195-0.195-0.195-0.195h-0.389 0.195-0.389v0.195c-0.193 0-0.193-0.195-0.193-0.195v0.195-0.195 0.195h-0.196c-0.194-0.195 0 0 0 0h-1.166v0.194l-0.194-0.194-0.195-0.389v0.583s-0.194-0.583-0.194-0.389c-0.193-0.194 0 0.389 0 0.389s-0.388-0.583-0.388-0.389v-0.194 0.194c-0.194 0-0.194-0.194-0.194 0h-0.584v0.195l-0.194-0.195v0.195h-0.777v0.194l-0.194-0.194h0.387v-0.195l0.196 0.195v-0.195h0.388l0.389 0.389s-0.195-0.583 0-0.583c0 0.194-0.195 0.194 0 0.194 0-0.194 0.389 0.389 0.389 0.389l-0.195-0.194v0.194c-0.194 0-0.194-0.194-0.194 0h-0.777c0 0.193-0.196-0.583-0.196-0.583v0.194c-0.193 0-0.193-0.194-0.193-0.194v0.194c-0.194 0-0.194-0.194-0.194-0.194l-0.195 0.194h-0.389l-0.194 0.195v-0.195 0.195h-0.972v0.194s0-0.194-0.194 0h-0.389l-0.194 0.193s0-0.193-0.194-0.193v0.193h-0.39s0 0.196-0.193 0.196l-0.195 0.193v-0.193s0 0.193-0.194 0.193h-0.389l-0.194 0.195h0.388v-0.195c0.195 0 0.195 0.195 0.195 0.195v-0.195l0.194 0.195v-0.195h0.388v-0.193c0.196 0 0.196 0.193 0.196 0.193v-0.193h0.582l0.196-0.196v0.196l0.193-0.196h0.389v-0.193l0.193 0.193v-0.193h0.584v0h0.194l0.195-0.194c0.194 0 0 0 0.194 0.194h-0.777v0.193h-0.778v0.196l-0.194-0.196v0.196h-0.389l-0.194 0.193v-0.193l-0.194 0.193h-0.583v0.195h-0.972v0.194h-0.388v0.195h-0.195v-0.195l-0.194 0.195h-0.195l-0.194 0.193h-0.195v-0.193h0.195v-0.195c0 0.195 0.194 0.195 0.194 0.195v-0.195c0.195 0-0.194 0.195 0 0h0.389v-0.194h0.583v-0.195h0.194v-0.193h0.194v-0.196h-0.194v0.196h-0.582v0.193s-0.195-0.193-0.195 0v-0.193h0.389v0h0.194v-0.196h0.194s0-0.193 0.194-0.193l0.195 0.193v-0.193h0.582l0.196-0.194h0.582v-0.195 0.195l0.196-0.195h0.582v-0.194l0.193 0.194 0.196 0.582h0.582v-0.193h0.389v-0.194l0.195 0.194s-0.195 0 0 0h0.387l-0.193-0.194s-0.194 0 0 0.194l-0.194-0.194h0.194c0.193 0 0 0 0 0h0.777s0-0.195 0.194-0.195c0 0 0 0.195 0.195 0.195v-0.195h0.389v-0.194 0.194-0.194h0.971v-0.195l0.194 0.195v-0.195h0.972v-0.194c0.194 0 0.194 0.194 0.194 0.194h0.196v-0.194s0 0.194 0.193 0.194v-0.194h0.583v-0.195l0.195 0.195v-0.195l0.194 0.195v-0.195l0.194 0.195v-0.195c0.194 0 0 0 0 0h1.361l0.194-0.193v0.193-0.193h0.972v-0.196h0.777v-0.193 0.193-0.193l0.195 0.193v-0.193 0.193-0.193l0.193 0.193v-0.193 0.193-0.193h0.196s0.193 0 0.193 0.193l0.195-0.193h0.194s0 0.193 0.195 0.193c0 0-0.195-0.193 0-0.193 0.389-0.389 0 0 0.194 0 0 0 0.195 0 0 0h0.195-0.195 1.555v-0.195s0 0.195 0.194 0.195v-0.195s0 0.195 0.195 0.195v-0.195h0.194-3.498c-0.195 0-0.195-0.194-0.195-0.194v0.194c-0.194 0-0.194-0.194-0.194-0.194v0.194l-0.194-0.194v0.194h-1.361v0.195l-0.194-0.195v0.195s-0.195-0.195-0.195 0h-1.166v0.193l-0.194-0.193v0.193h-0.778v0.196-0.196l-0.194 0.196h-0.777v0.193-0.193 0.193h-0.778v0.195h-0.194c0.194 0 0.194 0 0 0h-0.389c-0.193 0.194-0.193 0-0.193 0v0.194h-0.389v0.195-0.195 0.195h-0.389l-0.195 0.194v-0.194l-0.194 0.194h-0.195v0.195l-0.193-0.195v0.195h-0.196v-0.195 0.195-0.195h0.389v-0.194 0h0.584v-0.195h0.389v-0.194h0.389s-0.195 0-0.195-0.195l0.195 0.195v-0.195h0.582v-0.193h0.583v-0.196l0.195 0.196v-0.196s0 0.196 0.194 0h-0.194v-0.193 0h0.194l-0.194-0.195h0.582v-0.194h0.389v-0.194h0.583c-0.194 0-0.194-0.195-0.194-0.195v0.195h-1.36c-0.195 0.194-0.195 0-0.195 0l-0.194 0.194v-0.194h-0.195v0.194h-0.194c-0.195 0 0 0 0 0v-0.194 0.194-0.194 0.194c-0.195 0-0.195-0.194-0.195-0.194v0.194c-0.194 0-0.194-0.194-0.194-0.194l-0.193 0.194h-0.389c0 0.194 0 0-0.195 0v0.194s0-0.194-0.194-0.194v0.194h-0.195v-0.194h0.389l0.195-0.194v-0.195l0.194 0.195v-0.195s0 0.195 0.195 0h0.387v-0.194h0.389v0-0.195h-0.583l-0.193 0.195h-0.389v0.194s0-0.194-0.195-0.194v0.194h-0.389v0.195l-0.194-0.195v0.195-0.195h0.194v-0.194c0.195 0 0 0.194 0.195 0.194v-0.194 0.194-0.194h0.389v-0.195s0.194 0.195 0.194 0h1.166l0.194-0.193h0.777l0.196-0.196h0.582v-0.193c0.194 0 0.194 0.193 0.389 0.193v-0.193c0.194 0 0.194 0.193 0.194 0h0.972v-0.195h0.777v-0.194h-0.389v0.194s0-0.194-0.194-0.194v0.194-0.194 0.194s0-0.194-0.194-0.194v0.194h-0.584c-0.194 0 0.196 0 0 0h-0.388l-0.194 0.195s0-0.195-0.195-0.195v0.195h-0.583l-0.193 0.193v-0.193 0.193h-0.973v0.196h-0.778v0.193h-0.971v0.195h-0.583v0 0.194h-0.388v0.195l-0.196-0.195v0.195c0.196 0 0.196 0.194 0.196 0-0.196 0.194 0 0.194-0.196 0.194h-0.193 0.193v-0.194h-0.193c0.193 0 0 0 0 0v0h-0.194v0.194h-0.195l-0.194 0.194v-0.194l-0.195 0.194h-0.194s0 0.195-0.194 0.195v-0.195 0.195h-0.39v0.193s0-0.193-0.193-0.193v0.193s-0.195-0.193 0-0.193h0.193v-0.195h0.196l0.194-0.194v0.194l0.194-0.194h0.194v-0.194h0.195l0.194-0.195v0.195-0.195h0.195l0.194-0.194v0.194l0.193-0.194 0.196-0.195v0.195c0.193 0 0-0.195 0.193-0.195h0.389v-0.193s0.195 0 0.195 0.193v-0.193s0 0.193 0.194 0.193c-0.194-0.193 0-0.193 0-0.193l-0.194-0.196h0.389v-0.193h0.582c0-0.195 0 0 0.194 0v-0.195h0.389c0.195 0 0.195-0.194 0.195-0.194v0.194l0.194-0.194h0.389-0.194v-0.195h0.194v0.195h0.388l0.196-0.195v0.195-0.195h0.193s0 0.195 0.194 0.195v-0.195h0.584v-0.194c0.194 0 0.194 0.194 0.194 0.194v-0.194h0.777c0-0.194 0.195 0 0.195 0v-0.194l0.194 0.194v-0.194 0.194-0.194h0.583c0.195-0.195 0.195 0 0.388 0v-0.195h0.389v0.195h0.389v-0.195 0.195-0.195c0.195 0 0.195 0 0.195 0.195v-0.195h0.194c0.194 0 0 0 0 0h0.582l0.196-0.193v0.193-0.193h1.748l0.194-0.196 0.195 0.196h0.194v-0.196l0.195 0.196v-0.196h0.971c0.196 0 0 0 0 0h2.333v0.196h1.943l0.195 0.193h0.389l0.193-0.193v0.193c0.194 0-0.193-0.193 0-0.193 0 0.193 0.194 0.193 0.194 0.193h0.584c0 0.195 0.194 0 0.389 0.195h0.582c0.389 0.194 0.195 0 0.195 0v0.194h0.194v-0.194l0.194 0.194v-0.194h0.389l0.195 0.194h0.582l0.195 0.194h0.194z" fill="#2f318b" fill-rule="evenodd"/>
+</g>
+</g>
+<path d="m172.84 520.55c-7.191-2.721-10.882-10.496-7.969-17.686 2.722-6.997 10.69-10.495 17.881-7.774s10.688 10.495 7.774 17.686c-1.934 5.356-7.06 8.777-12.584 8.777-1.69 0-3.417-0.32-5.102-1.003" fill="url(#a)"/>
+</g>
+<g transform="matrix(1.527 0 0 -1.527 379.72 74.009)">
+<path d="m0 0c-7.58 9.134-21.767 11.077-31.873 3.887-10.106-7.192-12.244-20.795-4.665-30.124 3.694-4.859 2.721-11.465-2.331-15.159-5.248-3.498-12.244-2.526-16.131 2.138-11.272 13.993-8.162 34.011 7.191 44.894 15.158 10.884 36.536 8.357 47.809-5.636" fill="#009c4d" fill-rule="evenodd"/>
+</g>
+</g>
+<g transform="matrix(.62014 0 0 -.62014 286.03 194.51)">
+<path transform="matrix(.42665 0 0 -.42665 -156.53 264.04)" d="m368.92 529.37v10.943h-43.91v14.17h39.893c-2.4938 2.2173-7.3446 3.7875-14.545 4.7109-5.3557 0.64455-13.807 1.1086-25.348 1.3828v14.963c13.573-0.18516 23.822-0.69137 30.75-1.5234 12.008-1.4766 20.05-4.2053 24.121-8.1758 4.0689 3.9705 12.017 6.6992 23.844 8.1758 6.8323 0.83207 17.177 1.3816 31.031 1.6582v-15.236c-11.454-0.27658-19.949-0.78552-25.49-1.5215-7.2964-0.92347-12.19-2.4015-14.684-4.4336h40.174v-14.17h-43.777v-10.943zm145.13 8.3496v17.303h42.525c-0.18281 5.5408-4.3387 9.8827-12.465 13.023-7.4816 2.8618-17.502 4.4777-30.061 4.8457v17.314c11.267-0.45939 21.335-1.7038 30.197-3.7383 12.286-2.8642 20.503-7.0646 24.658-12.605 4.0619 5.5408 12.143 9.7413 24.242 12.605 8.773 2.1259 18.976 3.3703 30.613 3.7383v-17.451c-12.467-0.36798-22.488-2.0327-30.059-4.9883-8.1285-3.1384-12.329-7.3884-12.605-12.744h42.664v-17.303zm214.33 0.0527c0 26.042-2.5401 44.928-7.6191 56.654-4.4346 10.437-11.499 16.579-21.195 18.426v19.254c8.3136-1.2001 15.79-4.2014 22.439-9.0039 7.2917-5.1705 12.684-11.911 16.186-20.223 3.408 8.4027 8.4321 15.144 15.072 20.223 6.5557 4.8963 14.407 7.8953 23.551 9.0039v-19.393c-9.7926-1.7556-16.855-7.8031-21.195-18.146-4.8963-11.731-7.3398-30.661-7.3398-56.795zm64.99 0v119.55h19.574v-119.55zm-472.46 42.555v15.248h48.762v3.3926c-5.8504 1.3521-11.164 3.9269-15.936 7.7402-7.7605 6.3682-11.639 14.447-11.639 24.23 0 9.6894 3.8782 17.722 11.639 24.09 7.3901 6.0002 16.075 9 26.055 9 9.6074 0 18.058-2.9998 25.359-9 7.8519-6.4596 11.779-14.489 11.779-24.09 0-9.6942-3.9274-17.771-11.779-24.23-4.6532-3.7644-9.7759-6.3235-15.365-7.6895v-3.4434h48.902v-15.248zm189.13 21.414v17.299h49.037v37.539h19.574v-37.539h49.178v-17.299zm-130.68 12.545c4.6291 0 8.7002 1.5245 12.221 4.5762 3.7009 3.2392 5.5527 7.2643 5.5527 12.076 0 4.7182-1.8518 8.694-5.5527 11.936-3.5204 3.1454-7.5916 4.7168-12.221 4.7168-4.8143 0-8.9799-1.5714-12.498-4.7168-3.6095-3.2415-5.416-7.2174-5.416-11.936 0-4.8119 1.8065-8.837 5.416-12.076 3.5181-3.0517 7.6838-4.5762 12.498-4.5762z"/>
+</g>
+</g>
+</g>
+</svg>

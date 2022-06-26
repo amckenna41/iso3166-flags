@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="400"
+   id="svg6629"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   version="1.0"
+   sodipodi:docbase="C:\flags"
+   sodipodi:docname="Flag of Riau Independists.svg">
+  <defs
+     id="defs6631" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9425"
+     inkscape:cx="400"
+     inkscape:cy="200"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="800px"
+     height="400px"
+     inkscape:window-width="847"
+     inkscape:window-height="579"
+     inkscape:window-x="374"
+     inkscape:window-y="274" />
+  <metadata
+     id="metadata6634">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:red;fill-opacity:1;stroke:none;stroke-width:1.24635899;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6637"
+       width="800"
+       height="400"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:navy;fill-opacity:1;stroke:blue;stroke-width:1.14911664;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6639"
+       width="798.85089"
+       height="98.850883"
+       x="0.57455832"
+       y="300.57455" />
+    <g
+       id="g7534">
+      <path
+         transform="matrix(1.081633,0,0,1.081633,1.282799,-7.28863)"
+         d="M 194.28571 124.28571 A 70 70 0 1 1  54.285713,124.28571 A 70 70 0 1 1  194.28571 124.28571 z"
+         sodipodi:ry="70"
+         sodipodi:rx="70"
+         sodipodi:cy="124.28571"
+         sodipodi:cx="124.28571"
+         id="path6641"
+         style="fill:white;fill-opacity:1;stroke:none;stroke-width:1.26699996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-6,-1.428528)"
+         d="M 228.57143 128.57143 A 60 60 0 1 1  108.57143,128.57143 A 60 60 0 1 1  228.57143 128.57143 z"
+         sodipodi:ry="60"
+         sodipodi:rx="60"
+         sodipodi:cy="128.57143"
+         sodipodi:cx="168.57143"
+         id="path7528"
+         style="fill:red;fill-opacity:1;stroke:none;stroke-width:1.26699996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:white;fill-opacity:1;stroke:none;stroke-width:1.26699996;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7532"
+       sodipodi:sides="5"
+       sodipodi:cx="265.71429"
+       sodipodi:cy="102.85714"
+       sodipodi:r1="61.078739"
+       sodipodi:r2="23.242189"
+       sodipodi:arg1="1.3089969"
+       sodipodi:arg2="1.9373154"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 281.52264,161.85467 L 257.38504,124.55559 L 214.48935,136.12301 L 242.50396,101.64074 L 218.2472,64.419045 L 259.69877,80.406909 L 287.60295,45.835223 L 285.20683,90.198535 L 326.70933,106.05375 L 283.77687,117.48392 L 281.52264,161.85467 z "
+       transform="matrix(0.648913,5.559196e-2,-5.559196e-2,0.648913,26.6515,43.93716)" />
+  </g>
+</svg>

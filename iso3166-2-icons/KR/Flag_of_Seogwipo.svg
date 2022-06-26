@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300mm" height="200mm" version="1.1" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<style/>
+<defs>
+<clipPath>
+<path d="M 0,841.89 H 595.276 V 0 H 0 Z"/>
+</clipPath>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-188.32 -26.637)">
+<path d="m488.32 226.64h-300v-200h300z" fill="#fff"/>
+<path transform="matrix(.26458 0 0 .26458 188.32 26.637)" d="m0 269.42v7.2949h1133.9v-7.2949h-1133.9zm0 14.014v14.721h1133.9v-14.721h-1133.9zm0 28.221v24.969h1133.9v-24.969h-1133.9zm0 42.055v27.969h1133.9v-27.969h-1133.9zm0 49v45.969h1133.9v-45.969h-1133.9zm0 70.428v55.518h1133.9v-55.518h-1133.9zm0 83.705v69.307h1133.9v-69.307h-1133.9zm0 98.643v100.42h1133.9v-100.42h-1133.9z" fill="#104cd7"/>
+<g transform="matrix(.35278 0 0 .35278 278.64 50.009)" fill-rule="evenodd"></g>
+<g transform="matrix(.83007 0 0 -.83007 92.823 475.75)"></g>
+<g transform="matrix(.35278 0 0 .35278 509.31 -283.65)" fill-rule="evenodd"></g>
+<g transform="translate(0 -.54465)">
+<g transform="matrix(.35278 0 0 .35278 552.61 -136.01)" fill-rule="evenodd">
+<g transform="matrix(3.0173 0 0 3.0173 -1357.4 -1886.3)"></g>
+</g>
+</g>
+<path d="m297.24 83.583a42.664 42.664 0 0 1-42.664 42.664 42.664 42.664 0 0 1-42.664-42.664 42.664 42.664 0 0 1 42.664-42.664 42.664 42.664 0 0 1 42.664 42.664z" fill="#ff5d1c" style="paint-order:fill markers stroke"/>
+<path transform="matrix(.26458 0 0 .26458 188.32 26.637)" d="m232.4 75.479c-21.101 0.063835-46.402 15.225-66.766 33.805 24.493-5.3325 37.356-4.1505 44.582 0.95313 10.241 7.2336 8.2349 21.678 3.9844 30.865l-62.541 123.25c11.527 9.2971 33.29 23.063 55.961 28.771l41.188-68.004 45.674 67.459c15.115-5.4874 42.421-18.5 54.727-29.977l-83.812-165.56c-7.67-15.44-19.47-21.603-32.996-21.562zm-128.36 158.93c8.9637 74.281 74.892 129.09 146.39 129.09s137.43-54.812 146.39-129.09c-39.047 57.448-84.341 80.844-146.39 80.844-62.049 0-107.34-23.396-146.39-80.844z" fill="#fff"/>
+</g>
+</svg>

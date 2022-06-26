@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300mm" height="200mm" version="1.1" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<rect id="b" x="-.36" y="-.06" width="624" height="842"/>
+<clipPath id="a">
+<use width="100%" height="100%" xlink:href="#b"/>
+</clipPath>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-188.32 -26.637)">
+<path d="m188.32 26.637h300v200h-300z" fill="#fff" style="paint-order:fill markers stroke"/>
+<g transform="matrix(.35278 0 0 .35278 288.01 -263.8)" fill-rule="evenodd"></g>
+<g transform="matrix(.26458 0 0 .26458 178 44.098)"></g>
+<polygon class="st2" transform="matrix(.26458 0 0 .26458 352.93 280.3)" points="" clip-path="url(#a)" fill="#92bf1e"/>
+<rect class="st2" x="400.54" y="341.71" width="0" height="0" clip-path="url(#a)" fill="#92bf1e" stroke-width=".26458"/>
+<rect class="st2" x="400.54" y="341.71" width="0" height="0" clip-path="url(#a)" fill="#92bf1e" stroke-width=".26458"/>
+<rect class="st5" transform="rotate(-31.481)" x="262.91" y="356.59" width="0" height=".079373" fill="#0c3388" stroke-width=".26458"/>
+<g transform="translate(3.7133 -1.7464)"></g>
+<g transform="translate(0 .4643)">
+<g transform="matrix(1.1499 0 0 1.1499 158.69 -1117.9)" fill-rule="evenodd">
+<g>
+<path d="m143.66 1049.5c18.286-8.95 37.921-7.89 47.469 1.7 4.852-8.15 6.04-16.84 2.391-24.03-7.138-14.03-30.014-17.03-51.105-6.7-21.092 10.33-32.404 30.09-25.273 44.12 0.95 1.87 2.175 3.54 3.639 5.01 4.631-7.77 12.593-15.05 22.879-20.1z" fill="#2aa94c"/>
+<path d="m121.65 1071.5c-5.488 7.27-7.454 18.23-3.507 26 7.204 14.17 30.313 17.21 51.618 6.77 21.301-10.44 32.726-30.39 25.523-44.57-0.96-1.88-2.197-3.57-3.677-5.05-4.674 7.84-12.715 15.2-23.111 20.29-3.906 1.92-7.868 3.38-11.789 4.4 2.647-2.71 3.171-7.43 1.86-10.9-2.734-7.27-12.285-11.95-24.545-6.94-5.579 2.28-9.777 6.23-12.372 10z" fill="#0e61a7"/>
+</g>
+</g>
+<g transform="matrix(.60117 0 0 .60117 198.3 155.73)">
+<polygon transform="matrix(1.5823 0 0 1.5823 -304.17 -276.56)" points="244.75 213.67 216.99 213.67 216.99 217.48 228.63 217.48 228.63 224.63 233.2 224.63 233.2 217.48 244.75 217.48"/>
+<path d="m72.998 42.913v6.3926l-23.197 0.01582c-0.269 0-0.49052-0.18988-0.49052-0.42723v-5.9812zm-30.919 9.051c0 1.8355 1.6298 3.3229 3.671 3.3229l34.463 0.03165v-23.292h-7.2313v4.8894h-23.688v-4.8894h-7.2155z" stroke-width="1.5823"/>
+<path d="m225.36 46.869c0.12659-0.71205 0.22153-1.4399 0.22153-2.1836 0-0.7437-0.0791-1.4716-0.22153-2.1836h7.1047v4.3673zm-14.336 4.6995c-4.0983 0-7.4053-3.1014-7.4053-6.899s3.3071-6.899 7.4053-6.899c4.0824 0 7.3895 3.1014 7.3895 6.899 0.0158 3.8134-3.3071 6.899-7.3895 6.899zm28.688-19.542h-7.2471v4.478h-10.127c-2.6742-2.959-6.7408-4.842-11.314-4.842-8.0541 0-14.573 5.823-14.573 13.007s6.5192 13.023 14.573 13.023c4.573 0 8.6396-1.8988 11.33-4.8578h10.127v8.6237h-29.099v5.9812h28.688s0.39558 0 0.39558 0.39558v11.045h7.2788z" stroke-width="1.5823"/>
+<path d="m168.05 74.323c-5.0476 0-9.1459-3.8293-9.1459-8.5604 0-4.7154 4.0983-8.5446 9.1459-8.5446 5.0477 0 9.1459 3.8293 9.1459 8.5446 0 4.7154-4.0982 8.5604-9.1459 8.5604zm17.042-34.368v-7.9275h-7.2313v19.162h-6.2977v-15.159c0-1.8355-1.6456-3.3071-3.6868-3.3071h-22.327v5.9654h18.339s0.41141 0 0.41141 0.41141v12.105h-6.5825v-7.5478h-7.2471v7.5478h-7.2629v5.9971h12.2c-2.2944 2.4368-3.6868 5.554-3.6868 8.9402 0 7.8009 7.2946 14.13 16.282 14.13 8.9877 0 16.266-6.3294 16.266-14.13 0-3.402-1.3766-6.5192-3.6868-8.956h4.4938v-11.25h6.5351v-5.9812z" stroke-width="1.5823"/>
+<path d="m131.69 39.875v-7.8484h-7.2313v40.239h-21.646s-0.41141 0-0.41141-0.39558v-10.57h-7.2629v13.64c0 1.8355 1.6456 3.3071 3.671 3.3071h32.849v-32.39h6.535v-5.9812z" stroke-width="1.5823"/>
+<path d="m113.66 56.506 5.7439-3.4337-15.254-21.029c-0.12659-0.2057-0.33229-0.33229-0.56964-0.33229-0.22153 0-0.42723 0.11076-0.55382 0.269l-15.27 21.093 5.7597 3.4337 10.064-13.893z" stroke-width="1.5823"/>
+<rect x="283.45" y="32.027" width="7.5003" height="46.837" stroke-width="1.5823"/>
+<path d="m262.7 31.774c-0.17406 0-0.31647 0.07912-0.41141 0.2057l-16.599 27.026 6.1078 3.0381 10.902-17.77 10.918 17.77 6.1078-3.0381-16.63-27.058c-0.11076-0.11076-0.23735-0.17406-0.39558-0.17406z" stroke-width="1.5823"/>
+<path d="m330.78 35.033c0-1.345-1.1076-2.421-2.4684-2.421h-9.8421v9.32c0 12.643-5.8072 22.896-12.991 22.896v5.3958c7.6743 0 14.494-4.035 19.13-10.412 4.6204 6.3768 11.488 10.412 19.13 10.412v-5.3958c-7.168 0-12.959-10.254-12.959-22.896z" stroke-width="1.5823"/>
+<path d="m359.46 34.511c0-1.345-1.0918-2.4368-2.4368-2.4368h-9.8105v16.646h-10.048v5.2059h10.048v24.938h12.263z" stroke-width="1.5823"/>
+<path d="m419.1 32.628c1.9621 0 3.5444 1.5823 3.5444 3.5444v4.5888s0.45888 10.523-4.6362 17.596h8.6396v5.2059h-22.564v15.301h-12.263v-15.301h-22.026v-5.2059h38.435c2.4526-4.3198 2.0254-13.956 2.0254-13.956v-6.3926h-37.454v-5.3641z" stroke-width="1.5823"/>
+</g>
+</g>
+</g>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#009A53;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E8380D;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#0062B1;}
+	.st3{fill:#909090;}</style>
+<style type="text/css">.st0{fill:#009944;}
+	.st1{fill:#004EA2;}
+	.st2{fill:none;}
+	.st3{fill:#E60012;}</style>
+<style type="text/css">.st0{fill:#00559D;}
+	.st1{fill:#90B1DD;}</style>
+<style type="text/css">.st0{fill:#F18D00;}
+	.st1{fill:#22AC38;}
+	.st2{fill:#00479D;}</style>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#009944;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E60012;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#004098;}</style>
+<style type="text/css">.st0{clip-path:url(#a);fill:#727171;}
+	.st1{clip-path:url(#a);fill:#C9CACA;}
+	.st2{clip-path:url(#a);fill:none;stroke:#727171;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{clip-path:url(#a);}
+	.st4{fill:#45B035;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#9FA0A0;}
+	.st7{fill:#005BAC;}
+	.st8{fill:#EA5520;}
+	.st9{fill:#727171;}
+	.st10{fill:none;stroke:#000000;stroke-width:0.16;}</style>
+<style type="text/css">.st0{fill:#8FC31F;}
+	.st1{fill:none;}
+	.st2{fill:#92BF1E;}
+	.st3{fill:#0075C2;}
+	.st4{fill:#9FA0A0;}
+	.st5{fill:#F6AB00;}
+	.st6{fill:#71756F;}</style>
+<style type="text/css">.st0{fill:#009342;}
+	.st1{fill:#0052A5;}
+	.st2{fill:#E8381B;}
+	.st3{fill:#5B5C57;}</style>
+<style type="text/css">.st0{fill:#295CAA;}
+	.st1{fill:#F04E4C;}
+	.st2{fill:#626466;}</style>
+<style type="text/css">.st0{fill:none;}
+	.st1{fill:#C70025;}
+	.st2{fill:#003686;}</style>
+<style type="text/css">.st0{fill:#2E3192;}
+	.st1{fill:#FAA61A;}
+	.st2{fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill:#E60012;}
+	.st2{fill:#1D2088;}</style>
+<style type="text/css">.st0{fill:none;stroke:#000000;stroke-width:0.1;}
+	.st1{fill:#9FAFD6;}
+	.st2{fill:#F5B2B2;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#9FA0A0;stroke-width:0.3;}
+	.st5{fill:#0C3388;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#0C3388;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill:#E60012;}
+	.st2{fill:#1D2088;}</style>
+<style type="text/css">.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;}
+	.st2{display:inline;}
+	.st3{fill:none;stroke:#000000;}
+	.st4{fill:#890C84;}
+	.st5{fill:#00A242;}</style>
+<style type="text/css">.st0{fill:#009B6B;}
+	.st1{fill:#4D4586;}
+	.st2{fill:#C8161D;}</style>
+<style type="text/css">.st0{fill:url(#b);}
+	.st1{fill:#005BAC;}
+	.st2{fill:#686D71;}</style>
+<style type="text/css">.st0{fill:#767575;}</style>
+<style type="text/css">.st0{fill:#00A040;}
+	.st1{clip-path:url(#a);fill:url(#SVGID_3_);}
+	.st2{fill:#004098;}</style>
+<style type="text/css">.st0{fill:#00A040;}
+	.st1{fill:url(#b);}</style>
+<style type="text/css">.st0{fill:#009944;}</style>
+<style type="text/css">.st0{fill:#00A73C;}
+	.st1{fill:#005DAC;}</style>
+</svg>

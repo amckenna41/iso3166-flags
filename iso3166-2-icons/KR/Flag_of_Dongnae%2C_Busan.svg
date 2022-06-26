@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300mm" height="200mm" version="1.1" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<rect id="b" x="-.36" y="-.06" width="624" height="842"/>
+<clipPath id="a">
+<use width="100%" height="100%" xlink:href="#b"/>
+</clipPath>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-188.32 -26.637)">
+<path d="m188.32 26.637h300v200h-300z" fill="#fff" style="paint-order:fill markers stroke"/>
+<g transform="matrix(.35278 0 0 .35278 288.01 -263.8)" fill-rule="evenodd"></g>
+<g transform="matrix(.26458 0 0 .26458 178 44.098)"></g>
+<polygon class="st2" transform="matrix(.26458 0 0 .26458 352.93 280.3)" points="" clip-path="url(#a)" fill="#92bf1e"/>
+<rect class="st2" x="400.54" y="341.71" width="0" height="0" clip-path="url(#a)" fill="#92bf1e" stroke-width=".26458"/>
+<rect class="st2" x="400.54" y="341.71" width="0" height="0" clip-path="url(#a)" fill="#92bf1e" stroke-width=".26458"/>
+<rect class="st5" transform="rotate(-31.481)" x="262.91" y="356.59" width="0" height=".079373" fill="#0c3388" stroke-width=".26458"/>
+<g transform="translate(7.828 5.584)">
+<g transform="matrix(1.1858 0 0 1.1858 -117.6 -92.446)">
+<path class="st5" d="m325.13 201.56-2.1511 3.1909c10.136-2.5003 33.097-11.647 55.774 0.91546 22.876 12.256 45.503 4.2413 54.038-2.7384l-1.2277-2.0505c-8.4243 6.2918-30.255 14.626-52.811 1.5293-13.052-6.0378-24.635-9.9536-53.623-0.84666z" fill="#382777" stroke-width=".26458"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="408.34 471.82 394.26 449.07 394.23 449.07 408.32 471.82" fill="#0c3388"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="394.26 449.07 394.23 449.02 394.33 449.02 388.09 439.14 394.23 449.07" fill="#0c3388"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="408.34 471.82 408.32 471.82 417.7 486.99" fill="#0c3388"/>
+<path class="st5" d="m334.66 186.19c3e-3 -3e-3 5e-3 -3e-3 8e-3 -5e-3l2.2172-3.5454z" fill="#0c3388" stroke-width=".26458"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="470.98 573.06 471.01 573.12" fill="#0c3388"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="386.16 436.02 444.87 435.96 429.55 410.78 370.55 410.7 380.48 426.85" fill="#382777"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="394.26 449.07 408.34 471.82 466.71 471.85 452.81 449.01 394.33 449.02 394.36 449.07" fill="#382777"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="394.23 449.02 394.26 449.07 394.36 449.07 394.33 449.02" fill="#0c3388"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="475.97 487.06 417.7 486.99 417.86 487.24 432.23 510.46 490.25 510.52" fill="#382777"/>
+<path class="st5" d="m427.81 194.89c-7.3501 4.3286-23.582 12.192-46.363 1.1589-24.08-13.134-43.05-5.6541-51.178-2.6723l2.712-4.4397c23.842-9.1228 39.989-0.72496 47.879 2.9739 24.006 11.023 39.103 3.0057 45.019-0.14023" fill="#0c3388" stroke-width=".26458"/>
+<path class="st5" d="m430.58 199.36c-13.055 8.0486-28.736 11.93-49.379 2.2331-22.286-12.48-42.431-5.9055-54.457-2.3125l2.3336-3.646c29.575-10.163 42.526-1.9526 51.797 2.376 23.932 11.718 40.92 3.048 47.921-1.5293" fill="#0c3388" stroke-width=".26458"/>
+<path class="st5" d="m380.86 191.91c-7.8925-3.7015-24.04-12.099-47.879-2.9739l-2.712 4.4397c8.1306-2.9845 27.101-10.462 51.178 2.6723 22.781 11.036 39.01 3.1724 46.363-1.1589l-1.9288-3.1168c-5.9187 3.1432-21.016 11.163-45.022 0.13758z" fill="#382777" stroke-width=".26458"/>
+<path class="st5" d="m380.87 198.01c-9.271-4.3312-22.225-12.539-51.797-2.376l-2.3336 3.646c12.025-3.593 32.171-10.168 54.457 2.3125 20.645 9.697 36.325 5.8155 49.379-2.2331l-1.7833-2.8813c-7.0009 4.5773-23.99 13.248-47.921 1.5319z" fill="#382777" stroke-width=".26458"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="388.09 439.14 386.16 436.02 386.12 436.02" fill="#0c3388"/>
+<path class="st5" d="m379.5 188.58c11.978 5.8288 28.636 10.271 45.035 1.0239l-8e-3 -0.0132-10.332-16.544h-19.772c-7.6465 0-3.8523 7.8714-1.8812 13.298 0.61648 1.9738-0.74083 1.9738-1.479 0.37041-7.874-15.621-4.0402-19.958 1.016-19.833l18.338 3e-3 -0.0423-0.0661h0.0529l-2.4844-4.0137-17.96 8e-3c-4.0428 0.0582-10.089 6.7733-1.7039 21.693 0.61648 1.3573-0.80169 1.1033-1.4182-8e-3 -14.057-22.286-0.33072-27.728 2.7517-27.728l14.605 0.0159-2.1484-3.4528-16.282-0.0159c-4.0693 0.24606-16.912 3.138-2.2199 27.993 1.6034 3.0824-0.98689 2.712-2.8363 0.49478-5.9187-7.4004-12.438-11.202-17.759-11.221h-13.316c-2.3442-0.24607-1.479-2.2199 0.12435-2.2199h8.0169c3.6989-5.0562 7.7682-2.0955 10.358-0.49477 2.3918 1.4817 8.7551 7.276 9.4959 8.1386 1.9738 1.8494 1.5822-0.1561 0.12435-1.614-0.37041-0.37042-4.4397-6.0299-5.6727-8.4984-5.1779-10.853 4.3154-19.238 11.591-19.238l14.258 5e-3 -19.219-30.745-44.069 70.271c5.76-2.9131 25.813-7.4639 44.836 2.3918z" fill="#382777" stroke-width=".26458"/>
+<polygon class="st5" transform="matrix(.26458 0 0 .26458 299.92 37.969)" points="417.86 487.24 417.7 486.99 417.51 486.99 417.66 487.24" fill="#0c3388"/>
+</g>
+<g transform="matrix(.26458 0 0 .26458 516.34 100.75)">
+<g transform="matrix(1.9184 0 0 1.9184 -1383.6 -447.82)">
+<path d="m279.36 391.15v-5.5h7.05v5.5h21.76v6.16h-50.56v-6.16zm-15.83-4.96c-1.43 0-2.47-0.34-3.11-1.02-0.68-0.72-1.02-1.91-1.02-3.59v-11.88h46.98v6.1h-39.92v4.36h39.92v6.04h-42.85zm31.13 10.82c3.74 2.79 5.62 6.31 5.62 10.58 0 4.58-1.79 8.39-5.38 11.42-3.35 2.83-7.31 4.24-11.89 4.24-4.7 0-8.73-1.41-12.07-4.24-3.59-2.99-5.38-6.79-5.38-11.42 0-4.26 1.85-7.79 5.56-10.58 3.43-2.59 7.39-3.88 11.89-3.88 4.38-0.01 8.27 1.29 11.65 3.88zm-18.88 3.64c-2.07 1.91-3.11 4.21-3.11 6.87 0 2.67 1.04 4.96 3.11 6.87 2.03 1.87 4.4 2.81 7.11 2.81 2.67 0 5.02-0.94 7.05-2.81 2.15-1.91 3.23-4.2 3.23-6.87s-1.08-4.96-3.23-6.87c-2.03-1.79-4.38-2.69-7.05-2.69-2.71 0-5.08 0.9-7.11 2.69z"/>
+<path d="m347.93 375.85h-16.73v-6.16h23.37v21.93h-16.79v11.06h23.07v6.16h-25.46c-1.4 0-2.43-0.34-3.11-1.02-0.72-0.72-1.07-1.93-1.07-3.64v-18.65h16.73v-9.68zm23.6 16.14h-5.5v28.27h-6.45v-50.56h6.45v16.14h5.5v-16.14h6.63v50.56h-6.63z"/>
+<path d="m422.58 420.5v-21.22h-21.4v-6.22h51.34v6.22h-23.01v21.22zm20.38-26.18v-18.53h-39.98v-6.1h46.98v24.62h-7z"/>
+</g>
+</g>
+</g>
+</g>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#009A53;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E8380D;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#0062B1;}
+	.st3{fill:#909090;}</style>
+<style type="text/css">.st0{fill:#009944;}
+	.st1{fill:#004EA2;}
+	.st2{fill:none;}
+	.st3{fill:#E60012;}</style>
+<style type="text/css">.st0{fill:#00559D;}
+	.st1{fill:#90B1DD;}</style>
+<style type="text/css">.st0{fill:#F18D00;}
+	.st1{fill:#22AC38;}
+	.st2{fill:#00479D;}</style>
+<style type="text/css">.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#009944;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E60012;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#004098;}</style>
+<style type="text/css">.st0{clip-path:url(#a);fill:#727171;}
+	.st1{clip-path:url(#a);fill:#C9CACA;}
+	.st2{clip-path:url(#a);fill:none;stroke:#727171;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{clip-path:url(#a);}
+	.st4{fill:#45B035;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#9FA0A0;}
+	.st7{fill:#005BAC;}
+	.st8{fill:#EA5520;}
+	.st9{fill:#727171;}
+	.st10{fill:none;stroke:#000000;stroke-width:0.16;}</style>
+<style type="text/css">.st0{fill:#8FC31F;}
+	.st1{fill:none;}
+	.st2{fill:#92BF1E;}
+	.st3{fill:#0075C2;}
+	.st4{fill:#9FA0A0;}
+	.st5{fill:#F6AB00;}
+	.st6{fill:#71756F;}</style>
+<style type="text/css">.st0{fill:#009342;}
+	.st1{fill:#0052A5;}
+	.st2{fill:#E8381B;}
+	.st3{fill:#5B5C57;}</style>
+<style type="text/css">.st0{fill:#295CAA;}
+	.st1{fill:#F04E4C;}
+	.st2{fill:#626466;}</style>
+<style type="text/css">.st0{fill:none;}
+	.st1{fill:#C70025;}
+	.st2{fill:#003686;}</style>
+<style type="text/css">.st0{fill:#2E3192;}
+	.st1{fill:#FAA61A;}
+	.st2{fill:#FFFFFF;}</style>
+<style type="text/css">.st0{fill:#FFFFFF;}
+	.st1{fill:#E60012;}
+	.st2{fill:#1D2088;}</style>
+<style type="text/css">.st0{fill:none;stroke:#000000;stroke-width:0.1;}
+	.st1{fill:#9FAFD6;}
+	.st2{fill:#F5B2B2;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#9FA0A0;stroke-width:0.3;}
+	.st5{fill:#0C3388;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}</style>
+<style type="text/css">.st0{fill:#0C3388;}</style>
+</svg>

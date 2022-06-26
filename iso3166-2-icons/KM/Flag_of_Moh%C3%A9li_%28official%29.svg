@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="600" height="400">
+  <path d="M0 400h600V0H0v400z" style="fill:#ffe01e;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+  <path d="m130 200 24.69874 76.00511 79.91748.003-64.65282 46.97676 24.69298 76.00698L130 352.02l-64.65638 46.97187 24.692985-76.00698-64.652821-46.97676 79.917476-.003z" transform="matrix(1.00507 0 0 1.00507 169.3414 -107.4034)" style="fill:#ce1126;fill-opacity:1;stroke:none"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="50" height="50" viewBox="0 0 50 50">
+<desc>Star - Flag of Liberia</desc>
+ <rect id="blue_field" fill="#002868" height="50" width="50"/>
+ <g id="white_star" fill="#ffffff" transform="translate(25, 25) scale(15, 15)">
+    <g id="cone">
+	<path id="triangle" d="M 0,0 v 1 h 0.6 z" transform="translate(0, -1) rotate(18)"/>
+	<use xlink:href="#triangle" transform="scale(-1, 1)"/>
+    </g>
+	<use xlink:href="#cone" transform="rotate(72)"/>
+	<use xlink:href="#cone" transform="rotate(144)"/>
+	<use xlink:href="#cone" transform="rotate(216)"/>
+	<use xlink:href="#cone" transform="rotate(288)"/>
+ </g>
+</svg>

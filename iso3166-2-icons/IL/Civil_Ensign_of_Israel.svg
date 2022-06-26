@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="600"
+   height="400"
+   viewBox="0 0 220 160"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="ZZ2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1004"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     width="508.86px"
+     inkscape:zoom="1"
+     inkscape:cx="311.76339"
+     inkscape:cy="89.928424"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1" />
+  <desc
+     id="desc4">Flag of Israel</desc>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 240 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="660 : 240 : 1"
+       inkscape:persp3d-origin="330 : 160 : 1"
+       id="perspective22" />
+    <!-- Specs are taken from "The Provisional Council of State Proclamation of
+      the Flag of the State of Israel," 25 Tishrei 5709 (28 October 1948)
+    For Magen David, the "Israel Science and Technology Homepage" at
+      http://www.science.co.il/Israel-flag.asp specifies each side as 60 cm.
+      Outer radius is then 30 / cos(30) = 20 * sqrt(3)
+    For equilateral triangles, middle radius = outer radius - width:
+      20 * sqrt(3) - 5.5
+    Coordinates for upward-pointing triangle relative to center are then:
+      (                            0,-(20*sqrt(3) - 5.5)          )
+      (-(20*sqrt(3) - 5.5) * cos(30), (20*sqrt(3) - 5.5) * sin(30))
+      ( (20*sqrt(3) - 5.5) * cos(30), (20*sqrt(3) - 5.5) * sin(30)) -->
+    <polygon
+       id="triangle"
+       points="0,-29.141016 -25.23686,14.570508 25.23686,14.570508 0,-29.141016 "
+       style="fill-opacity:0;stroke:#0038b8;stroke-width:5.5" />
+    <inkscape:perspective
+       id="perspective12"
+       inkscape:persp3d-origin="240 : 106.66667 : 1"
+       inkscape:vp_z="480 : 160 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 160 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <!-- "The flag is 220 cm long and 160 cm wide.  The background is white" -->
+  <!-- "...two stripes of dark sky-blue, 25 cm broad, over the whole length of
+    the flag, at a distance of 15 cm from the top and from the bottom..."
+    Legislation does not specify exact shade of blue; "#0038b8" is typical of
+    flags used in Israel -->
+  <g
+     id="g2409"
+     transform="matrix(0.5,0,0,0.5,-10,0)">
+    <rect
+       y="0"
+       x="0"
+       id="background"
+       style="fill:#ffffff"
+       height="320"
+       width="440" />
+    <rect
+       y="0"
+       x="0"
+       height="320"
+       width="480"
+       id="rect10559"
+       style="opacity:1;fill:#000055;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       transform="matrix(1.14,0,0,1,-5.6,0)"
+       d="m 200,160 c 0,66.27417 -35.81722,120 -80,120 C 75.81722,280 40,226.27417 40,160 40,93.72583 75.81722,40 120,40 c 44.18278,0 80,53.72583 80,120 z"
+       sodipodi:ry="120"
+       sodipodi:rx="80"
+       sodipodi:cy="160"
+       sodipodi:cx="120"
+       id="path10615"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+  </g>
+  <path
+     style="fill:#000055;fill-opacity:1"
+     d="m 54.845548,119.91173 c -0.544435,-0.92859 -3.246749,-5.60318 -6.005148,-10.38802 l -5.015277,-8.6997 -12.012566,-0.0519 L 19.8,100.72031 25.730185,90.45987 C 29.636124,83.70178 31.630576,80.062089 31.57311,79.797064 31.52513,79.575761 28.863528,74.868029 25.658446,69.33544 l -5.827433,-10.059254 11.988468,-0.0545 11.988465,-0.0545 5.919539,-10.265908 c 3.255733,-5.646255 5.976158,-10.300917 6.045376,-10.343696 0.06922,-0.04278 2.802743,4.556137 6.074495,10.21982 L 67.796001,59.075 79.797985,59.175593 91.8,59.276186 l -5.75789,9.95866 c -3.166822,5.477265 -5.847308,10.147241 -5.956632,10.377722 -0.168325,0.354872 0.712918,1.997542 5.753172,10.724102 3.27356,5.66776 5.95193,10.34464 5.95193,10.39305 0,0.0484 -5.40595,0.11136 -12.013196,0.1399 l -12.013197,0.0519 -5.293318,9.15392 c -2.911315,5.03465 -5.595287,9.68733 -5.964381,10.33925 L 55.835411,121.6 54.845548,119.91173 z m 3.229693,-15.13389 c 1.171109,-2.02845 2.12929,-3.74858 2.12929,-3.82251 0,-0.0739 -1.999275,-0.13442 -4.442838,-0.13442 -2.443566,0 -4.41266,0.0725 -4.375776,0.16113 0.253562,0.60926 4.319045,7.48323 4.425995,7.48353 0.07374,2.1e-4 1.092227,-1.65927 2.263333,-3.68773 l -4e-6,0 z M 39.845861,93.93032 c -0.157537,-0.24897 -1.183026,-2.01456 -2.27886,-3.92354 -1.527752,-2.66139 -2.0452,-3.41211 -2.218705,-3.21896 -0.260282,0.28975 -4.315601,7.32614 -4.315601,7.48799 0,0.0589 2.047408,0.10717 4.549799,0.10717 l 4.549809,0 -0.286442,-0.45266 z m 28.359632,-6.68941 c 2.242823,-3.87281 4.053482,-7.184257 4.023698,-7.358769 -0.02978,-0.174516 -1.864809,-3.455784 -4.077848,-7.291711 l -4.023703,-6.97442 -8.330395,0.04905 -8.330405,0.04905 -3.905156,6.7397 c -2.147831,3.706835 -3.995507,6.924504 -4.105937,7.150376 -0.207871,0.425152 -0.409686,0.05247 6.50635,12.014724 l 1.600632,2.76851 8.282456,-0.0525 8.282455,-0.0525 4.077853,-7.04148 z m 12.283186,6.87866 c -0.03577,-0.14487 -1.012762,-1.90992 -2.171087,-3.92233 -1.616974,-2.80924 -2.158959,-3.6007 -2.333911,-3.40821 -0.281343,0.3095 -4.311596,7.28806 -4.311596,7.46569 0,0.0705 1.998367,0.12826 4.440821,0.12826 3.558919,0 4.427903,-0.0523 4.375773,-0.26341 l 0,0 z m -42.648883,-24.633243 2.232205,-3.872811 -4.519655,0 c -2.485807,0 -4.519651,0.03965 -4.519651,0.08812 0,0.04847 0.620555,1.157499 1.379012,2.464516 0.758457,1.307014 1.762403,3.039767 2.231001,3.850555 0.468596,0.810788 0.877387,1.444516 0.90843,1.408296 0.03104,-0.03622 1.060934,-1.80863 2.288653,-3.938679 l 5e-6,0 z m 42.683792,-3.721923 c 3.45e-4,-0.08299 -1.991091,-0.150888 -4.425437,-0.150888 -2.434336,0 -4.426066,0.04816 -4.426066,0.107018 0,0.0942 2.99546,5.315778 4.071444,7.097194 l 0.402084,0.665694 2.188663,-3.784063 c 1.203767,-2.081234 2.188957,-3.851967 2.189302,-3.934955 l 1e-5,0 z M 58.133468,55.263409 c -1.239928,-2.151704 -2.31696,-3.849202 -2.393397,-3.772222 -0.18257,0.183856 -4.387682,7.45138 -4.387682,7.583041 0,0.05575 2.032986,0.101365 4.517751,0.101365 l 4.51776,0 -2.254432,-3.912184 z"
+     id="path3210" />
+</svg>

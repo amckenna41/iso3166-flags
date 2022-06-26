@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="550"
+   height="280"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="Flag_of_Lordship_of_Tayan.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.67292995"
+     inkscape:cx="230.73206"
+     inkscape:cy="309.53109"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="M 0,0 H 550 L 330,140 550,280 H 0 Z"
+     fill="#ff9700"
+     id="path2"
+     style="fill:#f7e017;fill-opacity:1;stroke-width:0.957427" />
+  <path
+     style="stroke-width:5.62721"
+     d="m 173.16278,55.073352 a 84.202401,84.614294 0 0 1 84.2024,84.614288 84.202401,84.614294 0 0 1 -84.2024,84.6143 84.202401,84.614294 0 0 1 -67.9345,-34.77648 67.361921,67.691435 0 0 0 45.48052,17.85362 67.361921,67.691435 0 0 0 67.36192,-67.69144 67.361921,67.691435 0 0 0 -67.36192,-67.691428 67.361921,67.691435 0 0 0 -45.47491,17.8649 84.202401,84.614294 0 0 1 67.92889,-34.78776 z"
+     id="path6" />
+  <path
+     d="m 98.518452,111.83536 7.681098,13.62241 h 16.13031 l -8.44921,14.37921 8.44921,13.62242 h -16.13031 l -7.681098,13.6224 -8.4492,-13.6224 h -16.13031 l 8.44921,-13.62242 -8.44921,-14.37921 h 16.13031 z"
+     style="fill:#000000;stroke-width:0.762434"
+     id="path8" />
+</svg>
