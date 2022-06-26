@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="696"
+   width="877"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Traffic Bureau Maritime Office Vessel ensign.svg">
+  <defs
+     id="defs168" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview166"
+     showgrid="false"
+     inkscape:zoom="0.31466666"
+     inkscape:cx="175.62492"
+     inkscape:cy="107.56582"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#ffffff"
+     id="rect3036"
+     width="877"
+     height="696"
+     x="0"
+     y="0" />
+  <path
+     style="fill:#ff0000"
+     d="m 368.49918,291.68797 0,57.20289 c 0,62.10111 2.76196,77.46483 15.88751,90.58474 10.49369,10.20591 28.2165,20.23382 44.09594,20.0933 l 0,16.85362 22.77751,0 0,-16.85362 c 15.87945,0.14052 33.60226,-9.88739 44.09594,-20.0933 13.12555,-13.11991 15.88752,-28.48363 15.88752,-90.58474 l 0,-57.20289 -22.7775,0 0,56.8788 c -6.3e-4,60.44426 -2.10502,71.67428 -16.04963,84.10283 -5.9522,5.30508 -21.44298,7.45656 -32.58561,7.45355 -11.1163,-0.003 -26.55235,-2.14847 -32.50455,-7.45355 -13.94461,-12.42855 -16.13006,-23.65857 -16.13069,-84.10283 l 0,-56.8788 z"
+     id="path2999"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csccccccscccsasccc" />
+  <path
+     style="fill:#ff0000"
+     d="m 439.83086,139.0389 -244.95948,191.54056 154.1737,0 0.001,-25.60421 -62.41652,6.4e-4 153.201,-119.5913 153.28205,119.5913 -62.49628,0 0,25.60357 154.25474,0 z"
+     id="path3007"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:#ff0000"
+     d="m 410.68473,304.97525 58.36289,0 0,25.62201 -58.36229,-3e-4 z"
+     id="path4308"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path3012"
+     d="m 439.83086,554.0389 -244.95948,-191.53991 154.1737,0 0,25.60291 -62.41522,6.5e-4 153.201,119.59131 153.28205,-119.59131 -62.49628,0 0,-25.60356 154.25474,0 z"
+     style="fill:#ff0000"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path3027"
+     d="m 410.68533,362.48019 58.36229,0 0,25.62203 -58.36229,0 z"
+     style="fill:#ff0000" />
+</svg>

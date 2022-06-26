@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="780" height="520" viewBox="0 0 780 520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Wuchang uprising flag (October 10 1911) and Republic of China army flag (ca. 1913-1928)</title>
+<defs>
+<g id="circs">
+<circle cx="0" cy="-200" r="19"/>
+<circle cx="36.63889" cy="41.3664" r="12.66667"/>
+</g>
+</defs>
+<rect width="780" height="520" fill="rgb(239,0,0)"/>
+<path d="M390,65
+L321.596,452.938
+L518.557,111.791
+L216.795,365
+L586.961,230.271
+L193.039,230.271
+L563.205,365
+L261.443,111.791
+L458.404,452.938Z"/>
+<g transform="translate(390,265)" fill="rgb(255,239,0)">
+<use xlink:href="#circs"/>
+<use transform="rotate(40)" xlink:href="#circs"/>
+<use transform="rotate(80)" xlink:href="#circs"/>
+<use transform="rotate(120)" xlink:href="#circs"/>
+<use transform="rotate(160)" xlink:href="#circs"/>
+<use transform="rotate(200)" xlink:href="#circs"/>
+<use transform="rotate(240)" xlink:href="#circs"/>
+<use transform="rotate(280)" xlink:href="#circs"/>
+<use transform="rotate(320)" xlink:href="#circs"/>
+</g>
+</svg>

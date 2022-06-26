@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="300px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 394.737 236.842"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="Q" horiz-adv-x="777"><path d="M619.668 76.6659c43.8331,-30.3326 84.499,-52.3333 121.499,-66.3327l-27.8325 -66.0001c-51.3336,18.5008 -102.667,47.8338 -153.835,87.8344 -52.9985,-29.5011 -111.5,-44.3339 -175.665,-44.3339 -64.8341,0 -123.5,15.6662 -176.334,46.8322 -52.6659,31.3342 -93.3337,75.1673 -121.833,131.834 -28.4996,56.6665 -42.6671,120.501 -42.6671,191.333 0,70.6678 14.3339,135.001 42.9997,193 28.6678,57.8344 69.3336,102 122.334,132.335 52.8341,30.1663 112.001,45.3317 177.334,45.3317 66.1664,0 125.666,-15.6662 178.832,-47.1667 53.0004,-31.3323 93.5,-75.3317 121.334,-131.832 27.8325,-56.5002 41.6656,-120.166 41.6656,-191.167 0,-58.8341 -8.83277,-111.834 -26.8328,-158.833 -17.8337,-47.0004 -44.8328,-88.0007 -80.9992,-122.835zm-208.502 121.168c54.6672,-15.3336 99.6682,-38.1676 135.167,-68.5002 55.6668,50.8328 83.4993,127.166 83.4993,229 0,57.9988 -9.83245,108.667 -29.4992,152 -19.6668,43.166 -48.5008,76.8341 -86.334,100.834 -37.9994,23.8318 -80.5003,35.8319 -127.833,35.8319 -70.4996,0 -129.166,-24.1663 -175.667,-72.499 -46.6659,-48.3327 -69.8325,-120.501 -69.8325,-216.667 0,-92.9992 23.0003,-164.5 68.9991,-214.333 46.167,-49.6668 105.001,-74.6666 176.5,-74.6666 34.0007,0 65.8338,6.3345 95.8338,18.9997 -29.6674,19.3342 -60.9998,33.001 -93.8326,41.0004l22.9985 69.001z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";src:url("#FontID0") format(svg)}
+    .fil0 {fill:red}
+    .fil1 {fill:white}
+    .fnt0 {font-weight:normal;font-size:139.254;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="0,0 329.128,98.7382 394.737,118.421 328.844,138.188 0,236.842 "/>
+  <text x="47.3147" y="166.253"  class="fil1 fnt0">Q</text>
+ </g>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600.00000px"
+   height="400.00000px"
+   id="svg1298"
+   sodipodi:version="0.32"
+   inkscape:version="0.40+cvs"
+   sodipodi:docbase="D:\"
+   sodipodi:docname="Mongolia wewnętrzna.svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4250000"
+     inkscape:cx="300.00000"
+     inkscape:cy="200.00000"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="749"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="0.00000000"
+       x="0.00000000"
+       height="400.00000"
+       width="600.00000"
+       id="rect4339"
+       style="fill:#0000fa;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:2.5000000;stroke-miterlimit:4.0000000;stroke-dashoffset:0.00000000;stroke-opacity:1.0000000" />
+    <g
+       transform="matrix(0.901729,0.000000,0.000000,0.901729,-36.14755,-271.5112)"
+       id="g5144">
+      <path
+         transform="matrix(1.129697,0.000000,0.000000,1.090058,-25.85513,-34.65934)"
+         d="M 419.25967 530.50061 A 66.389488 68.803650 0 1 1  286.48069,530.50061 A 66.389488 68.803650 0 1 1  419.25967 530.50061 z"
+         sodipodi:ry="68.803650"
+         sodipodi:rx="66.389488"
+         sodipodi:cy="530.50061"
+         sodipodi:cx="352.87018"
+         id="path1298"
+         style="fill:#ffc800;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:2.5000000;stroke-miterlimit:4.0000000;stroke-dashoffset:0.00000000;stroke-opacity:1.0000000"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cszcscssccscc"
+         id="path1300"
+         d="M 343.38641,373.55655 C 343.38641,373.55655 324.41586,408.36630 323.37940,414.99963 C 322.62952,419.79887 321.05716,437.68614 323.73667,443.22380 C 326.41619,448.76145 340.88554,456.08545 347.31636,456.44272 C 353.74718,456.79999 366.73467,460.51983 384.47222,456.08545 C 451.04991,439.44103 413.05367,378.91557 407.69464,371.41294 C 406.26557,379.98737 407.45047,411.93299 397.33387,411.78422 C 383.15624,411.57573 394.83299,378.55831 389.83124,371.41295 C 384.94410,364.43132 384.11496,352.83501 379.11320,343.90331 C 376.96960,361.05217 370.18151,376.77196 370.18151,381.41644 C 370.18151,386.06093 371.22066,422.46398 361.24981,423.21680 C 346.59235,424.32348 346.24456,404.28160 350.53177,401.78072 C 360.53528,394.27809 343.38641,373.55655 343.38641,373.55655 z "
+         style="fill:#fa0000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000" />
+      <path
+         id="path2062"
+         d="M 284.03125,578.17181 C 280.84228,587.60000 279.03125,597.64012 279.03125,608.14056 C 279.03125,659.89057 321.03126,701.89059 372.78125,701.89056 C 424.53125,701.89056 466.53126,659.89058 466.53125,608.14056 C 466.53125,597.64012 464.72022,587.60000 461.53125,578.17181 C 449.00997,615.22009 414.03862,641.95306 372.78125,641.95306 C 331.52389,641.95306 296.55254,615.22010 284.03125,578.17181 z "
+         style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:2.5000000;stroke-miterlimit:4.0000000;stroke-dashoffset:0.00000000;stroke-opacity:1.0000000" />
+    </g>
+  </g>
+</svg>

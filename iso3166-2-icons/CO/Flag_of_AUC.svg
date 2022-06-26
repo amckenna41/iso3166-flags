@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+	 width="450px" height="300px"
+	 viewBox="0 0 450 300">
+<rect fill="#093" width="450" height="300" x="0" y="0" />
+<text fill="white" font-family="sans-serif" font-size="140" font-weight="bold" text-anchor="middle" x="225" y="200">AUC</text>
+</svg>

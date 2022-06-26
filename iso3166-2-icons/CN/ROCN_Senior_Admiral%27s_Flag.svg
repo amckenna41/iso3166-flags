@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="750"
+   width="1125"
+   version="1.0"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ROCN_Senior_Admiral%27s_Flag.svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="408"
+     inkscape:cy="375"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#ffdb00;fill-opacity:1"
+     d="M0,0,0,750,1125,750,1125,0,0,0z"
+     id="path6" />
+  <path
+     style="fill:#000095;fill-opacity:1"
+     d="M0,66.176,0,750h1125v-683.82h-1125z"
+     id="path8" />
+  <path
+     style="fill:#ffffff;"
+     d="M562.5,625,437.5,158.49,779.01,500,312.5,375,779.01,250,437.5,591.51,562.5,125,687.5,591.51,345.99,250,812.5,375,345.99,500,687.5,158.49,562.5,625h-0.00002z"
+     id="path10" />
+  <path
+     style="fill:#000095;fill-opacity:1"
+     d="m704.17,375c0,78.24-63.426,141.67-141.67,141.67-78.24,0-141.67-63.426-141.67-141.67,0-78.24,63.426-141.67,141.67-141.67,78.24,0,141.67,63.426,141.67,141.67z"
+     id="path12" />
+  <path
+     style="fill:#ffffff;"
+     d="m687.5,375a125,125,0,0,1,-250,0,125,125,0,1,1,250,0z"
+     id="path14" />
+</svg>

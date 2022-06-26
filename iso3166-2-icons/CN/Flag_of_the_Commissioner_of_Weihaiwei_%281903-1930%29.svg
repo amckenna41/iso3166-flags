@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="600" version="1.1" viewBox="0 0 60 30" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs>
+<clipPath id="a">
+<circle class="fil2 str0" cx="749.91" cy="250.13" r="125.94" fill="#fff"/>
+</clipPath>
+</defs>
+<clipPath id="t">
+<path d="m30 15h30v15zm0 0v15h-30zm0 0h-30v-15zm0 0v-15h30z"/>
+</clipPath>
+<path d="m0 0v30h60v-30z" fill="#00247d"/>
+<path d="m0 0 60 30m0-30-60 30" fill="none" stroke="#fff" stroke-width="6"/>
+<path d="m0 0 60 30m0-30-60 30" clip-path="url(#t)" fill="none" stroke="#cf142b" stroke-width="4"/>
+<path d="m30 0v30m-30-15h60" fill="none" stroke="#fff" stroke-width="10"/>
+<path d="m30 0v30m-30-15h60" fill="none" stroke="#cf142b" stroke-width="6"/>
+<g transform="matrix(.052923 0 0 .052923 -9.6876 1.7623)" clip-path="url(#a)">
+<path d="m641.69 326.07s64.501 91.903 179.38 37.941c0 0 50.682-36.38 54.113-78.475l-254.07-2.113z" fill="#477c6a"/>
+<path d="m873.98 288.54h-247.04s-37.521-116.35 77.99-158.93c0 0 132.37-51.434 173.69 100.75 0 0 7.587 29.517-4.637 58.179z" fill="#9cbad3"/>
+<path d="m652.97 338.99s36.256 9.318 51.959-15.344c0 0 90.532-12.02 118.25-23.716l-186.97 16.444z" fill="#40705f"/>
+<polygon points="834.98 316.37 837.62 314.16 839.51 316.37 841.1 306.25 845.84 312.89 849.32 308.47 852.48 310.36 857.85 306.88 863.23 300.77 863.23 293.29 824.95 298.03 824.95 300.77 833.51 305.62" fill="#34604f"/>
+<path d="m841.1 300.77s-5.691-74.197-11.383-88.741c0 0-1e-3 30.985 2.318 46.584 0 0-16.652-16.02-17.917-24.873 0 0 0.211-2.741 1.265-4.638 0 0-1.054-0.632-3.162 2.319 0 0-3.161-7.378-3.161-12.437 0 0-1.896 17.496 4.639 28.246 0 0-2.319 15.599 16.019 29.511 0 0 7.379 8.221 0 24.029z" fill="#3c4f26" stroke="#263315" stroke-miterlimit="10"/>
+<path d="m838.99 300.77s8.01-36.256 0-79.467c0 0-12.226 16.863-17.917 18.971 0 0 6.115-15.809 12.648-22.343 0 0 9.064-9.907 10.118 0 0 0 1.265 4.636 2.529 13.701 0 0 3.794-20.024 10.117-22.976 0 0 21.331-9.242 0 4.216 0 0-3.584 12.225-4.005 16.863 0 0 10.117-6.745 18.338-8.642 0 0-18.128 13.701-20.446 23.186 0 0 0.212 5.338 2.319 8.888 0 0 5.691-26.594 21.289-9.098 0 0-0.211 2.108-6.956-2.107-6.745-4.216-10.116 13.28-12.436 21.711 0 0 9.273-20.447 19.392-8.432 0 0-14.123-0.633-16.652 17.284 0 0 7.378-11.172 14.967-11.172 0 0-10.331 10.118-10.54 18.128 0 0 8.01-12.226 10.54-13.279 0 0-6.324 30.142-9.064 34.568z" fill="#3c4f26" stroke="#263315" stroke-miterlimit="10"/>
+<path d="m791.57 279.69c-35.523-8.678-124.31-32.522-168.06-43.171-0.461 4.472-0.703 9.011-0.703 13.608 0 30.895 10.674 59.211 28.415 81.238 12.8 2.334 35.283 3.527 47.916-12.785 0 0 88.453-16.02 117.22-14.649 0 0 14.385 1.369 14.69-4.006 0 1e-3 5.815-9.168-39.482-20.235z" fill="#acb57c" stroke="#858c50" stroke-miterlimit="10"/>
+<path d="m831.82 288.54s-4.948 1.245-3.951 5.049l7.112 4.437z" fill="#d1cd37" stroke="#000" stroke-miterlimit="10"/>
+<polygon points="762.29 299.93 764.63 294.4 769.4 294.4 764.63 291.52 764.63 277.56 761.12 276.32 761.12 290.44 755.52 294.4 761.12 294.4" fill="#d1cd37" stroke="#000" stroke-miterlimit="10"/>
+<polygon points="781.1 299.93 783.44 294.4 788.21 294.4 783.44 291.52 783.44 277.56 779.93 276.32 779.93 290.44 774.33 294.4 779.93 294.4" fill="#d1cd37" stroke="#000" stroke-miterlimit="10"/>
+<path d="m739.71 259.99s24.484 36.985 63.657 18.014c1e-3 0-14.543-32.654-63.657-18.014z" fill="#fff"/>
+<path d="m763.1 256.23c-6.748 0.024-14.495 1.109-23.391 3.76 0 0 10.412 15.721 28.516 21.405-13.104-11.47-5.264-24.931-5.125-25.165z" fill="#ad9d74"/>
+<path d="m739.71 259.99s24.484 36.985 63.657 18.014c1e-3 0-14.543-32.654-63.657-18.014z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<path d="m753.33 256.96s19.049 9.646 24.107 14.818c5.059 5.174 11.9 4.953 18.339 4.542 0 0 4.619-1.154 9.16 5.325 4.54 6.479 24.144 19.759 26.884 6.9 0 0-1.265-10.348-15.598-16.768 0 0-5.059-2.092-5.27-5.521-0.212-3.429-9.354-38.267-58.599-29.733l-27.677 3.004z" fill="#fff"/>
+<path d="m816.22 271.78s-5.059-2.092-5.27-5.521c-0.212-3.429-9.354-38.267-58.599-29.733l-27.677 3.004 28.652 17.432s7.253 3.673 13.996 7.702c5.575 1.65 10.413 2.342 13.484 1.596 7.923-1.927 23.187 3.95 26.56 9.853 3.371 5.902 5.269 5.291 5.269 5.291 9.834 0.946 15.478 6.753 17.972 10.126 0.537-0.778 0.949-1.761 1.21-2.981 1e-3 -1e-3 -1.264-10.349-15.597-16.769z" fill="#544538"/>
+<path d="m753.33 256.96s19.049 9.646 24.107 14.818c5.059 5.174 11.9 4.953 18.339 4.542 0 0 4.619-1.154 9.16 5.325 4.54 6.479 24.144 19.759 26.884 6.9 0 0-1.265-10.348-15.598-16.768 0 0-5.059-2.092-5.27-5.521-0.212-3.429-9.354-38.267-58.599-29.733l-27.677 3.004z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<circle cx="821.07" cy="288.33" r="2.108"/>
+<path d="m768.22 236.97s-3.928 0.421-1.607 3.372c-1e-3 0 0.476 0.211 1.607-3.372z"/>
+<path d="m764.63 242.28s-3.927 0.421-1.607 3.373c0-1e-3 0.476 0.21 1.607-3.373z"/>
+<path d="m763.46 248.44s-3.928 0.423-1.609 3.373c0 0 0.477 0.211 1.609-3.373z"/>
+<path d="m763.46 253.96s-3.928 0.42-1.609 3.371c0 0 0.477 0.211 1.609-3.371z"/>
+<path d="m774.16 238.26s-3.928 0.421-1.608 3.372c0 0 0.477 0.212 1.608-3.372z"/>
+<path d="m770.56 243.57s-3.928 0.421-1.608 3.372c-1e-3 0 0.477 0.212 1.608-3.372z"/>
+<path d="m769.4 249.73s-3.927 0.422-1.609 3.373c-1e-3 0 0.478 0.211 1.609-3.373z"/>
+<path d="m769.4 255.25s-3.928 0.42-1.609 3.372c-1e-3 0 0.477 0.211 1.609-3.372z"/>
+<path d="m780.1 239.95s-3.928 0.421-1.608 3.372c-1e-3 0 0.476 0.212 1.608-3.372z"/>
+<path d="m776.5 245.25s-3.928 0.421-1.608 3.373c0 0 0.476 0.21 1.608-3.373z"/>
+<path d="m775.33 251.42s-3.928 0.423-1.609 3.373c0 0 0.478 0.211 1.609-3.373z"/>
+<path d="m775.33 256.94s-3.927 0.42-1.609 3.371c0 1e-3 0.478 0.211 1.609-3.371z"/>
+<path d="m784.87 241.64s-3.928 0.421-1.608 3.373c0 0 0.477 0.211 1.608-3.373z"/>
+<path d="m781.27 246.94s-3.928 0.421-1.608 3.373c-1e-3 0 0.476 0.21 1.608-3.373z"/>
+<path d="m780.1 253.11s-3.928 0.422-1.609 3.373c-1e-3 0 0.477 0.211 1.609-3.373z"/>
+<path d="m780.1 258.63s-3.928 0.42-1.609 3.372c-1e-3 0 0.478 0.211 1.609-3.372z"/>
+<path d="m789.63 243.78s-3.927 0.421-1.607 3.373c0-1e-3 0.476 0.21 1.607-3.373z"/>
+<path d="m786.04 249.09s-3.927 0.42-1.607 3.372c0 0 0.476 0.211 1.607-3.372z"/>
+<path d="m784.87 255.25s-3.928 0.421-1.609 3.373c0 0 0.478 0.21 1.609-3.373z"/>
+<path d="m784.87 260.77s-3.928 0.421-1.609 3.371c0 1e-3 0.479 0.213 1.609-3.371z"/>
+<path d="m795.57 245.47s-3.928 0.421-1.608 3.372c-1e-3 0 0.477 0.211 1.608-3.372z"/>
+<path d="m791.98 250.77s-3.928 0.421-1.607 3.371c-1e-3 1e-3 0.476 0.213 1.607-3.371z"/>
+<path d="m790.81 256.94s-3.928 0.42-1.609 3.371c0 1e-3 0.477 0.211 1.609-3.371z"/>
+<path d="m790.81 262.46s-3.928 0.423-1.609 3.373c-1e-3 0 0.477 0.211 1.609-3.373z"/>
+<path d="m799.13 250.13s-3.928 0.422-1.608 3.373c0 0 0.476 0.211 1.608-3.373z"/>
+<path d="m795.53 255.44s-3.928 0.421-1.608 3.372c-1e-3 0 0.477 0.212 1.608-3.372z"/>
+<path d="m794.36 261.6s-3.927 0.42-1.609 3.372c-1e-3 1e-3 0.478 0.212 1.609-3.372z"/>
+<path d="m802.68 254.38s-3.928 0.423-1.608 3.373c-1e-3 0 0.476 0.211 1.608-3.373z"/>
+<path d="m799.08 259.69s-3.928 0.422-1.608 3.372c0 0 0.476 0.211 1.608-3.372z"/>
+<path d="m803.85 262.46s-3.928 0.422-1.608 3.372c-1e-3 0 0.476 0.212 1.608-3.372z"/>
+<path d="m702.07 280.33v16.757s1.639 8.379 9.417 11.383l-1.317-3.162 4.085 1.423-1.581-3.636 4.482-0.633s-5.734-5.849-10.41-6.007v-16.125z" fill="#d1cd37" stroke="#000" stroke-miterlimit="10"/>
+<path d="m720.72 273.37v16.757s1.639 8.379 9.417 11.383l-1.317-3.162 4.086 1.423-1.581-3.636 4.481-0.632s-5.734-5.85-10.41-6.008v-16.125z" fill="#d1cd37" stroke="#000" stroke-miterlimit="10"/>
+<path d="m746.03 224.26s27.574 7.166 3.879 40.892c-23.693 33.726-54.257 16.021-56.366 13.49 0 0-28.034 0.632-43.21 4.848l1.265-4.004-1.265-1.055s13.279-14.122 39.838-19.392c0 1e-3 23.82-44.897 55.859-34.779z" fill="#fff"/>
+<path d="m757.67 233.46c-3.693-7.135-11.642-9.205-11.642-9.205-22.006-6.949-40.134 12.054-49.33 24.638 34.733 22.227 53.665-1.932 60.972-15.433z" fill="#7193a8"/>
+<path d="m746.03 224.26s27.574 7.166 3.879 40.892c-23.693 33.726-54.257 16.021-56.366 13.49 0 0-28.034 0.632-43.21 4.848l1.265-4.004-1.265-1.055s13.279-14.122 39.838-19.392c0 1e-3 23.82-44.897 55.859-34.779z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<path d="m689.01 252.66s26.877 23.234-35.252 13.591l10.75-3.162-11.541-2.463s24.027-13.337 36.043-7.966z" fill="#877051" stroke="#000" stroke-miterlimit="10"/>
+<path d="m689.49 263.62s-14.387-6.798-11.225-28.614 26.717-6.481 33.515 12.331z" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+<path d="m689.36 261.67 18.311-14.959s-7.45-16.708-18.311-13.48c-10.862 3.227-1.155 26.213 0 28.439z" fill="#c6b27f" stroke="#000" stroke-miterlimit="10"/>
+<path d="m713.99 239.71s15.514-2.862 15.45 13.906c0 0 0.78 11.189-13.553 13.979 0 0-4.216 0.696-6.956 4.182l-5.059-2.235-3.162 2.235-4.215-2.235-4.217 2.235-4.004-2.235-2.741 2.235-1.265-5.576c2e-3 -1e-3 -0.63-15.337 29.722-26.491z" fill="#fff"/>
+<path d="m713.99 239.71c-22.75 8.36-28.093 19.07-29.343 23.91 24.434-1.297 34.836-23.835 34.836-23.835-2.99-0.534-5.493-0.075-5.493-0.075z" fill="#7193a8"/>
+<path d="m713.99 239.71s15.514-2.862 15.45 13.906c0 0 0.78 11.189-13.553 13.979 0 0-4.216 0.696-6.956 4.182l-5.059-2.235-3.162 2.235-4.215-2.235-4.217 2.235-4.004-2.235-2.741 2.235-1.265-5.576c2e-3 -1e-3 -0.63-15.337 29.722-26.491z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<path d="m752.97 216.3s-3.702 2.037-2.958 6.473c0 0 5.429 2.779 8.699 3.845 0 0-0.681-6.049-5.741-10.318z" fill="#cf142b" stroke="#000" stroke-miterlimit="10"/>
+<line x1="750.11" x2="758.71" y1="220.08" y2="226.62" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<path d="m743.87 200.65s18.339 8.379 3.953 27.034c0 0-1.266 3.32-1.266 6.166l-2.688 0.632-1.106 3.32-3.161-2.529-2.056 2.529-1.581-4.983-1.265 3.706-1.896-3.706s-4.269 9.409 12.963 13.045l-5.059 1.382 2.124 4.049-4.021-1.161 1.219 3.037s-8.965 1.389-15.446-8.255c0 0-9.939 7.597-22.517 7.12l1.174-2.725-2.055-2.972s2.846-1.739 4.426-3.32c0 0-12.604-7.539-8.91-15.31l1.797 0.924 1.265-3.162s8.379 13.279 14.069 3.004c5.692-10.276 9.012-32.567 30.037-27.825z" fill="#fff"/>
+<path d="m743.87 200.65c-21.025-4.743-24.346 17.548-30.037 27.824-1.526 2.756-3.246 3.808-4.946 3.885 2.883 5.611 9.32-0.935 9.32-0.935 7.564-22.828 21.632-27.01 30.77-27.075-2.485-2.498-5.107-3.699-5.107-3.699z" fill="#7193a8"/>
+<path d="m743.87 200.65s18.339 8.379 3.953 27.034c0 0-1.266 3.32-1.266 6.166l-2.688 0.632-1.106 3.32-3.161-2.529-2.056 2.529-1.581-4.983-1.265 3.706-1.896-3.706s-4.269 9.409 12.963 13.045l-5.059 1.382 2.124 4.049-4.021-1.161 1.219 3.037s-8.965 1.389-15.446-8.255c0 0-9.939 7.597-22.517 7.12l1.174-2.725-2.055-2.972s2.846-1.739 4.426-3.32c0 0-12.604-7.539-8.91-15.31l1.797 0.924 1.265-3.162s8.379 13.279 14.069 3.004c5.692-10.276 9.012-32.567 30.037-27.825z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<circle cx="746.66" cy="214.99" r="2.32"/>
+<line x1="652.97" x2="681.48" y1="260.63" y2="255.65" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<line x1="653.76" x2="684.33" y1="266.26" y2="265.3" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<line x1="664.51" x2="684.48" y1="263.09" y2="264.37" fill="none" stroke="#000" stroke-miterlimit="10"/>
+<path d="m749.91 111.58c-76.518 0-138.55 62.031-138.55 138.55 0 76.517 62.033 138.55 138.55 138.55 76.52 0 138.55-62.033 138.55-138.55 0-76.52-62.03-138.55-138.55-138.55zm0 264.5c-69.562 0-125.95-56.394-125.95-125.96 0-69.562 56.393-125.95 125.95-125.95 69.563 0 125.95 56.392 125.95 125.95 1e-3 69.561-56.39 125.96-125.95 125.96z" fill="#fff"/>
+</g>
+<g transform="matrix(-.040626 0 0 .040418 54.395 2.8824)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<g transform="rotate(13.5,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(27,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(40.5,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(54,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(67.5,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(81,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(81,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<g transform="rotate(13.5,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(27,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(40.5,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(54,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(67.5,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(81,600,300)">
+<polygon class="fil3" points="631 138 657 147 658 145 631 136" fill="#5c3021"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+</g>
+</g>
+<g transform="matrix(.040626 0 0 .040418 5.6045 2.8824)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<g transform="rotate(13.5,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(27,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(40.5,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(54,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(67.5,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(81,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(81,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<g transform="rotate(13.5,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(27,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(40.5,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(54,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(67.5,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil6 str6" d="m636 149 5-8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<path class="fil6 str6" d="m642 133v8" fill="none" stroke="#5c3021" stroke-width=".9"/>
+<circle class="fil4 str2" cx="637" cy="147" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<circle class="fil4 str2" cx="642" cy="132" r="3" fill="#cf142b" stroke="#5c3021" stroke-width=".4"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+<g transform="rotate(81,600,300)">
+<polygon class="fil3" points="658 145 631 136 631 138 657 147" fill="#5c3021"/>
+<path class="fil5 str3" d="m608 124c29 1 29 15 29 15s-21 0-29-15z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m616 129c6 1 20 10 20 11" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m604 145c28 7 33-5 33-5s-21-7-33 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m613 144c6 1 21-3 23-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil5 str3" d="m637 140s-18-13-31-5c10 11 31 5 31 5z" fill="#3d6221" stroke="#1a472b" stroke-width=".9"/>
+<path class="fil6 str3" d="m637 140-24-3" fill="none" stroke="#1a472b" stroke-width=".9"/>
+</g>
+</g>
+</g>
+<path class="fil7 str4" d="m29.75 21.632c-0.36413 0.36491-0.68781 0.52709-0.68781 0.52709-0.04046 0 0.2023 0.08109 0.2023 0.08109v0.20273c0.32368-0.12164 0.84965-0.89199 0.84965-0.89199z" fill="#2e87cf" stroke="#131516" stroke-width=".016201"/>
+<path class="fil8 str4" d="m29.75 21.753-0.48551 0.40545h0.12138l-0.04046 0.12164c0.28322-0.12164 0.52597-0.56763 0.52597-0.56763z" fill="#00247d"/>
+<path class="fil8 str4" d="m29.629 20.902c-0.12138 0.32436 0.04046 0.85145 0.04046 0.85145l-0.2023-0.16218-0.12138-0.60818z" fill="#00247d" stroke="#131516" stroke-width=".016201"/>
+<path class="fil8 str4" d="m30.317 21.835c0.36413 0 0.40459-0.446 0.40459-0.52709 0-0.08109 0.04046-0.24327 0.04046-0.24327z" fill="#00247d" stroke="#131516" stroke-width=".016201"/>
+<path class="fil8 str4" d="m30.317 21.835c0.24276-0.02433 0.24276-0.12164 0.26298-0.16218 0.01618-0.04055 0.12138-0.32436 0.12138-0.36491 0.02023-0.04054 0.06069-0.24327 0.06069-0.24327l-0.2023 0.23516-0.24276 0.56763z" fill="#00247d" stroke="#131516" stroke-width=".016201"/>
+<path class="fil7 str4" d="m29.386 20.78c-0.24276 0.32436 0.04046 0.8109 0.12138 0.93254 0.08092 0.12164 0.32368 0.12164 0.32368 0.12164s0.44505 0.08109 0.56643 0 0.28322-0.56763 0.40459-0.77036c0.08092-0.16218-0.08092-0.40545-0.28322-0.32436-0.32368 0.16218-0.48551 0.12164-0.93057 0-0.12138-0.04054-0.16184 0-0.2023 0.04055zm0.56643 1.0136c-0.48551 0-0.56643-0.60818-0.56643-0.77036 0.60689 0.24327 0.80919 0.24327 1.2947 0 0 0-0.24276 0.77036-0.72827 0.77036z" fill="#2e87cf" stroke="#131516" stroke-width=".016201"/>
+<path class="fil7 str4" d="m30.236 21.672 0.68781 0.52709-0.2023 0.08109v0.20273c-0.32368-0.12164-0.84965-0.892-0.84965-0.892z" fill="#2e87cf" stroke="#131516" stroke-width=".016201"/>
+<path class="fil8 str4" d="m30.155 21.753 0.56643 0.40545h-0.12138l0.04046 0.12164c-0.2023-0.04055-0.56643-0.52709-0.56643-0.52709z" fill="#00247d"/>
+<path class="fil7 str4" d="m29.629 21.794c0.32368 0.16218 0.56643 0.12164 0.64735 0 0.04046-0.08109 0.08092-0.20273 0-0.28382-0.08092-0.08109-0.28322-0.08109-0.36414-0.04055-0.16184 0.08109 0.2023 0.28382 0.16184 0.28382" fill="#2e87cf" stroke="#131516" stroke-width=".016201"/>
+<path class="fil6 str5" d="m29.67 21.753c0.28322 0.12164 0.44505 0.08109 0.48551 0.04054 0.08092-0.08109 0.12138-0.28382-0.08092-0.28382-0.12138 0-0.24276 0.20272-0.24276 0.20272" fill="none" stroke="#00247d" stroke-linecap="round" stroke-width=".025"/>
+<path class="fil7 str4" d="m29.912 21.47s-0.04046 0.08109 0.08092 0.16218c0.08092 0.04055 0.12138 0 0.12138 0.08109s-0.2023 0.12164-0.36414 0.04054c-0.32367-0.16218 0.16184-0.28382 0.16184-0.28382z" fill="#2e87cf" stroke="#131516" stroke-width=".016201"/>
+<path class="fil6 str5" d="m30.034 21.753c-0.28322-0.04055-0.24276-0.20273-0.24276-0.20273" fill="none" stroke="#00247d" stroke-linecap="round" stroke-width=".025"/>
+</svg>

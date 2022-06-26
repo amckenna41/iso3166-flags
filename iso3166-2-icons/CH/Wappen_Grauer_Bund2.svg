@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="438" height="480" viewBox="21 15 438 480"
+	 overflow="visible" enable-background="new 21 15 438 480" xml:space="preserve">
+<title>Wappen Davos (CH-GR)</title>
+<g>
+	<defs>
+		<path id="XMLID_4_" d="M24,276.002c0,119.293,96.707,216,216.001,216c119.295,0,216.002-96.707,216.002-216V18H24V276.002z"/>
+	</defs>
+	<clipPath id="XMLID_6_">
+		<use xlink:href="#XMLID_4_" />
+	</clipPath>
+	<g clip-path="url(#XMLID_6_)">
+		<path id="feldor-1" d="M-15,240.001h255.001V-15H-15V240.001z"/>
+		<path id="feldul-1" d="M240.001,495.003h255.002V240.001H240.001V495.003z"/>
+		<path id="feldol-1" fill="#FFFFFF" stroke="#000000" stroke-width="2.5" stroke-miterlimit="10" d="M240.001-15v255.001h255.002
+			V-15H240.001z"/>
+		<path id="feldur-1" fill="#FFFFFF" stroke="#000000" stroke-width="2.5" stroke-miterlimit="10" d="M-15,240.001v255.002h255.001
+			V240.001H-15z"/>
+		<path id="kreuzor-1" fill="#FFFFFF" stroke="#000000" stroke-width="2.5" stroke-miterlimit="10" d="M-15,240.001h255.001V-15h-48
+			v207.001H-15V240.001z"/>
+		<path id="kreuzul-1" fill="#FFFFFF" stroke="#000000" stroke-width="2.5" stroke-miterlimit="10" d="M495.003,240.001H240.001
+			v255.002h48.001V288.002h207.001V240.001z"/>
+		<path id="kreuzol-1" d="M240.001-15v255.001h255.002v-48H288.002V-15H240.001z"/>
+		<path id="kreuzur-1" d="M240.001,495.003V240.001H-15v48.001h207.001v207.001H240.001z"/>
+		<path id="linie-1" fill="none" stroke="#202020" stroke-width="2.5" stroke-miterlimit="10" d="M192.001-15v207.001H-15"/>
+		<path id="linie-2" fill="none" stroke="#202020" stroke-width="2.5" stroke-miterlimit="10" d="M-15,288.002h207.001v207.001"/>
+		<path id="linie-3" fill="none" stroke="#202020" stroke-width="2.5" stroke-miterlimit="10" d="M288.002-15v207.001h207.001"/>
+		<path id="linie-4" fill="none" stroke="#202020" stroke-width="2.5" stroke-miterlimit="10" d="M495.003,288.002H288.002v207.001"
+			/>
+		<path id="linie-5" fill="none" stroke="#202020" stroke-width="2.5" stroke-miterlimit="10" d="M-15,240.001h510.003"/>
+		<path id="linie-6" fill="none" stroke="#202020" stroke-width="2.5" stroke-miterlimit="10" d="M240.001-15v510.003"/>
+	</g>
+</g>
+<path id="clip-boundary" fill="none" stroke="#000000" stroke-width="2.5" stroke-miterlimit="10" d="M24,276.002
+	c0,119.293,96.707,216,216.001,216c119.295,0,216.002-96.707,216.002-216V18H24V276.002z"/>
+</svg>

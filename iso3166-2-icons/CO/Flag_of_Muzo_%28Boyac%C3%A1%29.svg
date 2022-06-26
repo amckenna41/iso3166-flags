@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="750"
+   height="500"
+   id="svg3309"
+   version="1.0"
+   inkscape:version="0.46"
+   sodipodi:docname="Flag_of_Muzo.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3311" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.014"
+     inkscape:cx="375"
+     inkscape:cy="250"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3314">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.301697,-400.93362)">
+    <rect
+       style="fill:#1147af;stroke:none;fill-opacity:1"
+       id="rect3319"
+       width="749.72144"
+       height="500.21591"
+       x="88.70385"
+       y="400.93362" />
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect3369"
+       width="750.01782"
+       height="163.99104"
+       x="88.301697"
+       y="566.34167" />
+    <g
+       id="g3360"
+       transform="matrix(1.4664296,0.2873136,-0.2691401,1.5654486,-216.64464,-449.01609)">
+      <g
+         transform="matrix(-1.2642966,0.2056431,0,1.1006066,3011.1117,-572.05622)"
+         id="g9080">
+        <path
+           style="fill:#07894c;fill-rule:evenodd;stroke:#000000;stroke-width:0.55032009;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 1897.0477,701.80623 L 1933.2092,728.44222 L 1968.8414,701.62983 L 1933.0328,675.52302 L 1897.0477,701.80623 L 1897.0477,701.80623 z"
+           id="path38150" />
+        <path
+           id="path9084"
+           d="M 1921.3647,701.8897 L 1940.4932,715.91798 L 1959.3417,701.79679 L 1940.3999,688.04721 L 1921.3647,701.8897 z"
+           style="fill:none;stroke:#000000;stroke-width:0.55032009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.55032009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1933.0328,728.26583 L 1940.5299,715.91763"
+           id="path38153"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.55032009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1968.3123,701.62983 L 1959.2714,701.76241"
+           id="path38155"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.55032009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1921.3906,701.80623 L 1897.7533,701.80623"
+           id="path9090" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.55032009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1940.4853,688.1802 L 1933.0328,675.52302"
+           id="path38158"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <rect
+       y="729.90222"
+       x="88.301697"
+       height="171.04753"
+       width="750.04462"
+       id="rect3371"
+       style="fill:#fcdd09;stroke:none;fill-opacity:1" />
+  </g>
+</svg>

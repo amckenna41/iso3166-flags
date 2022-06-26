@@ -1,0 +1,4 @@
+<svg version="1.1" baseProfile="full" width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="600" fill="#FFF"/>
+<path fill="#008800" d="M0,0h1000v200H0V0z M0,400h1000v200H0V200z"/>
+</svg>

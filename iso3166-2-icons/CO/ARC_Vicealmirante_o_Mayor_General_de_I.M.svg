@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2540mm"
+   height="1693.3335mm"
+   viewBox="0 0 2540 1693.3335"
+   version="1.1"
+   id="svg3901"
+   inkscape:version="0.92.3 (d244b95, 2018-08-02)"
+   sodipodi:docname="ARC Vicealmirante o Mayor General de I.M.svg">
+  <defs
+     id="defs3895" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.082343742"
+     inkscape:cx="4800"
+     inkscape:cy="3200.0003"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3898">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1193.6488,707.6608)">
+    <g
+       id="g3931">
+      <path
+         style="fill:#ffffff;stroke-width:0.19720876"
+         d="m -1193.6488,-707.6608 h 2540 V 985.6726 h -2540 z"
+         id="path3745"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect3731"
+         transform="matrix(0.26458333,0,0,0.26458333,-1193.6488,-707.6608)"
+         d="M 0 0 L 0 2560 L 4160 2560 L 4160 0 L 0 0 z M 5440 0 L 5440 2560 L 9600 2560 L 9600 0 L 5440 0 z M 2080 640 A 640.00002 639.9999 0 0 1 2720 1280 A 640.00002 639.9999 0 0 1 2080 1920 A 640.00002 639.9999 0 0 1 1440 1280 A 640.00002 639.9999 0 0 1 2080 640 z M 7520 640 A 640.00002 639.9999 0 0 1 8160 1280 A 640.00002 639.9999 0 0 1 7520 1920 A 640.00002 639.9999 0 0 1 6880 1280 A 640.00002 639.9999 0 0 1 7520 640 z M 0 3840 L 0 6400 L 4160 6400 L 4160 3840 L 0 3840 z M 5440 3840 L 5440 6400 L 9600 6400 L 9600 3840 L 5440 3840 z M 2080 4480 A 640.00002 639.9999 0 0 1 2720 5120 A 640.00002 639.9999 0 0 1 2080 5760 A 640.00002 639.9999 0 0 1 1440 5120 A 640.00002 639.9999 0 0 1 2080 4480 z "
+         style="fill:#000080;stroke-width:0.31031641" />
+    </g>
+  </g>
+</svg>

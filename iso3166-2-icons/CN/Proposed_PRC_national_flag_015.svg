@@ -1,0 +1,25 @@
+<!-- Proposed flag of People's Republic of China (1948) -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="366" viewBox="0 0 550 366">
+<rect width="550" height="366" fill="#BE0000"/>
+<rect width="550" height="80" fill="#fdca0d" y="65" />
+<g transform="translate(140,112) scale(85)">
+<g id="a">
+<polygon id="b" fill="#fdca0d" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#b" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#a" transform="rotate(72)"/>
+<use xlink:href="#a" transform="rotate(-72)"/>
+<use xlink:href="#a" transform="rotate(144)"/>
+<use xlink:href="#a" transform="rotate(-144)"/>
+</g>
+<g transform="translate(140,112) scale(62)">
+<g id="c">
+<polygon id="d" fill="#BE0000" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#d" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#c" transform="rotate(72)"/>
+<use xlink:href="#c" transform="rotate(-72)"/>
+<use xlink:href="#c" transform="rotate(144)"/>
+<use xlink:href="#c" transform="rotate(-144)"/>
+</g>
+</svg>

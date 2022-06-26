@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0,0 312,208">
+	<rect width="312" height="208" fill="#fe0000"/>
+	<path id="s" d="M 0,26 l 24,-13 l 24,13 l 24,-13 l 24,13 l 24,-13 l 24,13 l 24,-13 l 24,13 l 24,-13 l 24,13 l 24,-13 l 24,13 l 24,-13 v 13 l -24,13 l -24,-13 l -24,13 l -24,-13 l -24,13 l -24,-13 l -24,13 l -24,-13 l -24,13 l -24,-13 l -24,13 l -24,-13 l -24,13 z" fill="#008000"/>
+	<use xlink:href="#s" y="52"/>
+	<use xlink:href="#s" y="104"/>
+	<use xlink:href="#s" y="156"/>
+	<rect width="156" height="104" fill="#000095"/>
+	<path id="r" d="M 88.4,52 L 78,91 L 67.6,52 L 78,13 M 78,62.4 L 117,52 L 78,41.6 L 39,52" fill="#fff"/>
+	<use xlink:href="#r" transform="rotate(30 78,52)"/>
+	<use xlink:href="#r" transform="rotate(60 78,52)"/>
+   <circle cx="78" cy="52" r="22.1" fill="#000095"/>
+   <circle cx="78" cy="52" r="19.5" fill="#fff"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
+<path d="M0 0H900V600H0z" fill="#fff"/>
+<path d="M0 0H900V150H0z" fill="#08639c"/>
+<path d="M0 0H900V75H0z" fill="#de2119"/>
+<path d="M0 225H900V600H0z"/>
+<path d="M450 0H900V600H0V300H450z" fill="#ffc500"/>
+<path id="a" d="m675 400 14.694631 29.774575 32.858195 4.774575-23.776413 23.176275 5.61285 32.725425L675 475l-29.389263 15.45085 5.61285-32.725425-23.776413-23.176275 32.858195-4.774575z" fill="#fff"/>
+</svg>

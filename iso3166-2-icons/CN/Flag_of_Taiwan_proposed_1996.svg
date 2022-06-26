@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg 
+	width="900" 
+	height="600" 
+	version="1.1" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<rect 
+		width="900" 
+		height="600" 
+		fill="green" />
+	<rect 
+		width="500" 
+		height="600" 
+		x="200" 
+		fill="white" />
+	<g 
+		id="quartet">
+		<g 
+			id="duo">
+			<g 
+				id="petal" 
+				fill="red">
+				<circle 
+					cy="165" 
+					cx="450" 
+					r="50" />
+				<polygon 
+					points="404.466,185.656 450.000,295.000, 495.534,185.656" />
+			</g>
+			<use 
+				xlink:href="#petal" 
+				transform="scale(1, -1)" 
+				y="-600" />
+		</g>
+		<use 
+			xlink:href="#duo" 
+			transform="rotate(90, 450, 300)" />
+	</g>
+	<use 
+		xlink:href="#quartet" 
+		transform="rotate(45, 450, 300)" />
+</svg>

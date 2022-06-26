@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3000"
+   height="2000"
+   id="svg2879"
+   version="1.1"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Proposal_4_for_the_PRC_flag.svg">
+  <metadata
+     id="metadata2896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2894">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 1000 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="3000 : 1000 : 1"
+       inkscape:persp3d-origin="1500 : 666.66667 : 1"
+       id="perspective2898" />
+    <inkscape:perspective
+       id="perspective2980"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1414"
+     inkscape:window-height="1030"
+     id="namedview2892"
+     showgrid="false"
+     inkscape:zoom="0.1668772"
+     inkscape:cx="-300.31422"
+     inkscape:cy="1255.3982"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2879"
+     inkscape:document-rotation="0" />
+  <rect
+     fill="#de2910"
+     width="3000"
+     height="2000"
+     id="rect2881"
+     style="fill:#ee1c25;fill-opacity:1" />
+  <path
+     fill="#ffde00"
+     id="star"
+     d="M 324.49468,741.854 L 390.98716,535.0722 L 216.25,406.8796 L 432.65922,406.4767 L 500.08545,200 L 567.3412,406.5327 L 783.75,407.1157 L 608.90711,535.163 L 675.22896,742 L 499.91436,614.6047 L 324.49468,741.854 L 324.49468,741.854 z"
+     style="fill:#ffff00;fill-opacity:1" />
+  <use
+     xlink:href="#star"
+     transform="matrix(0.3330938,-0.01279617,0.01279617,0.3330938,324.02407,726.27758)"
+     id="use2886"
+     x="0"
+     y="0"
+     width="3000"
+     height="2000" />
+  <use
+     height="2000"
+     width="3000"
+     y="0"
+     x="0"
+     id="use2994"
+     transform="matrix(0.3330938,-0.01279617,0.01279617,0.3330938,332.49865,997.46402)"
+     xlink:href="#star" />
+  <use
+     xlink:href="#star"
+     transform="matrix(0.3330938,-0.01279617,0.01279617,0.3330938,332.49865,1302.5488)"
+     id="use2998"
+     x="0"
+     y="0"
+     width="3000"
+     height="2000" />
+  <use
+     height="2000"
+     width="3000"
+     y="0"
+     x="0"
+     id="use3000"
+     transform="matrix(0.3330938,-0.01279617,0.01279617,0.3330938,332.49865,1582.2098)"
+     xlink:href="#star" />
+</svg>

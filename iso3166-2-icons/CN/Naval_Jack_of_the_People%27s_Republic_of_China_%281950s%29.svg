@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   width="2550.125"
+   height="1739.3751"
+   viewBox="21.397 0 2550.125 1739.3751"
+   enable-background="new 21.397 0 714.75 678.5"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="PLAN Jack.svg"><metadata
+   id="metadata12"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs10" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1600"
+   inkscape:window-height="848"
+   id="namedview8"
+   showgrid="false"
+   inkscape:zoom="0.24595018"
+   inkscape:cx="830.84055"
+   inkscape:cy="738.68071"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="图层_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+<rect
+   style="fill:#d01b14;fill-opacity:1;stroke:none"
+   id="rect3007"
+   width="2550.125"
+   height="1739.3751"
+   x="21.396999"
+   y="2.1999069e-013" /><g
+   id="g3780"
+   transform="translate(-1704.875,-66.473831)"><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3005"
+     width="2550.125"
+     height="434.12503"
+     x="1726.272"
+     y="719.09888" /><rect
+     y="785.22388"
+     x="1726.272"
+     height="301.875"
+     width="2550.125"
+     id="rect3004"
+     style="fill:#1a2462;fill-opacity:1;stroke:none" /></g>
+
+
+
+
+<path
+   style="fill:#ffffff"
+   inkscape:connector-curvature="0"
+   d="M 674.89133,654.37501 1945.6527,654.82076 917.13143,1402.3586 1311.3832,192.56879 1702.9679,1402.3586 c 0,0 0,0 -1028.07657,-747.98359 z"
+   id="path3002" /><path
+   id="LargeStar"
+   d="M 788.28853,690.31261 1832.2555,690.67776 987.29583,1303.0363 1311.1849,312.01606 1632.883,1303.0363 c 0,0 0,0 -844.59447,-612.72369 z"
+   inkscape:connector-curvature="0"
+   style="fill:#fcd116" /><path
+   id="SmallStar"
+   d="m 902.44933,728.05755 814.29287,0.28482 -659.0686,477.64113 252.6335,-772.99579 250.9245,772.99579 c 0,0 0,0 -658.78227,-477.92595 z"
+   style="fill:#d01b14;fill-opacity:1"
+   inkscape:connector-curvature="0" /><path
+   id="one"
+   xlink:href="#symbol1"
+   d="m 1224.3709,950.93997 145.7873,-0.1198 14.0584,-13.8465 22.9753,18.4401 -24.0708,21.7265 h -158.7502 v -26.2003 z"
+   inkscape:connector-curvature="0"
+   style="fill:#fcd116;stroke:#fcd116;stroke-width:1.46060443" /><path
+   id="polyline"
+   d="m 1235.8118,761.93627 h 114.992 l 13.5106,-11.00857 23.1871,17.34467 -17.3447,17.34468 c -2.9212,27.20376 9.6765,55.86812 38.3409,89.82718 l -36.8803,25.01285 c -31.5856,-53.49464 -31.7682,-112.22993 -31.7682,-112.22993 h -52.551 -18.6228 -32.8636"
+   inkscape:connector-curvature="0"
+   style="fill:#fcd116;stroke:#fcd116;stroke-width:1.46060443" /><path
+   id="polyline1"
+   d="m 1242.3554,804.60491 c -2.9213,28.66436 -1.2781,48.19995 -26.1084,91.28778 l 0,0 c 39.4364,-18.98786 59.8848,-58.05903 62.9287,-91.28778 h -36.8203"
+   inkscape:connector-curvature="0"
+   style="fill:#fcd116;stroke:#fcd116;stroke-width:1.46060443" /></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 742.5 495" fill="#fff">
+<path d="M0 0h742.5l-247.5 247.5 202.5 202.5v45H0z" fill="#000095"/>
+<path d="M742.5 495H0v-45h697.5z" fill="#fe0000"/>
+<g transform="translate(247.5 247.5)">
+<g id="d">
+<g id="c">
+<g id="b">
+<path id="a" d="M0-165V0h66z" transform="rotate(15 0-165)"/>
+<use xlink:href="#a" transform="scale(-1 1)"/>
+</g>
+<use xlink:href="#b" transform="rotate(30)"/>
+<use xlink:href="#b" transform="rotate(60)"/>
+</g>
+<use xlink:href="#c" transform="rotate(90)"/>
+</g>
+<use xlink:href="#d" transform="rotate(180)"/>
+<circle r="88" stroke="#000095" stroke-width="11"/>
+</g>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="600"
+   viewBox="0 0 264.58331 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Bandera Partido Alianza Demócrata Cristiana Costa Rica.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="602.04684"
+     inkscape:cy="368.21933"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(74.206993,-35.077244)">
+    <rect
+       style="opacity:1;fill:#302f80;fill-opacity:1;stroke-width:2.64542;stroke-linecap:round;stroke-linejoin:round"
+       id="rect894"
+       width="264.58334"
+       height="158.75"
+       x="-74.207001"
+       y="35.077244" />
+    <path
+       style="fill:#fdcb0a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.296283px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 27.770604,184.83647 C 81.741575,184.28681 132.5029,152.20577 136.86851,94.882131 h -14.31576 l 33.36903,-58.070364 33.67615,58.265861 H 175.82049 C 168.03384,187.80265 83.704209,204.33125 27.770604,184.83647 Z"
+       id="path2615"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

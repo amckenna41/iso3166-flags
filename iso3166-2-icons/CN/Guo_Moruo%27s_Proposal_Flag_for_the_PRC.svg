@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1600" viewBox="0 0 2400 1600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de2910;
+      }
+
+      .cls-2 {
+        fill: #00a;
+      }
+
+      .cls-3 {
+        fill: #ffde00;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Rectángulo_1" data-name="Rectángulo 1" class="cls-1" width="2400" height="1600"/>
+  <rect id="Rectángulo_2" data-name="Rectángulo 2" class="cls-2" y="725" width="2400" height="49"/>
+  <rect id="Rectángulo_2-2" data-name="Rectángulo 2" class="cls-2" y="889" width="2400" height="49"/>
+  <path id="Polígono_2" data-name="Polígono 2" class="cls-3" d="M400.5,163.005L451.685,331.08l176.3-3.451L483.319,428.053,541.1,594,400.5,487.985,259.9,594l57.776-165.942L173.012,327.629l176.3,3.451Z"/>
+</svg>

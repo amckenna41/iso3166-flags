@@ -1,0 +1,5 @@
+<svg version="1.1" baseProfile="full" width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+<rect width="1000" height="200" fill="#22408c"/>
+<rect y="200" width="1000" height="200" fill="#ffce07"/>
+<rect y="400" width="1000" height="200" fill="#ce2028"/>
+</svg>

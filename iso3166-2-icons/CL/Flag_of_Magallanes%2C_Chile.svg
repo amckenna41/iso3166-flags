@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="900" height="600" viewBox="0 0 900 600" id="magallanes_cl_flag">
+
+<desc id="en">Flag of Magellan Region and Chilean Antarctica</desc>
+<desc id="es">Bandera de la región de Magallanes y Antártica Chilena</desc>
+<defs>
+   <g id="star" transform="rotate(46.847610265994595695334434896598)">
+     <g id="cone">
+       <path id="triangle" fill="white" d="M0,0 v1 h0.5 z" transform="translate(0,-1) rotate(18)"/>
+	<use xlink:href="#triangle" transform="scale(-1,1)"/>
+     </g>
+	<use xlink:href="#cone" transform="rotate(072)"/>
+	<use xlink:href="#cone" transform="rotate(144)"/>
+	<use xlink:href="#cone" transform="rotate(216)"/>
+	<use xlink:href="#cone" transform="rotate(288)"/>
+   </g>
+</defs>
+	<rect  fill="white" height="600" width="900"/>
+	<polygon fill="#0000cc" points="0,0 0,460 75,380 150,460 225,380 300,460 375,380 450,460 525,380 600,460 675,380 750,460 825,380 900,460 900,0"/>
+	<polygon fill="#fdcb00" points="0,600 0,490 75,410 150,490 225,410 300,490 375,410 450,490 525,410 600,490 675,410 750,490 825,410 900,490 900,600"/>
+
+	<use xlink:href="#star" transform="translate(112,259) scale(44)"/>
+	<use xlink:href="#star" transform="translate(204,088) scale(44)"/>
+	<use xlink:href="#star" transform="translate(305,305) scale(44)"/>
+	<use xlink:href="#star" transform="translate(350,130) scale(22)"/>
+	<use xlink:href="#star" transform="translate(513,074) scale(44)"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="680" width="1020" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect style="fill:#fedb01;" height="680" width="1020" y="0" x="0"/>
+<rect style="fill:#fe0000;" height="600" width="940" y="40" x="40"/>
+<circle style="fill:#000095;" transform="matrix(1.6666667,0,0,1.6666667,-40.000004,-26.66668)" cy="220" cx="330" r="135"/>
+<path style="fill:#ffffff;" d="M510,490,435,210.1,639.9,415,360,340,639.9,265,435,469.9,510,190,585,469.9,380.1,265,660,340,380.1,415,585,210.1,510,490z"/>
+<circle style="fill:#000095;" transform="matrix(1.6666667,0,0,1.6666667,-40.000004,-26.66668)" cy="220" cx="330" r="50.5"/>
+<circle style="fill:#ffffff;" transform="matrix(1.6666667,0,0,1.6666667,-40.000004,-26.66668)" cy="220" cx="330" r="45"/>
+</svg>

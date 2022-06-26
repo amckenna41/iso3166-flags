@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="900"
+   height="600"
+   id="svg2">
+  <defs
+     id="defs12" />
+  <rect
+     width="900"
+     height="600"
+     ry="0"
+     x="0"
+     y="0"
+     style="fill:white"
+     id="white" />
+  <rect
+     width="900"
+     height="200"
+     x="0"
+     y="400"
+     style="fill:#ffd700;fill-opacity:1"
+     id="yellow" />
+  <rect
+     width="900"
+     height="200"
+     x="0"
+     y="0"
+     style="fill:#0035ad"
+     id="blue" />
+</svg>

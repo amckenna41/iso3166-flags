@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" fill="#fff">
+	<defs>
+		<g id="s" transform="scale(28.125)">
+			<g id="e">
+				<path id="t" d="M0-1V0h.5z" transform="rotate(18 0-1)"/>
+				<use xlink:href="#t" transform="scale(-1,1)"/>
+			</g>
+			<g id="f">
+				<use xlink:href="#e" transform="rotate(72)"/>
+				<use xlink:href="#e" transform="rotate(216)"/>
+			</g>
+			<use xlink:href="#f" transform="rotate(72)"/>
+		</g>
+		<g id="l">
+			<use xlink:href="#s" transform="scale(.5)"/>
+		</g>
+		<g id="sl">
+			<use xlink:href="#s"/>
+			<use xlink:href="#l" y="100"/>
+		</g>
+		<g id="ls">
+			<use xlink:href="#l"/>
+			<use xlink:href="#s" y="100"/>
+		</g>
+	</defs>
+	<path d="M0 0H900V600H0z" fill="#fe0000"/>
+	<path d="M0 0H450V300H0z" fill="#000095"/>
+	<g transform="translate(225 150)">
+		<g id="d">
+			<g id="c">
+				<g id="b">
+					<path id="a" d="M0-112.5V0h56.25z" transform="rotate(15 0-112.5)"/>
+					<use xlink:href="#a" transform="scale(-1 1)"/>
+				</g>
+				<use xlink:href="#b" transform="rotate(30)"/>
+				<use xlink:href="#b" transform="rotate(60)"/>
+			</g>
+			<use xlink:href="#c" transform="rotate(90)"/>
+		</g>
+		<use xlink:href="#d" transform="rotate(180)"/>
+		<circle r="60" stroke="#000095" stroke-width="7.5"/>
+		<use xlink:href="#l" y="200"/>
+		<use xlink:href="#l" y="500" transform="rotate(255)"/>
+		<use xlink:href="#s" y="700" transform="rotate(-60)"/>
+		<g id="s8">
+			<g id="s4">
+				<use xlink:href="#sl" y="300"/>
+				<use xlink:href="#ls" y="300" transform="rotate(-15)"/>
+			</g>
+			<use xlink:href="#s4" transform="rotate(30)"/>
+		</g>
+		<use xlink:href="#s8" transform="rotate(-60)"/>
+		<use xlink:href="#s4" transform="rotate(-90)"/>
+		<g id="ss4">
+			<use xlink:href="#sl" y="500" transform="rotate(-60)"/>
+			<use xlink:href="#ls" y="500" transform="rotate(-45)"/>
+		</g>
+		<use xlink:href="#ss4" transform="rotate(-30)"/>
+	</g>
+</svg>

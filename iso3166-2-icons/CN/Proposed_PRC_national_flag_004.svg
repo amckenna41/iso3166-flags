@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="550" height="366" id="svg4611">
+<rect fill="#ed1b24" width="550" height="366"/>
+<rect fill="#ffffff" width="165" height="165"/>
+<rect fill="#ffffff" width="550" height="20" y="230"/>
+<rect fill="#ffffff" width="550" height="20" y="280"/>
+<g transform="translate(82.5,80) scale(50)">
+<g id="a">
+<polygon id="b" fill="#ed1b24" points="0,0 0,1 0.5,1" transform="translate(0, -1) rotate(18)"/>
+<use xlink:href="#b" transform="scale(-1, 1)"/>
+</g>
+<use xlink:href="#a" transform="rotate(72)"/>
+<use xlink:href="#a" transform="rotate(-72)"/>
+<use xlink:href="#a" transform="rotate(144)"/>
+<use xlink:href="#a" transform="rotate(-144)"/>
+</g>
+
+
+</svg>

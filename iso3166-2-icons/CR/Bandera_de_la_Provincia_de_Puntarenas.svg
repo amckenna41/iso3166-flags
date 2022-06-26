@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="959" height="603">
+<path d="M0,0H959V603H0" fill="#009c31"/>
+<path d="M0,0H959V226L370,603H0" fill="#01319d"/>
+<path d="M0,0H959L0,603" fill="#fff"/>
+<path d="M0,0H630L0,390" fill="#fe0000"/>
+<path d="m 386,147 82,74 25,-108 24,108 81,-77 -39,104 109,-20 -89,63 103,38 -110,11 68,86 -99,-50 5,110 -53,-96 -56,93 8,-108 -97,48 66,-83 -107,-11 101,-37 -87,-61 107,18" fill="#ff9b31"/>
+<text x="433" y="320" font-size="48px" font-family="DejaVu Sans">1848</text>
+</svg>

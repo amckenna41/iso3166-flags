@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="900px" height="600px">
+<rect fill="#FFF" stroke="#333" width="900" height="600"/>
+<line fill="none" stroke="#0093DD" stroke-width="900" stroke-dasharray="37.5" x1="450" y1="0" x2="450" y2="600"/>
+<g fill="#FFF">
+	<circle cx="450" cy="185.7" r="105"/>
+	<circle cx="330.45" cy="272.4" r="105"/>
+	<circle cx="569.55" cy="272.4" r="105"/>
+	<circle cx="376.1" cy="413" r="105"/>
+	<circle cx="523.9" cy="413" r="105"/>
+</g>
+<g fill="#D81E05">
+	<circle cx="450" cy="185.7" r="95.4"/>
+	<circle cx="330.45" cy="272.4" r="95.4"/>
+	<circle cx="569.55" cy="272.4" r="95.4"/>
+	<circle cx="376.1" cy="413" r="95.4"/>
+	<circle cx="523.9" cy="413" r="95.4"/>
+</g>
+<g fill="#FFF">
+	<circle cx="450" cy="185.7" r="85.8"/>
+	<circle cx="330.45" cy="272.4" r="85.8"/>
+	<circle cx="569.55" cy="272.4" r="85.8"/>
+	<circle cx="376.1" cy="413" r="85.8"/>
+	<circle cx="523.9" cy="413" r="85.8"/>
+	<circle cx="450" cy="311.4" r="85.8"/>
+</g>
+<circle fill="#D81E05" cx="450" cy="311.4" r="141.9"/>
+<circle fill="#FFF" cx="450" cy="311.4" r="113.7"/>
+<circle fill="#D81E05" cx="450" cy="311.4" r="90.9"/>
+<circle fill="#FFF" cx="450" cy="311.4" r="62.4"/>
+<ellipse fill="#D81E05" cx="450" cy="292.352" rx="37.5" ry="25.125"/>
+<rect x="412.5" y="292.352" fill="#D81E05" width="75" height="145"/>
+<path fill="none" stroke="#FFF" stroke-width="20.4" d="M450,168.9v285"/>
+</svg>

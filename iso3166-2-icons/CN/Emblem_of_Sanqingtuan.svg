@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="425"
+   height="425"
+   id="svg3767"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Emblem_of_Sanqingtuan.svg">
+  <title
+     id="title3777">Emblem of Sanqingtuan</title>
+  <defs
+     id="defs3769" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2333886"
+     inkscape:cx="67.206611"
+     inkscape:cy="209.72403"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3772">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Emblem of Sanqingtuan</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ericmetro</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-177.14285,-280.93362)">
+    <rect
+       style="fill:#ca0500;fill-opacity:1;stroke:none"
+       id="rect3775"
+       width="425"
+       height="425"
+       x="177.14285"
+       y="280.93362" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#002864;fill-opacity:1"
+       d="m 524.64285,493.43362 c 0,74.55845 -60.44156,135 -135,135 -74.55845,0 -135,-60.44155 -135,-135 0,-74.55844 60.44155,-135 135,-135 74.55844,0 135,60.44156 135,135 l 0,0 z"
+       id="path3797" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff"
+       d="m 389.64285,628.4336 -67.5,-251.91339 L 506.5563,560.9336 254.64285,493.43363 506.5563,425.93364 322.14285,610.34705 l 67.5,-251.91341 67.5,251.91341 -184.41343,-184.41341 251.91343,67.49999 -251.91343,67.49997 184.41343,-184.41339 -67.5,251.91339 z"
+       id="path3799" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#002864;fill-opacity:1"
+       d="m 466.14284,493.43361 c 0,42.24977 -34.25022,76.49999 -76.49997,76.49999 -42.24979,0 -76.50001,-34.25022 -76.50001,-76.49999 0,-42.24976 34.25022,-76.49997 76.50001,-76.49997 42.24975,0 76.49997,34.25021 76.49997,76.49997 z"
+       id="path3801" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff"
+       d="m 457.14287,493.43362 c 0,37.27923 -30.2208,67.49997 -67.5,67.49997 -37.27925,0 -67.50005,-30.22074 -67.50005,-67.49997 0,-37.27921 30.22081,-67.49997 67.50005,-67.49997 37.2792,0 67.5,30.22077 67.5,67.49998 z"
+       id="path3803" />
+  </g>
+</svg>
