@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="600"
+   height="400"
+   id="svg2">
+  <defs
+     id="defs12" />
+  <rect
+     width="600"
+     height="400"
+     x="0"
+     y="0"
+     id="rect4"
+     style="fill:#ffdd00" />
+  <rect
+     width="600"
+     height="100"
+     x="0"
+     y="200"
+     id="rect6"
+     style="fill:#034ea2" />
+  <rect
+     width="600"
+     height="100"
+     x="0"
+     y="300"
+     id="rect8"
+     style="fill:#ed1c24" />
+  <g
+     transform="matrix(0.93370165,0,0,0.93370165,224.0419,196.72454)"
+     id="g3524"
+     style="fill:#ffffff">
+    <g
+       id="g3501"
+       style="fill:#ffffff">
+      <g
+         transform="matrix(5.5278641,0,0,5.5278641,74.434827,9.0359054)"
+         id="bstar"
+         style="fill:#ffffff">
+        <g
+           id="cone"
+           style="fill:#ffffff">
+          <polygon
+             points="0,1 0.5,1 0,0 "
+             transform="matrix(0.95105652,0.30901699,-0.30901699,0.95105652,0,-1)"
+             id="triangle"
+             style="fill:#ffffff" />
+          <use
+             transform="scale(-1,1)"
+             id="use5"
+             style="fill:#ffffff"
+             x="0"
+             y="0"
+             width="744.09448"
+             height="1052.3622"
+             xlink:href="#triangle" />
+        </g>
+        <use
+           transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,0)"
+           id="use1"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622"
+           xlink:href="#cone" />
+        <use
+           transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)"
+           id="use2"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622"
+           xlink:href="#cone" />
+        <use
+           transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,0,0)"
+           id="use3"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622"
+           xlink:href="#cone" />
+        <use
+           transform="matrix(-0.80901699,-0.58778525,0.58778525,-0.80901699,0,0)"
+           id="use4"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622"
+           xlink:href="#cone" />
+      </g>
+      <use
+         transform="translate(-12.161542,2.9535172)"
+         id="use3479"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-23.628138,9.2080244)"
+         id="use3481"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-33.009899,18.416049)"
+         id="use3483"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-6.0523405,10.788955)"
+         id="use3485"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#use3483" />
+      <use
+         transform="translate(-42.103238,42.366383)"
+         id="use3487"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-42.366383,54.997355)"
+         id="use3489"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-39.20864,67.365181)"
+         id="use3491"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-32.893154,78.943571)"
+         id="use3493"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-23.419926,88.153654)"
+         id="use3495"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(-12.367826,94.205995)"
+         id="use3497"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+      <use
+         transform="translate(0,97.100593)"
+         id="use3499"
+         style="fill:#ffffff"
+         x="0"
+         y="0"
+         width="396"
+         height="216"
+         xlink:href="#bstar" />
+    </g>
+    <use
+       transform="matrix(-1,0,0,1,162.70314,0)"
+       id="use3522"
+       style="fill:#ffffff"
+       x="0"
+       y="0"
+       width="396"
+       height="216"
+       xlink:href="#g3501" />
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Notepad -->
+<!-- (PD) February 26, 2006 - _ThrashedParanoid_  -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="600"
+   height="400"
+   id="Flag_of_Bilbao">
+  <rect
+     style="fill:#fff"
+     x="0"
+     y="0"
+     width="600"
+     height="400"
+     id="White_background" />
+  <rect
+     style="fill:#FE0000"
+     x="0"
+     y="0"
+     width="200"
+     height="200"
+     id="Red_square" />
+ 
+</svg>

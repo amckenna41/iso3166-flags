@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="900"
+   height="600"
+   style="fill-rule:evenodd"
+   viewBox="0 0 1024 512"
+   id="svg2449"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Flag_of_Ecuador_(1845).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"><metadata
+   id="metadata2471"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:window-height="714"
+   inkscape:window-width="1024"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="0.84833333"
+   inkscape:cx="450"
+   inkscape:cy="300"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:current-layer="svg2449" />
+ <defs
+   id="defs2451"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 256 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="1024 : 256 : 1"
+   inkscape:persp3d-origin="512 : 170.66667 : 1"
+   id="perspective2473" />
+  <style
+   type="text/css"
+   id="style2453">
+   
+    .fil2 {fill:#FFFFFF}
+    .fil1 {fill:#00B4E9}
+    .fil0 {fill:#FFFFFF}
+   
+  </style>
+ 
+  
+  
+  
+  
+  
+  
+ <inkscape:perspective
+   id="perspective2556"
+   inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+   inkscape:vp_z="744.09448 : 526.18109 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_x="0 : 526.18109 : 1"
+   sodipodi:type="inkscape:persp3d" /></defs>
+ 
+ 
+<path
+   class="fil0"
+   d="M 1024,-85.333334 L 0,-85.333334 L 0,597.33334 L 1024,597.33334 L 1024,-85.333334 z"
+   id="path2455"
+   style="fill:#ffffff" /><rect
+   style="fill:#89c5e3;fill-opacity:1"
+   id="rect2460"
+   height="682.66669"
+   width="341.33334"
+   y="-85.333344"
+   x="-682.66669"
+   class="fil1"
+   transform="scale(-1,1)" /><g
+   id="g2759"
+   transform="translate(0,-2.2755515)"><path
+     class="fil2"
+     d="M 512,89.269875 L 497.33333,135.93654 L 448,135.93654 L 488,165.26988 L 473.33333,210.60322 L 512,182.60322 L 552,210.60322 L 536,165.26988 L 576,135.93654 L 526.66667,135.93654 L 512,89.269875 z"
+     id="path2505"
+     style="fill:#ffffff;fill-rule:evenodd" /><g
+     transform="translate(-1.037925,74.205658)"
+     id="g2745"><path
+       style="fill:#ffffff;fill-rule:evenodd"
+       id="path2741"
+       d="M 603.12349,195.33332 L 588.45682,242.00001 L 539.12349,242.00001 L 579.12349,271.33334 L 564.45682,316.66668 L 603.12349,288.66668 L 643.12349,316.66668 L 627.12349,271.33334 L 667.12349,242.00001 L 617.79016,242.00001 L 603.12349,195.33332 z"
+       class="fil2" /><path
+       style="fill:#ffffff;fill-rule:evenodd"
+       id="path2743"
+       d="M 422.95236,195.33332 L 408.28569,242.00001 L 358.95236,242.00001 L 398.95236,271.33334 L 384.28569,316.66668 L 422.95236,288.66668 L 462.95236,316.66668 L 446.95236,271.33334 L 486.95236,242.00001 L 437.61903,242.00001 L 422.95236,195.33332 z"
+       class="fil2" /></g></g></svg>

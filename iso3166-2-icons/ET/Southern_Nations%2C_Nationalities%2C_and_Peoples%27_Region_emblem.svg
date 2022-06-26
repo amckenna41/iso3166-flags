@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   height="300"
+   width="300"
+   version="1.1"
+   id="svg1035">
+  <metadata
+     id="metadata1041">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1039" />
+  <g
+     id="g3903"
+     transform="matrix(1.2488763,0,0,1.3072489,-596.26817,-805.96557)"
+     stroke="#4a2d16"
+     stroke-linecap="round">
+    <path
+       stroke-linejoin="round"
+       d="m 500,785 c 4.93,8.22 9.97,10.8 15,12 v -20 z"
+       stroke-width="1"
+       fill="#794317"
+       id="path1004" />
+    <path
+       stroke-linejoin="round"
+       d="m 600,662 c -25,30 -73.8,81.1 -100,123 3.18,-1.27 6.38,-1.89 10,-3 24.9,-7.62 59.4,-10 90,-10"
+       stroke-width="2"
+       fill="#c57439"
+       id="path1006" />
+    <path
+       d="m 600,662 c -28,41 -65,80 -90,120 m 90,-120 c -28,50 -60,90 -80,120 m 80,-120 c -19,45 -50,90 -70,120 m 70,-120 c -16,48 -35,85 -55,115 m 55,-115 c -11,45 -25,85 -45,120 m 45,-120 c -9,57.4 -19.8,85.1 -24.8,112 m 25,-112 c -4.47,53.7 -7.66,83.6 -13.2,115"
+       stroke-width="2"
+       fill="none"
+       id="path1008" />
+  </g>
+  <use
+     xlink:href="#g3903"
+     transform="matrix(-1,0,0,1,306.11522,0)"
+     id="use1011"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <path
+     d="M 153.0576,59.433229 V 203.23062"
+     stroke="#4a2d16"
+     stroke-linecap="round"
+     stroke-width="2.55546"
+     fill="none"
+     id="path1013" />
+  <path
+     d="m 153.0576,203.23062 v 3.92174"
+     stroke="#965423"
+     stroke-width="3.83319"
+     fill="none"
+     id="path1015" />
+  <path
+     d="m 153.0576,207.15236 v 87.58568"
+     stroke="#bd7339"
+     stroke-width="3.83319"
+     fill="none"
+     id="path1017" />
+  <path
+     id="hs"
+     d="m 153.0576,294.73804 h -30.84725 c -31.221913,0 -61.319831,-1.6602 -74.932582,-6.06563 L 41.033386,216.25082 C 84.744057,203.17833 109.34693,203.17833 153.0576,203.17833"
+     stroke="#4a2d16"
+     stroke-width="1.27773"
+     fill="#bd7339" />
+  <use
+     xlink:href="#hs"
+     transform="matrix(-1,0,0,1,306.11519,-6.8353086e-6)"
+     id="use1020"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <path
+     d="m 153.0576,216.30311 v 79.08856"
+     stroke="#f7bd8c"
+     stroke-width="3.83319"
+     fill="none"
+     id="path1022" />
+  <path
+     id="dred"
+     stroke="#4a2d16"
+     stroke-linecap="round"
+     stroke-width="1.27773"
+     d="m 153.0576,216.30311 c -18.73315,0 -31.22191,13.07249 -31.22191,39.21746 v 39.21747 h 31.22191"
+     fill="#f7bd8c" />
+  <use
+     xlink:href="#dred"
+     transform="matrix(-1,0,0,1,306.11519,-6.8353086e-6)"
+     id="use1025"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <path
+     d="m 153.0576,222.83935 v 72.55232"
+     stroke="#6b4221"
+     stroke-width="3.83319"
+     fill="none"
+     id="path1027" />
+  <path
+     id="door"
+     d="m 153.0576,222.83935 c -12.48877,0 -24.35309,13.72612 -24.35309,33.33485 v 39.21747 h 24.35309"
+     stroke="#4a2d16"
+     stroke-linecap="round"
+     stroke-width="1.27773"
+     fill="#6b4221" />
+  <use
+     xlink:href="#door"
+     transform="matrix(-1,0,0,1,306.11519,-6.8353086e-6)"
+     id="use1030"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <path
+     id="rfed"
+     d="m 153.0576,207.15236 c -59.946073,0 -81.176971,2.6145 -118.643258,14.37974 -4.542326,1.42639 -6.244382,0.23074 -6.244382,-1.30725 3.966631,-1.6608 7.978671,-2.43803 12.488763,-3.92174 C 84.369387,201.92337 114.9002,203.23062 153.0576,203.23062"
+     style="fill:#965423;stroke:#4a2d16;stroke-width:1.27773;stroke-linecap:round;stroke-linejoin:round" />
+  <use
+     xlink:href="#rfed"
+     transform="matrix(-1,0,0,1,306.11519,-6.8353086e-6)"
+     id="use1033"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+</svg>
