@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+
+height="600" width="900">
+
+<defs>
+<g id="Octagram">
+<g id="Arm">
+<path id="Triangle" d="M 0,0 L 0,1 L 0.5,1 z" transform="translate(0,-1) rotate(22.5)"/>
+<use xlink:href="#Triangle" transform="scale(-1,1)" />
+</g>
+<use xlink:href="#Arm" transform="rotate(45)" />
+<use xlink:href="#Arm" transform="rotate(-45)" />
+<use xlink:href="#Arm" transform="rotate(90)" />
+<use xlink:href="#Arm" transform="rotate(-90)" />
+<use xlink:href="#Arm" transform="rotate(135)" />
+<use xlink:href="#Arm" transform="rotate(-135)" />
+<use xlink:href="#Arm" transform="rotate(180)" />
+</g>
+</defs>
+
+<rect fill="#0055d4" x="0" y="0" width="900" height="600"/>
+<path fill="#ffd42a" d="M 150,243.75 L 0,356.21875 L 0,600 L 900,600 L 900,356.25 L 750,243.78125 L 600,356.21875 L 450,243.78125 L 300,356.21875 L 150,243.75 z"/>
+
+<use xlink:href="#Octagram" fill="#0055d4" transform="translate(450,478.125) scale(112.5)"/>
+<use xlink:href="#Octagram" fill="#ffd42a" transform="translate(450,121.875) scale(112.5)"/>
+</svg>

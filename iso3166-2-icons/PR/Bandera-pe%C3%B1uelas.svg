@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="326"
+   height="216"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/joseph/Desktop"
+   sodipodi:docname="bandera-peñuelas.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="393.46562"
+     inkscape:cy="182.05086"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="326px"
+     height="216px"
+     inkscape:window-width="1024"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2230"
+       transform="translate(-52.527932,-31.314729)">
+      <path
+         style="fill:#fdfd01"
+         d="M 52.760166,139.60045 L 52.760166,31.600444 L 215.76016,31.600444 L 378.76016,31.600444 L 378.76016,139.60045 L 378.76016,247.60045 L 215.76016,247.60045 L 52.760166,247.60045 L 52.760166,139.60045 z "
+         id="path2225" />
+      <path
+         style="fill:#5d017d"
+         d="M 188.76016,205.60045 L 188.76016,163.60045 L 120.76017,163.60045 L 52.760166,163.60045 L 52.760166,138.60045 L 52.760166,113.60044 L 121.26017,113.60044 L 189.76016,113.60044 L 189.76016,72.600444 L 189.76016,31.600444 L 214.76016,31.600444 L 239.76016,31.600444 L 239.76016,72.600444 L 239.76016,113.60044 L 309.26016,113.60044 L 378.76016,113.60044 L 378.76016,138.60045 L 378.76016,163.60045 L 308.76016,163.60045 L 238.76016,163.60045 L 238.76016,205.60045 L 238.76016,247.60045 L 213.76016,247.60045 L 188.76016,247.60045 L 188.76016,205.60045 z "
+         id="path2223" />
+    </g>
+  </g>
+</svg>

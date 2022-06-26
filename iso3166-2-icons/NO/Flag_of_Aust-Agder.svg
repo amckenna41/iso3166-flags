@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+ width="375" height="300">
+<rect style="fill:#ff0000;" x="0" y="0" width="375" height="60"/>
+<rect style="fill:#ffff00;" x="0" y="60" width="375" height="60"/>
+<rect style="fill:#ff0000;" x="0" y="120" width="375" height="60"/>
+<rect style="fill:#ffff00;" x="0" y="180" width="375" height="60"/>
+<rect style="fill:#ff0000;" x="0" y="240" width="375" height="60"/>
+</svg>

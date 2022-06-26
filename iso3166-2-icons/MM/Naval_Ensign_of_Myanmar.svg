@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="900"
+   height="500"
+   id="svg26"
+   sodipodi:docname="Naval_Ensign_of_Myanmar.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="388.8661"
+     inkscape:cy="244.21426"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <rect
+     width="900"
+     height="500"
+     id="rect2"
+     fill="#fff" />
+  <rect
+     width="450"
+     height="250"
+     fill="#da2d1c"
+     id="rect4" />
+  <g
+     transform="translate(225,125)"
+     fill="#fff"
+     id="g18">
+    <g
+       id="c">
+      <path
+         id="t"
+         d="M 0,-85 v 85 h 42.5"
+         transform="rotate(18 0,-85)" />
+      <use
+         xlink:href="#t"
+         transform="scale(-1,1)"
+         id="use7" />
+    </g>
+    <use
+       xlink:href="#c"
+       transform="rotate(72)"
+       id="use10" />
+    <use
+       xlink:href="#c"
+       transform="rotate(144)"
+       id="use12" />
+    <use
+       xlink:href="#c"
+       transform="rotate(216)"
+       id="use14" />
+    <use
+       xlink:href="#c"
+       transform="rotate(288)"
+       id="use16" />
+  </g>
+  <g
+     id="g893"
+     transform="matrix(0.61590807,0,0,0.58699324,39.99064,318.4342)"
+     style="fill:#1d3e95;fill-opacity:1">
+    <path
+       id="path876"
+       d="m 1231.75,44.103516 -9.9746,12.457031 -0.9883,18.726562 h -42.3379 l -2.0605,15.355469 43.1504,8.314453 -3.4512,65.466799 c -2.077,15.48756 -12.4619,18.24819 -20.2227,19.47461 -7.7608,1.22642 -12.6233,-6.03706 -16.2226,-11.40235 3.7519,-3.53062 8.2496,-3.10825 10.7578,-3.40625 -15.2375,-7.94122 -24.5506,-21.78135 -28.6172,-35.93945 -10.2504,18.83562 -11.2843,39.13521 -2.8105,53.18359 2.7736,-4.68774 5.2732,-7.08327 7.3613,-7.97656 4.1465,6.10397 15.8901,23.02484 31.2148,25.29883 15.3247,2.27399 23.3511,12.89345 34.2012,21.06641 10.8501,-8.17296 18.8765,-18.79242 34.2012,-21.06641 15.3247,-2.27399 27.0703,-19.19486 31.2168,-25.29883 2.0881,0.89329 4.5857,3.28882 7.3593,7.97656 8.4738,-14.04838 7.4418,-34.34797 -2.8085,-53.18359 -4.0666,14.1581 -13.3797,27.99823 -28.6172,35.93945 2.5082,0.298 7.0059,-0.12437 10.7578,3.40625 -3.5993,5.36529 -8.4619,12.62877 -16.2227,11.40235 -7.7608,-1.22642 -18.1476,-3.98705 -20.2246,-19.47461 l -3.4297,-65.083986 45.1387,-8.697266 -2.0586,-15.355469 h -44.3496 l -0.9863,-18.726562 z"
+       style="fill:#1d3e95;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path885"
+       d="m 1231.75,15.269531 a 27.621359,27.621359 0 0 0 -27.6211,27.621094 27.621359,27.621359 0 0 0 27.6211,27.621094 27.621359,27.621359 0 0 0 27.6211,-27.621094 27.621359,27.621359 0 0 0 -27.6211,-27.621094 z m 0,14.931641 a 12.68887,12.68887 0 0 1 12.6895,12.689453 12.68887,12.68887 0 0 1 -12.6895,12.6875 12.68887,12.68887 0 0 1 -12.6875,-12.6875 12.68887,12.68887 0 0 1 12.6875,-12.689453 z"
+       style="fill:#1d3e95;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

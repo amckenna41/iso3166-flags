@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="744.09448"
+   height="450.00034"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 210 297"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="POL powiat lipski flag.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="C:\Users\Mistrz\Desktop"
+   version="1.0"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:window-height="480"
+   inkscape:window-width="640"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style6">
+   
+    .fil2 {fill:#1F1A17}
+    .fil3 {fill:#DA251D}
+    .fil0 {fill:white}
+    .fil1 {fill:blue}
+   
+  </style>
+ </defs>
+ <g
+   id="Warstwa_x0020_1"
+   transform="matrix(2.338284,0,0,2.338284,-140.551,-198.71644)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <g
+   id="_27446984">
+   <rect
+   id="_74040368"
+   class="fil0"
+   y="85"
+   width="210"
+   height="63.500099"
+   x="0"
+   style="fill:#ffffff" />
+   <rect
+   id="_74040296"
+   class="fil1"
+   y="148.5"
+   width="210"
+   height="63.500099"
+   x="0"
+   style="fill:#0000ff" />
+   <path
+   id="_73883200"
+   class="fil2"
+   d="M 79.7081,117.392 L 131.2364,117.392 L 131.2364,151.4405 L 131.2364,151.4406 C 131.8725,168.4006 122.803,178.4385 105.4723,178.9413 C 89.7872,178.4052 79.1098,169.3374 79.7081,151.4406 L 79.7081,151.4405 L 79.7081,117.392 z "
+   style="fill:#1f1a17" />
+   <path
+   id="_73883128"
+   class="fil0"
+   d="M 101.5,118.007 L 109.3455,118.007 L 109.3472,144.464 L 130.7213,144.4634 L 130.7213,151.3744 L 130.7213,151.3745 C 130.7326,151.6754 130.7396,151.9732 130.7446,152.2696 L 109.347,152.2696 L 109.3455,178.0341 C 108.1056,178.1886 106.8144,178.2863 105.4725,178.3252 C 104.108,178.2786 102.7828,178.1645 101.5,177.9859 L 101.4976,152.2711 L 80.2044,152.2696 C 80.208,151.9734 80.2135,151.6758 80.2236,151.3745 L 80.2236,151.3744 L 80.2236,144.4634 L 101.5007,144.4641 L 101.5,118.007 L 101.5,118.007 z "
+   style="fill:#ffffff" />
+   <path
+   id="_73883056"
+   class="fil3"
+   d="M 80.2235,118.007 L 100.9238,118.007 L 100.9238,143.848 L 80.2235,143.848 L 80.2235,118.007 z M 109.9215,118.007 L 130.7212,118.007 L 130.7212,143.848 L 109.9215,143.848 L 109.9215,118.007 z M 130.7514,152.885 C 130.7875,167.1104 123.5247,176.0456 109.9215,177.958 L 109.9215,152.885 L 130.7514,152.885 z M 100.9238,177.9008 C 88.4967,175.958 80.247,167.6837 80.2013,152.885 L 100.9238,152.885 L 100.9238,177.9008 z "
+   style="fill:#da251d" />
+   <polygon
+   id="_73882984"
+   class="fil2"
+   points="113.588,159.161 113.578,164.377 117.214,168.631 120.031,165.166 122.622,168.598 126.252,164.255 126.252,158.97 122.774,163.898 119.973,159.495 117.078,163.926 113.588,159.161 "
+   style="fill:#1f1a17" />
+   <polygon
+   id="_73882936"
+   class="fil0"
+   points="113.858,160.155 113.861,164.198 117.212,168.132 120.045,164.611 122.649,168.09 125.955,164.163 125.955,159.97 122.755,164.487 119.964,160.033 117.109,164.488 113.858,160.155 "
+   style="fill:#ffffff" />
+  </g>
+ </g>
+</svg>

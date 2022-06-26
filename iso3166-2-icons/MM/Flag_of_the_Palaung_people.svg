@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1000"
+   height="600"
+   viewBox="0 0 1000 600"
+   id="svg7"
+   sodipodi:docname="Flag of the Palaung people.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.62343248"
+     inkscape:cx="411.43189"
+     inkscape:cy="239.80143"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <path
+     id="Rectángulo-1-cop"
+     d="M 0,0 H 1000 V 600 H 0 Z"
+     fill="#ffffff"
+     style="stroke-width:0.423789;fill:#0082ff;fill-opacity:1" />
+  <path
+     id="Rectángulo-1"
+     d="M 0,199.99998 H 1000 V 600 H 0 Z"
+     fill="#1f9a03"
+     style="fill:#ffd800;fill-opacity:1;stroke-width:0.599328" />
+  <path
+     id="path4"
+     d="M 0,399.99999 H 1000 V 600 H 0 Z"
+     fill="#1f9a03"
+     style="stroke-width:0.423789" />
+  <path
+     id="Elipse-1"
+     d="M 499.99999,175 C 569.03544,175 625,230.96455 625,300 625,369.03544 569.03544,425 499.99999,425 430.96453,425 375,369.03544 375,300 375,230.96455 430.96453,175 499.99999,175 Z"
+     fill="#dc2a26"
+     style="stroke-width:0.611246" />
+</svg>

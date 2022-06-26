@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="900"
+   height="600"
+   viewBox="-27 -14 54 36"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Flag_of_the_Netherlands_Antilles.svg">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.78666667"
+     inkscape:cx="107.25594"
+     inkscape:cy="498.0447"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2185" />
+  <defs
+     id="defs31">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 300 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="900 : 300 : 1"
+       inkscape:persp3d-origin="450 : 200 : 1"
+       id="perspective32" />
+  </defs>
+  <rect
+     width="54"
+     height="36"
+     x="-27"
+     y="-14"
+     style="fill:#ffffff"
+     id="rect4" />
+  <g
+     transform="matrix(0.3333333,0,0,0.3333333,-9e-7,2.6666674)"
+     id="g2185">
+    <rect
+       width="12"
+       height="36"
+       x="-6"
+       y="-14"
+       style="fill:#dc171d"
+       id="rect6" />
+    <rect
+       width="54"
+       height="12"
+       x="-27"
+       y="-2"
+       style="fill:#012a87;fill-opacity:1"
+       id="rect8" />
+    <g
+       transform="scale(1.5,1.5)"
+       style="fill:#ffffff"
+       id="star">
+      <g
+         id="cone">
+        <polygon
+           points="0,0 0,1 0.5,1 0,0 "
+           transform="matrix(0.9510565,0.309017,-0.309017,0.9510565,0,-1)"
+           id="triangle" />
+        <use
+           transform="scale(-1,1)"
+           id="use13"
+           x="0"
+           y="0"
+           width="54"
+           height="36"
+           xlink:href="#triangle" />
+      </g>
+      <use
+         transform="matrix(0.309017,0.9510565,-0.9510565,0.309017,0,0)"
+         id="use15"
+         x="0"
+         y="0"
+         width="54"
+         height="36"
+         xlink:href="#cone" />
+      <use
+         transform="matrix(0.309017,-0.9510565,0.9510565,0.309017,0,0)"
+         id="use17"
+         x="0"
+         y="0"
+         width="54"
+         height="36"
+         xlink:href="#cone" />
+      <use
+         transform="matrix(-0.809017,0.5877853,-0.5877853,-0.809017,0,0)"
+         id="use19"
+         x="0"
+         y="0"
+         width="54"
+         height="36"
+         xlink:href="#cone" />
+      <use
+         transform="matrix(-0.809017,-0.5877853,0.5877853,-0.809017,0,0)"
+         id="use21"
+         x="0"
+         y="0"
+         width="54"
+         height="36"
+         xlink:href="#cone" />
+    </g>
+    <g
+       id="2stars">
+      <use
+         transform="translate(8,3.3137085)"
+         id="use24"
+         x="0"
+         y="0"
+         width="54"
+         height="36"
+         xlink:href="#star" />
+      <use
+         transform="translate(3.3137085,8)"
+         id="use26"
+         x="0"
+         y="0"
+         width="54"
+         height="36"
+         xlink:href="#star" />
+    </g>
+    <use
+       transform="scale(-1,1)"
+       id="use28"
+       x="0"
+       y="0"
+       width="54"
+       height="36"
+       xlink:href="#2stars" />
+  </g>
+  <g
+     transform="matrix(1,0,0,0.3589744,0,2.225642)"
+     id="g2271">
+    <rect
+       width="54"
+       height="7.8000002"
+       x="-27"
+       y="-29.6"
+       style="fill:#21468b;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2203" />
+    <rect
+       width="54"
+       height="7.8000002"
+       x="-27"
+       y="-37.400002"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2205" />
+    <rect
+       width="54"
+       height="7.8000002"
+       x="-27"
+       y="-45.200001"
+       style="fill:#ae1c28;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2207" />
+  </g>
+  <g
+     transform="matrix(1,0,0,0.3589744,0,29.825641)"
+     id="g2284">
+    <rect
+       width="54"
+       height="7.8000002"
+       x="-27"
+       y="-29.6"
+       style="fill:#21468b;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2286" />
+    <rect
+       width="54"
+       height="7.8000002"
+       x="-27"
+       y="-37.400002"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2288" />
+    <rect
+       width="54"
+       height="7.8000002"
+       x="-27"
+       y="-45.200001"
+       style="fill:#ae1c28;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2290" />
+  </g>
+</svg>

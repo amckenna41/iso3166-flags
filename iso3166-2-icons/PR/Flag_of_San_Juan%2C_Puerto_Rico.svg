@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg version="1.1" viewBox="0 0 946 631" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<desc>Created with Fabric.js 3.6.3</desc>
+
+<g transform="translate(434.01 305.31)" style="">
+		<text fill="rgb(0,0,0)" font-family="'ArialMT'" font-size="8" style="white-space:pre" xml:space="preserve"><tspan x="-19.79" y="2.51">created by:</tspan></text>
+</g>
+<g transform="translate(480.65 305.31)" style="">
+		<text fill="rgb(237,28,36)" font-family="'Arial-BoldMT'" font-size="8" style="white-space:pre" xml:space="preserve"><tspan x="-18.68" y="2.51">cecilomar</tspan></text>
+</g>
+<g transform="translate(516.68 305.31)" style="">
+		<text fill="rgb(0,0,0)" font-family="'Arial-BoldMT'" font-size="8" style="white-space:pre" xml:space="preserve"><tspan x="-12.89" y="2.51">design</tspan></text>
+</g>
+<g transform="translate(466.75 314.91)" style="">
+		<text fill="rgb(0,0,0)" font-family="'ArialMT'" font-size="8" style="white-space:pre" xml:space="preserve"><tspan x="-46.24" y="2.51">http://www.cecilomar.com/</tspan></text>
+</g>
+<g transform="translate(470.41 324.5)" style="">
+		<text fill="rgb(0,0,0)" font-family="'ArialMT'" font-size="8" style="white-space:pre" xml:space="preserve"><tspan x="-21.79" y="2.51">no copyright</tspan></text>
+</g>
+<g transform="translate(472.88 315.43)">
+<rect x="-472.38" y="-314.92" width="944.77" height="629.85" rx="0" ry="0" fill="#fff" stroke="#fff"/>
+</g>
+<g transform="translate(442.23 164.93)">
+<polygon points="2.45 -36.9 3.13 -31.13 -3.73 -30.29 -4.44 -36.05 -21.42 -33.56 -4.49 38.48 21.42 35.26 18.74 -38.48" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(441.45 134.74)">
+<line x1="19.403" x2="-19.403" y1="-2.397" y2="2.397" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(442.7 142.62)">
+<line x1="18.821" x2="-18.821" y1="-2.3595" y2="2.3595" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(443.54 149.35)">
+<line x1="-18.024" x2="18.024" y1="2.2805" y2="-2.2805" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(446.23 168.94)">
+<line x1="16.181" x2="-16.181" y1="-2.1235" y2="2.1235" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(447.11 175.9)">
+<line x1="-15.373" x2="15.373" y1="2.054" y2="-2.054" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(448 182.64)">
+<line x1="14.764" x2="-14.764" y1="-2" y2="2" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(448.79 187.7)">
+<line x1="-14.243" x2="14.243" y1="1.949" y2="-1.949" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(449.61 194.33)">
+<line x1="13.578" x2="-13.578" y1="-1.8955" y2="1.8955" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(445.78 163.25)">
+<polygon points="-8.51 -1.63 -7.88 3.57 8.51 1.56 7.88 -3.57" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(448.97 191.26)">
+<line x1="-.3995" x2=".3995" y1="-3.253" y2="3.253" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(447.51 179.42)">
+<line x1="-.42" x2=".42" y1="-3.4215" y2="3.4215" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(444.42 154.19)">
+<line x1="-.6265" x2=".6265" y1="-5.105" y2="5.105" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(442.45 138.25)">
+<line x1="-.5025" x2=".5025" y1="-4.095" y2="4.095" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(438.45 146.32)">
+<line x1=".3245" x2="-.3245" y1="3.377" y2="-3.377" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(441.04 173.16)">
+<line x1=".3405" x2="-.3405" y1="3.545" y2="-3.545" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(442.27 185.93)">
+<line x1=".249" x2="-.249" y1="2.5895" y2="-2.5895" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(443.52 198.98)">
+<line x1=".346" x2="-.346" y1="3.603" y2="-3.603" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(457.84 197.06)">
+<line x1="-.576" x2=".576" y1="-3.403" y2="3.403" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(455.67 184.34)">
+<line x1="-.4445" x2=".4445" y1="-2.623" y2="2.623" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(453.5 171.51)">
+<line x1="-.595" x2=".595" y1="-3.515" y2="3.515" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(449.02 145.01)">
+<line x1="-.5475" x2=".5475" y1="-3.2325" y2="3.2325" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(389.38 178.47)">
+<polygon points="-6.76 -34.67 -4.7 -29.24 -11.15 -26.77 -13.23 -32.18 -29.11 -25.66 4.75 40.15 29.11 30.75 8.67 -40.15" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(381.11 151.09)">
+<line x1="18.246" x2="-18.246" y1="-7.02" y2="7.02" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(384.23 158.43)">
+<line x1="17.691" x2="-17.691" y1="-6.8425" y2="6.8425" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(386.68 164.76)">
+<line x1="-16.937" x2="16.937" y1="6.5725" y2="-6.5725" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(394.03 183.11)">
+<line x1="15.186" x2="-15.186" y1="-5.975" y2="5.975" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(396.56 189.66)">
+<line x1="-14.419" x2="14.419" y1="5.7115" y2="-5.7115" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(399.06 195.98)">
+<line x1="13.842" x2="-13.842" y1="-5.5125" y2="5.5125" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(401.05 200.7)">
+<line x1="-13.348" x2="13.348" y1="5.337" y2="-5.337" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(403.44 206.92)">
+<line x1="12.715" x2="-12.715" y1="-5.124" y2="5.124" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(392.2 177.7)">
+<polygon points="-8.64 0.48 -6.77 5.37 8.64 -0.55 6.8 -5.37" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(402.07 204.11)">
+<line x1="-1.1745" x2="1.1745" y1="-3.06" y2="3.06" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(397.81 192.98)">
+<line x1="-1.236" x2="1.236" y1="-3.218" y2="3.218" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(388.68 169.23)">
+<line x1="-1.843" x2="1.843" y1="-4.8015" y2="4.8015" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(382.94 154.25)">
+<line x1="-1.478" x2="1.478" y1="-3.8515" y2="3.8515" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(381.01 163.04)">
+<line x1="1.1315" x2="-1.1315" y1="3.1985" y2="-3.1985" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(390.01 188.47)">
+<line x1="1.1875" x2="-1.1875" y1="3.3575" y2="-3.3575" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(394.29 200.56)">
+<line x1=".8675" x2="-.8675" y1="2.453" y2="-2.453" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(398.66 212.92)">
+<line x1="1.2075" x2="-1.2075" y1="3.412" y2="-3.412" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(412.08 207.59)">
+<line x1="-1.3825" x2="1.3825" y1="-3.162" y2="3.162" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(406.92 195.78)">
+<line x1="-1.066" x2="1.066" y1="-2.4375" y2="2.4375" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(401.7 183.86)">
+<line x1="-1.4285" x2="1.4285" y1="-3.2665" y2="3.2665" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(390.94 159.22)">
+<line x1="-1.3135" x2="1.3135" y1="-3.004" y2="3.004" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(558.08 177.05)">
+<polygon points="13.19 -32.18 11.09 -26.77 4.64 -29.24 6.71 -34.66 -9.45 -40.44 -28.32 31.13 -3.93 40.44 28.32 -25.93" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(565.28 149.27)">
+<line x1="18.256" x2="-18.256" y1="6.9925" y2="-6.9925" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(562.69 156.81)">
+<line x1="17.725" x2="-17.725" y1="6.7525" y2="-6.7525" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(560.27 163.16)">
+<line x1="-16.985" x2="16.985" y1="-6.4485" y2="6.4485" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(553.44 181.72)">
+<line x1="15.284" x2="-15.284" y1="5.721" y2="-5.721" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(550.96 188.27)">
+<line x1="-14.537" x2="14.537" y1="-5.404" y2="5.404" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(548.58 194.64)">
+<line x1="13.974" x2="-13.974" y1="5.165" y2="-5.165" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(546.9 199.49)">
+<line x1="-13.49" x2="13.49" y1="-4.9655" y2="4.9655" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(544.51 205.71)">
+<line x1="12.877" x2="-12.877" y1="4.7005" y2="-4.7005" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(555.73 176.44)">
+<polygon points="-6.76 -5.4 -8.63 -0.51 6.78 5.4 8.63 0.58" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(545.38 202.7)">
+<line x1="1.1735" x2="-1.1735" y1="-3.0595" y2="3.0595" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(549.65 191.57)">
+<line x1="1.234" x2="-1.234" y1="-3.2185" y2="3.2185" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(558.77 167.83)">
+<line x1="1.8435" x2="-1.8435" y1="-4.801" y2="4.801" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(564.52 152.84)">
+<line x1="1.4785" x2="-1.4785" y1="-3.8515" y2="3.8515" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(557.21 158.08)">
+<line x1="-1.2995" x2="1.2995" y1="3.134" y2="-3.134" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(546.88 183)">
+<line x1="-1.364" x2="1.364" y1="3.2895" y2="-3.2895" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(541.97 194.85)">
+<line x1="-.9965" x2=".9965" y1="2.4035" y2="-2.4035" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(536.95 206.97)">
+<line x1="-1.386" x2="1.386" y1="3.3435" y2="-3.3435" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(550.49 211.99)">
+<line x1="1.0885" x2="-1.0885" y1="-3.275" y2="3.275" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(554.56 199.75)">
+<line x1=".8385" x2="-.8385" y1="-2.525" y2="2.525" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(558.66 187.4)">
+<line x1="1.124" x2="-1.124" y1="-3.383" y2="3.383" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(567.13 161.9)">
+<line x1="1.0345" x2="-1.0345" y1="-3.1115" y2="3.1115" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(504.94 165.25)">
+<polygon points="4.38 -36.03 3.66 -30.27 -3.2 -31.12 -2.5 -36.88 -19.58 -38.57 -20.58 35.43 5.34 38.57 20.58 -33.63" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(504.57 134.94)">
+<line x1="19.407" x2="-19.407" y1="2.3685" y2="-2.3685" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(503.88 142.88)">
+<line x1="18.832" x2="-18.832" y1="2.263" y2="-2.263" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(503.07 149.63)">
+<line x1="-18.04" x2="18.04" y1="-2.1475" y2="2.1475" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(500.93 169.28)">
+<line x1="16.214" x2="-16.214" y1="1.8545" y2="-1.8545" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(500.1 176.25)">
+<line x1="-15.412" x2="15.412" y1="-1.726" y2="1.726" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(499.35 183)">
+<line x1="14.81" x2="-14.81" y1="1.631" y2="-1.631" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(498.88 188.1)">
+<line x1="-14.291" x2="14.291" y1="-1.554" y2="1.554" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(498.07 194.72)">
+<line x1="13.632" x2="-13.632" y1="1.445" y2="-1.445" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(501.89 163.61)">
+<polygon points="-7.87 -3.6 -8.51 1.59 7.88 3.6 8.51 -1.52" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(498.19 191.59)">
+<line x1=".3995" x2="-.3995" y1="-3.2535" y2="3.2535" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(499.64 179.76)">
+<line x1=".419" x2="-.419" y1="-3.4215" y2="3.4215" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(502.74 154.51)">
+<line x1=".627" x2="-.627" y1="-5.105" y2="5.105" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(504.7 138.59)">
+<line x1=".5025" x2="-.5025" y1="-4.095" y2="4.095" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(498.87 145.44)">
+<line x1="-.503" x2=".503" y1="3.355" y2="-3.355" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(494.88 172.11)">
+<line x1="-.528" x2=".528" y1="3.5215" y2="-3.5215" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(492.97 184.8)">
+<line x1="-.385" x2=".385" y1="2.573" y2="-2.573" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(491.04 197.77)">
+<line x1="-.536" x2=".536" y1="3.58" y2="-3.58" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(505.38 199.37)">
+<line x1=".2645" x2="-.2645" y1="-3.4415" y2="3.4415" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(506.37 186.5)">
+<line x1=".2025" x2="-.2025" y1="-2.653" y2="2.653" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(507.37 173.53)">
+<line x1=".2725" x2="-.2725" y1="-3.555" y2="3.555" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(509.43 146.74)">
+<line x1=".251" x2="-.251" y1="-3.269" y2="3.269" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.27 152.5)">
+<polygon points="-12.83 47.82 -15.68 -47.82 15.68 -47.82 13.27 47.77" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(473.06 97.89)">
+<polygon points="-21.39 -6.81 -12.83 -6.81 -12.82 0.22 -3.71 0.22 -3.69 -6.81 5.4 -6.81 5.4 0.22 13.4 0.22 13.38 -6.81 21.39 -6.81 21.39 0.21 15.83 6.81 -15.31 6.81 -21.39 0.21" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(473.41 111.93)">
+<line x1="-15.477" x2="15.477" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.31 118.77)">
+<line x1="15.337" x2="-15.337" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.43 126.35)">
+<line x1="14.941" x2="-14.941" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.33 132.23)">
+<line x1="15.035" x2="-15.035" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.31 140.29)">
+<line x1="14.779" x2="-14.779" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.38 147.13)">
+<line x1="-14.57" x2="14.57" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.43 167.08)">
+<line x1="14.058" x2="-14.058" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.43 174.17)">
+<line x1="-13.779" x2="13.779" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.45 181.02)">
+<line x1="13.663" x2="-13.663" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.52 186.19)">
+<line x1="-13.454" x2="13.454" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.49 192.92)">
+<line x1="13.29" x2="-13.29" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.06 143.89)">
+<path transform="translate(-181.18 -53.31)" d="m177.78 65.448h6.864l0.556-20.071s-2.82-4.206-3.975-4.206-4.077 4.206-4.077 4.206l0.632 20.071z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(464.61 114.43)">
+<path transform="translate(-172.73 -23.86)" d="m169.3 29.521h6.866v-8.091s-2.266-3.237-3.422-3.237c-1.155 0-3.468 3.307-3.468 3.307l0.024 8.021z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(481.5 114.43)">
+<path transform="translate(-189.62 -23.86)" d="m186.2 29.521h6.864v-8.091s-2.266-3.237-3.42-3.237c-1.155 0-3.469 3.307-3.469 3.307l0.025 8.021z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(473.06 184.01)">
+<path transform="translate(-181.17 -93.43)" d="m174.81 110.13h12.871l1.039-25.521s-5.285-7.885-7.452-7.885c-2.166 0-7.644 7.885-7.644 7.885l1.186 25.521z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(473.08 108.44)">
+<line y1="3.6735" y2="-3.6735" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.08 122.46)">
+<line y1="3.787" y2="-3.787" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(467.08 162.7)">
+<line x1="-.124" x2=".124" y1="-4.4685" y2="4.4685" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(466.16 129.18)">
+<line x1="-.0785" x2=".0785" y1="-2.8245" y2="2.8245" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(480.93 129.35)">
+<line x1="-.0635" x2=".0635" y1="2.8825" y2="-2.8825" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(480.19 162.97)">
+<line x1="-.097" x2=".097" y1="4.4125" y2="-4.4125" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(534.41 159.94)">
+<polygon points="-25.4 43.61 -5.03 -49.88 25.4 -42.29 -0.06 49.88" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(546.83 106.54)">
+<polygon points="-19.9 -11.11 -11.6 -9.04 -13.29 -2.21 -4.45 -0.01 -2.73 -6.83 6.09 -4.63 4.39 2.2 12.15 4.13 13.83 -2.7 21.6 -0.76 19.9 6.05 12.91 11.11 -17.3 3.58 -21.6 -4.3" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(542.98 120.91)">
+<line x1="-15.015" x2="15.015" y1="-3.744" y2="3.744" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(541.22 127.53)">
+<line x1="14.882" x2="-14.882" y1="3.7105" y2="-3.7105" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(539.51 134.9)">
+<line x1="14.498" x2="-14.498" y1="3.6145" y2="-3.6145" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(537.99 140.6)">
+<line x1="14.588" x2="-14.588" y1="3.637" y2="-3.637" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(536.02 148.41)">
+<line x1="14.34" x2="-14.34" y1="3.5755" y2="-3.5755" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(534.44 155.06)">
+<line x1="-14.136" x2="14.136" y1="-3.525" y2="3.525" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(529.65 174.44)">
+<line x1="13.641" x2="-13.641" y1="3.401" y2="-3.401" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(527.94 181.31)">
+<line x1="-13.37" x2="13.37" y1="-3.3335" y2="3.3335" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(526.31 187.97)">
+<line x1="13.256" x2="-13.256" y1="3.305" y2="-3.305" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(525.13 192.99)">
+<line x1="-13.055" x2="13.055" y1="-3.2545" y2="3.2545" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(523.47 199.53)">
+<line x1="12.897" x2="-12.897" y1="3.2155" y2="-3.2155" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(534.71 152.26)">
+<path transform="translate(-242.82 -61.68)" d="m236.79 72.22 6.662 1.661 5.393-19.341s-1.719-4.763-2.84-5.042c-1.119-0.279-4.973 3.095-4.973 3.095l-4.242 19.627z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(533.45 121.63)">
+<path transform="translate(-241.57 -31.05)" d="m237.26 35.31 6.662 1.661 1.959-7.851s-1.416-3.689-2.537-3.969c-1.121-0.279-4.166 2.37-4.166 2.37l-1.918 7.789z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(549.85 125.72)">
+<path transform="translate(-257.97 -35.14)" d="m253.66 39.398 6.661 1.661 1.957-7.851s-1.414-3.689-2.534-3.968c-1.121-0.28-4.166 2.369-4.166 2.369l-1.918 7.789z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(524.83 191.56)">
+<path transform="translate(-232.94 -100.97)" d="m223.1 114.86 12.488 3.114 7.182-24.512s-3.221-8.929-5.321-9.454c-2.103-0.524-9.324 5.802-9.324 5.802l-5.025 25.05z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(543.51 117.45)">
+<line x1="-.889" x2=".889" y1="3.5645" y2="-3.5645" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(540.12 131.05)">
+<line x1="-.916" x2=".916" y1="3.674" y2="-3.674" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(524.56 168.65)">
+<line x1=".96" x2="-.96" y1="-4.3655" y2="4.3655" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(531.77 135.9)">
+<line x1=".6075" x2="-.6075" y1="-2.76" y2="2.76" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(546.06 139.64)">
+<line x1="-.76" x2=".76" y1="2.781" y2="-2.781" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(537.21 172.09)">
+<line x1="-1.1615" x2="1.1615" y1="4.258" y2="-4.258" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(585.32 179.96)">
+<polygon points="-35.04 36.79 7.34 -49 35.04 -34.27 -11.97 49" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(611.06 130.92)">
+<polygon points="-17.24 -14.75 -9.68 -10.73 -12.97 -4.51 -4.93 -0.24 -1.61 -6.44 6.42 -2.17 3.11 4.04 10.18 7.79 13.46 1.57 20.53 5.33 17.24 11.53 9.23 14.75 -18.27 0.13 -20.53 -8.55" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(603.22 144.77)">
+<line x1="-13.664" x2="13.664" y1="-7.265" y2="7.265" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(599.93 150.78)">
+<line x1="13.541" x2="-13.541" y1="7.2" y2="-7.2" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(596.47 157.52)">
+<line x1="13.193" x2="-13.193" y1="7.0145" y2="-7.0145" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(593.63 162.68)">
+<line x1="13.275" x2="-13.275" y1="7.0585" y2="-7.0585" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(589.83 169.78)">
+<line x1="13.048" x2="-13.048" y1="6.938" y2="-6.938" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(586.67 175.85)">
+<line x1="-12.864" x2="12.864" y1="-6.84" y2="6.84" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(577.35 193.49)">
+<line x1="12.413" x2="-12.413" y1="6.6" y2="-6.6" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(574.02 199.75)">
+<line x1="-12.167" x2="12.167" y1="-6.469" y2="6.469" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(570.82 205.8)">
+<line x1="12.063" x2="-12.063" y1="6.414" y2="-6.414" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(568.46 210.41)">
+<line x1="-11.88" x2="11.88" y1="-6.3165" y2="6.3165" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(565.28 216.33)">
+<line x1="11.735" x2="-11.735" y1="6.24" y2="-6.24" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(587.21 173.63)">
+<path transform="translate(-295.32 -83.05)" d="m287.33 91.384 6.063 3.223 9.912-17.461s-0.516-5.038-1.535-5.58-5.573 1.8-5.573 1.8l-8.867 18.018z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(593.53 143.64)">
+<path transform="translate(-301.65 -53.05)" d="m296.72 55.682 6.063 3.223 3.8-7.145s-0.479-3.922-1.5-4.465c-1.021-0.542-4.615 1.292-4.615 1.292l-3.748 7.095z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(608.45 151.56)">
+<path transform="translate(-316.57 -60.98)" d="m311.64 63.616 6.063 3.223 3.799-7.145s-0.48-3.921-1.5-4.464c-1.021-0.542-4.615 1.291-4.615 1.291l-3.747 7.095z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(567.75 209.74)">
+<path transform="translate(-275.87 -119.16)" d="m263.74 129.44 11.363 6.042 12.898-22.047s-0.965-9.443-2.877-10.46-10.451 3.374-10.451 3.374l-10.933 23.091z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(604.58 141.55)">
+<line x1="-1.725" x2="1.725" y1="3.244" y2="-3.244" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(598 153.93)">
+<line x1="-1.7785" x2="1.7785" y1="3.343" y2="-3.343" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(573.81 186.63)">
+<line x1="1.9875" x2="-1.9875" y1="-4.0035" y2="4.0035" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(588.72 156.61)">
+<line x1="1.2565" x2="-1.2565" y1="-2.531" y2="2.531" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(601.69 163.7)">
+<line x1="-1.41" x2="1.41" y1="2.515" y2="-2.515" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(585.25 193.04)">
+<line x1="-2.1565" x2="2.1565" y1="3.85" y2="-3.85" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(416.01 159.38)">
+<polygon points="0.29 49.85 -25.61 -42.26 4.83 -49.85 25.61 43.49" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(402.96 106.05)">
+<polygon points="-21.6 -0.7 -13.3 -2.77 -11.58 4.05 -2.74 1.85 -4.43 -4.98 4.39 -7.18 6.09 -0.35 13.85 -2.29 12.13 -9.11 19.9 -11.05 21.6 -4.24 17.8 3.52 -12.41 11.05 -19.9 6.11" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(407.49 120.32)">
+<line x1="-15.016" x2="15.016" y1="3.7435" y2="-3.7435" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(409.06 126.99)">
+<line x1="14.882" x2="-14.882" y1="-3.7105" y2="3.7105" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(411 134.31)">
+<line x1="14.498" x2="-14.498" y1="-3.615" y2="3.615" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(412.34 140.04)">
+<line x1="14.588" x2="-14.588" y1="-3.637" y2="3.637" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(414.26 147.86)">
+<line x1="14.339" x2="-14.339" y1="-3.5755" y2="3.5755" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(415.99 154.49)">
+<line x1="-14.137" x2="14.137" y1="3.525" y2="-3.525" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(420.86 173.83)">
+<line x1="13.641" x2="-13.641" y1="-3.401" y2="3.401" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(422.57 180.71)">
+<line x1="-13.37" x2="13.37" y1="3.3335" y2="-3.3335" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(424.26 187.36)">
+<line x1="13.257" x2="-13.257" y1="-3.305" y2="3.305" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(425.57 192.34)">
+<line x1="-13.055" x2="13.055" y1="3.255" y2="-3.255" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(427.18 198.89)">
+<line x1="12.896" x2="-12.896" y1="-3.2155" y2="3.2155" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(415.13 151.81)">
+<path transform="translate(-123.25 -61.23)" d="m122.65 73.436 6.662-1.661-4.318-19.608s-3.753-3.399-4.874-3.12-2.938 5.067-2.938 5.067l5.468 19.322z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(399.96 125.28)">
+<path transform="translate(-108.08 -34.7)" d="m105.73 40.628 6.662-1.661-1.958-7.852s-2.981-2.593-4.103-2.313c-1.121 0.28-2.565 4.047-2.565 4.047l1.964 7.779z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(416.36 121.19)">
+<path transform="translate(-124.48 -30.62)" d="m122.13 36.539 6.661-1.661-1.958-7.852s-2.981-2.592-4.103-2.313c-1.121 0.279-2.564 4.047-2.564 4.047l1.964 7.779z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(425.05 191.08)">
+<path transform="translate(-133.16 -100.51)" d="m130.58 117.51 12.489-3.114-5.167-25.015s-7.036-6.373-9.137-5.849c-2.102 0.524-5.509 9.5-5.509 9.5l7.324 24.478z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(406.34 117.01)">
+<line x1=".889" x2="-.889" y1="3.564" y2="-3.564" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(409.73 130.61)">
+<line x1=".916" x2="-.916" y1="3.674" y2="-3.674" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(413.64 171.11)">
+<line x1="-1.201" x2="1.201" y1="-4.3055" y2="4.3055" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(404.63 138.82)">
+<line x1="-.759" x2=".759" y1="-2.7215" y2="2.7215" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(419.01 135.41)">
+<line x1=".635" x2="-.635" y1="2.8125" y2="-2.8125" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(426.42 168.22)">
+<line x1=".973" x2="-.973" y1="4.3055" y2="-4.3055" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(362.02 181.89)">
+<polygon points="12.2 48.92 -35.22 -34.19 -7.52 -48.92 35.22 36.62" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(335.71 133.02)">
+<polygon points="-20.53 5.45 -12.98 1.43 -9.66 7.64 -1.62 3.36 -4.9 -2.86 3.12 -7.12 6.42 -0.91 13.49 -4.67 10.16 -10.87 17.24 -14.63 20.53 -8.43 18.72 0.01 -8.77 14.63 -17.24 11.65" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(344.15 146.68)">
+<line x1="-13.664" x2="13.664" y1="7.265" y2="-7.265" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(347.29 152.77)">
+<line x1="13.542" x2="-13.542" y1="-7.2005" y2="7.2005" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(350.95 159.39)">
+<line x1="13.193" x2="-13.193" y1="-7.015" y2="7.015" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(353.63 164.64)">
+<line x1="13.275" x2="-13.275" y1="-7.0585" y2="7.0585" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(357.39 171.76)">
+<line x1="13.048" x2="-13.048" y1="-6.938" y2="6.938" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(360.66 177.77)">
+<line x1="-12.865" x2="12.865" y1="6.84" y2="-6.84" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(370.07 195.37)">
+<line x1="12.413" x2="-12.413" y1="-6.5995" y2="6.5995" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(373.4 201.63)">
+<line x1="-12.166" x2="12.166" y1="6.4695" y2="-6.4695" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(376.63 207.66)">
+<line x1="12.063" x2="-12.063" y1="-6.4145" y2="6.4145" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(379.13 212.2)">
+<line x1="-11.88" x2="11.88" y1="6.3165" y2="-6.3165" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(382.26 218.14)">
+<line x1="11.735" x2="-11.735" y1="-6.24" y2="6.24" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(359.6 175.81)">
+<path transform="translate(-67.72 -85.22)" d="m69.679 96.79 6.062-3.223-8.934-17.981s-4.464-2.39-5.484-1.848-1.625 5.628-1.625 5.628l9.981 17.424z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(338.35 153.77)">
+<path transform="translate(-46.46 -63.19)" d="m45.326 69.049 6.063-3.223-3.799-7.145s-3.52-1.794-4.541-1.251c-1.021 0.542-1.51 4.547-1.51 4.547l3.787 7.072z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(353.27 145.83)">
+<path transform="translate(-61.39 -55.25)" d="m60.249 61.114 6.062-3.223-3.799-7.145s-3.52-1.794-4.541-1.252c-1.02 0.542-1.509 4.547-1.509 4.547l3.787 7.073z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(379.09 211.88)">
+<path transform="translate(-87.2 -121.3)" d="m88.036 137.64 11.365-6.042-11.065-23.021s-8.368-4.481-10.281-3.464-3.047 10.551-3.047 10.551l13.028 21.976z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(342.25 143.75)">
+<line x1="1.725" x2="-1.725" y1="3.2435" y2="-3.2435" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(348.82 156.12)">
+<line x1="1.7775" x2="-1.7775" y1="3.3435" y2="-3.3435" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(362.41 194.47)">
+<line x1="-2.207" x2="2.207" y1="-3.887" y2="3.887" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(345.85 165.32)">
+<line x1="-1.395" x2="1.395" y1="-2.457" y2="2.457" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(358.99 158.53)">
+<line x1="1.2965" x2="-1.2965" y1="2.5745" y2="-2.5745" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(374.12 188.56)">
+<line x1="1.9855" x2="-1.9855" y1="3.942" y2="-3.942" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(474.23 176.11)">
+<path transform="translate(-182.35 -85.53)" d="m303.53 106.8s-0.14-0.11-0.482-0.363c-0.344-0.252-0.866-0.632-1.567-1.119-1.4-0.975-3.506-2.382-6.279-4.078-5.547-3.393-13.764-7.939-24.361-12.489-21.197-9.104-51.893-18.218-89.827-18.216-71.102-0.013-114.47 32.062-119.33 35.845-0.324 0.252-0.451 0.357-0.451 0.357-1.493 1.228-3.698 1.013-4.926-0.48s-1.013-3.698 0.48-4.926c0.357-0.288 46.058-37.781 124.22-37.798 78.157 0.023 126.47 37.48 126.81 37.735 1.527 1.186 1.803 3.385 0.619 4.914-0.689 0.888-1.723 1.354-2.768 1.354-0.752-1e-3 -1.508-0.24-2.146-0.736z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(474.23 217.11)">
+<path transform="translate(-182.35 -126.53)" d="m281.5 143.93s-0.113-0.09-0.395-0.297c-0.281-0.207-0.711-0.518-1.283-0.916-1.146-0.798-2.869-1.949-5.139-3.336-4.537-2.776-11.263-6.496-19.933-10.218-17.344-7.449-42.457-14.906-73.495-14.904-58.174-0.01-93.656 26.232-97.631 29.328-0.265 0.207-0.369 0.292-0.369 0.292-1.221 1.005-3.025 0.829-4.03-0.393-1.004-1.222-0.829-3.026 0.393-4.03 0.292-0.236 37.684-30.912 101.64-30.926 63.946 0.019 103.47 30.666 103.76 30.874 1.248 0.971 1.476 2.77 0.504 4.021-0.563 0.727-1.408 1.106-2.262 1.106-0.614 0-1.232-0.196-1.755-0.601z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(374.38 466.93)">
+<path transform="translate(-82.49 -376.35)" d="m69.818 372.17 9.46-10.553s4.973-3.518 13.342 4.852c8.369 8.371 5.458 12.492 5.458 12.492l-9.946 11.039-8.611 1.818-13.099-12.372 3.396-7.276z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(369.94 458.34)">
+<path transform="translate(-78.06 -367.76)" d="m76.476 373.9s2.05-0.485 2.924-2.71c1.334-3.396-3.517-6.429-0.121-9.582" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(382.28 471.45)">
+<path transform="translate(-90.4 -380.87)" d="m82.713 382.78s1.097-1.873 4.935-2.734c2.535-0.567 5.215 4.125 10.431-1.092" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(572.25 467.41)">
+<path transform="translate(-280.36 -376.82)" d="m293.13 372.64-9.528-10.553s-5.009-3.518-13.438 4.853c-8.431 8.37-5.498 12.492-5.498 12.492l10.019 11.038 8.674 1.818 13.193-12.371-3.422-7.277z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(576.71 458.82)">
+<path transform="translate(-284.83 -368.24)" d="m286.42 374.38s-2.065-0.486-2.944-2.711c-1.345-3.396 3.543-6.428 0.121-9.582" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(564.29 471.93)">
+<path transform="translate(-272.4 -381.35)" d="m280.14 383.26s-1.105-1.872-4.972-2.733c-2.553-0.567-5.252 4.124-10.506-1.092" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.43 507.06)">
+<path transform="translate(-181.55 -416.49)" d="m82.713 382.78s33.345 41.02 99.555 41.02c66.209 0 97.875-40.54 97.875-40.54l17.99 23.271s-44.857 43.658-115.39 43.658c-70.527 0-117.78-44.619-117.78-44.619l17.752-22.79z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(323.89 291.11)">
+<path transform="translate(-32 -200.53)" d="m8.695 156.03s25.914 5.265 41 28.333c14.083 21.534 17.886 60.989 5.333 60.667l-5.333-2.668-15-11.667s7.667-38.667-33.333-50.667l16-8c0 2e-3 -4-11.331-8.667-15.998z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(345.24 330.95)">
+<path transform="translate(-53.36 -240.36)" d="m53.029 235.7s2.218 0.563 3.434 2.557c1.411 2.313-0.129 6.25-1.434 6.777l-5.333-2.666 3.333-6.668z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(622.93 291.59)">
+<path transform="translate(-331.04 -201.01)" d="m354.32 156.51s-25.882 5.265-40.947 28.333c-14.063 21.534-17.863 60.989-5.326 60.667l5.326-2.666 14.979-11.668s-7.655-38.667 33.291-50.667l-15.979-8c0 1e-3 3.996-11.333 8.656-15.999z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(601.6 331.43)">
+<path transform="translate(-309.71 -240.84)" d="m310.04 236.18s-2.215 0.563-3.431 2.557c-1.408 2.314 0.131 6.251 1.434 6.777l5.326-2.666-3.329-6.668z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(338.04 399.94)">
+<path transform="translate(-46.15 -309.35)" d="m76.476 373.9-20.391 19.431s-27.39-18.639-37.39-75.971c-10-57.334 9.333-92 9.333-92l25 10.333s-15.333 38.668-7.667 77.334c7.666 38.667 31.115 60.873 31.115 60.873z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(608.86 400.41)">
+<path transform="translate(-316.97 -309.83)" d="m286.42 374.38 20.539 19.431s27.588-18.64 37.66-75.972c10.072-57.334-9.4-92-9.4-92l-25.182 10.333s15.444 38.668 7.723 77.334c-7.723 38.667-31.34 60.874-31.34 60.874z" fill="#b49f5c" stroke="#000"/>
+</g>
+<g transform="translate(327.06 329.2)">
+<path transform="translate(-35.18 -238.62)" d="m31.944 241.18-0.328 0.217c-0.644-0.685-1.052-1.403-1.224-2.157-0.172-0.756-0.138-1.484 0.101-2.189 0.402-1.186 1.17-1.981 2.305-2.389 1.135-0.406 2.33-0.396 3.585 0.027 1.211 0.412 2.166 1.096 2.866 2.055 0.845 1.155 1.036 2.418 0.572 3.787-0.312 0.92-0.792 1.572-1.438 1.957s-1.255 0.48-1.826 0.287c-0.361-0.123-0.613-0.33-0.754-0.621-0.142-0.291-0.152-0.615-0.032-0.971 0.127-0.374 0.356-0.641 0.686-0.801 0.33-0.161 0.822-0.161 1.475-6e-3 0.412 0.099 0.722 0.102 0.93 0.011 0.208-0.093 0.345-0.237 0.412-0.435 0.103-0.305 0.029-0.619-0.222-0.943-0.375-0.494-1.068-0.914-2.076-1.256-0.837-0.283-1.683-0.422-2.536-0.416-0.854 9e-3 -1.547 0.182-2.078 0.517-0.391 0.256-0.667 0.622-0.828 1.099-0.105 0.311-0.133 0.629-0.081 0.959 0.051 0.328 0.214 0.752 0.491 1.268z" stroke-linecap="round"/>
+</g>
+<g transform="translate(324.13 339.09)">
+<path transform="translate(-32.25 -248.51)" d="m37.067 249.75c-0.208 0.791-0.605 1.473-1.192 2.043-0.587 0.574-1.302 0.938-2.146 1.092-0.844 0.156-1.713 0.115-2.606-0.119-1.288-0.34-2.28-0.95-2.976-1.833-0.84-1.065-1.077-2.295-0.711-3.687 0.36-1.367 1.116-2.291 2.269-2.777 1.152-0.485 2.36-0.563 3.622-0.229 1.302 0.344 2.337 1.018 3.105 2.025 0.77 1.01 0.981 2.172 0.635 3.485zm-0.7-0.141c0.087-0.331 0.037-0.646-0.149-0.947-0.187-0.304-0.638-0.588-1.353-0.855-0.716-0.268-1.727-0.574-3.035-0.918-0.693-0.184-1.352-0.309-1.978-0.375-0.479-0.051-0.868 0.01-1.169 0.18s-0.491 0.403-0.569 0.701c-0.077 0.291-0.06 0.555 0.051 0.792 0.154 0.31 0.417 0.562 0.79 0.748 0.582 0.292 1.807 0.683 3.677 1.176 1.101 0.29 1.873 0.429 2.316 0.413 0.444-0.016 0.791-0.117 1.042-0.307 0.18-0.135 0.306-0.337 0.377-0.608z" stroke-linecap="round"/>
+</g>
+<g transform="translate(321.58 349.93)">
+<path transform="translate(-29.69 -259.35)" d="m34.532 259.67-1.196-0.217c0.428 0.568 0.72 1.09 0.875 1.566 0.155 0.477 0.188 0.965 0.098 1.466-0.108 0.599-0.364 1.067-0.768 1.403-0.404 0.334-0.865 0.523-1.383 0.566-0.394 0.037-1.125-0.041-2.192-0.231l-3.597-0.649c-0.711-0.129-1.166-0.145-1.363-0.047-0.198 0.098-0.357 0.346-0.477 0.745l-0.355-0.063 0.843-4.674 0.355 0.063c-0.017 0.357 0.083 0.635 0.299 0.83 0.146 0.135 0.545 0.262 1.197 0.379l4.111 0.74c0.757 0.139 1.24 0.195 1.449 0.172 0.208-0.025 0.379-0.098 0.514-0.219 0.134-0.123 0.217-0.271 0.247-0.441 0.103-0.566-0.208-1.166-0.93-1.801l-4.951-0.893c-0.692-0.125-1.142-0.141-1.349-0.045s-0.366 0.314-0.476 0.655l-0.355-0.065 0.843-4.673 0.355 0.063c-0.03 0.396 0.045 0.695 0.226 0.898 0.125 0.139 0.543 0.271 1.255 0.399l5.217 0.94c0.699 0.125 1.145 0.139 1.339 0.041 0.194-0.097 0.354-0.346 0.481-0.744l0.366 0.066-0.678 3.77z" stroke-linecap="round"/>
+</g>
+<g transform="translate(320.07 361)">
+<path transform="translate(-28.19 -270.42)" d="m32.84 273.68-3.201-0.188 0.036-0.34c0.988-0.307 1.679-0.658 2.071-1.059 0.393-0.398 0.612-0.814 0.658-1.248 0.029-0.271-0.038-0.516-0.201-0.729-0.162-0.213-0.363-0.332-0.603-0.356-0.179-0.019-0.36 0.028-0.541 0.146-0.295 0.184-0.826 0.729-1.593 1.639-0.767 0.908-1.397 1.492-1.893 1.752-0.496 0.262-1.03 0.361-1.602 0.301-0.52-0.057-1.015-0.24-1.486-0.553-0.472-0.313-0.816-0.721-1.032-1.219-0.216-0.502-0.294-1.039-0.233-1.611 0.047-0.446 0.25-1.027 0.61-1.743 0.094-0.19 0.145-0.324 0.153-0.397 0.022-0.22-0.124-0.42-0.441-0.603l0.035-0.329 3.372 0.195-0.036 0.341c-0.91 0.206-1.613 0.547-2.108 1.022-0.495 0.476-0.768 0.946-0.817 1.412-0.034 0.32 0.037 0.594 0.211 0.815 0.175 0.226 0.402 0.353 0.682 0.381 0.319 0.033 0.606-0.036 0.86-0.212s0.654-0.583 1.201-1.227c0.813-0.943 1.423-1.545 1.828-1.805 0.593-0.382 1.218-0.537 1.877-0.467 0.719 0.075 1.343 0.393 1.873 0.95s0.745 1.307 0.646 2.245c-0.054 0.507-0.229 0.982-0.526 1.429-0.118 0.169-0.185 0.31-0.195 0.424-0.013 0.12 1e-3 0.22 0.043 0.298s0.171 0.211 0.388 0.395l-0.036 0.341z" stroke-linecap="round"/>
+</g>
+<g transform="translate(321.04 369.81)">
+<path transform="translate(-29.16 -279.24)" d="m35.614 280.33-3.43-0.166-0.108 2.228-0.993-0.05 0.108-2.227-5.787-0.279c-0.542-0.026-0.892-0.019-1.052 0.023s-0.291 0.125-0.394 0.247c-0.104 0.122-0.158 0.237-0.163 0.345-0.021 0.436 0.29 0.862 0.933 1.281l-0.235 0.291c-1.258-0.604-1.857-1.516-1.798-2.73 0.029-0.596 0.219-1.09 0.569-1.485 0.351-0.396 0.733-0.642 1.146-0.733 0.23-0.056 0.848-0.059 1.851-0.012l5.064 0.246 0.059-1.225 0.352 0.019c0.554 0.87 1.145 1.618 1.771 2.241s1.333 1.176 2.122 1.656l-0.015 0.33z" stroke-linecap="round"/>
+</g>
+<g transform="translate(319.33 379.38)">
+<path transform="translate(-27.45 -288.81)" d="m24.092 289.25c-1.03-1.127-1.552-2.146-1.566-3.058-8e-3 -0.534 0.16-0.983 0.505-1.343 0.346-0.361 0.783-0.546 1.312-0.555 0.716-0.012 1.365 0.287 1.947 0.894 0.583 0.606 1.365 1.937 2.349 3.989l0.944-0.016c0.709-0.012 1.156-0.059 1.339-0.138 0.182-0.08 0.341-0.229 0.474-0.444 0.134-0.217 0.199-0.459 0.195-0.727-7e-3 -0.436-0.11-0.791-0.309-1.068-0.123-0.174-0.265-0.257-0.426-0.254-0.141 2e-3 -0.313 0.098-0.518 0.289-0.284 0.26-0.56 0.391-0.827 0.395-0.328 6e-3 -0.61-0.112-0.845-0.354-0.235-0.24-0.355-0.559-0.361-0.953-7e-3 -0.422 0.114-0.777 0.364-1.064 0.25-0.289 0.546-0.436 0.887-0.441 0.482-8e-3 0.945 0.176 1.39 0.551s0.79 0.901 1.035 1.58c0.245 0.678 0.374 1.385 0.386 2.123 0.014 0.891-0.165 1.598-0.534 2.122s-0.774 0.868-1.213 1.029c-0.279 0.099-0.925 0.153-1.936 0.172l-3.644 0.06c-0.429 6e-3 -0.698 0.026-0.808 0.063s-0.191 0.087-0.244 0.154c-0.053 0.068-0.078 0.146-0.077 0.231 3e-3 0.175 0.129 0.351 0.38 0.525l-0.236 0.307c-0.5-0.327-0.866-0.668-1.096-1.022s-0.349-0.76-0.356-1.213c-8e-3 -0.537 0.11-0.957 0.357-1.263 0.247-0.304 0.625-0.493 1.132-0.571zm0.733-0.01 3.143-0.05c-0.489-0.803-1.007-1.397-1.556-1.782-0.365-0.257-0.732-0.381-1.1-0.375-0.309 4e-3 -0.578 0.12-0.808 0.346-0.178 0.17-0.265 0.404-0.26 0.705 6e-3 0.333 0.199 0.72 0.581 1.156z" stroke-linecap="round"/>
+</g>
+<g transform="translate(319.91 390.86)">
+<path transform="translate(-28.03 -300.27)" d="m32.603 298.6-1.209 0.112c0.565 0.432 0.987 0.855 1.265 1.273 0.278 0.417 0.441 0.879 0.489 1.387 0.058 0.605-0.063 1.125-0.362 1.558-0.299 0.431-0.691 0.737-1.179 0.918-0.37 0.144-1.095 0.265-2.174 0.366l-3.639 0.345c-0.72 0.067-1.162 0.176-1.327 0.321-0.165 0.146-0.25 0.43-0.257 0.848l-0.36 0.033-0.447-4.729 0.36-0.033c0.08 0.35 0.25 0.588 0.511 0.719 0.177 0.092 0.595 0.104 1.255 0.043l4.159-0.395c0.766-0.072 1.247-0.148 1.44-0.229 0.194-0.078 0.34-0.194 0.436-0.348 0.097-0.154 0.137-0.317 0.121-0.492-0.054-0.571-0.515-1.066-1.381-1.481l-5.008 0.476c-0.699 0.063-1.137 0.172-1.312 0.318-0.174 0.148-0.268 0.4-0.281 0.76l-0.36 0.032-0.448-4.728 0.361-0.034c0.077 0.389 0.229 0.657 0.458 0.803 0.158 0.101 0.596 0.115 1.316 0.048l5.278-0.498c0.706-0.066 1.14-0.175 1.301-0.32 0.161-0.146 0.249-0.428 0.263-0.848l0.37-0.035 0.361 3.81z" stroke-linecap="round"/>
+</g>
+<g transform="translate(321.47 402.26)">
+<path transform="translate(-29.59 -311.68)" d="m27.886 315.46-0.187 0.348c-0.892-0.299-1.592-0.739-2.101-1.322s-0.825-1.24-0.948-1.975c-0.208-1.233 0.092-2.299 0.899-3.193 0.807-0.896 1.863-1.455 3.17-1.675 1.261-0.211 2.427-0.062 3.497 0.452 1.292 0.617 2.058 1.64 2.298 3.064 0.161 0.957 0.048 1.76-0.34 2.403-0.387 0.646-0.877 1.019-1.472 1.118-0.376 0.064-0.696 0-0.959-0.19-0.262-0.188-0.425-0.47-0.487-0.84-0.065-0.39 0.01-0.731 0.224-1.028 0.214-0.3 0.646-0.531 1.297-0.703 0.409-0.108 0.683-0.254 0.823-0.435 0.14-0.179 0.192-0.371 0.158-0.575-0.053-0.318-0.267-0.56-0.642-0.728-0.566-0.259-1.374-0.3-2.424-0.121-0.871 0.146-1.681 0.424-2.43 0.836-0.75 0.41-1.278 0.89-1.587 1.437-0.223 0.412-0.292 0.863-0.209 1.359 0.054 0.323 0.182 0.617 0.382 0.883 0.203 0.263 0.548 0.558 1.038 0.885z" stroke-linecap="round"/>
+</g>
+<g transform="translate(325 410.32)">
+<path transform="translate(-33.11 -319.74)" d="m36.032 320.09-7.263 1.619c-0.646 0.145-1.043 0.312-1.189 0.502-0.146 0.189-0.184 0.506-0.112 0.949l-0.353 0.08-1.103-4.949 0.353-0.08c0.103 0.402 0.288 0.678 0.554 0.824 0.18 0.098 0.593 0.072 1.239-0.07l5.352-1.192c0.647-0.144 1.043-0.312 1.189-0.502s0.184-0.504 0.115-0.94l0.362-0.08 0.856 3.839zm4.135-2.36c0.094 0.426 0.026 0.817-0.206 1.179-0.232 0.359-0.557 0.586-0.975 0.68-0.419 0.094-0.808 0.023-1.168-0.207-0.36-0.232-0.587-0.557-0.68-0.977-0.093-0.418-0.026-0.808 0.203-1.166 0.229-0.359 0.552-0.586 0.971-0.68 0.418-0.094 0.808-0.025 1.171 0.201 0.363 0.231 0.591 0.553 0.684 0.97z" stroke-linecap="round"/>
+</g>
+<g transform="translate(325.05 419.46)">
+<path transform="translate(-33.16 -328.87)" d="m30.333 329.98c-1.283-0.83-2.047-1.684-2.293-2.561-0.145-0.516-0.096-0.99 0.146-1.428 0.243-0.438 0.618-0.727 1.128-0.869 0.689-0.192 1.393-0.07 2.111 0.367 0.717 0.438 1.813 1.525 3.287 3.26l0.909-0.254c0.684-0.191 1.104-0.351 1.259-0.475 0.157-0.123 0.272-0.307 0.346-0.551 0.075-0.243 0.076-0.493 3e-3 -0.752-0.117-0.418-0.308-0.736-0.57-0.957-0.163-0.135-0.322-0.18-0.477-0.137-0.136 0.039-0.278 0.176-0.427 0.412-0.209 0.322-0.441 0.521-0.7 0.592-0.315 0.09-0.617 0.047-0.905-0.125-0.289-0.174-0.486-0.451-0.593-0.83-0.114-0.405-0.087-0.779 0.081-1.123s0.417-0.562 0.746-0.652c0.464-0.129 0.958-0.07 1.484 0.18 0.524 0.247 0.993 0.67 1.403 1.264 0.41 0.595 0.714 1.246 0.914 1.955 0.24 0.856 0.248 1.586 0.024 2.188s-0.527 1.036-0.912 1.305c-0.246 0.166-0.854 0.387-1.828 0.658l-3.509 0.984c-0.413 0.115-0.667 0.205-0.765 0.267-0.097 0.062-0.163 0.134-0.196 0.212-0.034 0.08-0.039 0.16-0.015 0.243 0.047 0.169 0.214 0.306 0.502 0.413l-0.151 0.355c-0.567-0.189-1.007-0.426-1.32-0.709-0.313-0.285-0.531-0.646-0.653-1.084-0.145-0.517-0.137-0.953 0.023-1.312 0.16-0.356 0.476-0.635 0.948-0.836zm0.705-0.198 3.027-0.85c-0.677-0.651-1.33-1.095-1.958-1.328-0.418-0.153-0.805-0.181-1.16-0.081-0.296 0.083-0.528 0.264-0.693 0.538-0.129 0.21-0.153 0.461-0.071 0.75 0.09 0.323 0.375 0.648 0.855 0.971z" stroke-linecap="round"/>
+</g>
+<g transform="translate(330.56 436.03)">
+<path transform="translate(-38.67 -345.45)" d="m36.077 346.84c-1.359-0.694-2.205-1.469-2.538-2.315-0.196-0.498-0.194-0.978 3e-3 -1.437 0.197-0.457 0.542-0.782 1.035-0.978 0.667-0.262 1.378-0.21 2.136 0.153 0.758 0.365 1.958 1.337 3.598 2.914l0.878-0.346c0.66-0.259 1.063-0.457 1.206-0.597 0.144-0.14 0.24-0.334 0.289-0.583s0.025-0.499-0.073-0.748c-0.159-0.404-0.38-0.701-0.663-0.895-0.176-0.117-0.339-0.146-0.488-0.09-0.131 0.054-0.258 0.203-0.383 0.455-0.175 0.34-0.387 0.562-0.636 0.658-0.306 0.119-0.61 0.107-0.915-0.035s-0.529-0.397-0.673-0.767c-0.154-0.394-0.165-0.769-0.032-1.125 0.133-0.358 0.358-0.599 0.676-0.724 0.449-0.178 0.946-0.168 1.494 0.027 0.547 0.194 1.055 0.567 1.523 1.118 0.467 0.55 0.835 1.167 1.104 1.853 0.325 0.83 0.407 1.555 0.244 2.176-0.162 0.621-0.421 1.084-0.777 1.389-0.228 0.189-0.812 0.471-1.752 0.84l-3.393 1.332c-0.399 0.154-0.644 0.271-0.734 0.342-0.091 0.07-0.148 0.146-0.174 0.229-0.026 0.082-0.022 0.163 0.01 0.245 0.063 0.161 0.243 0.28 0.54 0.358l-0.114 0.369c-0.584-0.132-1.045-0.322-1.385-0.574-0.339-0.252-0.592-0.588-0.759-1.012-0.196-0.5-0.231-0.934-0.108-1.307 0.126-0.365 0.412-0.677 0.861-0.925zm0.683-0.266 2.926-1.147c-0.738-0.58-1.432-0.957-2.082-1.125-0.432-0.11-0.819-0.1-1.162 0.035-0.286 0.111-0.499 0.313-0.636 0.605-0.107 0.221-0.105 0.473 5e-3 0.753 0.122 0.311 0.439 0.604 0.949 0.879z" stroke-linecap="round"/>
+</g>
+<g transform="translate(336.21 449.01)">
+<path transform="translate(-44.32 -358.44)" d="m47.247 352.69-1.109 0.542c0.731 0.217 1.294 0.475 1.688 0.77s0.706 0.678 0.935 1.146c0.264 0.541 0.359 1.057 0.285 1.547-0.073 0.49-0.32 0.963-0.741 1.413 0.776 0.218 1.393 0.487 1.849 0.812 0.456 0.326 0.802 0.729 1.037 1.209 0.285 0.586 0.378 1.115 0.278 1.592-0.098 0.477-0.321 0.883-0.667 1.22s-0.97 0.726-1.873 1.166l-3.456 1.687c-0.65 0.316-1.025 0.572-1.123 0.767-0.1 0.192-0.082 0.487 0.052 0.886l-0.325 0.158-2.128-4.359 0.326-0.158c0.197 0.328 0.453 0.518 0.767 0.564 0.215 0.029 0.615-0.099 1.198-0.383l3.628-1.771c0.752-0.367 1.215-0.631 1.391-0.791 0.175-0.16 0.281-0.33 0.317-0.506 0.037-0.179 0.012-0.354-0.073-0.529-0.126-0.26-0.349-0.475-0.668-0.646-0.318-0.172-0.733-0.3-1.245-0.387l-4.529 2.211c-0.608 0.297-0.965 0.533-1.072 0.714-0.155 0.246-0.149 0.571 0.018 0.976l-0.325 0.157-2.131-4.366 0.325-0.158c0.126 0.229 0.275 0.384 0.447 0.468s0.342 0.112 0.511 0.087c0.169-0.027 0.501-0.162 0.994-0.402l3.628-1.771c0.764-0.372 1.228-0.636 1.391-0.79s0.264-0.328 0.303-0.523c0.039-0.193 0.02-0.371-0.06-0.533-0.117-0.242-0.288-0.431-0.511-0.566-0.325-0.191-0.791-0.338-1.397-0.436l-4.53 2.211c-0.596 0.289-0.96 0.539-1.091 0.75-0.133 0.211-0.125 0.51 0.021 0.9l-0.325 0.158-2.123-4.35 0.325-0.158c0.209 0.336 0.447 0.533 0.712 0.591 0.183 0.036 0.599-0.103 1.249-0.419l4.765-2.326c0.637-0.311 1.006-0.563 1.105-0.758 0.1-0.192 0.082-0.488-0.052-0.885l0.334-0.164 1.675 3.433z" stroke-linecap="round"/>
+</g>
+<g transform="translate(343.56 461.8)">
+<path transform="translate(-51.67 -371.23)" d="m55.969 368.64c0.416 0.704 0.621 1.466 0.615 2.285s-0.25 1.583-0.733 2.293c-0.482 0.709-1.122 1.299-1.917 1.771-1.147 0.676-2.279 0.952-3.395 0.827-1.349-0.153-2.39-0.849-3.122-2.088-0.719-1.216-0.845-2.403-0.38-3.563 0.464-1.162 1.26-2.074 2.383-2.738 1.159-0.684 2.367-0.946 3.625-0.782 1.258 0.16 2.233 0.825 2.924 1.995zm-0.593 0.397c-0.173-0.295-0.434-0.479-0.78-0.561-0.346-0.08-0.866 0.042-1.559 0.361-0.694 0.32-1.622 0.824-2.787 1.512-0.617 0.365-1.169 0.746-1.657 1.145-0.373 0.306-0.604 0.623-0.694 0.957-0.091 0.334-0.058 0.633 0.099 0.896 0.153 0.261 0.353 0.436 0.599 0.521 0.328 0.108 0.691 0.098 1.087-0.035 0.616-0.209 1.756-0.805 3.422-1.789 0.98-0.578 1.62-1.031 1.922-1.356 0.301-0.325 0.472-0.646 0.514-0.957 0.032-0.22-0.022-0.451-0.166-0.694z" stroke-linecap="round"/>
+</g>
+<g transform="translate(349.3 469.74)">
+<path transform="translate(-57.42 -379.15)" d="m61.3 377.59-1.762 1.195c1.153-0.029 1.993 0.061 2.519 0.269 0.526 0.21 0.913 0.495 1.156 0.854 0.211 0.31 0.284 0.623 0.219 0.938-0.065 0.313-0.272 0.59-0.621 0.827-0.371 0.252-0.72 0.357-1.047 0.316s-0.578-0.188-0.75-0.443c-0.2-0.293-0.278-0.611-0.237-0.957 0.042-0.344 0.061-0.543 0.057-0.596-4e-3 -0.078-0.031-0.154-0.081-0.226-0.109-0.161-0.273-0.271-0.493-0.332-0.342-0.101-0.728-0.09-1.156 0.031-0.657 0.188-1.31 0.502-1.958 0.94l-1.787 1.213-0.459 0.328c-0.315 0.213-0.505 0.369-0.567 0.469-0.104 0.168-0.147 0.342-0.127 0.518 0.019 0.178 0.125 0.428 0.319 0.749l-0.299 0.203-2.848-4.196 0.299-0.203c0.257 0.319 0.504 0.485 0.743 0.497 0.239 0.013 0.696-0.212 1.372-0.67l4.295-2.916c0.443-0.301 0.71-0.515 0.802-0.644 0.117-0.159 0.176-0.317 0.177-0.471 0-0.154-0.076-0.375-0.229-0.66l0.307-0.207 2.156 3.174z" stroke-linecap="round"/>
+</g>
+<g transform="translate(370.15 492.29)">
+<path transform="translate(-78.26 -401.71)" d="m75.931 406 1.805-7.371c0.275-1.113 0.399-1.83 0.372-2.153s-0.135-0.615-0.323-0.877l0.226-0.296 3.968 3.025-0.225 0.295c-0.269-0.189-0.491-0.277-0.667-0.27-0.176 0.01-0.312 0.078-0.409 0.205-0.154 0.203-0.326 0.703-0.514 1.502l-0.949 3.896 2.592-1.596c0.926-0.564 1.509-1.006 1.749-1.318 0.15-0.197 0.204-0.404 0.163-0.621-0.041-0.215-0.223-0.455-0.544-0.717l0.225-0.295 2.499 1.902-0.225 0.297c-0.265-0.16-0.537-0.219-0.815-0.174s-0.957 0.4-2.037 1.066l-6.349 3.908c-1.592 0.975-2.641 1.521-3.145 1.643-0.708 0.168-1.339 0.041-1.893-0.381-0.442-0.338-0.704-0.736-0.785-1.197-0.082-0.463 0.014-0.871 0.286-1.229 0.235-0.311 0.524-0.492 0.868-0.551 0.343-0.059 0.653 0.018 0.93 0.229 0.266 0.203 0.416 0.451 0.448 0.746s-0.084 0.621-0.351 0.982c-0.149 0.205-0.224 0.354-0.226 0.445-2e-3 0.09 0.037 0.166 0.117 0.229 0.128 0.098 0.322 0.123 0.583 0.078 0.383-0.063 1.023-0.383 1.919-0.961l0.707-0.441z" stroke-linecap="round"/>
+</g>
+<g transform="translate(385.35 500.43)">
+<path transform="translate(-93.48 -409.84)" d="m94.806 408.34-3.483 5.506c-0.336 0.531-0.491 0.9-0.464 1.107 0.049 0.324 0.321 0.631 0.819 0.922l-0.193 0.305-4.674-2.957 0.193-0.305c0.36 0.219 0.639 0.338 0.837 0.357 0.198 0.018 0.368-0.023 0.511-0.123 0.143-0.102 0.35-0.365 0.622-0.795l3.484-5.506-1.154-0.729 0.526-0.832 1.154 0.729 0.371-0.586 0.244-0.402c0.515-0.814 1.243-1.305 2.183-1.471s1.919 0.074 2.938 0.719c0.696 0.439 1.129 0.896 1.301 1.369 0.172 0.475 0.158 0.867-0.042 1.186-0.161 0.254-0.405 0.408-0.733 0.463-0.327 0.055-0.664-0.027-1.008-0.246-0.294-0.186-0.479-0.41-0.555-0.672s-0.055-0.486 0.063-0.672c0.032-0.051 0.115-0.146 0.25-0.281 0.083-0.082 0.152-0.166 0.206-0.25 0.075-0.119 0.097-0.229 0.064-0.328-0.037-0.143-0.12-0.254-0.25-0.336-0.164-0.104-0.344-0.123-0.541-0.057-0.196 0.064-0.389 0.248-0.579 0.547l-0.922 1.496-0.639 1.01 1.17 0.74-0.526 0.832-1.173-0.74z" stroke-linecap="round"/>
+</g>
+<g transform="translate(390.13 503.62)">
+<path transform="translate(-98.25 -413.04)" d="m101.38 411.12-3.742 6.43c-0.333 0.572-0.479 0.977-0.439 1.213s0.248 0.479 0.622 0.729l-0.182 0.313-4.382-2.551 0.182-0.313c0.365 0.197 0.692 0.248 0.98 0.152 0.193-0.064 0.456-0.385 0.79-0.957l2.757-4.736c0.333-0.574 0.479-0.979 0.439-1.215s-0.245-0.479-0.613-0.723l0.187-0.322 3.401 1.98zm1.073-4.639c0.376 0.219 0.618 0.535 0.725 0.949 0.107 0.416 0.053 0.809-0.163 1.18-0.216 0.369-0.53 0.607-0.945 0.715-0.415 0.107-0.807 0.053-1.177-0.162s-0.609-0.529-0.718-0.941-0.056-0.803 0.16-1.172c0.216-0.371 0.53-0.611 0.943-0.723 0.413-0.114 0.805-0.061 1.175 0.154z" stroke-linecap="round"/>
+</g>
+<g transform="translate(399.04 508.59)">
+<path transform="translate(-107.15 -418)" d="m113.63 412.88-4.978 9.588c-0.336 0.646-0.517 1.039-0.543 1.178-0.054 0.221-0.04 0.412 0.045 0.576 0.084 0.166 0.287 0.346 0.607 0.541l-0.153 0.295-3.875-1.141 0.685-1.318c-0.687 0.291-1.243 0.443-1.668 0.457s-0.846-0.09-1.262-0.305c-1.063-0.553-1.657-1.465-1.781-2.734-0.098-1.031 0.145-2.107 0.727-3.23 0.466-0.896 1.037-1.619 1.715-2.17 0.677-0.549 1.379-0.865 2.104-0.949 0.725-0.082 1.397 0.035 2.015 0.355 0.398 0.207 0.711 0.469 0.94 0.783s0.418 0.756 0.568 1.324l1.304-2.514c0.33-0.637 0.502-1.031 0.517-1.189 0.018-0.211-0.022-0.393-0.122-0.551-0.1-0.156-0.345-0.338-0.737-0.541l0.194-0.375 3.698 1.92zm-5.427 4.356c-2e-3 -1.072-0.32-1.773-0.956-2.104-0.22-0.115-0.432-0.148-0.636-0.104-0.315 0.068-0.664 0.299-1.043 0.689-0.38 0.393-0.818 1.064-1.315 2.021-0.546 1.051-0.873 1.869-0.98 2.455s-0.086 1.061 0.064 1.424c0.078 0.184 0.235 0.338 0.473 0.461 0.522 0.271 1.229 0.117 2.117-0.461l2.276-4.381z" stroke-linecap="round"/>
+</g>
+<g transform="translate(407.71 514.38)">
+<path transform="translate(-115.83 -423.79)" d="m119.52 425-4.699-2.109c-0.455 1.162-0.555 2.195-0.301 3.102 0.194 0.695 0.587 1.176 1.18 1.441 0.366 0.164 0.745 0.213 1.136 0.143s0.876-0.295 1.457-0.674l0.221 0.342c-0.889 0.738-1.703 1.178-2.441 1.32-0.739 0.143-1.477 0.047-2.216-0.285-1.271-0.568-2.013-1.488-2.228-2.76-0.172-1.023 4e-3 -2.117 0.527-3.283 0.641-1.43 1.537-2.395 2.689-2.895 1.152-0.498 2.247-0.516 3.285-0.049 0.867 0.389 1.46 1.082 1.779 2.08s0.19 2.208-0.389 3.627zm-1.978-1.625c0.441-0.982 0.69-1.682 0.748-2.096s0.016-0.768-0.125-1.059c-0.079-0.168-0.226-0.299-0.439-0.395-0.318-0.145-0.647-0.105-0.988 0.117-0.604 0.381-1.119 1.045-1.543 1.992l-0.144 0.32 2.491 1.121z" stroke-linecap="round"/>
+</g>
+<g transform="translate(415.44 515.48)">
+<path transform="translate(-123.56 -424.9)" d="m127.89 419.08-4.299 10.844c-0.244 0.615-0.329 1.037-0.253 1.266 0.075 0.229 0.316 0.438 0.724 0.627l-0.133 0.336-4.713-1.867 0.133-0.336c0.391 0.141 0.721 0.141 0.992 4e-3 0.181-0.094 0.394-0.449 0.638-1.064l3.582-9.033c0.242-0.609 0.325-1.027 0.25-1.258-0.075-0.227-0.313-0.436-0.714-0.621l0.137-0.346 3.656 1.448z" stroke-linecap="round"/>
+</g>
+<g transform="translate(421.41 517.98)">
+<path transform="translate(-129.53 -427.4)" d="m132.34 425.21-2.488 7.01c-0.222 0.625-0.291 1.051-0.207 1.275 0.084 0.223 0.332 0.424 0.746 0.6l-0.121 0.34-4.778-1.693 0.121-0.34c0.396 0.125 0.726 0.113 0.991-0.033 0.178-0.102 0.377-0.463 0.599-1.086l1.833-5.166c0.221-0.625 0.291-1.049 0.207-1.273-0.083-0.227-0.329-0.424-0.736-0.598l0.124-0.352 3.709 1.316zm0.197-4.755c0.41 0.146 0.706 0.412 0.888 0.801s0.202 0.783 0.058 1.188c-0.143 0.402-0.409 0.695-0.796 0.879-0.388 0.182-0.783 0.201-1.187 0.059-0.404-0.143-0.697-0.408-0.88-0.793-0.184-0.383-0.203-0.777-0.06-1.182s0.408-0.699 0.793-0.885c0.385-0.189 0.78-0.21 1.184-0.067z" stroke-linecap="round"/>
+</g>
+<g transform="translate(430.69 521.04)">
+<path transform="translate(-138.8 -430.45)" d="m144.57 424.59-3.07 10.357c-0.208 0.699-0.311 1.119-0.311 1.258-0.012 0.229 0.04 0.414 0.154 0.559 0.114 0.146 0.347 0.285 0.698 0.418l-0.094 0.316-4.021-0.385 0.422-1.426c-0.619 0.418-1.136 0.672-1.551 0.766s-0.848 0.074-1.296-0.061c-1.149-0.34-1.904-1.123-2.267-2.348-0.292-0.994-0.258-2.098 0.102-3.311 0.287-0.969 0.711-1.787 1.272-2.455s1.19-1.111 1.887-1.33 1.379-0.23 2.046-0.033c0.43 0.129 0.787 0.324 1.071 0.59 0.284 0.268 0.554 0.664 0.809 1.193l0.805-2.715c0.203-0.688 0.297-1.107 0.281-1.268-0.022-0.209-0.096-0.381-0.224-0.516-0.127-0.137-0.403-0.268-0.826-0.393l0.12-0.404 3.993 1.188zm-4.504 5.305c-0.205-1.053-0.65-1.68-1.337-1.885-0.238-0.068-0.452-0.063-0.645 0.02-0.296 0.129-0.594 0.422-0.893 0.877s-0.602 1.201-0.908 2.232c-0.337 1.137-0.503 2.002-0.498 2.598 5e-3 0.594 0.116 1.057 0.333 1.387 0.111 0.164 0.295 0.285 0.552 0.361 0.565 0.168 1.229-0.117 1.992-0.854l1.404-4.736z" stroke-linecap="round"/>
+</g>
+<g transform="translate(440.56 525.6)">
+<path transform="translate(-148.68 -435.02)" d="m149.08 438.23c-1.338 0.736-2.451 1.006-3.339 0.807-0.522-0.117-0.918-0.387-1.188-0.807-0.27-0.422-0.346-0.889-0.23-1.404 0.157-0.699 0.598-1.262 1.324-1.684 0.726-0.424 2.202-0.873 4.428-1.35l0.207-0.92c0.155-0.691 0.215-1.137 0.181-1.334-0.035-0.195-0.142-0.385-0.321-0.564-0.179-0.182-0.399-0.301-0.66-0.359-0.425-0.096-0.795-0.078-1.112 0.051-0.196 0.078-0.312 0.197-0.347 0.354-0.031 0.137 0.022 0.326 0.16 0.57 0.185 0.336 0.249 0.635 0.19 0.896-0.072 0.318-0.252 0.564-0.541 0.736s-0.626 0.215-1.011 0.129c-0.411-0.092-0.728-0.295-0.95-0.604-0.222-0.313-0.296-0.633-0.221-0.967 0.105-0.471 0.392-0.877 0.86-1.223 0.468-0.344 1.061-0.555 1.778-0.635 0.717-0.078 1.435-0.039 2.154 0.123 0.868 0.195 1.514 0.533 1.938 1.016 0.423 0.482 0.662 0.955 0.715 1.42 0.03 0.297-0.066 0.938-0.287 1.924l-0.797 3.555c-0.094 0.418-0.136 0.686-0.128 0.801 9e-3 0.113 0.04 0.205 0.093 0.271 0.054 0.066 0.123 0.109 0.208 0.129 0.17 0.039 0.37-0.043 0.601-0.246l0.241 0.301c-0.435 0.41-0.852 0.688-1.25 0.826-0.398 0.141-0.82 0.162-1.264 0.063-0.522-0.117-0.903-0.332-1.142-0.643-0.24-0.308-0.336-0.718-0.29-1.232zm0.16-0.715 0.688-3.064c-0.894 0.287-1.593 0.65-2.097 1.094-0.333 0.295-0.541 0.623-0.621 0.98-0.067 0.303-0.019 0.59 0.145 0.867 0.124 0.213 0.333 0.352 0.626 0.418 0.326 0.072 0.746-0.023 1.259-0.295z" stroke-linecap="round"/>
+</g>
+<g transform="translate(452.27 525.65)">
+<path transform="translate(-160.4 -435.06)" d="m165.58 428.72-1.617 10.682c-0.109 0.721-0.154 1.15-0.134 1.287 0.02 0.229 0.096 0.404 0.229 0.533s0.382 0.234 0.749 0.316l-0.049 0.328-4.037 0.17 0.222-1.469c-0.556 0.496-1.033 0.82-1.431 0.971-0.398 0.15-0.829 0.189-1.292 0.119-1.185-0.18-2.041-0.852-2.568-2.014-0.426-0.943-0.544-2.043-0.354-3.293 0.151-1 0.458-1.867 0.922-2.605s1.026-1.266 1.686-1.578c0.66-0.313 1.334-0.418 2.022-0.313 0.443 0.066 0.824 0.213 1.142 0.438s0.64 0.58 0.965 1.07l0.423-2.801c0.107-0.707 0.142-1.139 0.104-1.293-0.05-0.205-0.148-0.363-0.292-0.48-0.145-0.117-0.436-0.209-0.873-0.275l0.063-0.416 4.12 0.623zm-3.732 5.871c-0.348-1.014-0.875-1.574-1.583-1.68-0.245-0.037-0.457-2e-3 -0.636 0.105-0.276 0.168-0.531 0.498-0.764 0.99-0.234 0.492-0.431 1.271-0.593 2.338-0.177 1.17-0.222 2.051-0.135 2.641 0.087 0.588 0.26 1.029 0.52 1.326 0.133 0.148 0.332 0.242 0.597 0.283 0.582 0.088 1.201-0.285 1.855-1.121l0.739-4.882z" stroke-linecap="round"/>
+</g>
+<g transform="translate(468.87 529.13)">
+<path transform="translate(-176.98 -438.55)" d="m180.91 438.37-5.146-0.215c8e-3 1.246 0.298 2.24 0.87 2.988 0.438 0.574 0.981 0.875 1.63 0.902 0.401 0.018 0.77-0.08 1.107-0.291 0.337-0.209 0.705-0.598 1.104-1.164l0.332 0.234c-0.551 1.016-1.144 1.727-1.777 2.133-0.633 0.404-1.354 0.59-2.164 0.557-1.391-0.059-2.422-0.637-3.092-1.736-0.539-0.887-0.782-1.969-0.729-3.246 0.065-1.564 0.54-2.791 1.425-3.684 0.885-0.891 1.895-1.313 3.032-1.266 0.949 0.041 1.757 0.465 2.423 1.271 0.667 0.812 0.995 1.981 0.985 3.517zm-2.44-0.778c0.045-1.076 0.017-1.816-0.083-2.223s-0.27-0.719-0.508-0.938c-0.136-0.127-0.32-0.193-0.554-0.203-0.348-0.016-0.639 0.145-0.874 0.477-0.419 0.578-0.651 1.385-0.694 2.422l-0.015 0.352 2.728 0.113z" stroke-linecap="round"/>
+</g>
+<g transform="translate(477.87 529.21)">
+<path transform="translate(-185.98 -438.63)" d="m188.47 433.63 0.211 3.199-0.341 6e-3c-0.427-0.941-0.862-1.582-1.307-1.922s-0.886-0.506-1.319-0.498c-0.275 6e-3 -0.508 0.102-0.697 0.289-0.19 0.188-0.283 0.402-0.278 0.645 4e-3 0.182 0.073 0.354 0.211 0.518 0.219 0.271 0.825 0.729 1.821 1.377 0.998 0.646 1.656 1.201 1.976 1.66s0.485 0.977 0.496 1.551c0.011 0.521-0.11 1.037-0.361 1.543-0.252 0.508-0.612 0.898-1.082 1.176-0.471 0.277-0.993 0.42-1.567 0.432-0.449 0.01-1.051-0.119-1.805-0.389-0.203-0.068-0.341-0.104-0.414-0.102-0.222 4e-3 -0.401 0.176-0.543 0.512l-0.33 6e-3 -0.226-3.369 0.341-6e-3c0.317 0.877 0.743 1.531 1.277 1.963 0.533 0.434 1.033 0.645 1.503 0.637 0.321-8e-3 0.582-0.109 0.782-0.313 0.199-0.201 0.298-0.441 0.291-0.723-6e-3 -0.322-0.11-0.6-0.315-0.828-0.205-0.23-0.659-0.576-1.364-1.039-1.037-0.689-1.711-1.219-2.019-1.588-0.453-0.541-0.687-1.143-0.697-1.805-0.014-0.723 0.224-1.383 0.711-1.977 0.486-0.596 1.202-0.9 2.146-0.92 0.508-0.01 1.002 0.105 1.481 0.344 0.182 0.098 0.33 0.145 0.443 0.143 0.121-2e-3 0.217-0.029 0.29-0.08 0.073-0.053 0.187-0.195 0.343-0.434l0.342-8e-3z" stroke-linecap="round"/>
+</g>
+<g transform="translate(496.66 527.77)">
+<path transform="translate(-204.78 -437.18)" d="m200.05 433.03 0.18 1.221c0.429-0.629 0.844-1.088 1.244-1.373 0.401-0.285 0.86-0.465 1.377-0.541 0.596-0.086 1.116-0.02 1.562 0.199 0.444 0.219 0.817 0.598 1.118 1.135 0.443-0.674 0.89-1.178 1.338-1.514 0.447-0.336 0.938-0.543 1.467-0.621 0.643-0.094 1.175-0.021 1.6 0.219 0.424 0.238 0.743 0.574 0.959 1.006 0.215 0.434 0.396 1.146 0.539 2.139l0.557 3.805c0.104 0.715 0.234 1.148 0.389 1.303 0.155 0.154 0.439 0.229 0.857 0.221l0.054 0.357-4.8 0.699-0.051-0.357c0.373-0.088 0.629-0.273 0.771-0.559 0.093-0.195 0.093-0.615-1e-3 -1.258l-0.583-3.994c-0.121-0.826-0.231-1.35-0.33-1.564s-0.228-0.367-0.386-0.455c-0.159-0.09-0.334-0.119-0.526-0.092-0.284 0.043-0.558 0.189-0.817 0.439-0.26 0.252-0.51 0.605-0.748 1.066l0.729 4.988c0.099 0.668 0.216 1.08 0.353 1.236 0.188 0.223 0.5 0.314 0.935 0.279l0.054 0.357-4.809 0.701-0.053-0.357c0.257-0.051 0.449-0.145 0.582-0.283 0.133-0.137 0.211-0.291 0.238-0.461 0.024-0.168-2e-3 -0.523-0.08-1.066l-0.584-3.994c-0.123-0.842-0.232-1.363-0.33-1.564-0.098-0.203-0.231-0.352-0.404-0.447-0.174-0.098-0.35-0.133-0.528-0.105-0.265 0.039-0.496 0.145-0.694 0.314-0.281 0.25-0.562 0.648-0.84 1.197l0.729 4.986c0.096 0.654 0.223 1.078 0.383 1.268 0.159 0.189 0.446 0.275 0.864 0.256l0.052 0.355-4.788 0.699-0.052-0.357c0.385-0.096 0.645-0.264 0.778-0.498 0.092-0.162 0.084-0.602-0.021-1.316l-0.767-5.244c-0.103-0.703-0.229-1.131-0.385-1.283-0.154-0.154-0.439-0.227-0.857-0.219l-0.055-0.369 3.78-0.554z" stroke-linecap="round"/>
+</g>
+<g transform="translate(510.69 524.8)">
+<path transform="translate(-218.81 -434.22)" d="m221.63 428.82 1.747 7.139c0.17 0.695 0.341 1.113 0.515 1.254 0.172 0.141 0.461 0.186 0.869 0.133l0.086 0.352-3.716 0.908-0.299-1.219c-0.308 0.627-0.649 1.113-1.028 1.457-0.378 0.344-0.836 0.58-1.375 0.713-0.514 0.125-1.01 0.08-1.486-0.137-0.477-0.219-0.834-0.521-1.074-0.91s-0.489-1.111-0.747-2.164l-0.886-3.617c-0.168-0.689-0.336-1.104-0.504-1.24-0.168-0.139-0.461-0.184-0.877-0.139l-0.088-0.359 3.715-0.908 1.524 6.229c0.159 0.65 0.293 1.064 0.4 1.236 0.108 0.174 0.239 0.293 0.397 0.357 0.156 0.064 0.323 0.074 0.498 0.031 0.234-0.057 0.432-0.17 0.59-0.34 0.219-0.232 0.446-0.648 0.686-1.254l-1.193-4.875c-0.168-0.688-0.337-1.102-0.505-1.24s-0.46-0.184-0.876-0.137l-0.088-0.361 3.715-0.909z" stroke-linecap="round"/>
+</g>
+<g transform="translate(520.18 523.67)">
+<path transform="translate(-228.29 -433.09)" d="m231.11 436.13-5.02-5.691c-0.756-0.859-1.273-1.371-1.555-1.533-0.281-0.164-0.583-0.242-0.904-0.236l-0.113-0.354 4.748-1.531 0.114 0.354c-0.308 0.113-0.509 0.244-0.601 0.395-0.094 0.148-0.114 0.301-0.065 0.455 0.078 0.242 0.392 0.668 0.938 1.277l2.656 3.006 0.17-3.039c0.066-1.084 0.039-1.814-0.082-2.189-0.076-0.234-0.215-0.396-0.416-0.488-0.201-0.09-0.502-0.078-0.899 0.037l-0.114-0.354 2.991-0.963 0.112 0.354c-0.281 0.125-0.484 0.316-0.606 0.57s-0.218 1.014-0.288 2.281l-0.417 7.441c-0.11 1.865-0.259 3.037-0.448 3.521-0.267 0.676-0.73 1.121-1.395 1.336-0.527 0.17-1.006 0.154-1.432-0.041-0.426-0.197-0.707-0.508-0.844-0.936-0.119-0.369-0.105-0.713 0.043-1.025 0.147-0.316 0.387-0.527 0.719-0.635 0.318-0.102 0.607-0.082 0.867 0.059 0.26 0.143 0.463 0.426 0.605 0.85 0.085 0.24 0.164 0.389 0.236 0.441 0.074 0.053 0.158 0.063 0.255 0.033 0.151-0.051 0.284-0.193 0.397-0.436 0.168-0.35 0.271-1.057 0.307-2.123l0.041-0.836z" stroke-linecap="round"/>
+</g>
+<g transform="translate(537.81 516.1)">
+<path transform="translate(-245.93 -425.52)" d="m242.9 421.27 0.49 1.111c0.229-0.674 0.498-1.207 0.807-1.602 0.31-0.396 0.695-0.697 1.16-0.902 0.559-0.246 1.088-0.295 1.592-0.148 0.505 0.148 0.918 0.424 1.244 0.828 0.252 0.307 0.597 0.955 1.033 1.947l1.477 3.344c0.292 0.66 0.533 1.047 0.724 1.156s0.486 0.102 0.886-0.023l0.146 0.332-4.345 1.916-0.146-0.33c0.306-0.188 0.479-0.424 0.521-0.713 0.031-0.195-0.088-0.598-0.355-1.203l-1.686-3.82c-0.312-0.705-0.534-1.137-0.67-1.295-0.137-0.16-0.293-0.262-0.469-0.305-0.177-0.043-0.345-0.029-0.504 0.041-0.525 0.232-0.851 0.824-0.972 1.777l2.03 4.602c0.283 0.645 0.522 1.023 0.719 1.145 0.193 0.119 0.464 0.127 0.808 0.027l0.146 0.33-4.345 1.916-0.146-0.33c0.345-0.195 0.551-0.426 0.617-0.689 0.045-0.18-0.078-0.602-0.37-1.262l-2.14-4.852c-0.287-0.648-0.524-1.025-0.715-1.133-0.189-0.107-0.484-0.102-0.887 0.02l-0.148-0.342 3.498-1.543z" stroke-linecap="round"/>
+</g>
+<g transform="translate(548.05 510.77)">
+<path transform="translate(-256.16 -420.18)" d="m253.83 415.75c0.725-0.377 1.496-0.539 2.313-0.488 0.818 0.051 1.567 0.336 2.25 0.857 0.682 0.521 1.233 1.191 1.659 2.012 0.613 1.184 0.826 2.326 0.64 3.436-0.226 1.338-0.977 2.338-2.254 3.002-1.254 0.648-2.447 0.711-3.58 0.184s-2-1.371-2.603-2.529c-0.619-1.193-0.813-2.416-0.582-3.662s0.951-2.187 2.157-2.812zm0.363 0.616c-0.303 0.156-0.504 0.406-0.603 0.748-0.099 0.34-7e-3 0.865 0.274 1.576 0.281 0.709 0.734 1.664 1.355 2.863 0.33 0.637 0.68 1.207 1.051 1.719 0.283 0.387 0.59 0.637 0.918 0.744s0.629 0.094 0.901-0.051c0.267-0.139 0.451-0.328 0.554-0.568 0.127-0.322 0.135-0.686 0.022-1.088-0.175-0.625-0.706-1.797-1.597-3.514-0.524-1.01-0.94-1.674-1.25-1.992-0.309-0.318-0.616-0.508-0.926-0.564-0.215-0.045-0.449-2e-3 -0.699 0.127z" stroke-linecap="round"/>
+</g>
+<g transform="translate(555.91 504.88)">
+<path transform="translate(-264.03 -414.31)" d="m260.38 407.63 2.648 4.439c0.261-1.105 0.793-1.898 1.598-2.377 0.552-0.33 1.169-0.479 1.852-0.445 0.682 0.033 1.34 0.268 1.973 0.701 0.633 0.432 1.182 1.039 1.647 1.822 0.524 0.879 0.825 1.781 0.903 2.709s-0.063 1.756-0.426 2.48c-0.361 0.727-0.918 1.314-1.672 1.764-0.438 0.262-0.865 0.424-1.287 0.486-0.422 0.064-0.889 0.039-1.401-0.076l-0.815 1.668-0.293 0.176-6.115-10.252c-0.278-0.465-0.471-0.738-0.575-0.824-0.153-0.127-0.313-0.191-0.484-0.195-0.17-4e-3 -0.405 0.076-0.704 0.238l-0.19-0.318 3.341-1.996zm3.107 5.207 2.14 3.588c0.437 0.729 0.729 1.186 0.886 1.365 0.26 0.305 0.561 0.496 0.904 0.576s0.686 0.018 1.023-0.186c0.293-0.174 0.496-0.406 0.605-0.699 0.109-0.291 0.088-0.727-0.064-1.305-0.154-0.578-0.615-1.512-1.385-2.799-0.736-1.236-1.396-1.992-1.982-2.266-0.422-0.201-0.823-0.188-1.203 0.039-0.494 0.299-0.802 0.859-0.924 1.687z" stroke-linecap="round"/>
+</g>
+<g transform="translate(564.83 498.71)">
+<path transform="translate(-272.94 -408.13)" d="m270.37 401.36 6.42 9.74c0.364 0.553 0.662 0.863 0.892 0.934 0.229 0.068 0.539-8e-3 0.93-0.232l0.197 0.301-4.231 2.791-0.199-0.303c0.34-0.238 0.53-0.51 0.572-0.811 0.026-0.201-0.142-0.58-0.507-1.133l-5.349-8.113c-0.36-0.547-0.655-0.855-0.886-0.924-0.23-0.07-0.537 6e-3 -0.921 0.227l-0.204-0.311 3.286-2.166z" stroke-linecap="round"/>
+</g>
+<g transform="translate(572.98 495.41)">
+<path transform="translate(-281.1 -404.83)" d="m283.96 402.31-4.19 2.994c0.773 0.979 1.615 1.584 2.525 1.822 0.698 0.184 1.313 0.088 1.84-0.291 0.327-0.232 0.559-0.535 0.695-0.908s0.188-0.906 0.154-1.598l0.406-0.02c0.188 1.141 0.157 2.064-0.093 2.773s-0.704 1.299-1.362 1.77c-1.133 0.811-2.303 0.986-3.508 0.531-0.97-0.367-1.826-1.072-2.57-2.111-0.909-1.273-1.289-2.533-1.141-3.779 0.15-1.248 0.688-2.201 1.613-2.863 0.773-0.553 1.671-0.715 2.693-0.486 1.025 0.229 2.003 0.949 2.938 2.166zm-2.399 0.889c-0.627-0.877-1.104-1.443-1.434-1.703-0.329-0.258-0.654-0.4-0.977-0.426-0.185-0.016-0.373 0.045-0.563 0.18-0.282 0.203-0.415 0.508-0.396 0.914 0.024 0.713 0.339 1.492 0.941 2.336l0.204 0.287 2.225-1.588z" stroke-linecap="round"/>
+</g>
+<g transform="translate(602.4 463.53)">
+<path transform="translate(-310.52 -372.95)" d="m314.79 375.26-7.392-1.721c-1.114-0.263-1.833-0.379-2.156-0.348-0.323 0.03-0.614 0.143-0.873 0.332l-0.298-0.223 2.979-4.002 0.298 0.223c-0.185 0.271-0.271 0.494-0.26 0.669 0.011 0.177 0.081 0.312 0.21 0.407 0.204 0.15 0.706 0.316 1.508 0.496l3.906 0.904-1.626-2.574c-0.574-0.92-1.021-1.498-1.337-1.732-0.199-0.148-0.406-0.199-0.622-0.156s-0.453 0.229-0.712 0.553l-0.298-0.221 1.876-2.521 0.298 0.222c-0.157 0.269-0.212 0.54-0.164 0.817s0.411 0.951 1.09 2.023l3.98 6.305c0.992 1.582 1.552 2.623 1.679 3.127 0.175 0.705 0.055 1.338-0.361 1.896-0.331 0.445-0.728 0.712-1.188 0.8-0.461 0.086-0.871-5e-3 -1.23-0.271-0.312-0.232-0.498-0.52-0.561-0.861-0.063-0.343 0.011-0.652 0.219-0.934 0.199-0.268 0.446-0.42 0.74-0.456 0.293-0.035 0.622 0.077 0.986 0.34 0.207 0.146 0.355 0.222 0.447 0.222 0.092 2e-3 0.166-0.039 0.228-0.119 0.096-0.129 0.12-0.324 0.071-0.584-0.065-0.384-0.394-1.02-0.982-1.908l-0.455-0.705z" stroke-linecap="round"/>
+</g>
+<g transform="translate(613.02 446.91)">
+<path transform="translate(-321.14 -356.34)" d="m315.09 356.99 1.097 0.566c-0.263-0.716-0.394-1.319-0.392-1.812 2e-3 -0.494 0.123-0.972 0.362-1.436 0.275-0.535 0.634-0.92 1.069-1.153 0.438-0.233 0.963-0.315 1.575-0.249-0.29-0.752-0.439-1.408-0.453-1.968-0.012-0.562 0.105-1.078 0.352-1.554 0.298-0.577 0.668-0.969 1.108-1.174s0.899-0.27 1.376-0.192c0.478 0.077 1.161 0.346 2.054 0.806l3.416 1.766c0.643 0.332 1.069 0.479 1.285 0.443 0.215-0.037 0.439-0.227 0.679-0.57l0.321 0.166-2.227 4.309-0.32-0.166c0.146-0.354 0.144-0.672-6e-3 -0.952-0.104-0.19-0.445-0.435-1.022-0.731l-3.586-1.853c-0.743-0.384-1.23-0.598-1.464-0.644-0.232-0.045-0.433-0.028-0.597 0.049-0.164 0.076-0.291 0.201-0.38 0.374-0.132 0.256-0.172 0.563-0.119 0.922s0.196 0.769 0.434 1.229l4.478 2.313c0.602 0.311 1.004 0.455 1.211 0.434 0.291-0.021 0.548-0.222 0.771-0.596l0.32 0.166-2.229 4.316-0.32-0.166c0.107-0.237 0.145-0.45 0.109-0.639-0.035-0.188-0.114-0.341-0.237-0.461-0.122-0.119-0.428-0.306-0.915-0.558l-3.586-1.853c-0.755-0.391-1.243-0.604-1.464-0.644s-0.421-0.017-0.601 0.067-0.312 0.207-0.394 0.367c-0.123 0.238-0.173 0.487-0.148 0.748 0.04 0.375 0.2 0.836 0.483 1.381l4.479 2.313c0.588 0.304 1.006 0.445 1.254 0.427 0.247-0.021 0.482-0.204 0.709-0.554l0.321 0.165-2.221 4.3-0.32-0.166c0.146-0.369 0.16-0.678 0.048-0.924-0.079-0.169-0.439-0.419-1.081-0.751l-4.71-2.433c-0.63-0.326-1.054-0.471-1.269-0.435-0.214 0.036-0.439 0.226-0.679 0.569l-0.329-0.17 1.758-3.392z" stroke-linecap="round"/>
+</g>
+<g transform="translate(618.77 432.86)">
+<path transform="translate(-326.89 -342.29)" d="m323.95 337.16 6.866 2.616c0.67 0.255 1.11 0.353 1.323 0.289 0.214-0.062 0.415-0.274 0.604-0.64l0.338 0.129-1.362 3.574-1.172-0.447c0.34 0.609 0.545 1.168 0.613 1.674 0.067 0.506 4e-3 1.02-0.193 1.537-0.188 0.494-0.508 0.876-0.958 1.145-0.449 0.271-0.901 0.394-1.358 0.369-0.456-0.023-1.191-0.229-2.204-0.615l-3.48-1.326c-0.663-0.252-1.099-0.348-1.309-0.288-0.209 0.06-0.412 0.274-0.61 0.644l-0.347-0.133 1.361-3.574 5.994 2.284c0.625 0.238 1.04 0.362 1.244 0.372s0.377-0.031 0.521-0.124c0.144-0.092 0.247-0.224 0.311-0.392 0.086-0.227 0.104-0.451 0.055-0.678-0.066-0.313-0.28-0.738-0.642-1.276l-4.69-1.787c-0.662-0.253-1.1-0.349-1.309-0.289s-0.412 0.274-0.61 0.644l-0.347-0.133 1.361-3.575z" stroke-linecap="round"/>
+</g>
+<g transform="translate(623.41 422.87)">
+<path transform="translate(-331.53 -332.29)" d="m335.24 333.58-7.523 1.002c-1.135 0.148-1.849 0.295-2.14 0.438-0.292 0.144-0.524 0.351-0.699 0.619l-0.356-0.103 1.372-4.797 0.356 0.103c-0.077 0.319-0.08 0.559-8e-3 0.719 0.073 0.16 0.187 0.263 0.341 0.306 0.245 0.07 0.773 0.049 1.586-0.067l3.976-0.533-2.432-1.834c-0.862-0.657-1.483-1.04-1.864-1.149-0.237-0.066-0.449-0.043-0.637 0.074-0.187 0.117-0.344 0.373-0.471 0.77l-0.357-0.104 0.864-3.021 0.357 0.103c-0.054 0.306-9e-3 0.579 0.136 0.822 0.143 0.243 0.721 0.745 1.734 1.509l5.951 4.49c1.486 1.129 2.378 1.906 2.675 2.332 0.413 0.599 0.524 1.232 0.334 1.9-0.153 0.534-0.431 0.924-0.83 1.168-0.4 0.244-0.816 0.303-1.247 0.18-0.374-0.105-0.649-0.309-0.829-0.606-0.181-0.298-0.222-0.614-0.125-0.948 0.092-0.322 0.269-0.553 0.531-0.688 0.262-0.138 0.608-0.147 1.042-0.031 0.245 0.063 0.411 0.08 0.498 0.05 0.086-0.031 0.143-0.097 0.17-0.193 0.044-0.153-3e-3 -0.344-0.141-0.571-0.195-0.334-0.728-0.813-1.594-1.437l-0.67-0.503z" stroke-linecap="round"/>
+</g>
+<g transform="translate(623.44 408.64)">
+<path transform="translate(-331.56 -318.06)" d="m325.09 314.96 11.494 1.992c0.653 0.112 1.083 0.109 1.291-0.012 0.208-0.119 0.363-0.398 0.466-0.836l0.356 0.063-0.866 4.994-0.355-0.062c0.059-0.411-9e-3 -0.733-0.197-0.972-0.129-0.158-0.521-0.295-1.174-0.406l-9.574-1.659c-0.646-0.112-1.073-0.106-1.281 0.013-0.207 0.121-0.362 0.396-0.464 0.826l-0.366-0.063 0.67-3.878z" stroke-linecap="round"/>
+</g>
+<g transform="translate(626.69 400.47)">
+<path transform="translate(-334.81 -309.89)" d="m334.89 305.95-0.589 5.115c1.244 0.083 2.26-0.134 3.046-0.648 0.605-0.396 0.944-0.916 1.02-1.562 0.046-0.399-0.023-0.774-0.209-1.126-0.187-0.352-0.546-0.746-1.081-1.186l0.258-0.313c0.973 0.624 1.639 1.267 1.997 1.929 0.358 0.66 0.491 1.394 0.398 2.197-0.159 1.383-0.813 2.369-1.957 2.958-0.925 0.474-2.021 0.638-3.29 0.49-1.557-0.179-2.746-0.742-3.57-1.688-0.824-0.947-1.171-1.986-1.041-3.115 0.108-0.944 0.591-1.721 1.445-2.325 0.853-0.605 2.045-0.849 3.573-0.726zm-0.95 2.377c-1.07-0.123-1.813-0.149-2.226-0.08-0.412 0.07-0.734 0.217-0.97 0.438-0.136 0.126-0.217 0.306-0.244 0.538-0.039 0.346 0.098 0.648 0.411 0.906 0.547 0.461 1.336 0.75 2.366 0.867l0.349 0.041 0.314-2.71z" stroke-linecap="round"/>
+</g>
+<g transform="translate(627.44 390.34)">
+<path transform="translate(-335.55 -299.76)" d="m338.91 299.32c0.958 1.188 1.417 2.238 1.375 3.147-0.023 0.535-0.22 0.972-0.586 1.311-0.367 0.338-0.814 0.495-1.343 0.473-0.717-0.033-1.347-0.369-1.891-1.01-0.544-0.642-1.243-2.017-2.1-4.125l-0.942-0.043c-0.709-0.031-1.157-0.014-1.345 0.055s-0.354 0.207-0.501 0.414c-0.146 0.209-0.227 0.445-0.238 0.713-0.02 0.436 0.063 0.798 0.243 1.086 0.112 0.181 0.249 0.273 0.409 0.281 0.141 6e-3 0.317-0.08 0.534-0.258 0.299-0.24 0.582-0.355 0.85-0.344 0.327 0.016 0.602 0.148 0.82 0.402 0.22 0.256 0.32 0.58 0.303 0.975-0.02 0.421-0.161 0.77-0.429 1.041s-0.57 0.4-0.911 0.387c-0.481-0.021-0.934-0.234-1.354-0.635s-0.731-0.947-0.936-1.641-0.289-1.406-0.255-2.143c0.04-0.89 0.261-1.584 0.661-2.086 0.4-0.501 0.825-0.818 1.273-0.951 0.285-0.082 0.934-0.1 1.942-0.054l3.64 0.164c0.429 0.021 0.698 0.017 0.811-0.015 0.111-0.027 0.195-0.073 0.253-0.139 0.057-0.064 0.087-0.141 0.091-0.228 8e-3 -0.175-0.108-0.356-0.349-0.548l0.256-0.29c0.479 0.356 0.822 0.719 1.03 1.087 0.208 0.367 0.302 0.777 0.28 1.232-0.023 0.535-0.168 0.947-0.433 1.236-0.259 0.296-0.647 0.462-1.158 0.506zm-0.732-0.032-3.14-0.143c0.438 0.831 0.919 1.455 1.442 1.874 0.35 0.276 0.707 0.424 1.075 0.44 0.309 0.015 0.583-0.084 0.827-0.295 0.188-0.158 0.289-0.389 0.303-0.688 0.017-0.335-0.152-0.729-0.507-1.188z" stroke-linecap="round"/>
+</g>
+<g transform="translate(625.49 381.81)">
+<path transform="translate(-333.61 -291.22)" d="m326.78 289.89 11.665-0.124c0.663-8e-3 1.085-0.089 1.268-0.245 0.184-0.155 0.284-0.458 0.308-0.905l0.36-4e-3 0.054 5.068-0.36 4e-3c-0.019-0.415-0.143-0.723-0.371-0.92-0.155-0.133-0.564-0.193-1.228-0.188l-9.718 0.104c-0.654 7e-3 -1.074 0.089-1.257 0.244-0.183 0.156-0.285 0.455-0.307 0.896l-0.372 4e-3 -0.042-3.934z" stroke-linecap="round"/>
+</g>
+<g transform="translate(626.8 367.56)">
+<path transform="translate(-334.92 -276.98)" d="m334.22 273.19 0.495 5.126c1.233-0.18 2.182-0.604 2.843-1.272 0.509-0.514 0.73-1.092 0.669-1.738-0.038-0.398-0.186-0.752-0.439-1.057-0.254-0.306-0.69-0.617-1.306-0.934l0.188-0.361c1.081 0.406 1.866 0.896 2.355 1.467 0.487 0.572 0.771 1.261 0.85 2.066 0.134 1.387-0.298 2.486-1.295 3.303-0.804 0.655-1.842 1.045-3.114 1.168-1.559 0.15-2.84-0.15-3.845-0.904-1.004-0.754-1.561-1.696-1.67-2.829-0.091-0.946 0.218-1.806 0.927-2.575 0.706-0.775 1.822-1.259 3.342-1.46zm-0.433 2.521c-1.072 0.104-1.803 0.234-2.191 0.39-0.388 0.155-0.674 0.366-0.855 0.632-0.106 0.152-0.148 0.346-0.126 0.577 0.033 0.347 0.229 0.612 0.592 0.801 0.631 0.337 1.463 0.453 2.495 0.354l0.35-0.033-0.265-2.721z" stroke-linecap="round"/>
+</g>
+<g transform="translate(625.72 358.59)">
+<path transform="translate(-333.84 -268.02)" d="m328.53 266.17 3.146-0.623 0.05 0.339c-0.879 0.544-1.459 1.06-1.737 1.543-0.279 0.485-0.388 0.942-0.323 1.373 0.041 0.271 0.167 0.489 0.377 0.653 0.211 0.166 0.437 0.229 0.674 0.193 0.18-0.025 0.341-0.117 0.486-0.275 0.24-0.252 0.616-0.914 1.13-1.984s0.978-1.796 1.391-2.172c0.415-0.377 0.906-0.607 1.477-0.692 0.517-0.077 1.042-0.022 1.577 0.16 0.535 0.185 0.97 0.491 1.305 0.922s0.545 0.931 0.63 1.5c0.066 0.442 0.017 1.058-0.151 1.839-0.043 0.211-0.06 0.352-0.049 0.424 0.033 0.219 0.227 0.377 0.578 0.473l0.049 0.328-3.313 0.656-0.05-0.338c0.829-0.429 1.423-0.935 1.781-1.52 0.359-0.585 0.506-1.109 0.437-1.573-0.048-0.317-0.184-0.563-0.409-0.735s-0.478-0.238-0.756-0.195c-0.317 0.047-0.577 0.188-0.779 0.421-0.202 0.231-0.485 0.729-0.854 1.487-0.551 1.117-0.989 1.853-1.315 2.205-0.478 0.519-1.044 0.826-1.699 0.924-0.715 0.106-1.397-0.043-2.052-0.449-0.651-0.406-1.049-1.076-1.188-2.01-0.075-0.504-0.025-1.008 0.148-1.516 0.072-0.193 0.102-0.346 0.083-0.459-0.018-0.119-0.057-0.211-0.117-0.275-0.06-0.065-0.219-0.16-0.474-0.285l-0.053-0.339z" stroke-linecap="round"/>
+</g>
+<g transform="translate(622.58 350.6)">
+<path transform="translate(-330.7 -260.01)" d="m324.27 260.56 3.369-0.652-0.424-2.189 0.977-0.188 0.424 2.188 5.688-1.102c0.532-0.104 0.87-0.193 1.017-0.273 0.145-0.078 0.253-0.189 0.323-0.334 0.07-0.143 0.097-0.268 0.075-0.373-0.083-0.426-0.485-0.768-1.21-1.021l0.159-0.338c1.364 0.288 2.163 1.029 2.396 2.227 0.112 0.584 0.047 1.109-0.2 1.576-0.247 0.469-0.562 0.797-0.939 0.985-0.211 0.108-0.809 0.259-1.794 0.45l-4.978 0.964 0.232 1.202-0.346 0.066c-0.745-0.715-1.496-1.301-2.252-1.756-0.757-0.457-1.575-0.826-2.454-1.105l-0.063-0.327z" stroke-linecap="round"/>
+</g>
+<g transform="translate(622.47 340.99)">
+<path transform="translate(-330.59 -250.4)" d="m333.5 249.4c1.252 0.874 1.984 1.754 2.198 2.64 0.126 0.521 0.061 0.994-0.197 1.422-0.259 0.428-0.646 0.703-1.158 0.828-0.696 0.168-1.395 0.021-2.096-0.443-0.701-0.465-1.757-1.59-3.167-3.375l-0.917 0.222c-0.689 0.167-1.115 0.31-1.275 0.429-0.161 0.117-0.282 0.297-0.366 0.537-0.081 0.24-0.093 0.491-0.028 0.752 0.103 0.422 0.28 0.748 0.535 0.975 0.157 0.142 0.314 0.193 0.472 0.154 0.137-0.033 0.283-0.164 0.441-0.396 0.22-0.313 0.46-0.503 0.72-0.565 0.317-0.078 0.619-0.025 0.9 0.158s0.47 0.467 0.563 0.85c0.1 0.41 0.06 0.783-0.121 1.119-0.181 0.338-0.437 0.545-0.769 0.625-0.469 0.113-0.96 0.037-1.477-0.23-0.516-0.268-0.968-0.705-1.355-1.313-0.389-0.609-0.669-1.271-0.844-1.986-0.209-0.864-0.19-1.594 0.056-2.188 0.245-0.594 0.563-1.018 0.957-1.271 0.252-0.156 0.868-0.354 1.851-0.592l3.542-0.857c0.416-0.102 0.674-0.182 0.773-0.239s0.167-0.126 0.203-0.204c0.036-0.076 0.045-0.158 0.023-0.242-0.041-0.17-0.203-0.313-0.486-0.431l0.163-0.351c0.562 0.209 0.991 0.461 1.293 0.757 0.304 0.296 0.508 0.664 0.614 1.106 0.126 0.521 0.104 0.957-0.07 1.309-0.173 0.35-0.5 0.615-0.978 0.8zm-0.712 0.173-3.055 0.739c0.651 0.675 1.288 1.142 1.907 1.397 0.413 0.168 0.8 0.209 1.156 0.121 0.299-0.072 0.536-0.242 0.712-0.513 0.137-0.205 0.169-0.454 0.1-0.747-0.079-0.323-0.353-0.655-0.82-0.997z" stroke-linecap="round"/>
+</g>
+<g transform="translate(607.69 316.45)">
+<path transform="translate(-315.81 -225.87)" d="m317.88 222.18 0.221-0.326c0.856 0.39 1.507 0.902 1.95 1.535 0.445 0.633 0.689 1.32 0.736 2.062 0.076 1.25-0.333 2.277-1.229 3.083-0.896 0.807-2.005 1.25-3.328 1.33-1.274 0.08-2.419-0.193-3.43-0.814-1.219-0.749-1.873-1.846-1.962-3.289-0.061-0.968 0.137-1.753 0.59-2.355 0.452-0.601 0.979-0.92 1.581-0.957 0.381-0.023 0.692 0.074 0.932 0.291 0.242 0.216 0.375 0.511 0.397 0.885 0.024 0.394-0.087 0.728-0.331 1.001s-0.699 0.461-1.363 0.562c-0.419 0.066-0.706 0.181-0.863 0.345-0.158 0.165-0.229 0.349-0.219 0.556 0.021 0.32 0.208 0.584 0.563 0.791 0.534 0.314 1.334 0.441 2.396 0.375 0.884-0.055 1.717-0.245 2.504-0.575 0.788-0.33 1.364-0.751 1.729-1.264 0.264-0.385 0.382-0.828 0.351-1.329-0.021-0.327-0.115-0.633-0.289-0.917-0.172-0.286-0.484-0.616-0.936-0.99z" stroke-linecap="round"/>
+</g>
+<g transform="translate(605.67 308.64)">
+<path transform="translate(-313.78 -218.06)" d="m306.74 216.91c0.037-0.434 0.221-0.787 0.55-1.061 0.33-0.274 0.708-0.393 1.135-0.355 0.426 0.037 0.776 0.22 1.051 0.549 0.273 0.329 0.393 0.708 0.356 1.134-0.037 0.427-0.219 0.778-0.545 1.051-0.325 0.274-0.702 0.394-1.128 0.356-0.429-0.036-0.78-0.218-1.059-0.544-0.275-0.327-0.396-0.703-0.36-1.13zm4.651-1.01 7.411 0.637c0.661 0.057 1.09 0.016 1.286-0.122 0.196-0.137 0.328-0.428 0.394-0.873l0.358 0.031-0.435 5.052-0.359-0.031c0.022-0.414-0.071-0.731-0.28-0.951-0.142-0.146-0.543-0.248-1.204-0.305l-5.461-0.469c-0.659-0.058-1.088-0.017-1.284 0.121s-0.327 0.426-0.393 0.863l-0.37-0.032 0.337-3.921z" stroke-linecap="round"/>
+</g>
+<g transform="translate(609.57 298.35)">
+<path transform="translate(-317.68 -207.77)" d="m314.24 202.89 7.082 1.962c0.688 0.191 1.138 0.246 1.346 0.164 0.206-0.082 0.387-0.313 0.54-0.693l0.349 0.096-1.021 3.686-1.209-0.335c0.396 0.575 0.65 1.111 0.769 1.608 0.115 0.498 0.1 1.014-0.049 1.549-0.142 0.509-0.424 0.919-0.847 1.229s-0.861 0.475-1.318 0.494-1.208-0.116-2.253-0.405l-3.59-0.994c-0.683-0.189-1.126-0.245-1.329-0.166-0.202 0.08-0.385 0.313-0.547 0.698l-0.358-0.099 1.021-3.687 6.182 1.713c0.646 0.179 1.069 0.264 1.274 0.254 0.203-0.01 0.372-0.067 0.505-0.172 0.134-0.105 0.225-0.245 0.272-0.42 0.063-0.232 0.062-0.458-0.01-0.679-0.096-0.304-0.35-0.708-0.759-1.21l-4.837-1.34c-0.686-0.189-1.128-0.245-1.329-0.165-0.204 0.08-0.386 0.312-0.549 0.697l-0.357-0.099 1.022-3.686z" stroke-linecap="round"/>
+</g>
+<g transform="translate(614.21 284.63)">
+<path transform="translate(-322.33 -194.05)" d="m317.45 187.4 9.293 5.508c0.627 0.373 1.009 0.575 1.145 0.609 0.219 0.066 0.41 0.063 0.579-0.013s0.36-0.267 0.575-0.576l0.284 0.169-1.356 3.805-1.278-0.757c0.253 0.702 0.375 1.266 0.362 1.691-0.011 0.425-0.135 0.84-0.374 1.243-0.609 1.03-1.555 1.572-2.831 1.625-1.034 0.04-2.097-0.263-3.185-0.907-0.868-0.516-1.56-1.127-2.07-1.834s-0.786-1.425-0.828-2.155c-0.044-0.729 0.114-1.393 0.469-1.991 0.229-0.386 0.508-0.684 0.834-0.895 0.327-0.21 0.777-0.375 1.354-0.493l-2.436-1.443c-0.616-0.365-1.002-0.559-1.159-0.582-0.209-0.03-0.395 0-0.556 0.09-0.163 0.09-0.357 0.326-0.582 0.706l-0.362-0.215 2.122-3.585zm4.042 5.663c-1.069-0.059-1.786 0.22-2.152 0.836-0.126 0.213-0.173 0.423-0.14 0.629 0.052 0.319 0.263 0.679 0.632 1.08 0.368 0.402 1.017 0.877 1.943 1.426 1.02 0.604 1.816 0.977 2.396 1.117 0.578 0.141 1.053 0.146 1.425 0.017 0.189-0.067 0.353-0.216 0.487-0.447 0.301-0.506 0.187-1.22-0.342-2.14l-4.249-2.518z" stroke-linecap="round"/>
+</g>
+<g transform="translate(623.13 276.34)">
+<path transform="translate(-331.24 -185.76)" d="m333.69 187.14c-0.072 1.525-0.428 2.614-1.062 3.267-0.373 0.383-0.81 0.58-1.308 0.59-0.5 9e-3 -0.938-0.17-1.318-0.539-0.513-0.499-0.761-1.169-0.741-2.009s0.408-2.333 1.168-4.479l-0.677-0.658c-0.509-0.495-0.856-0.778-1.041-0.851-0.186-0.074-0.403-0.081-0.65-0.023s-0.466 0.183-0.65 0.375c-0.305 0.312-0.482 0.636-0.541 0.974-0.033 0.209 6e-3 0.369 0.122 0.481 0.101 0.098 0.291 0.152 0.569 0.162 0.384 0.018 0.672 0.121 0.862 0.307 0.236 0.229 0.351 0.511 0.347 0.847-6e-3 0.336-0.146 0.646-0.421 0.929-0.293 0.302-0.631 0.467-1.012 0.493-0.381 0.027-0.692-0.079-0.938-0.316-0.347-0.336-0.542-0.793-0.592-1.373-0.049-0.579 0.081-1.195 0.391-1.848 0.308-0.652 0.718-1.243 1.23-1.771 0.619-0.638 1.246-1.012 1.879-1.119 0.634-0.109 1.161-0.064 1.585 0.133 0.269 0.129 0.765 0.545 1.486 1.25l2.614 2.54c0.308 0.299 0.511 0.474 0.614 0.527s0.194 0.074 0.28 0.063c0.085-0.01 0.158-0.047 0.218-0.109 0.121-0.125 0.157-0.338 0.105-0.641l0.382-0.048c0.123 0.585 0.141 1.084 0.051 1.498-0.09 0.413-0.292 0.783-0.608 1.109-0.373 0.383-0.754 0.596-1.146 0.637-0.385 0.041-0.786-0.091-1.198-0.398zm-0.524-0.511-2.255-2.19c-0.224 0.912-0.278 1.698-0.165 2.359 0.077 0.439 0.248 0.787 0.513 1.043 0.22 0.214 0.491 0.324 0.813 0.329 0.246 6e-3 0.475-0.099 0.684-0.315 0.234-0.239 0.37-0.648 0.41-1.226z" stroke-linecap="round"/>
+</g>
+<g transform="translate(632.9 265.87)">
+<path transform="translate(-341.02 -175.3)" d="m338.58 167.76 6.114 8.904c0.414 0.602 0.675 0.946 0.782 1.034 0.171 0.152 0.347 0.229 0.531 0.232 0.186 3e-3 0.438-0.09 0.764-0.28l0.188 0.273-2.832 2.882-0.841-1.224c-0.066 0.743-0.193 1.306-0.382 1.687s-0.477 0.704-0.862 0.97c-0.987 0.678-2.072 0.773-3.251 0.284-0.956-0.399-1.792-1.12-2.509-2.163-0.571-0.833-0.941-1.677-1.107-2.534-0.165-0.856-0.114-1.624 0.154-2.303 0.269-0.68 0.688-1.217 1.263-1.61 0.369-0.254 0.747-0.408 1.133-0.461 0.386-0.054 0.863-0.013 1.437 0.122l-1.604-2.333c-0.404-0.591-0.675-0.93-0.809-1.017-0.175-0.115-0.356-0.165-0.541-0.151-0.187 0.014-0.461 0.146-0.824 0.396l-0.239-0.348 3.435-2.36zm1.285 6.838c-0.946-0.502-1.714-0.551-2.305-0.146-0.204 0.14-0.334 0.311-0.392 0.512-0.087 0.311-0.047 0.727 0.119 1.246 0.166 0.52 0.554 1.223 1.164 2.112 0.67 0.977 1.238 1.65 1.703 2.021 0.466 0.371 0.895 0.575 1.287 0.614 0.197 0.018 0.408-0.049 0.629-0.201 0.485-0.333 0.683-1.028 0.59-2.085l-2.795-4.073z" stroke-linecap="round"/>
+</g>
+<g transform="translate(315.11 265.79)">
+<path transform="translate(-23.22 -175.21)" d="m23.018 176.58-1.988 3.209c-0.388 0.626-0.593 1.044-0.617 1.254s0.033 0.424 0.169 0.642c0.136 0.219 0.466 0.49 0.99 0.814l-0.196 0.316-5.882-3.643 0.196-0.316c0.535 0.332 0.928 0.506 1.181 0.525s0.466-0.028 0.642-0.14c0.175-0.111 0.457-0.48 0.845-1.106l4.653-7.512c0.388-0.626 0.594-1.044 0.617-1.254 0.024-0.209-0.031-0.423-0.165-0.64-0.133-0.216-0.465-0.489-0.994-0.816l0.196-0.316 5.045 3.125c1.662 1.029 2.671 2.063 3.027 3.103s0.26 2.003-0.291 2.891c-0.465 0.751-1.097 1.25-1.895 1.496s-1.667 0.212-2.606-0.102c-0.637-0.206-1.613-0.716-2.927-1.53zm3.51-5.668-3.098 5.002c0.181 0.128 0.319 0.222 0.416 0.281 0.694 0.43 1.357 0.555 1.988 0.375s1.214-0.703 1.75-1.568c0.532-0.859 0.734-1.604 0.605-2.235s-0.566-1.177-1.312-1.639l-0.349-0.216z" stroke-linecap="round"/>
+</g>
+<g transform="translate(324.55 276.46)">
+<path transform="translate(-32.67 -185.87)" d="m36.146 182.29c0.583 0.572 0.978 1.255 1.184 2.048 0.207 0.793 0.167 1.595-0.116 2.405-0.284 0.81-0.749 1.544-1.396 2.204-0.933 0.951-1.955 1.51-3.066 1.676-1.343 0.202-2.527-0.201-3.555-1.209-1.008-0.989-1.438-2.105-1.289-3.347 0.149-1.241 0.681-2.328 1.595-3.26 0.942-0.96 2.042-1.525 3.3-1.693 1.259-0.167 2.373 0.224 3.343 1.176zm-0.471 0.537c-0.244-0.239-0.543-0.352-0.898-0.339s-0.826 0.264-1.413 0.752-1.354 1.215-2.301 2.18c-0.502 0.511-0.938 1.022-1.306 1.532-0.281 0.391-0.421 0.759-0.423 1.104s0.107 0.626 0.328 0.842c0.215 0.211 0.453 0.327 0.713 0.348 0.345 0.021 0.692-0.084 1.041-0.315 0.541-0.36 1.489-1.231 2.844-2.612 0.797-0.812 1.299-1.415 1.506-1.807s0.29-0.745 0.249-1.057c-0.026-0.221-0.139-0.431-0.34-0.628z" stroke-linecap="round"/>
+</g>
+<g transform="translate(331.36 283.69)">
+<path transform="translate(-39.48 -193.12)" d="m43.44 191.69-1.795 1.146c1.153 2e-3 1.99 0.116 2.51 0.34s0.897 0.519 1.131 0.886c0.202 0.316 0.265 0.631 0.191 0.944s-0.289 0.583-0.645 0.81c-0.378 0.241-0.73 0.337-1.056 0.287s-0.572-0.205-0.737-0.464c-0.191-0.299-0.261-0.62-0.209-0.962 0.051-0.343 0.076-0.541 0.073-0.595-2e-3 -0.078-0.026-0.154-0.073-0.227-0.104-0.164-0.266-0.279-0.483-0.347-0.339-0.109-0.725-0.109-1.156-1e-3 -0.663 0.169-1.324 0.464-1.984 0.885l-1.82 1.161-0.469 0.311c-0.322 0.206-0.515 0.356-0.58 0.454-0.109 0.165-0.157 0.336-0.143 0.514 0.014 0.177 0.113 0.43 0.298 0.756l-0.305 0.195-2.728-4.275 0.305-0.194c0.248 0.326 0.491 0.499 0.729 0.517 0.238 0.019 0.702-0.191 1.39-0.631l4.376-2.793c0.451-0.288 0.725-0.494 0.82-0.619 0.122-0.157 0.186-0.313 0.19-0.467s-0.065-0.375-0.209-0.665l0.313-0.2 2.066 3.234z" stroke-linecap="round"/>
+</g>
+<g transform="translate(337.09 298.46)">
+<path transform="translate(-45.21 -207.87)" d="m50.668 209.28-3.083 0.883-0.079-0.332c0.831-0.616 1.366-1.178 1.604-1.685s0.307-0.972 0.207-1.395c-0.063-0.268-0.207-0.474-0.431-0.621-0.224-0.146-0.453-0.192-0.688-0.137-0.176 0.042-0.33 0.146-0.462 0.315-0.218 0.271-0.538 0.963-0.959 2.074-0.422 1.111-0.823 1.872-1.205 2.281-0.381 0.41-0.852 0.682-1.412 0.814-0.508 0.12-1.037 0.111-1.585-0.028-0.549-0.139-1.008-0.408-1.378-0.809s-0.621-0.882-0.754-1.442c-0.103-0.437-0.104-1.052-3e-3 -1.846 0.025-0.212 0.03-0.354 0.013-0.426-0.051-0.215-0.256-0.355-0.616-0.422l-0.076-0.322 3.247-0.933 0.079 0.332c-0.791 0.497-1.341 1.051-1.65 1.665-0.309 0.613-0.41 1.147-0.302 1.604 0.074 0.313 0.23 0.545 0.47 0.699s0.496 0.198 0.769 0.133c0.313-0.074 0.56-0.236 0.742-0.485s0.424-0.767 0.727-1.554c0.455-1.16 0.83-1.93 1.125-2.309 0.433-0.556 0.971-0.911 1.616-1.063 0.704-0.167 1.398-0.074 2.083 0.276 0.685 0.351 1.136 0.985 1.353 1.904 0.117 0.495 0.11 1.002-0.022 1.521-0.056 0.199-0.071 0.354-0.045 0.464 0.028 0.117 0.075 0.206 0.14 0.266 0.066 0.06 0.231 0.142 0.497 0.244l0.078 0.334z" stroke-linecap="round"/>
+</g>
+<g transform="translate(338.28 309.06)">
+<path transform="translate(-46.4 -218.48)" d="m51.274 222.47-7.35 0.102c-0.716 0.01-1.162 0.083-1.337 0.22-0.176 0.136-0.284 0.409-0.325 0.818l-0.362 5e-3 -0.053-3.825 1.255-0.018c-0.542-0.441-0.938-0.884-1.188-1.329s-0.38-0.946-0.388-1.501c-7e-3 -0.529 0.149-1.001 0.468-1.417 0.319-0.417 0.695-0.698 1.128-0.844s1.192-0.228 2.276-0.242l3.725-0.052c0.709-0.01 1.15-0.081 1.323-0.214 0.172-0.133 0.282-0.407 0.33-0.823l0.372-5e-3 0.053 3.826-6.416 0.089c-0.669 9e-3 -1.101 0.047-1.294 0.113s-0.339 0.168-0.438 0.307-0.146 0.298-0.144 0.479c3e-3 0.241 0.07 0.458 0.2 0.65 0.178 0.266 0.534 0.582 1.068 0.95l5.02-0.07c0.709-0.01 1.15-0.081 1.323-0.214 0.172-0.133 0.282-0.408 0.33-0.823l0.372-5e-3 0.052 3.823z" stroke-linecap="round"/>
+</g>
+<g transform="translate(473.39 364.43)">
+<path transform="translate(-181.5 -273.84)" d="m280.53 309.28s-6.361 87.379-99.029 87.379c-92.667 0-99.029-86.408-99.029-86.408v-159.22h198.06v158.25z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(407.21 415.33)">
+<path transform="translate(-115.33 -324.74)" d="m106.32 333.44c8.309-0.461 16.71-7.108 23.08-7.108s14.31 3.971 14.31 3.971l3.508-10.063s-6.739-3.232-16.063-4.154c-9.324-0.924-21.787 7.201-24.834 6.832s-11.355-3.141-15.51-5.726c-2.016-1.254-4.919-0.896-7.378-0.198 0.609 3.299 1.586 7.629 3.114 12.563 0.972-0.254 2.264-0.408 3.986-0.361 6.831 0.18 7.479 4.705 15.787 4.244z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(547.17 414.28)">
+<path transform="translate(-255.29 -323.71)" d="m233.36 314.61-2.399 5.264s-0.187 7.016 6.276 7.016c6.461 0 13.939 5.908 20.494 5.908 6.48 0 14.486-5.043 19.129-5.338 1.345-4.582 2.211-8.584 2.765-11.66-7.203 1.875-16.563 7.203-23 7.675-7.569 0.553-16.065-8.771-23.265-8.865z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(481.2 407.03)">
+<path transform="translate(-189.32 -316.45)" d="m217.94 350.06 28.988-6.188s-2.77-13.387-5.725-14.679c-2.953-1.292-1.938-2.769-3.416-6.276-1.477-3.51-2.215-9.141-2.77-11.078-0.554-1.938-4.525-8.678-7.388-10.893-2.862-2.217-6.924-8.771-10.894-10.156-3.971-1.385-7.108-2.492-10.155-3.23-3.045-0.738-5.539-4.708-7.106-6.093-1.57-1.386-9.785-0.83-12.556-0.738-2.771 0.093-7.94-2.032-11.541 0.83s-9.047 8.586-11.816 8.862c-2.769 0.277-11.447 3.324-12.278 3.231-0.831-0.092-2.031 8.031-2.678 10.71-0.647 2.678-3.878 6.368-4.432 10.707-0.554 4.34-0.554 8.125-1.385 9.973-0.831 1.847-9.601 10.522-10.063 11.447-0.462 0.924-1.016 3.323-1.016 3.323l25.48 13.017 28.434-7.386 32.317 4.617z" fill="#c0a264" stroke="#000"/>
+</g>
+<g transform="translate(466.35 420.98)">
+<path transform="translate(-174.46 -330.4)" d="m157.02 348.96s1.803-2.438 2.969-4.24c1.166-1.801 2.226-2.014 3.392-4.239s-0.53-6.042 0.53-7.103c1.06-1.062 8.587-7.422 9.541-7.846s2.013-1.482 3.073-2.968-0.847-2.228 1.591-5.089 9.751-5.725 13.78-5.618c0 0-0.955 5.088-1.907 6.571-0.955 1.484-0.531 2.758 0 3.924 0.528 1.166 2.225 6.148-0.955 9.646-3.181 3.498-5.302 4.238-4.451 7.844 0.849 3.604-0.53 2.543-0.53 2.543l-27.033 6.575z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(467.88 421.08)">
+<path transform="translate(-176.01 -330.5)" d="m163.7 346.2s0.424-2.757 1.59-4.135 1e-3 -5.617 1.272-7.104c1.271-1.484 8.691-7.526 10.494-8.799 1.803-1.271 2.545-4.134 2.757-5.83 0.212-1.695 6.997-5.828 6.997-5.512 0 0.317-2.438 5.406-2.862 6.254-0.425 0.848-4.77 7.42-5.194 7.95s-4.452 3.923-4.664 5.937c-0.212 2.015-1.061 8.162-1.061 8.162l2.65-0.848s0.211-5.83 0.636-6.996 3.181-3.605 4.347-5.089 5.725-8.161 5.936-10.282c0 0 1.908 3.817 1.695 6.467-0.211 2.649-2.225 5.193-4.346 7.313-2.12 2.12-2.226 6.785-2.226 6.785l-4.876 3.073-13.145 2.654z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(473.01 454.21)">
+<path transform="translate(-181.13 -363.63)" d="m235.94 352c-6.555 0-20.494 7.108-28.063 7.108s-18.739-7.108-25.203-7.108c-6.463 0-18.557 7.017-25.574 7.017s-14.401-6.464-24.741-6.464-20.957 5.908-26.681 5.908c-2.234 0-4.041-0.168-5.421-0.375 3.451 4.982 7.564 9.881 12.462 14.428 4.075-1.906 12.847-5.649 18.902-5.649 8.124 0 18.925 8.399 25.203 8.399s15.604-7.938 25.02-7.938 18.648 7.294 26.773 7.294c8.122 0 17.909-7.107 26.68-7.107 5.683 0 10.998 3.285 14.052 5.604 4.959-4.518 9.139-9.399 12.657-14.388-1.09 0.117-2.303 0.195-3.631 0.195-5.631-1e-3 -15.879-6.924-22.435-6.924z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(473.34 478.29)">
+<path transform="translate(-181.45 -387.71)" d="m208.43 387.08c-8.123 0-17.541-8.309-25.479-8.309-7.939 0-15.417 8.4-25.573 8.4s-17.819-7.108-24.466-7.108c-3.627 0-6.312 0.962-8.009 1.836 13.88 8.792 32.259 14.759 56.601 14.759 24.285 0 42.632-6.006 56.501-14.861-1.977-0.43-4.471-0.81-7.141-0.81-6.186 0-14.309 6.093-22.434 6.093z" fill="#445684" stroke="#000"/>
+</g>
+<g transform="translate(472.57 439.35)">
+<path transform="translate(-180.69 -348.77)" d="m265.11 347.2c-8.862 0-20.954-8.125-29.448-8.125-8.492 0-18.463 7.387-28.435 7.387-9.971 0-15.139-6.371-23.91-6.371-8.77 0-17.909 6.465-26.033 7.203-8.124 0.737-16.987-8.863-26.312-8.863s-16.895 7.662-25.203 7.939c-4.488 0.149-9.729-1.128-13.601-2.334 2.18 4.607 4.841 9.364 8.086 14.051 1.38 0.207 3.187 0.375 5.421 0.375 5.724 0 16.341-5.908 26.681-5.908s17.725 6.464 24.741 6.464 19.11-7.017 25.574-7.017c6.463 0 17.633 7.108 25.203 7.108s21.51-7.108 28.064-7.108 16.803 6.924 22.434 6.924c1.328 0 2.541-0.077 3.631-0.195 2.799-3.969 5.186-7.999 7.209-11.961-1.373 0.269-2.754 0.431-4.102 0.431z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(472.92 467.59)">
+<path transform="translate(-181.03 -377.02)" d="m208.62 374.62c-8.125 0-17.357-7.295-26.773-7.295s-18.741 7.939-25.02 7.939-17.079-8.4-25.203-8.4c-6.056 0-14.827 3.743-18.902 5.65 3.617 3.357 7.66 6.521 12.185 9.388 1.697-0.874 4.382-1.836 8.009-1.836 6.646 0 14.311 7.108 24.466 7.108s17.634-8.4 25.573-8.4 17.357 8.309 25.48 8.309c8.125 0 16.248-6.093 22.434-6.093 2.67 0 5.164 0.38 7.141 0.81 4.174-2.666 7.941-5.586 11.342-8.684-3.053-2.318-8.369-5.605-14.051-5.605-8.772-1e-3 -18.559 7.109-26.681 7.109z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(438.37 294.49)">
+<path transform="translate(-146.49 -203.92)" d="m146.49 183.33c-11.368 0-20.584 9.216-20.584 20.584s9.216 20.584 20.584 20.584 20.584-9.216 20.584-20.584-9.216-20.584-20.584-20.584zm-8.421 34.619c-3.322 0-6.015-2.693-6.015-6.015s2.692-6.015 6.015-6.015 6.015 2.693 6.015 6.015-2.692 6.015-6.015 6.015zm0-14.971c-3.322 0-6.015-2.693-6.015-6.015s2.692-6.015 6.015-6.015 6.015 2.693 6.015 6.015-2.692 6.015-6.015 6.015zm15.639 0c-3.322 0-6.015-2.693-6.015-6.015s2.692-6.015 6.015-6.015 6.015 2.693 6.015 6.015-2.693 6.015-6.015 6.015z" fill="#c0a264" stroke="#000"/>
+</g>
+<g transform="translate(495.39 367.7)">
+<path transform="translate(-203.51 -277.13)" d="m195.07 261.44s5.125 5.333 7.218 6.483c2.092 1.15 3.346 3.66 3.346 5.752s-0.209 5.123-1.465 7.216c-1.254 2.092-5.438 6.798-6.063 8.157-0.627 1.359-2.511 4.81-1.465 5.646 1.047 0.837 4.077 1.466 4.916 1.466 0.836 0 3.346-0.941 3.555-1.779 0.209-0.836-1.359-3.137-1.359-3.137s-0.104-1.674 0.838-3.138c0.939-1.464 2.613-5.961 3.764-7.425 1.151-1.465 2.931-5.542 3.349-6.379 0.418-0.838 0.209-2.197 0.104-2.721-0.104-0.521-1.568-6.691-1.675-7.946-0.104-1.255 0.313-5.544 0.313-5.544l-15.376 3.349z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(474.57 344.36)">
+<path transform="translate(-182.69 -253.78)" d="m162.65 297.63c0 1.149 0.837 1.567 2.092 1.567s6.171 0.522 6.693-1.987c0.522-2.508-1.255-3.031-1.255-3.031s2.51-5.021 2.51-6.693-1.15-6.379-2.196-8.889-2.196-12.342-2.092-12.863 0.418-3.766 0.418-3.766 0.942-0.418 5.125-0.104 8.262 2.51 15.791 2.092 19.451-0.104 23.111-5.543c3.66-5.438 8.994-19.975 8.994-19.975s5.125 9.412 8.367 9.412c0 0 1.777-7.53-2.719-12.76-4.498-5.229-5.857-5.646-5.857-5.646s-14.535-1.987-22.902-1.674c-8.364 0.313-23.005 2.51-26.353 1.883-3.347-0.627-17.674 0.418-17.15-12.131l-15.688-9.203s-4.6 4.392-4.705 10.144 0.836 15.477 7.215 24.68c6.379 9.202 11.816 15.269 11.816 15.269s5.542 10.877 6.588 12.444 5.125 7.948 6.275 10.876 1.674 4.706 1.15 7.216c-0.524 2.513-5.228 8.682-5.228 8.682z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(454.99 330.58)">
+<polygon points="28.94 -71.74 24.63 -62.52 16.88 -62.49 14.31 -58.77 22.88 -58.77 -38.09 71.84 -32.66 71.84 27.62 -58.78 35.84 -58.81 38.09 -62.52 29.35 -62.53 33.65 -71.84" fill="#c0a264" stroke="#000"/>
+</g>
+<g transform="translate(444.87 362.09)">
+<path transform="translate(-152.99 -271.51)" d="m160.77 252.76s-10.146 4.078-12.445 5.23c-2.299 1.15-8.993 4.916-8.993 6.588 0 1.674-3.032 10.146-3.66 12.235s-1.673 6.587-2.928 8.261-0.733 6.066 2.3 5.021 4.812-3.348 5.334-3.766 0.209-1.777-1.255-2.72c0 0 0.836-3.45 1.673-5.751s2.197-8.785 3.033-9.831c0.836-1.045 1.673-2.51 2.928-2.51s12.445-0.104 15.164-0.104 7.32 1.256 9.83-2.51c2.51-3.765 2.091-5.646 2.091-5.646" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(507.4 355.86)">
+<path transform="translate(-215.51 -265.28)" d="m202.7 246.17s3.764 9.203 8.573 14.746c4.811 5.541 8.576 9.41 8.576 9.41s0.418 8.576-0.104 11.504l-0.521 2.929s-1.777 5.124-2.406 6.379c-0.627 1.255-4.184 4.603-4.184 5.647s1.567 1.149 2.301 1.149c0.732 0 5.858 1.196 7.008-1.673 0.627-1.569-1.15-2.196-1.15-2.196s-0.523-0.731 0.209-2.301 1.674-7.845 2.928-12.968c1.256-5.125 3.765-10.25 4.287-10.668 0.523-0.418-1.254-2.821-2.51-8.26-1.254-5.438-1.986-16.522-1.568-20.603s-2.194-6.901-2.194-6.901" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(439.69 300.99)">
+<path transform="translate(-147.8 -210.41)" d="m141 213.65s-5.751 11.085-11.398 11.294c0 0-0.836-10.772 7.32-16.628 0 0-2.405-5.02 0.418-7.843s7.006-5.333 11.189-4.392 7.111 4.078 8.366 4.915 6.274 8.994 7.216 9.935 2.719 3.242 1.464 4.392-4.497 2.091-8.68 2.719-9.412 1.674-11.713 0.837-4.496-1.778-4.182-5.229z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(443.66 297.59)">
+<path transform="translate(-151.78 -207.01)" d="m148.43 205.39s5.753 0.628 6.693 3.242" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(428.97 305.96)">
+<path transform="translate(-137.08 -215.38)" d="m140.06 211.25s-4.602 2.51-5.961 8.262" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(500.51 294.75)">
+<path transform="translate(-208.62 -204.17)" d="m205.94 200.32s-2.565 4.906-0.688 7.062c1.881 2.155 9.217-0.963 7.016-4.402s-6.328-2.66-6.328-2.66z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(485.68 279.31)">
+<path transform="translate(-193.8 -188.73)" d="m197.98 190.91 1.762-4.885c-4.301 0.329-8.44 0.497-10.018-0.029 0 0-0.758 1.759-1.85 4.2 1.684 0.726 5.574 1.996 10.106 0.714z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(503.25 279.84)">
+<path transform="translate(-211.37 -189.26)" d="m216.45 193.46c0.946-1.834 1.762-3.806 1.299-4.454-0.94-1.317-3.011-3.951-6.209-3.951-0.912 0-2.806 0.168-5.119 0.383l-1.571 4.441c-2e-3 0 9.731-0.093 11.6 3.581z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(481.04 290.97)">
+<path transform="translate(-189.16 -200.39)" d="m185.22 195.98c-1.453 3.087-2.949 6.096-3.968 7.696 0 0 1.129 1.128 6.208 1.128 1.686 0 3.537-0.313 5.416-0.728l4.182-7.901c0 1e-3 -6.398 1.922-11.838-0.195z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(492.72 285.34)">
+<path transform="translate(-200.84 -194.76)" d="m213.44 198.81 0.924-1.719c-0.288-2e-3 0 0 0 0s1.113-1.745 2.089-3.635c-1.869-3.674-11.603-3.581-11.603-3.581l1.572-4.441c-2.027 0.188-4.377 0.41-6.684 0.587l-1.762 4.885c-4.531 1.282-8.423 0.012-10.105-0.714-0.766 1.716-1.697 3.766-2.648 5.787 5.439 2.117 11.838 0.196 11.838 0.196l-4.182 7.901c2.373-0.524 4.791-1.213 6.977-1.655l2.359-6.36c10.424-0.343 11.225 2.749 11.225 2.749z" fill="#ee2d2b" stroke="#000"/>
+</g>
+<g transform="translate(516.21 296.21)">
+<path transform="translate(-224.32 -205.62)" d="m248.79 198.79s-5.644 3.198-10.347 3.01c-4.702-0.188-8.467-3.198-11.477-3.951-2.617-0.654-10.668-0.742-12.604-0.752l-0.924 1.719s-0.801-3.093-11.226-2.749l-2.358 6.36c1.301-0.263 2.52-0.438 3.598-0.438 4.326 0 6.207 0.564 6.207 2.634s-4.891 2.069-4.891 2.069-1.506 4.139 2.633 4.139 8.651 0 11.1 0c2.445 0 7.338 0.376 8.654 1.317s14.297 6.396 18.246 0c0 0-3.385 1.505-8.652-0.376-1.654-0.591-3.217-1.349-4.58-2.111-2.656-0.5-7.049-1.49-9.568-2.941-3.779-2.176-12.828-1.718-12.828-1.718l2.636-4.238h7.444c1.293 0 8.908 3.942 14.334 5.592 5.616-0.397 12.825-2.016 14.603-7.566z" fill="#fff" stroke="#000"/>
+</g>
+<g transform="translate(513.86 295.79)">
+<path transform="translate(-221.98 -205.21)" d="m212.41 200.76-2.636 4.238s9.049-0.458 12.828 1.718c2.521 1.451 6.912 2.44 9.568 2.941-2.979-1.663-5.014-3.345-5.014-3.345s3.131 0.315 7.031 0.04c-5.427-1.65-13.041-5.592-14.334-5.592h-7.443z" fill="#ee2d2b" stroke="#000"/>
+</g>
+<g transform="translate(503.94 291.63)">
+<line x1="2.295" x2="-2.295" y1="-3.9515" y2="3.9515" fill="none" stroke="#000"/>
+</g>
+<g transform="translate(473.38 315.93)">
+<rect x="-181.5" y="-225.34" width="363" height="450.69" rx="0" ry="0" fill="none"/>
+</g>
+</svg>

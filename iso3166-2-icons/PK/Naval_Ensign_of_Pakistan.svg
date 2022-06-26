@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1200" height="600" viewBox="-75 -40 160 80" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<rect x="-75" y="-40" width="160" height="80" fill="#fff"/>
+<rect x="-35" y="-40" width="120" height="80" fill="#01411c"/>
+<g transform="translate(25)">
+	<circle r="24" fill="white"/>
+	<circle r="22" cx="-7" cy="-40" fill="#01411c" transform="rotate(-41.63353933657,45,-40)"/>
+	<comment>rotation angles = -arctan(8/9)</comment>
+	<g id="star" transform="rotate(-41.63353933657) translate(16,0)" fill="#fff">
+		<g id="cone">
+			<polygon id="triangle" points="0,0 -8,0 -8,4" transform="translate(8,0) rotate(18)"/>
+			<use xlink:href="#triangle" transform="scale(1,-1)" />
+		</g>
+		<use xlink:href="#cone" transform="rotate(72)" />
+		<use xlink:href="#cone" transform="rotate(-72)" />
+		<use xlink:href="#cone" transform="rotate(144)" />
+		<use xlink:href="#cone" transform="rotate(-144)" />
+	</g>
+</g>
+</svg>

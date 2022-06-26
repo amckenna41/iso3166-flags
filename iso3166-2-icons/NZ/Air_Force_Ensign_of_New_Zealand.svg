@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="338.66666mm" height="169.33333mm" viewBox="0 0 1200 599.99988" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="Drawing.svg">
+  <defs id="defs4">
+    <clipPath id="border">
+      <rect x="-15" y="-7.5" width="30" height="15" id="rect6"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1" inkscape:cx="384.32298" inkscape:cy="328.87661" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1920" inkscape:window-height="1057" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" showguides="false"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(608.57141,576.20905)">
+    <rect style="fill:#6ba4b8;fill-opacity:1;stroke:none;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect3336" width="1200" height="600" x="-608.57141" y="-576.20911"/>
+    <g id="g1690" style="stroke:none" transform="matrix(1.2000001,0,0,1.2000001,-608.57137,-576.2092)">
+      <g transform="matrix(8.333338,0,0,8.333343,0,-2.256992e-4)" style="font-size:12px;stroke:none" id="g878">
+        <g transform="matrix(1.9999987,0,0,1.9999975,29.99998,15.000018)" clip-path="url(#border)" id="g8">
+          <circle style="fill:#012169;fill-opacity:1;stroke:none" cy="0" cx="0" r="20" id="circle10"/>
+          <path style="fill:none;stroke:#ffffff;stroke-width:3;stroke-opacity:1" inkscape:connector-curvature="0" d="m -20,-10 40,20 m -40,0 40,-20" id="diags_white"/>
+          <path style="fill:none;stroke:#c8102e;stroke-width:2;stroke-opacity:1" inkscape:connector-curvature="0" d="m -20,-10 40,20 m -40,0 40,-20" id="diags_red"/>
+          <path style="fill:#ffffff;stroke:none" inkscape:connector-curvature="0" d="M 0,0 20,10 17,10 -3,0 m 3,0 20,-10 3,0 L 3,0 M 0,0 -20,10 -23,10 -3,0 m 3,0 -20,-10 3,0 20,10" id="eraser_white"/>
+          <!--I think the above two lines give the simplest way to make the diagonals-->
+          <path inkscape:connector-curvature="0" d="M -20,0 20,0 M 0,-10 0,10" id="cross_white" style="fill:none;stroke:#ffffff;stroke-width:5;stroke-opacity:1"/>
+          <path style="fill:none;stroke:#c8102e;stroke-width:3;stroke-opacity:1" inkscape:connector-curvature="0" d="M -20,0 20,0 M 0,-10 0,10" id="path24"/>
+        </g>
+      </g>
+    </g>
+    <circle id="circle7" style="fill:#012169;fill-opacity:1;stroke:none" cx="291.42859" cy="-276.20914" r="225"/>
+    <circle style="fill:#ffffff;stroke:none" id="circle9" r="150" cy="-276.20914" cx="291.42859"/>
+    <circle style="fill:#c8102e;fill-opacity:1;stroke:none" id="circle5338" r="75" cx="291.42859" cy="-276.20914"/>
+    <path inkscape:connector-curvature="0" style="fill:#ffffff;fill-opacity:1;stroke:none" d="m 235.61859,-244.00915 0,-64.4 12.65157,0 26.35744,43.00655 0,-43.00655 12.08049,0 0,64.4 -13.04694,0 -25.96207,-41.99618 0,41.99618 z" id="path27"/>
+    <path inkscape:connector-curvature="0" style="fill:#ffffff;fill-opacity:1;stroke:none" d="m 294.91859,-244.00915 0,-11.72906 33.82537,-41.77653 -30.00355,0 0,-10.89441 47.13588,0 0,10.10368 -35.27503,43.44584 36.63684,0 0,10.85048 z" id="path29"/>
+  </g>
+</svg>

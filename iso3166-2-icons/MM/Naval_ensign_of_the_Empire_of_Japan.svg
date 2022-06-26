@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" fill="#b0313f">
+<path d="M0 0H900V600H0z"/>
+<g id="a" fill="#fff">
+<path d="M354.976091 291.321349L115.894838 0H199.261586zL266.604726 0H326.283442zL383.668739 0H443.347456zL510.690596 0H594.057343zL709.952181 0H900z"/>
+<path d="M338.739476 300L900 129.743482V244.720663zm26.811581 0L0 263.996363V189.111299zL0 0V104.608889z"/>
+</g>
+<use xlink:href="#a" transform="matrix(1 0 0 -1 0 600)" fill="#fff"/>
+<circle cx="350" cy="300" r="150"/>
+</svg>

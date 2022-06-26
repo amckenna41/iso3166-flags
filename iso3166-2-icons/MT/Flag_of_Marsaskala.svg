@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 36 24">
+<rect width="36" height="24" fill="#fff"/>
+<path id="w" d="M0,6c3,0 3,-2 6,-2c3,0 3,2 6,2c3,0 3,-2 6,-2c3,0 3,2 6,2c3,0 3,-2 6,-2c3,0 3,2 6,2v4c-3,0 -3,-2 -6,-2c-3,0 -3,2 -6,2c-3,0 -3,-2 -6,-2c-3,0 -3,2 -6,2c-3,0 -3,-2 -6,-2c-3,0 -3,2 -6,2z" fill="#3253f7"/>
+<use xlink:href="#w" y="8"/>
+<use xlink:href="#w" y="16"/>
+<path d="M0,0V24H36V0L18,24z" fill="#35a119"/>
+</svg>

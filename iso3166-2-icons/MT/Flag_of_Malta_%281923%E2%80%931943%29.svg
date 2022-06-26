@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="600px" viewBox="0 0 1200 600">
+ <defs>
+  <clipPath id="border">
+<rect width="60" height="30"/>
+  </clipPath>
+ </defs>
+ <rect fill="#012169" width="1200" height="600"/>
+ <g id="Jack" transform="scale(10)" clip-path="url(#border)">
+<path stroke-width="6" stroke="white" d="M 0,0 L 60,30 M 0,30 L 60,0"/>
+<path stroke-width="4" stroke="#c8102e" d="M 0,0 L 60,30 M 0,30 L 60,0"/>
+<path fill="white" d="M0,0 5,0 35,15 65,0 60,0 30,15 M-5,30 25,15 55,30 60,30 30,15 0,30"/>
+<path stroke-width="10" stroke="white" d="M 0,15 H 60 M 30,0 V 30"/>
+<path stroke-width="6" stroke="#c8102e" d="M 0,15 H 60 M 30,0 V 30"/>
+ </g>
+<polygon fill="#fff" points="807,233 860,215 904,188 905,417 845,378 813,310"/>
+<polygon fill="#c8102e" points="900,183 947,218 998,239 976,347 938,391 900,416"/>
+<path fill="none" stroke-width="10" stroke="#ffce00" d="M900 184c26,26 57,42 94,47 7,82 -24,144 -94,185 -70,-40 -101,-103 -94,-185 37,-5 68,-21 94,-47z"/>
+</svg>

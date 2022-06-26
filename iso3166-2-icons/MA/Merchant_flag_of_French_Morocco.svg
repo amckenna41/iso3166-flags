@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="600"
+   viewBox="0 0 90000 60000"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Merchant flag of French Morocco.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.63446243"
+     inkscape:cx="450"
+     inkscape:cy="300"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     fill="#c1272d"
+     d="m0 0h90000v60000H0z"
+     id="path2" />
+  <path
+     fill="none"
+     stroke="#006233"
+     stroke-width="1426"
+     d="m45000 17308 7460 22960-19531-14190h24142L37540 40268z"
+     id="path4" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:100"
+     id="rect2870"
+     width="30400"
+     height="20600"
+     x="-1.8189894e-12"
+     y="0" />
+  <rect
+     id="rect2854"
+     height="19600"
+     width="9800"
+     x="-1.8189894e-12"
+     y="0"
+     style="fill:#002654;fill-opacity:1;stroke:none;stroke-width:100" />
+  <rect
+     style="fill:#ce1126;fill-opacity:1;stroke:none;stroke-width:100"
+     y="0"
+     x="19600.004"
+     width="9800"
+     height="19600"
+     id="rect3863" />
+</svg>

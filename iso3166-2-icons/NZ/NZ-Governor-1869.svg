@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="300">
+	<rect width="600" height="300" fill="#00247d"/>
+	<path d="M 0,0 L 600,300 M 600,0 L 0,300" stroke="#fff" stroke-width="60"/>
+	<clipPath id="patrick">
+		<path d="M 300,150 h 300 v 150 z v 150 H 0 z H 0 V 0 z V 0 h 300 z"/>
+	</clipPath>
+	<path d="M 0,0 L 600,300 M 600,0 L 0,300" stroke="#cf142b" stroke-width="40" clip-path="url(#patrick)"/>
+	<path d="M 300,0 v 300 M 0,150 h 600" stroke="#fff" stroke-width="100"/>
+	<path d="M 300,0 v 300 M 0,150 h 600" stroke="#cf142b" stroke-width="60"/>
+	<g id="s" transform="translate(300,60)" fill="#fff">
+		<g id="c">
+			<path id="t" d="M 0,-25 V 0 H 12.5" transform="rotate(18 0,-25)"/>
+			<use xlink:href="#t" transform="scale(-1,1)"/>
+		</g>
+		<use xlink:href="#c" transform="rotate(72)"/>
+		<use xlink:href="#c" transform="rotate(144)"/>
+		<use xlink:href="#c" transform="rotate(216)"/>
+		<use xlink:href="#c" transform="rotate(288)"/>
+	</g>
+	<use xlink:href="#s" x="-165" y="90"/>
+	<use xlink:href="#s" x="165" y="90"/>
+	<use xlink:href="#s" y="180"/>
+</svg>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="600"
+   height="400"
+   id="Flag of Pakistan"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="AJAX.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.93091345"
+     inkscape:cx="205.45729"
+     inkscape:cy="166.31478"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Flag of Pakistan"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs1335" />
+  <rect
+     width="600"
+     height="400"
+     x="0"
+     y="0"
+     style="fill:#7cc2e9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect1346" />
+  <rect
+     width="75"
+     height="200"
+     x="0"
+     y="-2.2888184e-005"
+     style="fill:#ffffff"
+     id="white" />
+  <rect
+     width="225"
+     height="200"
+     x="75"
+     y="-2.2888184e-005"
+     style="fill:#01411c;fill-opacity:1"
+     id="green" />
+  <circle
+     cx="375"
+     cy="200"
+     r="120"
+     transform="matrix(0.5,0,0,0.5,0,-2.2888184e-5)"
+     style="fill:#ffffff"
+     id="Outer arc of crescent"
+     sodipodi:cx="375"
+     sodipodi:cy="200"
+     sodipodi:rx="120"
+     sodipodi:ry="120" />
+  <circle
+     cx="405.67358"
+     cy="172.7346"
+     r="110"
+     transform="matrix(0.5,0,0,0.5,0,-2.2888184e-5)"
+     style="fill:#01411c;fill-opacity:1"
+     id="Inner arc of crescent"
+     sodipodi:cx="405.67358"
+     sodipodi:cy="172.7346"
+     sodipodi:rx="110"
+     sodipodi:ry="110" />
+  <polygon
+     points="0,-1 0.58778525,0.80901699 -0.95105652,-0.30901699 0.95105652,-0.30901699 -0.58778525,0.80901699 0,-1 "
+     transform="matrix(13.28727,14.94819,-14.94819,13.28727,217.7849,73.079977)"
+     style="fill:#ffffff"
+     id="White star" />
+  <g
+     transform="translate(1.975526,-34.300103)"
+     id="g2230">
+    <circle
+       cx="405.67358"
+       cy="172.7346"
+       r="110"
+       transform="matrix(0.909091,0,0,0.909091,89.23028,130.9846)"
+       style="fill:#01411c;fill-opacity:1;stroke:none"
+       id="circle2226"
+       d="m 515.67358,172.7346 c 0,60.75133 -49.24867,110 -110,110 -60.75132,0 -110,-49.24867 -110,-110 0,-60.75132 49.24868,-109.999996 110,-109.999996 60.75133,0 110,49.248676 110,109.999996 z"
+       sodipodi:cx="405.67358"
+       sodipodi:cy="172.7346"
+       sodipodi:rx="110"
+       sodipodi:ry="110" />
+    <circle
+       cx="375"
+       cy="200"
+       r="120"
+       transform="matrix(0.416667,0,0,0.416667,301.7744,204.6827)"
+       style="fill:#ffffff;stroke:none"
+       id="circle2228"
+       d="m 495,200 c 0,66.27417 -53.72583,120 -120,120 -66.27417,0 -120,-53.72583 -120,-120 0,-66.27417 53.72583,-120 120,-120 66.27417,0 120,53.72583 120,120 z"
+       sodipodi:cx="375"
+       sodipodi:cy="200"
+       sodipodi:rx="120"
+       sodipodi:ry="120" />
+  </g>
+</svg>

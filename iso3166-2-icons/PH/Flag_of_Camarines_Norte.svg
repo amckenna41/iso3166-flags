@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="720"
+   height="360"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="camarinesnorte_wiki.svg">
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="790"
+     id="namedview46"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="156.40609"
+     inkscape:cy="13.898763"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4847"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs5" />
+  <g
+     inkscape:label="Sandugo"
+     id="layer1"
+     inkscape:groupmode="layer"
+     transform="matrix(1.2253956,0,0,1.2253956,-19.176969,-40.676676)">
+    <g
+       style="display:inline"
+       inkscape:label="Sandugo 1"
+       id="layer2"
+       inkscape:groupmode="layer"
+       transform="matrix(1.2253956,0,0,1.2253956,-19.176969,-40.676676)" />
+    <g
+       id="g5797"
+       transform="matrix(-0.94470724,0,0,0.94470724,607.99108,10.51963)" />
+  </g>
+  <g
+     id="g4847"
+     transform="matrix(0.72,0,0,-0.72,966.21343,-8.9367175)">
+    <rect
+       y="-512.41211"
+       x="-1341.9631"
+       height="500"
+       width="1000"
+       id="rect4179"
+       style="fill:#fff44f;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4181"
+       width="666.66669"
+       height="500"
+       x="-1341.9631"
+       y="-512.41211" />
+    <rect
+       transform="scale(1,-1)"
+       y="12.412109"
+       x="-1341.9631"
+       height="500"
+       width="333.33334"
+       id="rect4183"
+       style="fill:#25755a;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

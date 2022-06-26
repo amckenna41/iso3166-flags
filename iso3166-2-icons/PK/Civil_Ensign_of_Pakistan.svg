@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="-75 -40 240 160">
+<path d="M45,-40H240V120H-75V40z" fill="#d1081d"/>
+<path d="M-75,-40H45V40H-45z" fill="#01411c"/>
+<path d="M-75,-40V40h30V-40z" fill="#fff"/>
+<circle r="24" fill="#fff"/>
+<circle r="22" cx="-7" cy="-40" fill="#01411c" transform="rotate(-41.63354, 45, -40)"/>
+<polygon points="0,-513674 301930,415571 -488533,-158734 488533,-158734 -301930,415571" fill="#fff" transform="rotate(-41.63354) translate(16) rotate(18) scale(0.00001557408)"/>
+</svg>

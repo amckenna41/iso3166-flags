@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="900"
+   height="600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Flag_of_Ngobe Bugle comarca.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     inkscape:window-height="712"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.845"
+     inkscape:cx="450"
+     inkscape:cy="300"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="300"
+     height="600"
+     fill="#c00"
+     id="rect4" />
+  <rect
+     x="300"
+     width="300"
+     height="600"
+     fill="#039"
+     id="rect6"
+     style="fill:#ffffff" />
+  <rect
+     x="600"
+     width="300"
+     height="600"
+     fill="#fc0"
+     id="rect8"
+     style="fill:#078930;fill-opacity:1" />
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4867"
+     sodipodi:sides="5"
+     sodipodi:cx="-149.70415"
+     sodipodi:cy="83.313614"
+     sodipodi:r1="113.51599"
+     sodipodi:r2="43.747173"
+     sodipodi:arg1="0.93188234"
+     sodipodi:arg2="1.5594785"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M -82.011837,174.43788 L -149.20903,127.05799 L -215.4504,175.85177 L -191.15452,97.302248 L -258.02987,49.381078 L -175.817,48.214694 L -150.90688,-30.196006 L -124.39241,47.632654 L -42.121749,47.093347 L -107.94778,96.360488 L -82.011837,174.43788 z"
+     inkscape:transform-center-x="0.3716643"
+     inkscape:transform-center-y="-10.485738"
+     transform="matrix(0.49,0,0,0.49,448.06785,340.45303)" />
+  <path
+     transform="matrix(0.49,0,0,0.49,596.04785,340.45303)"
+     inkscape:transform-center-y="-10.485738"
+     inkscape:transform-center-x="0.3716643"
+     d="M -82.011837,174.43788 L -149.20903,127.05799 L -215.4504,175.85177 L -191.15452,97.302248 L -258.02987,49.381078 L -175.817,48.214694 L -150.90688,-30.196006 L -124.39241,47.632654 L -42.121749,47.093347 L -107.94778,96.360488 L -82.011837,174.43788 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="false"
+     sodipodi:arg2="1.5594785"
+     sodipodi:arg1="0.93188234"
+     sodipodi:r2="43.747173"
+     sodipodi:r1="113.51599"
+     sodipodi:cy="83.313614"
+     sodipodi:cx="-149.70415"
+     sodipodi:sides="5"
+     id="path2455"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:type="star" />
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+     id="path2389"
+     sodipodi:sides="5"
+     sodipodi:cx="-149.70415"
+     sodipodi:cy="83.313614"
+     sodipodi:r1="113.51599"
+     sodipodi:r2="43.747173"
+     sodipodi:arg1="0.93188234"
+     sodipodi:arg2="1.5594785"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M -82.011837,174.43788 L -149.20903,127.05799 L -215.4504,175.85177 L -191.15452,97.302248 L -258.02987,49.381078 L -175.817,48.214694 L -150.90688,-30.196006 L -124.39241,47.632654 L -42.121749,47.093347 L -107.94778,96.360488 L -82.011837,174.43788 z"
+     inkscape:transform-center-x="0.3716643"
+     inkscape:transform-center-y="-10.485738"
+     transform="matrix(0.49,0,0,0.49,522.24287,182.12831)" />
+</svg>

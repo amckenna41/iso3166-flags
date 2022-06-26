@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400">
+<clipPath id="d">
+<path d="M0,0H600L0,400H600z"/>
+</clipPath>
+<g>
+<rect width="600" height="400" fill="#fff"/>
+<g id="w3" fill="#0033cd">
+<path id="w" d="M0,0A25,25 0 0,1 25,25A25,25 0 1,0 75,25A25,25 0 1,1 125,25A25,25 0 1,0 175,25A25,25 0 0,1 200,0L220,25 200,50A25,25 0 0,0 175,75A25,25 0 1,1 125,75A25,25 0 1,0 75,75A25,25 0 1,1 25,75A25,25 0 0,0 0,50L-20,25z"/>
+<use xlink:href="#w" x="200"/>
+<use xlink:href="#w" x="400"/>
+</g>
+<use xlink:href="#w3" y="100"/>
+<use xlink:href="#w3" y="200"/>
+<use xlink:href="#w3" y="300"/>
+</g>
+<g clip-path="url(#d)">
+<rect width="600" height="400" fill="#fbdc07"/>
+<g id="z3" fill="#f60e12">
+<path id="z" d="M0,35 30,15 60,35 90,15 120,35 150,15 180,35 210,15 240,35 270,15 300,35L320,50 300,85L270,65 240,85 210,65 180,85 150,65 120,85 90,65 60,85 30,65 0,85L-20,50z"/>
+<use xlink:href="#z" x="300"/>
+</g>
+<use xlink:href="#z3" y="100"/>
+<use xlink:href="#z3" y="200"/>
+<use xlink:href="#z3" y="300"/>
+</g>
+<path d="M0,0 600,400M0,400 600,0" stroke="#c7c7c8" stroke-width="80"/>
+</svg>

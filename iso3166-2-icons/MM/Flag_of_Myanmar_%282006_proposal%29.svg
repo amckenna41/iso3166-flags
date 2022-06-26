@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2700"
+   height="1500"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Kelvin\Desktop"
+   sodipodi:docname="Flag of Myanmar (2006 proposal).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.44259259"
+     inkscape:cx="1350"
+     inkscape:cy="750"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     width="2700px"
+     height="1500px"
+     inkscape:window-width="1280"
+     inkscape:window-height="968"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d81e05;fill-opacity:1;stroke:none"
+       id="rect2160"
+       width="2700"
+       height="500"
+       x="0"
+       y="1000" />
+    <rect
+       style="fill:#ffdb00;fill-opacity:1;stroke:none"
+       id="rect3135"
+       width="2700"
+       height="500"
+       x="0"
+       y="500" />
+    <rect
+       style="fill:#3a7728;fill-opacity:1;stroke:none"
+       id="rect4106"
+       width="2700"
+       height="500"
+       x="0"
+       y="0" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path5095"
+       sodipodi:sides="5"
+       sodipodi:cx="250"
+       sodipodi:cy="250"
+       sodipodi:r1="240"
+       sodipodi:r2="91.68"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 250.00001,10 L 303.88815,175.82932 L 478.25357,175.83593 L 337.19286,278.33068 L 391.06846,444.16408 L 250,341.68 L 108.93153,444.16407 L 162.80714,278.33068 L 21.746438,175.83592 L 196.11185,175.82932 L 250.00001,10 z "
+       transform="translate(11.171562,22.917918)" />
+  </g>
+</svg>

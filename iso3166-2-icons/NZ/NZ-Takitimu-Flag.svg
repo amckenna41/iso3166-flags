@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="NZ-Takitimu-Flag.svg"
+   sodipodi:docbase="C:\WIKIPEDI"
+   inkscape:version="0.40+cvs"
+   sodipodi:version="0.32"
+   id="svg2"
+   x="0.00000000"
+   y="0.00000000"
+   height="300.00000px"
+   width="600.00000px">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     showguides="true"
+     showgrid="false"
+     inkscape:window-y="-4"
+     inkscape:window-x="-4"
+     inkscape:window-height="585"
+     inkscape:window-width="804"
+     inkscape:current-layer="svg2"
+     inkscape:document-units="px"
+     inkscape:cy="152.39698"
+     inkscape:cx="292.17830"
+     inkscape:zoom="1.0803573"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF1589">
+      <cc:Work
+         rdf:about=""
+         id="Work1591">
+        <dc:format
+           id="format1593">image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+           id="type1595" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+<!-- Main outline of the flag -->  <rect
+     style="fill:none;fill-opacity:1.0000000"
+     id="rect1320"
+     width="600.00000"
+     height="300.00000"
+     x="0.00000000"
+     y="0.00000000" />
+  <g
+     id="g1865">
+    <g
+       id="g1718">
+      <path
+         style="fill:#ce1124;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+         d="M 300.00000,0.00000000 L 600.00000,0.00000000 L 600.00000,300.00000 L 0.00000000,300.00000 L 0.00000000,150.00000 L 300.00000,150.00000 L 300.00000,0.00000000 z "
+         id="path4861" />
+      <g
+         id="g6780"
+         transform="matrix(0.500000,0.000000,0.000000,0.500000,0.000000,-5.000000e-6)">
+        <g
+           transform="translate(0.000000,309.4444)"
+           id="g6773">
+          <rect
+             width="600.00000"
+             height="300.00000"
+             x="0.00000000"
+             y="-309.44440"
+             style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke-opacity:1.0000000"
+             id="rect3179" />
+          <path
+             d="M -238.28967,473.03977 L -238.50396,378.74081 L -156.73152,425.70471 L -238.28967,473.03977 z "
+             transform="matrix(2.849371,0.000000,0.000000,2.449656,679.5863,-1202.729)"
+             style="fill:#002b7f;fill-opacity:1.0000000;fill-rule:evenodd;stroke-opacity:1.0000000"
+             id="path4054" />
+          <use
+             transform="matrix(-1.000000,0.000000,0.000000,1.000000,600.0000,-2.006206e-6)"
+             id="use6675"
+             x="0.00000000"
+             y="0.00000000"
+             width="600.00000"
+             height="600.00000"
+             xlink:href="#path4054" />
+          <use
+             transform="matrix(0.000000,-0.502146,2.017316,0.000000,621.6497,-9.444400)"
+             id="use6677"
+             x="0.00000000"
+             y="0.00000000"
+             width="600.00000"
+             height="600.00000"
+             xlink:href="#path4054" />
+          <use
+             transform="matrix(1.000000,0.000000,0.000000,-1.000000,-4.715239e-8,-318.8888)"
+             id="use6679"
+             x="0.00000000"
+             y="0.00000000"
+             width="600.00000"
+             height="600.00000"
+             xlink:href="#use6677" />
+        </g>
+        <path
+           d="M 355.28000,99.999990 L 400.00000,99.999990 L 600.00000,-1.0000000e-005 L 555.28000,-1.0000000e-005 L 355.28000,99.999990 z "
+           style="fill:#ce1126;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+           id="path3141" />
+        <path
+           d="M 0.00000000,-1.0000000e-005 L 0.00000000,22.359990 L 155.28000,99.999990 L 200.00000,99.999990 L 0.00000000,-1.0000000e-005 z "
+           style="fill:#ce1126;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+           id="path3143" />
+        <path
+           d="M 600.00000,300.00001 L 600.00000,277.64001 L 444.72000,200.00001 L 400.00000,200.00001 L 600.00000,300.00001 z "
+           style="fill:#ce1126;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+           id="path3145" />
+        <path
+           d="M 0.00000000,299.99999 L 44.720000,299.99999 L 244.72000,199.99999 L 200.00000,199.99999 L 0.00000000,299.99999 z "
+           style="fill:#ce1126;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+           id="path3147" />
+        <g
+           id="g6767">
+          <use
+             transform="matrix(1.000000,0.000000,0.000000,0.333333,0.000000,203.1481)"
+             id="use6763"
+             x="0.00000000"
+             y="0.00000000"
+             width="600.00000"
+             height="300.00000"
+             xlink:href="#rect3179" />
+          <use
+             transform="matrix(0.000000,0.500000,-1.000000,0.000000,450.0000,0.000000)"
+             id="use6765"
+             x="0.00000000"
+             y="0.00000000"
+             width="600.00000"
+             height="300.00000"
+             xlink:href="#use6763" />
+        </g>
+        <rect
+           width="600.00000"
+           height="60.000000"
+           rx="1.1102251e-014"
+           ry="1.5100597e-015"
+           x="0.00000000"
+           y="120.00000"
+           style="fill:#ce1124;fill-opacity:1.0000000;fill-rule:evenodd;stroke-opacity:1.0000000"
+           id="use3168" />
+        <use
+           transform="matrix(0.000000,0.500000,-1.000000,0.000000,450.0000,0.000000)"
+           id="use6771"
+           x="0.00000000"
+           y="0.00000000"
+           width="600.00000"
+           height="300.00000"
+           xlink:href="#use3168" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:116.38990;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Arial;text-anchor:start;writing-mode:lr-tb"
+       x="29.711735"
+       y="265.94675"
+       id="text1694"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1696"
+         x="29.711735"
+         y="265.94675">TAKITIMU</tspan></text>
+  </g>
+</svg>

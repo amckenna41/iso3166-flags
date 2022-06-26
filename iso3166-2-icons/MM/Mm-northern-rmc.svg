@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="500"
+   width="900"
+   version="1.1"
+   id="svg103"
+   sodipodi:docname="Mm-northern-rmc.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs107" />
+  <sodipodi:namedview
+     id="namedview105"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.0332031"
+     inkscape:cx="399.7278"
+     inkscape:cy="185.34594"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg103" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(128,99.5)"
+     fill="#f5c70e"
+     id="g55" />
+  <path
+     id="rect979"
+     style="fill:#b01d1c;stroke-width:2.05657"
+     d="M 0,0 H 900.00001 V 500 H 0 Z" />
+  <path
+     id="path2395"
+     style="fill:#182585;stroke-width:1.02055"
+     d="M 600,250 A 150,150 0 0 1 450.00001,400 150,150 0 0 1 300,250 150,150 0 0 1 450.00001,100 150,150 0 0 1 600,250 Z" />
+  <g
+     id="#fefefeff"
+     transform="matrix(1.6894698,0,0,1.6894698,-537.15608,167.19585)">
+    <path
+       fill="#fefefe"
+       opacity="1"
+       d="m 571.97357,-0.11592394 11.83781,-22.20194706 11.83826,22.20194706 h -7.39877 l -2.2e-4,84.64193594 13.31778,8.878525 V 119.73853 L 583.81138,107.9005 566.05433,119.73853 V 93.404537 l 13.31779,-8.878525 2.2e-4,-84.64193594 z"
+       id="path8"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="-75 -40 120 80" version="1.0">
+  <path style="fill:#fff;stroke:none" d="M-75-60H45V60H-75z"/>
+  <path style="fill:#01411c;fill-opacity:1;stroke:none" d="M-75-60H45V60L-75-60z"/>
+  <circle transform="translate(11.45889 -26.7374)" style="fill:#fff;stroke:none" r="24"/>
+  <circle style="fill:#01411c;fill-opacity:1;stroke:none" transform="rotate(-41.63357 15.56711921 -68.43824438)" cy="-40" cx="-7" r="22"/>
+  <g style="fill:#fff" transform="rotate(-41.63357 -37.43286771 -49.4798717)">
+    <g id="b">
+      <path transform="rotate(17.99991 3.99996226 25.25501784)" id="a" d="M0 0h-8v4z"/>
+      <use height="80" width="120" transform="scale(1 -1)" xlink:href="#a"/>
+    </g>
+    <use height="80" width="120" transform="rotate(72)" xlink:href="#b"/>
+    <use height="80" width="120" transform="rotate(-72)" xlink:href="#b"/>
+    <use height="80" width="120" transform="rotate(144)" xlink:href="#b"/>
+    <use height="80" width="120" transform="rotate(-144)" xlink:href="#b"/>
+  </g>
+  <path style="fill:#000;fill-opacity:1;stroke:none" d="m-75-26 86 86h-86v-86z"/>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="2000"
+   height="285.71399"
+   viewBox="0 0 56 7.9999917"
+   id="svg2"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Commissioning_Pennant_of_Malaysia.svg">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Malaysian Navy Commissioning Pennant</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview32"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.322"
+     inkscape:cx="507.17888"
+     inkscape:cy="-100.69224"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Malaysian Navy Commissioning Pennant</title>
+  <g
+     id="g3422">
+    <g
+       transform="translate(-1.2208,-8.2441406e-6)"
+       style="fill:#dc241f"
+       id="v" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="rect18"
+       d="M 0,0 56,3.999996 0,7.9999918 z"
+       style="fill:#010066;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.056"
+       d="m 7.5280815,1.4999908 0.222917,1.525 0.8625,-1.27708 -0.4625,1.47083 1.331252,-0.77708 -1.054168,1.125 1.537502,-0.12292 -1.437502,0.55626 1.437502,0.55625 -1.537502,-0.12292 1.054168,1.125 -1.331252,-0.77708 0.4625,1.47083 -0.8625,-1.27708 -0.222917,1.525 -0.222917,-1.525 -0.862502,1.27708 0.462501,-1.47083 -1.331252,0.77708 1.054168,-1.125 -1.537502,0.12292 1.437502,-0.55625 -1.437502,-0.55626 1.537502,0.12292 -1.054168,-1.125 1.331252,0.77708 -0.462501,-1.47083 0.862502,1.27708 z m -1.250002,0.0625 a 2.6666702,2.6666702 0 1 0 0,4.87501 3.000004,3.000004 0 1 1 0,-4.87501 z"
+       id="circle20"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

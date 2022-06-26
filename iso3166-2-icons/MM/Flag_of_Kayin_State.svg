@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="300"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="Flag_of_Kayin_State.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.0866667"
+     inkscape:cx="205.35144"
+     inkscape:cy="149.76038"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <rect
+     height="300"
+     width="600"
+     fill="#d9231c"
+     id="rect2" />
+  <rect
+     height="200"
+     width="600"
+     fill="#fff"
+     id="rect4" />
+  <rect
+     height="100"
+     width="600"
+     fill="#475475"
+     id="rect6"
+     style="fill:#072a6c;fill-opacity:1" />
+  <path
+     d="M50.6107,95.4508 80,5,109.389,95.4509 32.4472,39.5491h95.1057z"
+     fill="#fff"
+     id="path8" />
+</svg>

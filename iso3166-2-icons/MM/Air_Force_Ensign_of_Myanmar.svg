@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="900"
+   height="500"
+   id="svg4249"
+   sodipodi:docname="Air_Force_Ensign_of_Myanmar.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     id="namedview10"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0925926"
+     inkscape:cx="286.82731"
+     inkscape:cy="389.7009"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4249" />
+  <defs
+     id="defs4252" />
+  <rect
+     y="0"
+     x="0"
+     style="fill:#78c3e3;fill-opacity:1"
+     width="900"
+     height="500"
+     id="rect2" />
+  <g
+     style="fill:#ffffff"
+     transform="translate(225,125.00001)"
+     id="g18">
+    <g
+       id="c">
+      <path
+         inkscape:connector-curvature="0"
+         id="t"
+         d="M 0,-85 V 0 h 42.5"
+         transform="rotate(18,0,-85)" />
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#t"
+         transform="scale(-1,1)"
+         id="use7" />
+    </g>
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#c"
+       transform="rotate(72)"
+       id="use10" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#c"
+       transform="rotate(144)"
+       id="use12" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#c"
+       transform="rotate(-144)"
+       id="use14" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#c"
+       transform="rotate(-72)"
+       id="use16" />
+  </g>
+  <g
+     transform="matrix(0.22331358,0,0,0.22242546,672.37879,329.03452)"
+     id="g4915">
+    <path
+       d="M 0,522 300,0 600,522 Z"
+       id="path4901"
+       style="fill:#2042a1"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 105,464.5 300,126 495,464.5 Z"
+       id="path4903"
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 210,407 90,-155 90,155 z"
+       id="path4905"
+       style="fill:#eeb000"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

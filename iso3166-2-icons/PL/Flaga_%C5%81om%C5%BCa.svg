@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="600" width="850" version="1.0">
+  <path style="fill:#2d6fc5;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" d="M0 600s850-278.99822 850-299.99822S0 0 0 0v600"/>
+  <path style="fill:#e7dd57;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" d="M850 300V0H0l850 300z"/>
+  <path style="fill:#c82b32;fill-rule:evenodd;stroke:none;stroke-width:.001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" d="M850 300v300H0l850-300z"/>
+</svg>

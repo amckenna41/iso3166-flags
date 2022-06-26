@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   width="720" height="500">
+  <metadata><rdf:RDF><cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Flag of Kercem</dc:title>
+  </cc:Work></rdf:RDF></metadata>
+<rect style="fill:#ffffff" width="720" height="500"/>
+<rect style="fill:#ff0000" y="172" width="720" height="156"/>
+<g style="fill:#ffff00">
+<circle cx="162.856" cy="250" r="62.628"/>
+<circle cx="360" cy="250" r="62.628"/>
+<circle cx="557.144" cy="250" r="62.628"/>
+</g>
+<g style="fill:#ff0000">
+<circle cx="162.856" cy="250" r="38.535"/>
+<circle cx="360" cy="250" r="38.535"/>
+<circle cx="557.144" cy="250" r="38.535"/>
+</g>
+</svg>

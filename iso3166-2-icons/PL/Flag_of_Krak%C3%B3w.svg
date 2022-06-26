@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="600"
+   height="400"
+   id="krakow_flag_svg"
+   sodipodi:docname="Flag_of_Kraków.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="393.88058"
+     inkscape:cy="303.28252"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="krakow_flag_svg" />
+  <desc
+     id="desc2">Flag of Kraków (PL)</desc>
+  <rect
+     height="400"
+     width="600"
+     fill="#fff"
+     id="rect4" />
+  <rect
+     y="200"
+     height="200"
+     width="600"
+     fill="#006cb7"
+     id="rect6" />
+  <path
+     style="fill:#0064a7;fill-opacity:1;stroke:#000000;stroke-width:0"
+     d="M -0.55242717,299.96796 V 199.42621 H 299.96796 600.48834 V 299.96796 400.5097 H 299.96796 -0.55242717 Z"
+     id="path3801" />
+</svg>

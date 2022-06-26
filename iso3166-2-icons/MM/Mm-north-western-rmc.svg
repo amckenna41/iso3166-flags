@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="500"
+   width="900"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="Mm-north-western-rmc.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.73058494"
+     inkscape:cx="559.82539"
+     inkscape:cy="169.04263"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     fill-rule="evenodd"
+     height="500"
+     width="900"
+     y="0"
+     x="0"
+     fill="#a90b0c"
+     id="rect4"
+     style="fill:#cd110a;fill-opacity:1;stroke-width:2.97208" />
+  <path
+     sodipodi:nodetypes="ccsccscccc"
+     style="fill:#b80c0c;fill-opacity:1;stroke:none;stroke-width:1.50644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 316.8982,307.62496 V 124.26542 h 5.17357 c 21.63493,0 34.33369,-22.57557 34.33369,-23.51623 h 187.18909 c 0,0.94066 12.69875,23.51623 34.33367,23.51623 h 5.17358 V 307.62496 C 556.2933,359.36064 551.59006,345.25093 450.00001,400.74919 348.40994,345.25093 343.7067,359.36064 316.8982,307.62496 Z"
+     id="path3005"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#182585;fill-opacity:1;stroke:none;stroke-width:0.883;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 416.75927,101.498 v 279.335 l 33.09723,17.40593 33.09765,-17.40593 4.4e-4,-279.335 z"
+     id="path1298"
+     sodipodi:nodetypes="cccccc" />
+  <g
+     id="g872"
+     transform="matrix(1.3599142,0,0,1.3599142,268.48545,99.285341)">
+    <path
+       fill="#ffffff"
+       d="m 134,21 -10,18 h 6 v 124 h 8 V 39 h 6 z"
+       id="path8" />
+    <path
+       fill="#ffffff"
+       d="m 125,185 v -28 c 0,-4.0139 4.5155,-10 9,-10 4.4845,0 9,5.9861 9,10 v 28 l -9,-5 z"
+       id="path10" />
+    <path
+       fill="#ffffff"
+       d="m 60,115 74,64 74,-64 -8,-6 -66,56 -66,-56 z"
+       id="path12" />
+    <path
+       d="m 142.72,57.344 a 9.557,10.831 0 1 1 -19.114,0 9.557,10.831 0 1 1 19.114,0 z"
+       fill-rule="evenodd"
+       transform="matrix(1.0463511,0,0,0.92325096,-5.3333297,4.05737)"
+       fill="#ffffff"
+       id="path14" />
+    <path
+       d="m 119.78,57.768 a 2.54855,7.8581542 0 1 1 -5.0971,0 2.54855,7.8581542 0 1 1 5.0971,0 z"
+       fill-rule="evenodd"
+       transform="matrix(1.1771449,0,0,0.89081242,12.000003,5.5391389)"
+       fill="#ffffff"
+       id="path16" />
+    <path
+       d="m 150.36,57.556 a 2.54855,5.9467167 0 1 1 -5.0971,0 2.54855,5.9467167 0 1 1 5.0971,0 z"
+       fill-rule="evenodd"
+       transform="matrix(1.1771449,0,0,1.1771449,-55.999982,-10.751846)"
+       fill="#ffffff"
+       id="path18" />
+    <path
+       d="m 110.18,49.825 c -13.807,0 -56.432,62.271 -56.432,69.175 0,6.9036 14.672,-8.4951 14.672,-8.4951 0,-8.2843 35.599,-44.308 43.883,-44.308 z"
+       fill-rule="evenodd"
+       fill="#ffffff"
+       id="path20" />
+    <path
+       d="m 156.77,49.825 c 13.807,0 56.432,62.271 56.432,69.175 0,6.9036 -14.672,-8.4951 -14.672,-8.4951 0,-8.2843 -35.599,-44.308 -43.883,-44.308 z"
+       fill-rule="evenodd"
+       fill="#ffffff"
+       id="path22" />
+  </g>
+</svg>

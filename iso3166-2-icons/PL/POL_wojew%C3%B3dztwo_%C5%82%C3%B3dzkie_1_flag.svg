@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600pt" height="380pt" sodipodi:docbase="E:\Inkscape - rysunki\Nowe" sodipodi:docname="POL_województwo_łódzkie_1_flag.svg" sodipodi:version="0.32" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<sodipodi:namedview bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff"/>
+<g transform="matrix(1 0 0 1.0153 0 -7.3007)">
+<rect x="2.0217" y="6.9682" width="147.59" height="470.05" fill="#bd2910"/>
+<rect transform="scale(-1 1)" x="-301.24" y="6.9682" width="151.63" height="470.05" fill="#ffe701"/>
+</g>
+<g transform="matrix(1 0 0 1.0153 299.23 -7.3007)">
+<rect x="2.0217" y="6.9682" width="147.59" height="470.05" fill="#bd2910"/>
+<rect transform="scale(-1 1)" x="-301.24" y="6.9682" width="151.63" height="470.05" fill="#ffe701"/>
+<rect x="301.48" y="6.9682" width="150.46" height="470.05" fill="#bd2910"/>
+</g>
+</svg>

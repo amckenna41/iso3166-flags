@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="600" version="1.1" viewBox="0 0 9 6" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<style type="text/css">.st0{fill:#ED1C24;}
+	.st1{fill:#939598;}
+	.st2{fill:#FFFFFF;}</style>
+<g transform="matrix(.0028824 0 0 .0028826 4.7333 1.7424)">
+<rect class="st0" x="-1642.2" y="-604.7" width="1040.6" height="2081.7" fill="#ed1c24"/>
+<rect class="st1" x="-601.6" y="-604.7" width="1040.6" height="2081.7" fill="#939598"/>
+<rect class="st2" x="439.7" y="-604.7" width="1040.6" height="2081.7" fill="#fff"/>
+<polygon class="st1" points="-773.6 436.4 -938.6 189.4 -1104.1 436.4 -938.6 682.8" fill="#939598"/>
+<g fill="#fff">
+<polygon class="st2" points="-246.7 -56.8 -80.7 189.4 84.7 -56.8 -80.7 -303.6"/>
+<polygon class="st2" points="84.7 929.2 -80.7 683 -246.7 929.2 -80.7 1175.4"/>
+</g>
+<polygon class="st1" points="-1139.2 929.2 -1305.2 683 -1470.6 929.2 -1305.2 1175.4" fill="#939598"/>
+<g fill="#ed1c24">
+<polygon class="st0" points="942.6 436.5 776.6 189.6 611.7 436.5 776.6 682.8"/>
+<polygon class="st0" points="1143.1 1175.6 1308.7 929.2 1143.1 682.8 978.1 929.2"/>
+</g>
+</g>
+</svg>

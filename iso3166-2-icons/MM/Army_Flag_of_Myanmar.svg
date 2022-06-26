@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900mm"
+   height="500mm"
+   viewBox="0 0 900 500"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Army Flag of Myanmar.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-397.55299"
+     inkscape:cy="2863.3734"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(355.6756,74.172623)">
+    <rect
+       style="fill:#db2916;fill-opacity:1;stroke:none;stroke-width:4.23333311;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="900"
+       height="500"
+       x="-355.6756"
+       y="-74.172623" />
+    <rect
+       y="92.327377"
+       x="-355.6756"
+       height="167"
+       width="900"
+       id="rect828"
+       style="fill:#1a40a2;fill-opacity:1;stroke:none;stroke-width:2.44655895;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       style="fill:#ffffff"
+       transform="matrix(0.27330882,0,0,0.27330882,789.30971,293.45877)"
+       id="g18">
+      <g
+         id="g859"
+         transform="matrix(0.48654622,0,0,0.48654622,-1291.5972,-169.85671)">
+        <g
+           id="g868"
+           transform="translate(-258.38098,-293.61475)">
+          <g
+             id="c"
+             transform="matrix(15.418899,0,0,15.418899,-2313.3378,-258.844)">
+            <path
+               inkscape:connector-curvature="0"
+               id="t"
+               d="M 0,-85 V 0 h 42.5"
+               transform="rotate(18,0,-85)" />
+            <use
+               height="100%"
+               width="100%"
+               y="0"
+               x="0"
+               xlink:href="#t"
+               transform="scale(-1,1)"
+               id="use7" />
+          </g>
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#c"
+             transform="rotate(72,-2313.3378,-258.84402)"
+             id="use10" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#c"
+             transform="rotate(144,-2313.3376,-258.84401)"
+             id="use12" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#c"
+             transform="rotate(-144,-2313.3377,-258.84401)"
+             id="use14" />
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#c"
+             transform="rotate(-72,-2313.3377,-258.84396)"
+             id="use16" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

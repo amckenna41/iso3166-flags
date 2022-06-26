@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="500"
+   width="900"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="Mm-lid-33.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title6072">33rd Light Infantry Division, Myanmar Army</title>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.73058492"
+     inkscape:cx="183.41468"
+     inkscape:cy="294.96913"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     showguides="true" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>33rd Light Infantry Division, Myanmar Army</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect4"
+     style="fill:#cd110a;fill-rule:evenodd;stroke-width:2.97208"
+     d="M 0,0 H 900 V 500 H 0 Z" />
+  <path
+     id="path855"
+     style="fill:#182585;stroke-width:1.31119"
+     d="M 575,250 A 125,125 0 0 1 450,375 125,125 0 0 1 325,250 125,125 0 0 1 450,125 125,125 0 0 1 575,250 Z" />
+  <path
+     id="path5457"
+     style="fill:#ffffff"
+     inkscape:transform-center-y="-3.4083836"
+     d="m 450,50.638958 8.0143,24.662315 25.93181,9.82e-4 -20.9787,15.24313 8.01244,24.662925 L 450,99.966764 l -20.97985,15.241546 8.01244,-24.662925 -20.9787,-15.243131 25.93181,-9.81e-4 z" />
+  <g
+     id="g1359"
+     transform="matrix(0.97085621,0,0,0.97085621,10.939848,7.3442395)">
+    <path
+       style="fill:#ffffff;stroke-width:2.0384"
+       inkscape:connector-curvature="0"
+       d="m 449.80955,203.54086 c 17.7776,-24.60568 43.3888,-51.44638 76.38089,-49.21135 v 127.78454 h -49.56083 l 23.99115,33.76496 v 33.92216 l -50.3811,-67.68712 v -23.94917 h 55.44448 v -77.93791 c -32.5411,15.68372 -37.15105,24.7946 -37.09231,61.12519 h -18.78227 z"
+       id="path4144-6"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#ffffff;stroke-width:2.0384"
+       inkscape:connector-curvature="0"
+       d="m 361.80955,203.54086 c 17.7776,-24.60568 43.3888,-51.44638 76.38089,-49.21135 V 282.11405 H 388.6296 l 23.99115,33.76496 v 33.92216 l -50.3811,-67.68712 v -23.94917 h 55.44449 v -77.93791 c -32.5411,15.68372 -37.15105,24.7946 -37.09232,61.12519 h -18.78227 z"
+       id="path4144"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

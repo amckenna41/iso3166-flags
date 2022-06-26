@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="600px" height="360px" viewBox="0.302 1 600 360" enable-background="new 0.302 1 600 360"
+	 xml:space="preserve">
+<defs>
+</defs>
+<rect x="0.302" fill="#023AAC" width="600" height="360"/>
+<rect x="0.302" fill="#FFB400" width="300" height="180"/>
+<rect x="0.302" fill="#FFFFFF" width="150" height="180"/>
+<path stroke="#FF0000" stroke-width="9" d="M78.294,0v180 M256.968,180 M256.968,0"/>
+<rect x="300.302" y="180" fill="#FFB400" width="300" height="180"/>
+<rect x="300.635" y="180" fill="#FFFFFF" width="150" height="180"/>
+<path fill="#FF0000" d="M375.302,360 M375.302,180 M450.302,270 M300.302,270 M496.968,360 M496.968,180"/>
+<rect y="78" fill="#FF0000" width="150.604" height="26.163"/>
+<rect x="63.148" fill="#FF0000" width="24.807" height="179.922"/>
+<rect x="300" y="257" fill="#FF0000" width="150.604" height="26.162"/>
+<rect x="363.542" y="180.039" fill="#FF0000" width="24.807" height="179.922"/>
+<rect x="482.179" y="180.239" fill="#FF0000" width="29.256" height="179.522"/>
+<rect x="541.9" y="180.239" fill="#FF0000" width="29.256" height="179.522"/>
+<rect x="181.163" y="0.239" fill="#FF0000" width="29.256" height="179.522"/>
+<rect x="240.884" y="0.239" fill="#FF0000" width="29.256" height="179.522"/>
+</svg>

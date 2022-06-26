@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="300px" height="200px" viewBox="0 0 300 200" enable-background="new 0 0 300 200" xml:space="preserve">
+<defs>
+</defs>
+<rect fill="#FFFFFF" width="300" height="200"/>
+<polygon fill="#0039AD" points="300,44.444 300,22.222 66.667,22.222 100,44.444 "/>
+<polygon fill="#0039AD" points="0,44.444 33.333,44.444 0,22.222 "/>
+<polygon fill="#0039AD" points="300,155.556 266.667,155.556 300,177.777 "/>
+<polygon fill="#0039AD" points="0,155.556 0,177.777 233.333,177.777 200,155.556 "/>
+<polygon fill="#0039AD" points="300,88.889 300,66.667 133.333,66.667 166.667,88.889 "/>
+<polygon fill="#0039AD" points="0,66.667 0,88.889 100,88.889 66.667,66.667 "/>
+<polygon fill="#0039AD" points="0,111.111 0,133.333 166.667,133.333 133.333,111.111 "/>
+<polygon fill="#0039AD" points="300,133.333 300,111.111 200,111.111 233.333,133.333 "/>
+<polygon fill="#00A500" points="266.667,200 300,200 300,177.777 233.333,177.777 "/>
+<polygon fill="#00A500" points="33.333,0 0,0 0,22.222 66.667,22.222 "/>
+<polygon fill="#00A500" points="66.667,66.667 133.333,66.667 100,44.444 33.333,44.444 "/>
+<polygon fill="#00A500" points="200,155.556 266.667,155.556 233.333,133.333 166.667,133.333 "/>
+<polygon fill="#00A500" points="133.333,111.111 200,111.111 166.667,88.889 100,88.889 "/>
+</svg>

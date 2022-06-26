@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2211"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   width="600"
+   height="400"
+   version="1.0"
+   sodipodi:docbase="C:\TIIKERI\Liput\Alankomaat\provinssit\Limburg - kunnat\svg"
+   sodipodi:docname="Weert.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2216">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2214" />
+  <sodipodi:namedview
+     inkscape:window-height="712"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.0534905"
+     inkscape:cx="240.28974"
+     inkscape:cy="213.58252"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2211"
+     width="600px"
+     height="400px">
+    <sodipodi:guide
+       orientation="vertical"
+       position="10.503979"
+       id="guide2224" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="80.689655"
+       id="guide2226" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="172.8382"
+       id="guide2228" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="6.6843501"
+       id="guide2230" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="89.761273"
+       id="guide2234" />
+  </sodipodi:namedview>
+  <g
+     id="g2272"
+     inkscape:export-filename="C:\TIIKERI\Liput\Alankomaat\provinssit\Limburg - kunnat\svg\Weert.png"
+     inkscape:export-xdpi="266.67001"
+     inkscape:export-ydpi="266.67001"
+     transform="scale(2.2222222,2.2222222)">
+    <rect
+       y="0"
+       x="0"
+       height="180"
+       width="270"
+       id="rect2266"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <rect
+       y="60"
+       x="0"
+       height="60"
+       width="270"
+       id="rect2222"
+       style="opacity:1;fill:#0085cf;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <rect
+       y="0"
+       x="0"
+       height="180"
+       width="90"
+       id="rect2220"
+       style="opacity:1;fill:#fccc00;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <path
+       id="path2236"
+       d="M 35.23594,51.709193 C 29.09518,49.699957 22.44683,44.701236 19.00574,39.506127 C 15.64657,34.43471 13.29824,25.362324 14.30569,21.348298 C 14.79222,19.40981 14.32207,18.138293 12.36248,16.092917 C 10.76747,14.428092 10.01461,12.776669 10.39671,11.780937 C 12.93634,5.16278 41.83964,5.866672 41.83964,12.546677 C 41.83964,13.333998 40.65997,15.157833 39.21816,16.599643 C 37.0097,18.808106 36.68042,19.845337 37.12812,23.183197 C 38.24032,31.47526 44.23307,36.448986 52.27421,35.753802 C 56.50165,35.388327 57.75555,34.741038 61.024211,31.236859 C 64.296111,27.729209 64.839641,26.492891 64.839641,22.558142 C 64.839641,20.034531 64.124151,16.586163 63.249671,14.895101 C 61.791721,12.075733 61.794681,11.685461 63.285381,10.194761 C 65.605151,7.874992 76.138691,7.939565 78.487081,10.287951 C 80.098801,11.899674 80.101031,12.122762 78.522791,13.866692 C 77.268741,15.252408 76.834041,17.618526 76.817671,23.14782 C 76.781901,35.236257 71.255001,44.184452 60.339641,49.826181 C 54.30075,52.947451 41.87009,53.879866 35.23594,51.709193 z "
+       style="fill:#cc112f;fill-opacity:1" />
+    <path
+       id="path2268"
+       d="M 35.235943,172.13433 C 29.095183,170.1251 22.446833,165.12638 19.005743,159.93127 C 15.646573,154.85985 13.298243,145.78746 14.305693,141.77344 C 14.792223,139.83495 14.322073,138.56343 12.362483,136.51806 C 10.767473,134.85323 10.014613,133.20181 10.396713,132.20608 C 12.936343,125.58792 41.839643,126.29181 41.839643,132.97182 C 41.839643,133.75914 40.659973,135.58297 39.218163,137.02478 C 37.009703,139.23325 36.680423,140.27048 37.128123,143.60834 C 38.240323,151.9004 44.233073,156.87413 52.274213,156.17894 C 56.501653,155.81347 57.755553,155.16618 61.024214,151.662 C 64.296114,148.15435 64.839644,146.91803 64.839644,142.98328 C 64.839644,140.45967 64.124154,137.0113 63.249674,135.32024 C 61.791724,132.50087 61.794684,132.1106 63.285384,130.6199 C 65.605154,128.30013 76.138689,128.3647 78.487079,130.71309 C 80.098799,132.32481 80.101029,132.5479 78.522789,134.29183 C 77.268739,135.67755 76.834039,138.04367 76.817669,143.57296 C 76.781899,155.6614 71.255004,164.60959 60.339644,170.25132 C 54.300753,173.37259 41.870093,174.30501 35.235943,172.13433 z "
+       style="fill:#cc112f;fill-opacity:1" />
+    <path
+       id="path2270"
+       d="M 35.23594,111.92176 C 29.09518,109.91253 22.44683,104.9138 19.00574,99.718696 C 15.64657,94.647279 13.29824,85.574893 14.30569,81.560867 C 14.79222,79.622379 14.32207,78.350862 12.36248,76.305486 C 10.76747,74.640661 10.01461,72.989238 10.39671,71.993506 C 12.93634,65.375349 41.83964,66.079241 41.83964,72.759246 C 41.83964,73.546567 40.65997,75.370402 39.21816,76.812212 C 37.0097,79.020675 36.68042,80.057906 37.12812,83.395766 C 38.24032,91.687829 44.23307,96.661555 52.27421,95.966371 C 56.50165,95.600896 57.75555,94.953607 61.024211,91.449428 C 64.296111,87.941778 64.839641,86.70546 64.839641,82.770711 C 64.839641,80.2471 64.124151,76.798732 63.249671,75.10767 C 61.791721,72.288302 61.794681,71.89803 63.285381,70.40733 C 65.605151,68.087561 76.138691,68.152134 78.487081,70.50052 C 80.098801,72.112243 80.101031,72.335331 78.522791,74.079261 C 77.268741,75.464977 76.834041,77.831095 76.817671,83.360389 C 76.781901,95.448826 71.255001,104.39702 60.339641,110.03875 C 54.30075,113.16002 41.87009,114.09243 35.23594,111.92176 z "
+       style="fill:#cc112f;fill-opacity:1" />
+  </g>
+</svg>

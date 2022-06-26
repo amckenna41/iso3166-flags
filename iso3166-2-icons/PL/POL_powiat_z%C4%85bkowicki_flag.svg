@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   width="801.64282"
+   height="501.99857"
+   version="1.0"
+   sodipodi:docbase="E:\Inkscape - rysunki\WIKIPEDIA\Grafiki SVG"
+   sodipodi:docname="POL_powiat_ząbkowicki_flag.svg">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     inkscape:window-height="669"
+     inkscape:window-width="888"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.83248919"
+     inkscape:cx="408.6194"
+     inkscape:cy="252.95487"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:current-layer="svg2"
+     width="800px" />
+  <g
+     id="g2768"
+     transform="matrix(2.832946,0,0,2.832946,-1.330057,-0.381469)">
+    <g
+       id="g2763">
+      <rect
+         style="opacity:1;fill:yellow;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.0629921;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2757"
+         width="282.6366"
+         height="59.625996"
+         x="0.46949601"
+         y="117.37401" />
+      <rect
+         y="-117.65273"
+         x="0.46949601"
+         height="57.929554"
+         width="282.6366"
+         id="rect2759"
+         style="opacity:1;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03580225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(1,-1)" />
+      <rect
+         style="opacity:1;fill:#da251d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05010843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2761"
+         width="282.6366"
+         height="59.065964"
+         x="0.46949601"
+         y="0.48355794" />
+    </g>
+    <rect
+       y="0.66615063"
+       x="1.1356498"
+       height="176.13719"
+       width="281.7738"
+       id="rect1869"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.50029998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

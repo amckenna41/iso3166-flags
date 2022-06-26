@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="500"
+   width="900"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="Mm-lid-66.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title6072">66th Light Infantry Division, Myanmar Army</title>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.51660155"
+     inkscape:cx="898.17771"
+     inkscape:cy="473.28545"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     showguides="true" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>66th Light Infantry Division, Myanmar Army</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect4"
+     style="fill:#cd110a;fill-rule:evenodd;stroke-width:2.97208"
+     d="M 0,0 H 900 V 500 H 0 Z" />
+  <path
+     id="path855"
+     style="fill:#182585;stroke-width:1.31119"
+     d="M 575,250 A 125,125 0 0 1 450,375 125,125 0 0 1 325,250 125,125 0 0 1 450,125 125,125 0 0 1 575,250 Z" />
+  <g
+     id="g921"
+     transform="matrix(2.7186864,0,0,2.7186864,-759.40504,-512.85548)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 434.08526,307.50524 c -20.84783,-12.38703 -19.15902,-40.28737 0.49543,-52.8295 v 13.58601 h 9.001 v -24.68123 c -54.26458,8.39676 -36.4029,78.41218 -0.113,73.9304 v -28.64417 h -9.511 v -3.2829 l 9.511,-0.11321 v -7.47189 H 425.6932 l -0.33965,18.341 h 8.9441 z"
+       id="path860"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 446.75169,243.4673 v 74.04362 c 0,0 26.26602,1.01899 33.73831,-28.87017 h -12.05731 v -4.246 h 12.45357 l -0.22643,-6.849 h -20.77505 v 18.39742 l 8.09479,0.0566 c 0,0 -4.41533,7.81195 -12.28388,10.64236 v -52.41926 c 0,0 8.66096,3.56617 12.79336,12.56688 h 11.20844 c 0,0 -9.39676,-23.20923 -32.9458,-23.32245 z"
+       id="path2884"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+  <path
+     id="path5457"
+     style="fill:#ffffff"
+     inkscape:transform-center-y="-3.4083836"
+     d="m 450,50.638958 8.0143,24.662315 25.93181,9.82e-4 -20.9787,15.24313 8.01244,24.662925 L 450,99.966764 l -20.97985,15.241546 8.01244,-24.662925 -20.9787,-15.243131 25.93181,-9.81e-4 z" />
+</svg>

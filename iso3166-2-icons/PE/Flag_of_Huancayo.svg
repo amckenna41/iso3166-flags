@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="750"
+   height="500"
+   id="svg2">  
+<rect
+     width="750"
+     height="500"
+     x="0"
+     y="0"
+     id="W"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  
+<rect
+     width="375"
+     height="500"
+     x="0"
+     y="0"
+     id="BV"
+     style="fill:#0b6870;fill-opacity:1;stroke:none" />
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="500"
+   width="900"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="Mm-army-2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title6072">Security Printing Works</title>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.73058492"
+     inkscape:cx="472.22437"
+     inkscape:cy="290.86283"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     showguides="true" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Security Printing Works</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect4"
+     style="fill:#cd110a;fill-rule:evenodd;stroke-width:2.97208"
+     d="M 0,0 H 900 V 500 H 0 Z" />
+  <path
+     id="rect4-4"
+     style="fill:#310fb5;fill-rule:evenodd;stroke-width:2.97208;fill-opacity:1"
+     d="M 0,-5e-6 900,500 H 0 Z"
+     sodipodi:nodetypes="cccc" />
+  <path
+     id="path3238"
+     style="fill:#ffd700;stroke-width:3"
+     inkscape:transform-center-x="1.2975349e-05"
+     inkscape:transform-center-y="-16.642354"
+     d="m 450,92.3614 39.13196,120.4203 126.61897,0.005 L 513.31684,287.21533 552.4397,407.6386 450,333.2175 347.56029,407.63838 386.68315,287.21513 284.24907,212.78648 l 126.61896,-0.005 z" />
+</svg>

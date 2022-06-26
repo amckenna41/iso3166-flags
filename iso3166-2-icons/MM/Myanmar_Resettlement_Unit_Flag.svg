@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.0"
+   width="900"
+   height="500"
+   id="svg3555"
+   sodipodi:docname="Myanmar recovery and resettlement unit flag.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.0332031"
+     inkscape:cx="453.92818"
+     inkscape:cy="427.31192"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3555">
+    <sodipodi:guide
+       position="4.1025967,490.43897"
+       orientation="0,-1"
+       id="guide1884" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3558" />
+  <path
+     id="rect4158"
+     style="fill:#ca1b16;fill-opacity:1;stroke-width:27.2984"
+     d="M 0,0 H 900 V 500 H 0 Z" />
+  <g
+     id="g2283">
+    <path
+       sodipodi:nodetypes="ccscccscccc"
+       style="fill:#ea2839;fill-opacity:1;stroke:none;stroke-width:0.463446;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 325,294.02023 V 124.31331 h 4.85866 c 20.31801,0 32.24381,-23.34078 32.24381,-24.31331 H 450 537.89753 c 0,0.97253 11.9258,24.31331 32.24382,24.31331 H 575 V 294.02023 C 549.82333,347.50951 545.40636,342.62059 450,400 354.59364,342.62059 350.17667,347.50951 325,294.02023 Z"
+       id="path3005"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.6"
+       id="path2202"
+       cx="450"
+       cy="250"
+       r="75" />
+    <path
+       id="path1935-5"
+       style="fill:#ffe100;fill-opacity:1;stroke:#000000;stroke-width:1.00098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="1.2084218e-05"
+       inkscape:transform-center-y="-17.244219"
+       d="m 450.00056,177.25099 -22.90978,39.68129 h -38.18393 l 19.09143,33.06776 -19.09143,33.0677 h 38.18396 l 22.90975,39.68127 22.9097,-39.68127 h 38.18289 l -19.09142,-33.06772 19.09142,-33.06774 h -38.18289 z" />
+    <path
+       id="path3005-6"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.463446;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 574.9999,247.49888 441.14249,394.74205 c 3.11227,1.85568 5.52832,3.25561 8.85741,5.25781 95.40636,-57.37942 99.82332,-52.49021 125,-105.97949 z M 362.10237,100.00014 c 0,0.97253 -11.92541,24.31348 -32.24342,24.31348 H 325.0001 V 241.85365 L 453.95785,100.00014 h -3.95775 z" />
+    <path
+       id="path3005-7"
+       style="fill:#203084;fill-opacity:1;stroke:none;stroke-width:0.463446;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 574.9999,262.49906 -125,137.5008 c 95.40636,-57.37942 99.82332,-52.49021 125,-105.97949 z M 362.10237,100.00014 c 0,0.97253 -11.92542,24.31348 -32.24342,24.31348 h -4.85885 l 6e-5,102.53993 115.32137,-126.85341 z" />
+  </g>
+  <g
+     transform="translate(108.83179,-6.1719052)"
+     id="g3568" />
+</svg>
