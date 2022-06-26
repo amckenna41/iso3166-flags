@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="347.61414"
+   height="230.28079"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:modified="true"
+   version="1.0"
+   sodipodi:docname="Flag_of_the_Conceyu_Nacionalista_Astur_backup.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1659678"
+     inkscape:cx="173.80707"
+     inkscape:cy="115.1404"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="327px"
+     height="217px"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.59293491,-0.59293747)">
+    <rect
+       style="opacity:1;fill:#d9328a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.18586981;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.29999995;stroke-opacity:1"
+       id="rect2221"
+       width="347.61414"
+       height="230.28079"
+       x="0.59293491"
+       y="0.59293747" />
+    <g
+       id="g4540"
+       style="fill:#ffffff;stroke-width:1.71893179"
+       transform="matrix(0.58175664,0,0,0.58175664,28.824727,9.8487166)">
+      <polygon
+         id="polygon4534"
+         points="281.353,216.692 170.712,216.692 147.294,327.801 66.752,327.569 128.886,36 328.559,36 316.969,92.077 197.02,92.077 182.51,160.615 293.251,160.615 "
+         style="fill:#ffffff;stroke-width:1.71893179" />
+      <polygon
+         id="polygon4536"
+         points="368.02,36 326.482,216.692 403.328,216.692 444.917,36 "
+         style="fill:#ffffff;stroke-width:1.71893179" />
+      <path
+         id="path4538"
+         d="m 380.036,316.158 c -17.343,17.936 -43.806,21.148 -58.255,7.176 -14.449,-13.972 -12.797,-40.53 4.544,-58.465 17.342,-17.934 44.498,-19.761 58.947,-5.789 14.451,13.971 12.104,39.144 -5.236,57.078 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke-width:1.71893179" />
+    </g>
+  </g>
+</svg>

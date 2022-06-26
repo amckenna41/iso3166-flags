@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" width="900" height="600" 
+	xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<rect fill="#ed1c24" x="0" y="0" width="300" height="600"/>
+<rect fill="yellow" x="300" y="0" width="600" height="600"/>
+<rect fill="white" x="100" y="0" width="100" height="600"/>
+<rect fill="white" x="0" y="250" width="300" height="100"/>
+
+
+<!--horseshoe-->
+<path style="fill:#00aeef;stroke:black;stroke-width:2px" 
+	d="m 553,462 c -114,-238 208,-238 94,0 l 37,23 l 11.5,-20 l -22.5,-15 
+	c 155,-276 -301,-276 -146,0 l -22.5,15 l 11.5,20 l 37,-23 z" />
+<path style="fill:none;stroke:black;stroke-width:2px" 
+	d="M 527,450 l 10.5,-7 l -14,-30 		M 673,450 l -10.5,-7 l 14,-30 
+	M 561.3,249.2 c 1,1.2 2,2.4 4.7,2.4 h12 c 4,0 4,4 7,4 h5 c 5,0 4,3 10,3 
+	c 6,0 5,-3 10,-3 h5 c 3,0 3,-4 7,-4 h12 c 2.7,0 3.7,-1.2 4.7,-2.4" />
+
+<g id="circles">
+ <g style="fill:yellow;stroke:black;stroke-width:2px">
+	<circle cx="573" cy="267" r="5"/>
+	<circle cx="532" cy="292" r="5"/>
+	<circle cx="514" cy="332" r="5"/>
+ </g>
+</g>
+<use xlink:href="#circles" transform="scale(-1,1) translate(-1200,0)"/>
+
+
+<!--flowers-->
+<g id="flower">
+	<path id="petal" style="fill:#00aeef;stroke:black;stroke-width:2px" 
+		d="M 600,145 L 570.6,104.55 A15.5,15.5,-37,0,1,600,95 A15.5,15.5,37,0,1,629.4,104.55 L 600,145 z"/>
+	<use xlink:href="#petal" transform="rotate(72 600,145)"/>
+	<use xlink:href="#petal" transform="rotate(-72 600,145)"/>
+	<use xlink:href="#petal" transform="rotate(144 600,145)"/>
+	<use xlink:href="#petal" transform="rotate(-144 600,145)"/>
+	<circle style="fill:yellow;stroke:black;stroke-width:2px" cx="600" cy="145" r="14"/>
+</g>
+<use xlink:href="#flower" transform="translate(-175,310)"/>
+<use xlink:href="#flower" transform="translate(175,310)"/>
+
+</svg>

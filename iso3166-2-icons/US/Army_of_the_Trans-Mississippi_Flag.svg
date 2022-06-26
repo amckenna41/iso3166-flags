@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="480"
+   viewBox="0 0 60 60"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Army of the Trans-Mississippi Flag.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview28"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.32777778"
+     inkscape:cx="242"
+     inkscape:cy="239.69492"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="60"
+     height="60"
+     id="rect4"
+     x="0"
+     y="0"
+     style="fill:#002868;fill-opacity:1" />
+  <path
+     d="M 0,-2.35e-7 60,60 M 0,60 60,-2.35e-7"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="stroke:#ffffff;stroke-width:12" />
+  <path
+     d="M 0,-2.35e-7 60,60 M 0,60 60,-2.35e-7"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="stroke:#bf0a30;stroke-width:9;stroke-opacity:1" />
+  <path
+     id="s"
+     d="m 30,27 1.76337,5.42706 -4.61655,-3.35412 5.70636,0 -4.61655,3.35412 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <g
+     id="s6">
+    <use
+       xlink:href="#s"
+       x="-8"
+       y="-8"
+       id="use12"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#s"
+       x="-16"
+       y="-16"
+       id="use14"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#s"
+       x="-24"
+       y="-24"
+       id="use16"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#s"
+       x="-8"
+       y="8"
+       id="use18"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#s"
+       x="-16"
+       y="16"
+       id="use20"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#s"
+       x="-24"
+       y="24"
+       id="use22"
+       width="100%"
+       height="100%" />
+  </g>
+  <use
+     xlink:href="#s6"
+     transform="scale(-1,1)"
+     x="-60"
+     id="use24"
+     y="0"
+     width="100%"
+     height="100%" />
+</svg>

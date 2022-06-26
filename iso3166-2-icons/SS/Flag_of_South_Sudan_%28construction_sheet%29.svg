@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1287" height="688.5" viewBox="-3780 -28917 108108 57834" fill="none" font-family="Calibri,Arial,'Liberation Sans',sans-serif">
+	<title>Flag of South Sudan — construction sheet</title>
+	<!-- DIMENSIONS
+		SVG:
+			S_RAW:     108108.00 × 57834.00
+			S_DISPLAY:  1287.00 × 688.50
+		FLAG:
+			F_RAW:     100548.00 × 50274.00
+			F_DISPLAY:  1197.00 × 598.50
+			F_LABEL:     114.00 × 57.00
+			F_RATIO:       2.00 × 1.00
+	-->
+	<defs>
+		<marker id="left-arrow" viewBox="-4 -4 10 8" orient="auto" markerWidth="10" markerHeight="8">
+			<path fill="blue" d="m2 0 4 4-10-4L6-4z"/>
+		</marker>
+		<marker id="right-arrow" viewBox="-6 -4 10 8" orient="auto" markerWidth="10" markerHeight="8">
+			<path fill="blue" d="m-2 0-4 4L4 0-6-4z"/>
+		</marker>
+	</defs>
+	<g opacity=".5">
+		<g transform="scale(882)">
+			<path fill="#fff"  d="m0-28.5h114v57H0z"/>
+			<path fill="#000" d="m0-28.5h114v17H9z"/>
+			<path fill="#da121a" d="m9-8.5h105v17H9z"/>
+			<path fill="#078930" d="m9 11.5h105v17H0z"/>
+			<path fill="#0f47af" d="m49.3634 0L0 28.5v-57z"/>
+		</g>
+		<path fill="#fcdd09" d="m6134 0 15158 4925-9368-12894V7969l9368-12894z"/>
+	</g>
+	<g stroke="#000" stroke-width="140" stroke-linejoin="round" stroke-linecap="round">
+		<g opacity=".4" stroke-width="100">
+			<path stroke-dashoffset="368" stroke-dasharray="735,315,105,315" d="m50274 0v-25137m0 25137v25137"/>
+			<path stroke-dashoffset="368" stroke-dasharray="735,315,105,315" d="m14513 0H0m14513 0h8694m27067 0H25727m24547 0h50274"/>
+		</g>
+		<path stroke="#808" stroke-width="75" stroke-dasharray="210,210" d="m0-25137L14513 0M0 25137 14513 0"/>
+		<path stroke="#844" opacity=".8" stroke-dasharray="420,456" stroke-dashoffset="210" d="m6134 0a1 1 0 0 0 16758 0M6134 0a1 1 0 0 1 16758 0"/>
+		<path stroke="#444" stroke-width="250" d="m0-25137h100548v50274H0z"/>
+		<path d="m25970-10143h74578M30553-7497h69995M30553 7497h69995m-74578 2646h74578M0-25137 43539 0 0 25137M6134 0l5790-1881v-6088l3578 4925 5790-1881L17713 0l3579 4925-5790-1881-3578 4925V1881z"/>
+		<path stroke="#222" stroke-width="75" stroke-dasharray="210,210" d="m0-25137V0m0 27657V0m100548-25137V0m0 27657V0M-2520-25137h52794m52794 0H50274m52794 14994h-2520M25412-8379H14513M25412 8379H14513m88555-15876h-2520m2520 14994h-2520m2520 2646h-2520M-2520 25137h52794m52794 0H50274M1260-27319 0-25137M44799-2182 43539 0"/>
+		<path stroke-width="135" d="m14138 0h750m-375-375v750"/>
+	</g>
+	<g fill="#008" opacity=".8">
+		<circle r="200" cx="0" cy="-25137"/>
+		<circle r="200" cx="-0" cy="25137"/>
+		<circle r="200" cx="14513" cy="-8379"/>
+		<circle r="200" cx="14513" cy="8379"/>
+		<circle r="200" cx="43539" cy="0"/>
+	</g>
+	<g stroke="#00f" stroke-width="75" marker-start="url(#left-arrow)">
+		<path d="m300 26712h48174"/>
+		<path d="m100248 26712H52074"/>
+		<path d="m-1575 24837V1800"/>
+		<path d="m-1575-24837v23037"/>
+		<path d="m24467 8079V1800"/>
+		<path d="m24467-8079v6279"/>
+		<path d="m102123 24837v-5497"/>
+		<path d="m102123 10443v5497"/>
+		<path d="m102123 7197V1700"/>
+		<path d="m102123-7197v5497"/>
+		<path d="m102123-10443v-5497"/>
+		<path d="m102123-24837v5497"/>
+		<path d="m1047-26351 20384 11769"/>
+		<path d="m44066-1514-19517-11268"/>
+		<g marker-end="url(#right-arrow)">
+			<path d="m9598-19249a11256 11256 0 0 1-3710 3710"/>
+			<path d="m5368-15239a11256 11256 0 0 1-5068 1358"/>
+			<path d="m9598 19249a11256 11256 0 0 0-3710-3710"/>
+			<path d="m5368 15239a11256 11256 0 0 0-5068-1358"/>
+		</g>
+	</g>
+	<g fill="#000" text-anchor="middle" font-size="48" transform="scale(50)">
+		<g>
+			<text x="1005" y="548">114</text>
+		</g>
+		<g transform="rotate(15)">
+			<text x="130" y="300">30°</text>
+		</g>
+		<g transform="rotate(30)">
+			<text x="261" y="-453">57</text>
+		</g>
+		<g transform="rotate(45)">
+			<text x="355" y="170">30°</text>
+		</g>
+		<g transform="rotate(270)">
+			<text y="-18">57</text>
+			<text y="503">19</text>
+			<text x="-353" y="2056">17</text>
+			<text x="-176" y="2056">3</text>
+			<text y="2056">17</text>
+			<text x="176" y="2056">3</text>
+			<text x="353" y="2056">17</text>
+		</g>
+		<g transform="rotate(315)">
+			<text x="355" y="-142">30°</text>
+		</g>
+		<g transform="rotate(345)">
+			<text x="130" y="-272">30°</text>
+		</g>
+		<g font-size="26">
+			<text x="-37" y="553">[<tspan font-weight="bold" fill="#080">SS</tspan>]</text>
+			<text x="2048" y="553">[<tspan font-weight="bold" fill="#080">1:2</tspan>]</text>
+		</g>
+	</g>
+</svg>

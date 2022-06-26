@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1800 1200" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#b32428" width="1800" height="1200"/>
+<rect fill="#fff" width="1800" height="840"/>
+<rect fill="#0075bc" width="1800" height="360"/>
+<g fill="#b32428" transform="rotate(45, 900, 600)">
+<path d="M865,565 h70 v70 h-70z "/>
+<g id="2">
+<path id="1" d="M690,523h161v153h-161v-70h119v28h-91v14h107v-98h-105v14h91v28h-119z"/>
+<use xlink:href="#1" transform="rotate(180, 900, 600)"/>
+</g>
+<use xlink:href="#2" transform="rotate(90, 900, 600)"/>
+</g>
+</svg>

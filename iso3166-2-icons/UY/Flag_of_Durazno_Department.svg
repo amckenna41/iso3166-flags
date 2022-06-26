@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Flag_of_Durazno_Department.svg"
+   id="svg27"
+   height="600"
+   width="900"
+   version="1.1">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg27"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="176.98486"
+     inkscape:cx="293.83741"
+     inkscape:zoom="0.44833333"
+     showgrid="false"
+     id="namedview29"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="g1073">
+    <rect
+       fill="#002396"
+       x="0"
+       y="0"
+       width="900"
+       height="600"
+       id="rect2"
+       style="fill:#003685;fill-opacity:1" />
+    <g
+       id="g1048">
+      <g
+         style="fill:#ffcc00;fill-opacity:1"
+         id="sector90">
+        <polygon
+           style="fill:#ffcc00;fill-opacity:1"
+           id="star"
+           fill="#ffeb00"
+           points="432.679,120 440,130 432.679,140 445,138.66 450,150 455,138.66 467.321,140 460,130 467.321,120 455,121.34 450,110 445,121.34 " />
+        <use
+           style="fill:#ffcc00;fill-opacity:1"
+           xlink:href="#star"
+           transform="rotate(18,450,300)"
+           id="use5"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           style="fill:#ffcc00;fill-opacity:1"
+           xlink:href="#star"
+           transform="rotate(36,450,300)"
+           id="use7"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           style="fill:#ffcc00;fill-opacity:1"
+           xlink:href="#star"
+           transform="rotate(54,450,300)"
+           id="use9"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           style="fill:#ffcc00;fill-opacity:1"
+           xlink:href="#star"
+           transform="rotate(72,450,300)"
+           id="use11"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         style="fill:#ffcc00"
+         xlink:href="#sector90"
+         transform="rotate(90,450,300)"
+         id="use14"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <g
+         id="g1023">
+        <rect
+           fill="#002396"
+           x="590"
+           y="293"
+           width="50"
+           height="60"
+           id="rect17"
+           style="fill:#003685;fill-opacity:1" />
+        <path
+           fill="#00bbd5"
+           d="  m 165,473 c 243,-237 449.5,-237 627.5,-181.5 l -35,10.5 l 9,30 c -292,-97 -511.5,66 -566.5,114.5   c 243,-155 445,-103 537.5,-67 l -16,3 l 17.5,45.5 c -198,-89 -408,-58 -574,45 z"
+           id="path19"
+           style="fill:#009dd9;fill-opacity:1" />
+      </g>
+      <g
+         style="fill:#ffcc00;fill-opacity:1"
+         transform="rotate(180,450,300)"
+         id="use21">
+        <g
+           style="fill:#ffcc00;fill-opacity:1"
+           id="g882">
+          <polygon
+             style="fill:#ffcc00;fill-opacity:1"
+             id="polygon872"
+             fill="#ffeb00"
+             points="440,130 432.679,140 445,138.66 450,150 455,138.66 467.321,140 460,130 467.321,120 455,121.34 450,110 445,121.34 432.679,120 " />
+          <use
+             style="fill:#ffcc00;fill-opacity:1"
+             xlink:href="#star"
+             transform="rotate(18,450,300)"
+             id="use874"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             style="fill:#ffcc00;fill-opacity:1"
+             xlink:href="#star"
+             transform="rotate(36,450,300)"
+             id="use876"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             style="fill:#ffcc00;fill-opacity:1"
+             xlink:href="#star"
+             transform="rotate(54,450,300)"
+             id="use878"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             style="fill:#ffcc00;fill-opacity:1"
+             xlink:href="#star"
+             transform="rotate(72,450,300)"
+             id="use880"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <use
+           style="fill:#ffcc00;fill-opacity:1"
+           xlink:href="#sector90"
+           transform="rotate(90,450,300)"
+           id="use884"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <g
+         id="g998">
+        <polygon
+           fill="#ffeb00"
+           points="  450,192 433.694,239.147 396,206.469 405.452,255.452 356.469,246 389.147,283.694   342,300 389.147,316.306 356.469,354 405.452,344.548 396,393.531 433.694,360.853   450,408 466.306,360.853 504,393.531 494.548,344.548 543.531,354 510.853,316.306   558,300 510.853,283.694 543.531,246 494.548,255.452 504,206.469 466.306,239.147"
+           id="polygon23"
+           style="fill:#ffcc00" />
+        <path
+           fill="#002396"
+           d="M 450,310 c 15,-23 15,-41 0,-64 c -15,23 -15,41 0,64 z   M 413,320 c 4,8 8,15 26,24 h 22 c 18,-9 22,-16 26,-24 h -74 z"
+           id="path25"
+           style="fill:#003685;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

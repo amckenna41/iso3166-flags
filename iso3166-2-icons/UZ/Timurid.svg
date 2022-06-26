@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="900"
+   height="600"
+   id="svg2"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Timurid Flag.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.65"
+     inkscape:cx="450"
+     inkscape:cy="300"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3352" />
+  </sodipodi:namedview>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 660.00003,9e-5 c 0,86.63889 53.68745,203.91663 209.99997,249.99996 v 99.99999 C 716.6505,397.75005 660.00003,499.83333 660.00003,600 H 0 V 0 Z"
+     style="fill:#000000;stroke-width:3.00000024"
+     id="path4"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     d="m 645,7.75001 h 55.04418 M 645,21.666684 h 55.04418 M 645,35.583327 h 55.04418 M 645,49.500001 h 55.04418 m -51.70534,13.916644 h 55.07534 M 653.23786,77.33335 h 55.07544 m -48.30427,13.916643 h 55.07564 m -49.08422,13.916677 h 55.07515 m -46.05725,13.91667 h 55.07525 m -43.81061,13.91662 h 55.07534 m -46.05734,13.91667 h 55.04408 m -44.52813,13.91669 h 55.04389 m -40.03476,13.91666 h 55.04398 m -40.03485,13.91667 h 55.07514 m -35.54129,13.9167 h 55.04398 M 782.39169,216.5 h 55.04418 M 813.908,230.41664 h 55.07505 m -28.05241,13.9167 h 55.07524 m -44.68425,13.91668 H 900 m -48.67837,13.91661 H 900 M 851.32163,286.0833 H 900 M 851.32163,300 H 900 m -48.67837,13.91668 H 900 m -48.67837,13.91664 H 900 m -48.67837,13.91667 H 900 m -59.06936,13.91669 h 55.07524 M 813.908,369.58329 h 55.07505 m -86.59136,13.9167 h 55.04418 m -82.06682,13.91668 h 55.04398 m -74.57783,13.91667 h 55.07514 m -70.08427,13.91664 h 55.04398 m -70.05311,13.91668 h 55.04389 m -65.55984,13.91667 h 55.04408 M 686.28299,467 h 55.07534 m -66.33998,13.91664 h 55.07525 m -64.09315,13.91672 H 721.0756 M 660.00903,508.75 h 55.07564 m -61.84681,13.91665 h 55.07544 m -59.97446,13.9167 h 55.07534 M 645,550.5 h 55.04418 M 645,564.41667 h 55.04418 M 645,578.33331 h 55.04418 M 645,592.24999 h 55.04418"
+     style="fill:none;stroke:#000000;stroke-width:5.50002575;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <circle
+     style="opacity:1;fill:#ca0000;fill-opacity:1;stroke-width:3.87362647;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path837"
+     cx="180"
+     cy="160"
+     r="110" />
+  <circle
+     r="110"
+     cy="160"
+     cx="480"
+     id="circle839"
+     style="opacity:1;fill:#ca0000;fill-opacity:1;stroke-width:3.87362647;stroke-miterlimit:4;stroke-dasharray:none" />
+  <circle
+     style="opacity:1;fill:#ca0000;fill-opacity:1;stroke-width:3.87362647;stroke-miterlimit:4;stroke-dasharray:none"
+     id="circle841"
+     cx="330"
+     cy="440"
+     r="110" />
+</svg>

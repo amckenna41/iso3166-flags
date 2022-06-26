@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="444"
+height="300">
+<defs>
+<path id="leaf" fill="#f00000"
+d="M 0 -0.13 l -0.414213562 -1 L 0 -2.13 l 0.414213562 1 z" />
+</defs>
+<rect width="444" height="300" fill="#0000ff" />
+<g transform="translate(222 150) scale(39)">
+<circle cx="0" cy="0" r="2.4" fill="#fff" />
+<use xlink:href="#leaf" transform="rotate(22.5 0 0)" />
+<use xlink:href="#leaf" transform="rotate(67.5 0 0)" />
+<use xlink:href="#leaf" transform="rotate(112.5 0 0)" />
+<use xlink:href="#leaf" transform="rotate(157.5 0 0)" />
+<use xlink:href="#leaf" transform="rotate(202.5 0 0)" />
+<use xlink:href="#leaf" transform="rotate(247.5 0 0)" />
+<use xlink:href="#leaf" transform="rotate(292.5 0 0)" />
+<use xlink:href="#leaf" transform="rotate(337.5 0 0)" />
+</g>
+<g id="stripes" style="fill:#E0E000">
+<rect x="0" y="22" width="444" height="6" />
+<rect x="0" y="36" width="444" height="6" />
+
+<rect x="0" y="272" width="444" height="6" />
+<rect x="0" y="258" width="444" height="6" />
+
+</g>
+</svg>

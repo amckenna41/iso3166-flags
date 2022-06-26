@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" width="900" height="600" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<rect fill="#09d" x="0" y="0" width="900" height="300"/>
+<rect fill="#fd0" x="0" y="300" width="900" height="300"/>
+<rect fill="#32aa32" x="0" y="0" width="300" height="600"/>
+
+
+<g transform="translate(36,150)">
+<clipPath id="upper_left_clip">
+	<path id="upper_left" fill="#09d" d="M 1,1 V 241 A 40,40,0,0,0,7.283,262.251 L 227,1 H 1 z"/>
+</clipPath>
+<use xlink:href="#upper_left"/>
+
+<g clip-path="url(#upper_left_clip)">
+  <g id="rays_7">
+	<path id="ray_1" style="fill:none;stroke:#770;stroke-width:1.5px" d="m 65,108 h -200"/>
+	<use xlink:href="#ray_1" transform="rotate(12.857 65,108)"/>
+	<use xlink:href="#ray_1" transform="rotate(25.714 65,108)"/>
+	<use xlink:href="#ray_1" transform="rotate(38.571 65,108)"/>
+	<use xlink:href="#ray_1" transform="rotate(51.429 65,108)"/>
+	<use xlink:href="#ray_1" transform="rotate(64.286 65,108)"/>
+	<use xlink:href="#ray_1" transform="rotate(77.143 65,108)"/>
+  </g>
+  <use xlink:href="#rays_7" transform="rotate(90 65,108)"/>
+  <use xlink:href="#rays_7" transform="rotate(180 65,108)"/>
+  <use xlink:href="#rays_7" transform="rotate(270 65,108)"/>
+</g>
+
+<g id="wheat">
+  <path style="fill:none;stroke:#770;stroke-width:2px" d="m 24,143 v 24"/>
+  <path style="fill:none;stroke:#770;stroke-width:1px" d="
+	M 15,50 v -42 M 19.5,50 v -42 M 24,50 v -42 M 28.5,50 v -42 M 33,50 v -42"/>
+  <g id="seed_left">
+    <g id="seed_5">
+	<path id="seed_1" style="fill:#fd0;stroke:#770;stroke-width:1px" d="
+		m 24,143 l -9,-6 v -6.5 l 9,6 v 6.5 z"/>
+	<use xlink:href="#seed_1" transform="translate(0,-6.5)"/>
+	<use xlink:href="#seed_1" transform="translate(0,-13)"/>
+	<use xlink:href="#seed_1" transform="translate(0,-19.5)"/>
+	<use xlink:href="#seed_1" transform="translate(0,-26)"/>
+    </g>
+    <use xlink:href="#seed_5" transform="translate(0,-32.5)"/>
+    <use xlink:href="#seed_5" transform="translate(0,-65)"/>
+  </g>
+  <use xlink:href="#seed_left" transform="scale(-1,1) translate(-48,0)"/>
+</g>
+<use xlink:href="#wheat" transform="translate(9,19.5)"/>
+
+<pattern id="sunflower_pattern" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10" >
+		<rect fill="white" x="0" y="0" width="10" height="10"/>
+		<path fill="black" d="m 0,0 h 5 v 10 h 5 v -5 h -10 v -5 z"/>
+</pattern>
+<circle fill="url(#sunflower_pattern)" cx="65" cy="108" r="35"/>
+
+<g id="edge_s5">
+  <g id="edge_s1">
+	<path fill="#fd0" d="m 65,79 v -12 c 5,3 5,9 0,12"/>
+	<path fill="#c7a33d" d="m 65,79 v -12 c -5,3 -5,9 0,12"/>
+	<path style="fill:none;stroke:#770;stroke-width:0.75px" d="
+		m 65,79 c -5,-3 -5,-9 0,-12 c 5,3 5,9 0,12 z"/>
+  </g>
+  <use xlink:href="#edge_s1" transform="rotate(12 65,108)"/>
+  <use xlink:href="#edge_s1" transform="rotate(24 65,108)"/>
+  <use xlink:href="#edge_s1" transform="rotate(36 65,108)"/>
+  <use xlink:href="#edge_s1" transform="rotate(48 65,108)"/>
+</g>
+<use xlink:href="#edge_s5" transform="rotate(60 65,108)"/>
+<use xlink:href="#edge_s5" transform="rotate(120 65,108)"/>
+<use xlink:href="#edge_s5" transform="rotate(180 65,108)"/>
+<use xlink:href="#edge_s5" transform="rotate(240 65,108)"/>
+<use xlink:href="#edge_s5" transform="rotate(300 65,108)"/>
+
+
+
+<path fill="#fd0" d="M 227,1 L 7.283,262.251 A 40,40,0,0,0,41,281 
+	h 54 a 19,19,0,0,1,19,19 a 19,19,0,0,1,19,-19 h 54 a 40,40,0,0,0,40,-40 V 1 z"/>
+
+<path fill="black" d="M 120,170 L 75,230 H 165 L 120,170 z 
+	M 179,182 L 158,210 L 173,230 H 215 L 179,182 z"/>
+
+<text x="100" y="274" style="fill:black;font-size:12px;font-weight:bolder;font-family:Arial">1923</text>
+
+
+
+<path style="fill:none;stroke:black;stroke-width:2px" d="m 1,1 
+	v 240 a 40,40,0,0,0,40,40 h 54 a 19,19,0,0,1,19,19 
+	a 19,19,0,0,1,19,-19 h 54 a 40,40,0,0,0,40,-40 v -240 h -228 z"/>
+</g>
+
+</svg>

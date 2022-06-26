@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="600">
+<defs><path id="armX" d="M-42.4,0v241l-185,185l60,60l125-125v125h84.8v-125l125,125l60-60-185-185v-241Z"/></defs>
+<rect width="1000" height="600" fill="#FFCC00"/><g transform="translate(500,300)scale(0.4667)">
+<g id="Arm"><use xlink:href="#armX" stroke="#ffffff" stroke-width="24" fill="none"/>
+<use xlink:href="#armX"/></g><use xlink:href="#Arm" transform="rotate(90)"/>
+<use xlink:href="#Arm" transform="rotate(180)"/><use xlink:href="#Arm" transform="rotate(270)"/>
+<rect id="Box" x="-58" y="-42.4" width="116" height="84.8"/>
+<use xlink:href="#Box" transform="rotate(90)"/></g></svg>

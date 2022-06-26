@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 300 150">
+<clipPath id="border0">
+<path d="M0,0 300,0 180,60 300,75 180,90 300,150 H0 z"/>
+</clipPath>
+<clipPath id="border">
+<path d="M0,0 37.5,30 0,60zM75,0 37.5,30 75,60z"/>
+</clipPath>
+<g clip-path="url(#border0)">
+<rect fill="#002868" height="60" width="300"/>
+<rect fill="#002868" y="90" height="60" width="300"/>
+<path d="M0,75 H300 M90,0 V150" stroke="#facc07" stroke-width="30"/>
+</g>
+<rect fill="#c50b1e" height="60" width="75"/>
+<rect fill="#fff" x="30" height="60" width="15"/>
+<rect fill="#002868" x="33.5" height="60" width="8"/>
+<g clip-path="url(#border)">
+<rect fill="#002868" height="60" width="75"/>
+<rect fill="#facc07" y="24" height="12" width="75"/>
+</g>
+</svg>

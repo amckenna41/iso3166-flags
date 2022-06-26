@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="324pt" height="216pt" viewBox="0 0 324 216" version="1.1">
+<defs>
+<clipPath id="clip0">
+  <rect width="324" height="216"/>
+</clipPath>
+</defs>
+<g id="surface0" clip-path="url(#clip0)">
+<path style="fill: none; stroke-width: 0.1; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(77.647066%,0%,0%); opacity: 1;stroke-miterlimit: 10;" d="M 0 0 L 324 0 L 324 108 C 215.999451 107.999893 108.000229 107.999893 0 108 L 0 0 Z M 0 0 " transform="matrix(1,0,0,1,0,0)"/>
+<path style="stroke: none; fill-rule: nonzero; fill: rgb(77.647066%,0%,0%); opacity: 1;" d="M 0 0 L 324 0 L 324 108 C 215.999451 107.999893 108.000229 107.999893 0 108 L 0 0 Z M 0 0 "/>
+<path style="fill: none; stroke-width: 0.1; stroke-linecap: butt; stroke-linejoin: miter; stroke: rgb(0%,0%,51.764709%); opacity: 1;stroke-miterlimit: 10;" d="M 0 108 C 108.000229 107.999893 215.999451 107.999893 324 108 L 324 216 L 0 216 L 0 108 Z M 0 108 " transform="matrix(1,0,0,1,0,0)"/>
+<path style="stroke: none; fill-rule: nonzero; fill: rgb(0%,0%,51.764709%); opacity: 1;" d="M 0 108 C 108.000229 107.999893 215.999451 107.999893 324 108 L 324 216 L 0 216 L 0 108 Z M 0 108 "/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="680" height="456">
+<path d="m0,0h680v456H0" fill="#CD0000"/>
+<path d="m0,0h340v228H0" fill="#018400"/>
+<g fill="#fff">
+<path d="M130,35C9,51 34,205 143,191 -5,252 -26,7 130,35"/>
+<path d="m215,30 5,-17 5,17 15,-9 -8,16 18,5 -18,5 8,16 -15,-9 -5,17 -5,-17 -15,9 8,-16 -18,-5 18,-5 -8,-16" id="a"/>
+<use xlink:href="#a" x="-68" y="34"/>
+<use xlink:href="#a" x="68" y="34"/>
+<use xlink:href="#a" y="68"/>
+<use xlink:href="#a" x="-68" y="102"/>
+<use xlink:href="#a" x="68" y="102"/>
+<use xlink:href="#a" y="136"/>
+</g>
+</svg>

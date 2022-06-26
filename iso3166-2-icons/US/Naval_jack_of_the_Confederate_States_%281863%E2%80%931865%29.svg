@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="600"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Naval Jack of the Confederate States (1863–1865).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.55"
+     inkscape:cx="503.95641"
+     inkscape:cy="300"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showborder="true"
+     inkscape:window-width="915"
+     inkscape:window-height="756"
+     inkscape:window-x="178"
+     inkscape:window-y="115"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showgrid="false"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2863" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#0039ad;fill-opacity:1"
+     x="0"
+     y="4.9999999e-006"
+     width="1000"
+     height="600"
+     id="Blue Saltire" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="m 75,5e-6 850,0 L 500.00001,240 z"
+     id="White Saltire Border - Top" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="M 75,600 925,600 500.00001,360 z"
+     id="White Saltire Border - Bottom" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="M 0,70 0,530 400,300 z"
+     id="White Saltire Border - Left" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="m 999.99999,70 0,460 -400,-230 z"
+     id="White Saltire Border - Right" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bc113d;fill-opacity:1"
+     d="M 110,0 890,0 500,220 z"
+     id="Red Field - Top" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bc113d;fill-opacity:1"
+     d="M 110,600 890,600 500,380 z"
+     id="Red Field - Bottom" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bc113d;fill-opacity:1"
+     d="M 0,85 0,515 360,300 z"
+     id="Red Field - Left" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#bc113d;fill-opacity:1"
+     d="m 1000,85 0,430 -360,-215 z"
+     id="Red Field - Right" />
+  <path
+     style="fill:#ffffff"
+     d="m 500,265 8.155,26.81 26.845,0 -21.595,16.345 L 521.56,335 500,318.655 478.405,335 486.56,308.155 465,291.81 l 26.81,0 z"
+     id="use15"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 360,180 8.155,26.81 26.845,0 -21.595,16.345 L 381.56,250 360,233.655 338.405,250 346.56,223.155 325,206.81 l 26.81,0 z"
+     id="use17"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 360,340 8.155,26.81 26.845,0 -21.595,16.345 L 381.56,410 360,393.655 338.405,410 346.56,383.155 325,366.81 l 26.81,0 z"
+     id="use19"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 640,180 8.155,26.81 26.845,0 -21.595,16.345 L 661.56,250 640,233.655 618.405,250 626.56,223.155 605,206.81 l 26.81,0 z"
+     id="use21"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 640,340 8.155,26.81 26.845,0 -21.595,16.345 L 661.56,410 640,393.655 618.405,410 626.56,383.155 605,366.81 l 26.81,0 z"
+     id="use23"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 220,100 8.155,26.81 26.845,0 -21.595,16.345 L 241.56,170 220,153.655 198.405,170 206.56,143.155 185,126.81 l 26.81,0 z"
+     id="use25"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 220,420 8.155,26.81 26.845,0 -21.595,16.345 L 241.56,490 220,473.655 198.405,490 206.56,463.155 185,446.81 l 26.81,0 z"
+     id="use27"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 780,100 8.155,26.81 26.845,0 -21.595,16.345 L 801.56,170 780,153.655 758.405,170 766.56,143.155 745,126.81 l 26.81,0 z"
+     id="use29"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 780,420 8.155,26.81 26.845,0 -21.595,16.345 L 801.56,490 780,473.655 758.405,490 766.56,463.155 745,446.81 l 26.81,0 z"
+     id="use31"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="M 80,20 88.155,46.81 115,46.81 93.405,63.155 101.56,90 80,73.655 58.405,90 66.56,63.155 45,46.81 l 26.81,0 z"
+     id="use33"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 80,500 8.155,26.81 26.845,0 L 93.405,543.155 101.56,570 80,553.655 58.405,570 66.56,543.155 45,526.81 l 26.81,0 z"
+     id="use35"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 920,20 8.155,26.81 26.845,0 L 933.405,63.155 941.56,90 920,73.655 898.405,90 906.56,63.155 885,46.81 l 26.81,0 z"
+     id="use37"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff"
+     d="m 920,500 8.155,26.81 26.845,0 -21.595,16.345 L 941.56,570 920,553.655 898.405,570 906.56,543.155 885,526.81 l 26.81,0 z"
+     id="use39"
+     inkscape:connector-curvature="0" />
+</svg>

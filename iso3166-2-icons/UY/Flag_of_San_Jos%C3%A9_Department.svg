@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="-450 -300 900 600">
+<rect x="-450" y="-300" width="900" height="600" fill="#b43232"/>
+<rect x="-450" width="900" height="300" fill="#5274b3"/>
+<g id="stars" fill="#fff">
+<g id="s8">
+<path id="s1" d="M0,187.5 7.3473,210.1127 -11.8882,196.1373H11.8882L-7.3473,210.1127z" transform="rotate(180,0,200)"/>
+<use xlink:href="#s1" transform="rotate(45)"/>
+<use xlink:href="#s1" transform="rotate(90)"/>
+<use xlink:href="#s1" transform="rotate(135)"/>
+<use xlink:href="#s1" transform="rotate(180)"/>
+<use xlink:href="#s1" transform="rotate(225)"/>
+<use xlink:href="#s1" transform="rotate(270)"/>
+<use xlink:href="#s1" transform="rotate(315)"/>
+</g>
+<use xlink:href="#s8" transform="rotate(72)"/>
+<use xlink:href="#s8" transform="rotate(144)"/>
+<use xlink:href="#s8" transform="rotate(216)"/>
+<use xlink:href="#s8" transform="rotate(288)"/>
+</g>
+<path id="a" fill="#fc0" stroke="#000" stroke-width="3" d="m 0,0 -4.27985,-60.22194 c 13.93313,-21.58449 27.54651,-50.83818 41.33378,-59.17189 12.54065,-7.5802 11.33521,-5.48772 24.28239,-18.78224 7.21307,24.29802 -6.08331,14.17592 -13.98987,36.87153 -2.35984,6.77388 -8.27513,32.24803 -17.76422,54.08742"/>
+<use xlink:href="#a" transform="rotate(180)"/>
+<use xlink:href="#a" transform="rotate(90)"/>
+<use xlink:href="#a" transform="rotate(270)"/>
+<use xlink:href="#a" transform="rotate(45)"/>
+<use xlink:href="#a" transform="rotate(135)"/>
+<use xlink:href="#a" transform="rotate(225)"/>
+<use xlink:href="#a" transform="rotate(315)"/>
+
+<g id="b">
+<path fill="#760" d="m40,0 -80,0 40,-160 z" stroke="#000" stroke-width="3"/>
+<path fill="#fc0" d="m0,0 -40,0 40,-160 z" stroke="#000" stroke-width="3"/>
+</g>
+<use xlink:href="#b" transform="rotate(180)"/>
+<use xlink:href="#b" transform="rotate(90)"/>
+<use xlink:href="#b" transform="rotate(270)"/>
+<use xlink:href="#b" transform="rotate(45)"/>
+<use xlink:href="#b" transform="rotate(135)"/>
+<use xlink:href="#b" transform="rotate(225)"/>
+<use xlink:href="#b" transform="rotate(315)"/>
+
+<circle fill="#fc0" stroke="#000" stroke-width="3" r="60" />
+<g id="right" transform="scale(0.45)">
+<path fill="#000" d="m 65.634213,-36.508423 c -25,0 -17.458188,-0.679443 -21.458188,-3.679443 -4,-3 9.458188,-2.489547 17.458188,-3.489547 8,-1 22.724739,4.60453 31.724736,13.60453 -6.999997,8 -2.724736,-6.43554 -27.724736,-6.43554 z m 9.39547,20.44425 c 7,6 -2.85509,13.1097442 -9.26655,13.3379794 -10.345162,0.3682671 -13.696395,-5.5375346 -10.73345,-13.0313584" />
+<path fill="#000" d="m 66.634213,-23.677413 c 16,0 21.69338,9.38676 23.555749,13.6933797 -6.78223,-1.3066207 -11.693379,-3.4668987 -24.862369,-3.4668987 -10.120209,0 -13.12892,-1.21777 -28.52439,5.8623691 0.844225,-16.2047211 20.358471,-16.0368741 29.83101,-16.0888501 z" />
+<path fill="#000" d="m 0,64.54352 c 2.4583066,0 1.0705999,-1.07608 7.3767465,-1.07608 8.0000005,0 8.3676135,6.996347 27.3749195,0.53256 C 33.001827,72.07608 20.443693,72.54352 0,72.54352 m 0,12.30432 c 11.295186,0 10.990867,-0.84236 14.579413,-8.220933 C 9.5188967,78.700849 6.3676131,80.08156 0,80.08156 M 0,54 c 10.556072,-0.2853 18.316897,-9.191492 9,-14 1.78223,8 -0.9512195,8 -9,8" />
+</g>
+<use transform="scale(-1,1)" xlink:href="#right" />
+</svg>

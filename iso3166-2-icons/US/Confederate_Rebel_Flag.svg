@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Notepad -->
+<!-- (PD) December 16, 2005 - _Crotalus horridus_  -->
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.0"
+	width="1100" height="700"
+	viewBox="0 0 275 175"
+	id="Confederate Battle Flag">
+	<rect fill="#002868" width="275" height="175"/>
+	<path fill="#fff"
+		d="M20,0L255,0L137.5,70z M20,175L255,175L137.5,105z M0,20L0,155L110,87.5z M275,20L275,155L165,87.5z"/>
+	<path fill="#bf0a30"
+		d="M30,0L245,0L137.5,65z M30,175L245,175L137.5,110z M0,25L0,150L100,87.5z M275,25L275,150L175,87.5z"/>
+	<defs>
+		<polygon fill="#fff" id="s" points="10,0 16.16,20 0,7.66 20,7.66 3.83,20"/>
+	</defs>
+	<use x="127.5" y="77.5" xlink:href="#s"/>
+	<use x="90" y="54" xlink:href="#s"/>
+	<use x="90" y="101" xlink:href="#s"/>
+	<use x="165" y="54" xlink:href="#s"/>
+	<use x="165" y="101" xlink:href="#s"/>
+	<use x="51" y="30" xlink:href="#s"/>
+	<use x="51" y="125" xlink:href="#s"/>
+	<use x="204" y="30" xlink:href="#s"/>
+	<use x="204" y="125" xlink:href="#s"/>
+	<use x="13" y="8" xlink:href="#s"/>
+	<use x="13" y="147" xlink:href="#s"/>
+	<use x="242" y="8" xlink:href="#s"/>
+	<use x="242" y="147" xlink:href="#s"/>
+</svg>
