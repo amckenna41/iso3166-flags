@@ -3,9 +3,9 @@ A comprehensive library of ISO3166-1/2 country/subdivision codes and their corre
 
 [![PythonV](https://img.shields.io/pypi/pyversions/pySAR?logo=2)](https://pypi.org/project/pySAR/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-[![Issues](https://img.shields.io/github/issues/amckenna41/DCBLSTM_PSP)](https://github.com/amckenna41/iso3166-2-flag-icons/issues)
-[![Size](https://img.shields.io/github/repo-size/amckenna41/DCBLSTM_PSP)](https://github.com/amckenna41/iso3166-2-flag-icons)
-[![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-2-flag-icons)](https://github.com/iso3166-2-flag-icons)
+[![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
+[![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
+[![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-2-flag-icons)](https://github.com/iso3166-flag-icons)
 
 Table of Contents
 -----------------
@@ -30,14 +30,10 @@ Requirements
 ------------
 
 * [Python][python] >= 3.6
-* [numpy][numpy] >= 1.16.0
-
-requests
-tqdm
-beautifulsoup4
-iso3166
-SVGCompress
-scour 
+* [requests][requests] >= 1.16.0
+* [tqdm][tqdm] >= 4.55.0
+* [beautifulsoup4][beautifulsoup4] >= 4.10.0
+* [scour][scour] >= 0.38.2
 
 Directory folders
 -----------------
@@ -64,11 +60,18 @@ If you have any questions or feedback, please contact amckenna41@qub.ac.uk or vi
 
 References
 ----------
-\[1\]:
-\[2\]:
-\[3\]: https://en.wikipedia.org/wiki/ISO_3166
+\[1\]:  <br>
+\[2\]:  <br>
+\[3\]: https://en.wikipedia.org/wiki/ISO_3166 <br>
 https://en.wikipedia.org/wiki/ISO_3166-2
 
 [Back to top](#TOP)
 
 [python]: https://www.python.org/downloads/release/python-360/
+[pandas]: https://pandas.pydata.org/
+[tqdm]: https://tqdm.github.io/
+[requests]: https://requests.readthedocs.io/
+[beautifulsoup4]: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+[scour]: https://github.com/scour-project/scour
+
+<!-- **all country folders manually checked, removing any unneeded imgs and renaming etc. -->

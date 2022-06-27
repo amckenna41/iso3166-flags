@@ -1,4 +1,5 @@
 requests
+pandas
 tqdm
 beautifulsoup4
 iso3166
