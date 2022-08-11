@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
-<path d="M0 0H500V600H0z" fill="#fff"/>
-<path d="M0 0H500V150H0z" fill="#08639c"/>
-<path d="M0 0H500V75H0z" fill="#de2119"/>
-<path d="M0 225H500V600H0z"/>
-<path d="M450 0H900L600 300L900 600H0V300H450z" fill="#ffc500"/>
-</svg>

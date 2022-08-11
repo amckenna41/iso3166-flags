@@ -1,0 +1,28 @@
+# Argentina 🇦🇷 Subdivisions
+
+Source: https://en.wikipedia.org/wiki/Flags_of_country_subdivisions
+
+* AR-A (Salta) [ar-a.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-a.svg)
+* AR-B (Buenos Aires) [ar-b.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-b.svg)
+* AR-C (Ciudad Autónoma de Buenos Aires) [ar-c.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-c.svg)
+* AR-D (San Luis) [ar-d.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-d.svg)
+* AR-E (Entre Ríos) [ar-e.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-e.svg)
+* AR-F (La Rioja) [ar-f.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-f.svg)
+* AR-G (Santiago del Estero) [ar-g.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-g.svg)
+* AR-H (Chaco) [ar-h.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-h.svg)
+* AR-J (San Juan) [ar-j.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-j.svg)
+* AR-K (Catamarca) [ar-k.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-k.svg)
+* AR-L (La Pampa) [ar-l.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-l.svg)
+* AR-M (Mendoza) [ar-m.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-m.svg)
+* AR-N (Misiones) [ar-n.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-n.svg)
+* AR-P (Formosa) [ar-p.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-p.svg)
+* AR-Q (Neuquén) [ar-q.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-q.svg)
+* AR-R (Río Negro) [ar-r.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-r.svg)
+* AR-S (Santa Fe) [ar-s.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-s.svg)
+* AR-T (Tucumán) [ar-t.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-t.svg)
+* AR-U (Chubut) [ar-u.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-u.svg)
+* AR-V (Tierra del Fuego) [ar-v.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-v.svg)
+* AR-W (Corrientes) [ar-w.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-w.svg)
+* AR-X (Córdoba) [ar-x.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-x.svg)
+* AR-Y (Jujuy) [ar-y.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-y.svg)
+* AR-Z (Santa Cruz) [ar-z.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AR/ar-z.svg)

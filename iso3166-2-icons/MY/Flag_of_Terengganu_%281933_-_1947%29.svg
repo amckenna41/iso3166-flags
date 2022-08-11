@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
-<rect width="900" height="600" fill="#000"/>
-<rect width="300" height="600" fill="#fff"/>
-<circle r="90" cx="600" cy="228" fill="#fff"/>
-<circle r="75" cx="600" cy="207" fill="#000"/>
-<path transform="translate(600,133) scale(68)" d="M0,-1 L0.58779,0.80902 L-0.95106,-0.30902 L0.95106,-0.30902 L-0.58779,0.80902z" fill="#fff"/>
-</svg>

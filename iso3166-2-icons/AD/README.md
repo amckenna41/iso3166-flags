@@ -1,14 +1,11 @@
-# Andorra Subdivisions
+# Andorra 🇦🇩 Subdivisions
 
-## 7 parishes of Andorra 
+Source: https://en.wikipedia.org/wiki/Flags_of_country_subdivisions
 
-Source: https://en.wikipedia.org/wiki/Parishes_of_Andorra
-
-* Andorra La Vella [Andorra_la_vella.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/Andorra_la_vells.svg)
-* Canillo [Canillo.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/Canillo.svg)
-* Encamp [Encamp.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/Encamp.svg)
-* Escaldes-Engordany [Escaldes-Engordany.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/Escaldes-Engordany.svg)
-* La Massana [La_Massana.svg[(https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/La_Massana.svg)
-* Ordino [Ordino.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/Ordino.svg)
-* Sant Julià de Lòria [Sant_Julia_de_Loria.svg[(https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/Sant_Julia_de_Loria.svg)
-
+* AD-02 (Canillo) [ad-02.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/ad-02.svg)
+* AD-03 (Encamp) [ad-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/ad-03.svg)
+* AD-04 (La Massana) [ad-04.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/ad-04.svg)
+* AD-05 (Ordino) [ad-05.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/ad-05.svg)
+* AD-06 (Sant Julià de Lòria) [ad-06.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/ad-06.svg)
+* AD-07 (Andorra la Vella) [ad-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/ad-07.svg)
+* AD-08 (Escaldes-Engordany) [ad-08.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/ad-08.svg)

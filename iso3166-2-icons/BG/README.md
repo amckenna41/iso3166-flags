@@ -1,0 +1,35 @@
+# Bulgaria 🇧🇬 Subdivisions
+
+Source: https://en.wikipedia.org/wiki/Flags_of_country_subdivisions
+
+* BG-23 (Sofia) [bg-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BG/bg-23.svg)
+
+Bulgaria ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:BG)
+
+* BG-20: Sliven (District)
+* BG-21: Smolyan (District)
+* BG-01: Blagoevgrad (District)
+* BG-22: Sofia (stolitsa) (District)
+* BG-02: Burgas (District)
+* BG-03: Varna (District)
+* BG-24: Stara Zagora (District)
+* BG-04: Veliko Tarnovo (District)
+* BG-25: Targovishte (District)
+* BG-05: Vidin (District)
+* BG-26: Haskovo (District)
+* BG-06: Vratsa (District)
+* BG-27: Shumen (District)
+* BG-07: Gabrovo (District)
+* BG-28: Yambol (District)
+* BG-08: Dobrich (District)
+* BG-09: Kardzhali (District)
+* BG-10: Kyustendil (District)
+* BG-11: Lovech (District)
+* BG-12: Montana (District)
+* BG-13: Pazardzhik (District)
+* BG-14: Pernik (District)
+* BG-15: Pleven (District)
+* BG-16: Plovdiv (District)
+* BG-17: Razgrad (District)
+* BG-18: Ruse (District)
+* BG-19: Silistra (District)

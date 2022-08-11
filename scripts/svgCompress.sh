@@ -44,7 +44,7 @@ case $i in
     OUTPUT="${i#*=}"
     shift # past argument=value
     ;;
-    -f=*|--FILESIZE_THRESHOLD=*)
+    -f=*|--filesize=*)
     FILESIZE_THRESHOLD="${i#*=}"
     shift # past argument=value
     ;;
@@ -69,11 +69,11 @@ fi
 
 #set default values for input parameters if empty
 if [ -z "$INPUT" ]; then
-  INPUT="countries"
+  INPUT="countries/"
 fi
 
 if [ -z "$OUTPUT" ]; then
-  OUTPUT="outputs"
+  OUTPUT="outputs/"
 fi
 
 if [ -z "$FILESIZE_THRESHOLD" ]; then
@@ -87,6 +87,18 @@ fi
 #start time of script
 start=`date +%s`
 
+echo ""
+echo "##############################################"
+echo "Compressing SVG Files using scour algorithm..."
+echo ""
+echo "Input Folder: $INPUT"
+echo "Output Folder: $OUTPUT"
+echo "Filesize Threshold: $FILESIZE_THRESHOLD"
+echo ""
+echo "#############################################"
+echo ""
+
+
 #iterate through all svg's in dir, compressing if over the KB threshold and copy to output folder
 for dir in $INPUT*; do 
 
@@ -98,6 +110,10 @@ for dir in $INPUT*; do
   #create country name folder in output dir if not already created
   countryFolder="$(basename -- "$dir")/"
   [ ! -d "$OUTPUT/$countryFolder" ] && mkdir "$OUTPUT/$countryFolder"
+
+  echo ""
+  echo "##### "$(basename -- "$dir")" #####"
+  echo ""
 
   #iterate through all subfolders and files in input dir, calculate their file size and compress using SVG algorithm
   for file in "$dir"/*; do
@@ -183,5 +199,5 @@ else
 fi
 
 echo ""
-echo "Script Execution took $runtime seconds."
+echo "Script executed in $runtime seconds."
 

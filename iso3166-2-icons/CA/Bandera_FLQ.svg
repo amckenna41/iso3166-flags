@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 8 6" width="800" height="600">
-  <defs>
-    <path id="a" d="M0-1 .58779.80902-.95106-.30902H.95106L-.58779.80902z"/>
-  </defs>
-  <path fill="#fff" d="M0 0h8v6H0z"/>
-  <path fill="#002173" style="fill:#002495;fill-opacity:1" d="M0 0h4v6H0z"/>
-  <use xlink:href="#a" transform="matrix(1.6 0 0 1.6 6 3.1528)" fill="#f5d527"/>
-  <use xlink:href="#a" transform="matrix(1.35 0 0 1.35 6 3.1528)" fill="#d00"/>
-</svg>

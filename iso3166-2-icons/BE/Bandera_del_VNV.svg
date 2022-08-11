@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="750" height="500" viewBox="0 0 198.43751 132.29166">
-  <path style="opacity:1;fill:#ea8914;fill-opacity:1;stroke:none;stroke-width:.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="M0 119.35119h198.4375v132.29167H0z" transform="translate(0 -119.3511912)"/>
-  <g style="stroke-width:1.33333206" transform="matrix(.75 0 0 .75 23.911643 -72.9770702)">
-    <circle style="opacity:1;fill:#1355f3;fill-opacity:1;stroke:none;stroke-width:.66666603;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="100.40938" cy="185.49702" r="44.097179"/>
-    <circle cy="185.49702" cx="100.40938" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.66666597;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" r="37.482594"/>
-    <path style="opacity:1;fill:#1355f3;fill-opacity:1;stroke:none;stroke-width:.66666609;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m100.40937 148.01443 32.46088 56.22389H67.948492z"/>
-    <path d="m100.40937 160.67663 21.49509 37.23059H78.914281z" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.66666609;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  </g>
-</svg>

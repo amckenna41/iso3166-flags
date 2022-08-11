@@ -2,6 +2,8 @@ requests
 pandas
 tqdm
 beautifulsoup4
-iso3166
-SVGCompress
 scour 
+pyWikiCommons
+emoji-country-flag
+pycountry
+fuzzywuzzy

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400">
-<rect width="600" height="133.333" fill="#0039a6" x="0" y="0" /><rect width="600" height="133.333" fill="#73431e" x="0" y="133.333" /><rect width="600" height="133.333" fill="#31871a" x="0" y="266.667" />
-<g transform="translate(83.333,66.667) rotate(0) scale(1)"><path d="M 35.38014,35.33055 9.5832897,23.09028 0.03507971,50 -9.55088,23.1037 -35.33053,35.38014 -23.09027,9.58329 -50,0.03508036 -23.10369,-9.5508796 -35.38014,-35.33053 -9.58328,-23.09027 -0.03507029,-50 9.5508897,-23.1037 35.33054,-35.38014 23.09028,-9.5832796 50.00001,-0.03507964 23.10371,9.55088 z" fill="#fedd00"  /></g>
-</svg>

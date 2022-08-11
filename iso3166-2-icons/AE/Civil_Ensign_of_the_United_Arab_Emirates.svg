@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="540">
-<rect width="1080" height="540" fill="#f00"/>
-<rect width="537" height="267" fill="#000"/>
-<rect width="537" height="176" fill="#fff"/>
-<rect width="537" height="88" fill="#00732f"/>
-<rect width="132" height="267" fill="#f00"/>
-<path d="M0,267H537V0" fill="none" stroke="#fff" stroke-width="6"/>
-</svg>

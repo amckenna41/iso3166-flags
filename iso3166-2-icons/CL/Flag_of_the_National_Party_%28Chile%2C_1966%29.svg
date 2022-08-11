@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" version="1">
-  <path d="M0 598.904h899.941V0H0z" fill="none"/>
-  <path style="marker:none" color="#000" overflow="visible" fill="navy" fill-rule="evenodd" d="M0 0h900v600H0z"/>
-  <circle cx="450" cy="300" r="200" fill="red"/>
-  <circle cx="450" cy="300" r="127" fill="#fff"/>
-  <path d="m450 192 24.249 74.624 78.464.003-63.477 46.122 24.244 74.625L450 341.256l-63.482 46.118 24.245-74.625-63.478-46.122 78.465-.003z" fill="navy" fill-rule="evenodd"/>
-</svg>

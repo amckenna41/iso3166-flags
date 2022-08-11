@@ -1,0 +1,420 @@
+[
+    {
+        "Country": "Botswana",
+        "Code": "BW",
+        "Subdivisions": {
+            "BW-GA": "Gaborone"
+        }
+    },
+    {
+        "Country": "Belarus",
+        "Code": "BY",
+        "Subdivisions": {
+            "BY-HO": "Gomel'skaja oblast'",
+            "BY-HM": "Gorod Minsk",
+            "BY-MA": "Mahilioŭskaja voblasć",
+            "BY-VI": "Viciebskaja voblasć",
+            "BY-MI": "Minskaja oblast'",
+            "BY-BR": "Bresckaja voblasć",
+            "BY-HR": "Grodnenskaja oblast'"
+        }
+    },
+    {
+        "Country": "Andorra",
+        "Code": "AD",
+        "Subdivisions": {
+            "AD-08": "Escaldes-Engordany",
+            "AD-02": "Canillo",
+            "AD-03": "Encamp",
+            "AD-04": "La Massana",
+            "AD-05": "Ordino",
+            "AD-07": "Andorra la Vella",
+            "AD-06": "Sant Julià de Lòria"
+        }
+    },
+    {
+        "Country": "Armenia",
+        "Code": "AM",
+        "Subdivisions": {
+            "AM-KT": "Kotayk'",
+            "AM-LO": "Loṙi",
+            "AM-GR": "Geġark'unik'",
+            "AM-VD": "Vayoć Jor",
+            "AM-ER": "Erevan"
+        }
+    },
+    {
+        "Country": "Belgium",
+        "Code": "BE",
+        "Subdivisions": {
+            "BE-WLX": "Luxembourg",
+            "BE-WBR": "Brabant wallon",
+            "BE-WAL": "wallonne, Région",
+            "BE-WNA": "Namur",
+            "BE-VBR": "Vlaams-Brabant",
+            "BE-VOV": "Oost-Vlaanderen",
+            "BE-VAN": "Antwerpen",
+            "BE-VLI": "Limburg",
+            "BE-VWV": "West-Vlaanderen",
+            "BE-WHT": "Hainaut",
+            "BE-BRU": "Brussels Hoofdstedelijk Gewest",
+            "BE-VLG": "Vlaams Gewest",
+            "BE-WLG": "Liège"
+        }
+    },
+    {
+        "Country": "Bonaire, Sint Eustatius and Saba",
+        "Code": "BQ",
+        "Subdivisions": {
+            "BQ-BO": "Bonaire",
+            "BQ-SA": "Saba",
+            "BQ-SE": "Sint Eustatius"
+        }
+    },
+    {
+        "Country": "Albania",
+        "Code": "AL",
+        "Subdivisions": {
+            "AL-08": "Lezhë",
+            "AL-09": "Dibër",
+            "AL-10": "Shkodër",
+            "AL-04": "Fier",
+            "AL-05": "Gjirokastër",
+            "AL-11": "Tiranë",
+            "AL-06": "Korçë",
+            "AL-12": "Vlorë",
+            "AL-07": "Kukës",
+            "AL-03": "Elbasan",
+            "AL-02": "Durrës",
+            "AL-01": "Berat"
+        }
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Code": "AE",
+        "Subdivisions": {
+            "AE-FU.svg": "Umm al Qaywayn",
+            "AE-UQ": "Abū Z̧aby",
+            "AE-AZ": "Ra’s al Khaymah",
+            "AE-RK": "Dubayy",
+            "AE-DU": "Ash Shāriqah",
+            "AE-SH": "‘Ajmān"
+        }
+    },
+    {
+        "Country": "Congo",
+        "Code": "CG",
+        "Subdivisions": {
+            "CG-16": "Pointe-Noire"
+        }
+    },
+    {
+        "Country": "China",
+        "Code": "CN",
+        "Subdivisions": {
+            "CN-MO": "Macao SAR",
+            "CN-HK": "Hong Kong SAR",
+            "CN-TW": "Taiwan Sheng"
+        }
+    },
+    {
+        "Country": "Côte d'Ivoire",
+        "Code": "CI",
+        "Subdivisions": {
+            "CI-AB": "Abidjan"
+        }
+    },
+    {
+        "Country": "Costa Rica",
+        "Code": "CR",
+        "Subdivisions": {
+            "CR-C": "Cartago",
+            "CR-A": "Alajuela",
+            "CR-SJ": "San José",
+            "CR-P": "Puntarenas",
+            "CR-G": "Guanacaste",
+            "CR-H": "Heredia",
+            "CR-L": "Limón"
+        }
+    },
+    {
+        "Country": "Colombia",
+        "Code": "CO",
+        "Subdivisions": {
+            "CO-CAQ": "Caquetá",
+            "CO-CAS": "Casanare",
+            "CO-AMA": "Amazonas",
+            "CO-GUV": "Guaviare",
+            "CO-GUA": "Guainía",
+            "CO-CAU": "Cauca",
+            "CO-RIS": "Risaralda",
+            "CO-MET": "Meta",
+            "CO-SAN": "Santander",
+            "CO-QUI": "Quindío",
+            "CO-BOY": "Boyacá",
+            "CO-BOL": "Bolívar",
+            "CO-HUI": "Huila",
+            "CO-ARA": "Arauca",
+            "CO-CHO": "Chocó",
+            "CO-VID": "Vichada",
+            "CO-SUC": "Sucre",
+            "CO-SAP": "San Andrés, Providencia y Santa Catalina",
+            "CO-CES": "Cesar",
+            "CO-LAG": "La Guajira",
+            "CO-NAR": "Nariño",
+            "CO-ANT": "Antioquia",
+            "CO-COR": "Córdoba",
+            "CO-ATL": "Atlántico",
+            "CO-PUT": "Putumayo",
+            "CO-VAU": "Vaupés",
+            "CO-CAL": "Caldas",
+            "CO-VAC": "Valle del Cauca",
+            "CO-MAG": "Magdalena",
+            "CO-DC": "Distrito Capital de Bogotá",
+            "CO-NSA": "Norte de Santander",
+            "CO-CUN": "Cundinamarca",
+            "CO-TOL": "Tolima"
+        }
+    },
+    {
+        "Country": "Czechia",
+        "Code": "CZ",
+        "Subdivisions": {
+            "CZ-51": "Liberecký kraj",
+            "CZ-52": "Královéhradecký kraj",
+            "CZ-53": "Pardubický kraj",
+            "CZ-80": "Moravskoslezský kraj",
+            "CZ-42": "Ústecký kraj",
+            "CZ-41": "Karlovarský kraj",
+            "CZ-32": "Plzeňský kraj",
+            "CZ-31": "Jihočeský kraj",
+            "CZ-20": "Středočeský kraj",
+            "CZ-10": "Praha, Hlavní město",
+            "CZ-64": "Jihomoravský kraj",
+            "CZ-71": "Olomoucký kraj",
+            "CZ-72": "Zlínský kraj",
+            "CZ-63": "Kraj Vysočina"
+        }
+    },
+    {
+        "Country": "Bahrain",
+        "Code": "BH",
+        "Subdivisions": {
+            "BH-15": "Al Muḩarraq",
+            "BH-14": "Al Janūbīyah",
+            "BH-17": "Ash Shamālīyah",
+            "BH-13": "Al ‘Āşimah"
+        }
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Code": "AG",
+        "Subdivisions": {
+            "AG-10": "Barbuda"
+        }
+    },
+    {
+        "Country": "Bolivia, Plurinational State of",
+        "Code": "BO",
+        "Subdivisions": {
+            "BO-O": "Oruro",
+            "BO-N": "Pando",
+            "BO-L": "La Paz",
+            "BO-H": "Chuquisaca",
+            "BO-P": "Potosí",
+            "BO-S": "Santa Cruz",
+            "BO-T": "Tarija",
+            "BO-C": "Cochabamba",
+            "BO-B": "El Beni"
+        }
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Code": "BA",
+        "Subdivisions": {
+            "BA-SRP": "Republika Srpska",
+            "BA-BRC": "Brčko distrikt"
+        }
+    },
+    {
+        "Country": "Djibouti",
+        "Code": "DJ",
+        "Subdivisions": {
+            "DJ-DJ": "Djibouti"
+        }
+    },
+    {
+        "Country": "Argentina",
+        "Code": "AR",
+        "Subdivisions": {
+            "AR-G": "Santiago del Estero",
+            "AR-P": "Formosa",
+            "AR-Q": "Neuquén",
+            "AR-F": "La Rioja",
+            "AR-D": "San Luis",
+            "AR-S": "Santa Fe",
+            "AR-R": "Río Negro",
+            "AR-E": "Entre Ríos",
+            "AR-V": "Tierra del Fuego",
+            "AR-A": "Salta",
+            "AR-W": "Corrientes",
+            "AR-U": "Chubut",
+            "AR-B": "Buenos Aires",
+            "AR-C": "Ciudad Autónoma de Buenos Aires",
+            "AR-T": "Tucumán",
+            "AR-Y": "Jujuy",
+            "AR-N": "Misiones",
+            "AR-X": "Córdoba",
+            "AR-Z": "Santa Cruz",
+            "AR-M": "Mendoza",
+            "AR-L": "La Pampa",
+            "AR-H": "Chaco",
+            "AR-K": "Catamarca",
+            "AR-J": "San Juan"
+        }
+    },
+    {
+        "Country": "Belize",
+        "Code": "BZ",
+        "Subdivisions": {
+            "BZ-BZ": "Belize"
+        }
+    },
+    {
+        "Country": "Australia",
+        "Code": "AU",
+        "Subdivisions": {
+            "AU-VIC": "Victoria",
+            "AU-SA": "South Australia",
+            "AU-QLD": "Queensland",
+            "AU-ACT": "Australian Capital Territory",
+            "AU-TAS": "Tasmania",
+            "AU-NSW": "New South Wales",
+            "AU-WA": "Western Australia",
+            "AU-NT": "Northern Territory"
+        }
+    },
+    {
+        "Country": "Angola",
+        "Code": "AO",
+        "Subdivisions": {
+            "AO-CAB": "Cabinda"
+        }
+    },
+    {
+        "Country": "Bulgaria",
+        "Code": "BG",
+        "Subdivisions": {
+            "BG-23": "Sofia"
+        }
+    },
+    {
+        "Country": "Austria",
+        "Code": "AT",
+        "Subdivisions": {
+            "AT-7": "Tirol",
+            "AT-6": "Steiermark",
+            "AT-4": "Oberösterreich",
+            "AT-5": "Salzburg",
+            "AT-1": "Burgenland",
+            "AT-2": "Kärnten",
+            "AT-3": "Niederösterreich",
+            "AT-8": "Vorarlberg",
+            "AT-9": "Wien"
+        }
+    },
+    {
+        "Country": "Azerbaijan",
+        "Code": "AZ",
+        "Subdivisions": {
+            "AZ-SA": "Şəki",
+            "AZ-BA": "Bakı",
+            "AZ-SM": "Sumqayıt",
+            "AZ-YE": "Yevlax",
+            "AZ-XA": "Xankəndi"
+        }
+    },
+    {
+        "Country": "Denmark",
+        "Code": "DK",
+        "Subdivisions": {
+            "DK-81": "Nordjylland",
+            "DK-83": "Syddanmark",
+            "DK-82": "Midtjylland",
+            "DK-85": "Sjælland",
+            "DK-84": "Hovedstaden"
+        }
+    },
+    {
+        "Country": "Brazil",
+        "Code": "BR",
+        "Subdivisions": {
+            "BR-PA": "Pará",
+            "BR-DF": "Distrito Federal",
+            "BR-PB": "Paraíba",
+            "BR-GO": "Goiás",
+            "BR-RN": "Rio Grande do Norte",
+            "BR-RO": "Rondônia",
+            "BR-ES": "Espírito Santo",
+            "BR-PE": "Pernambuco",
+            "BR-PR": "Paraná",
+            "BR-AL": "Alagoas",
+            "BR-RJ": "Rio de Janeiro",
+            "BR-AM": "Amazonas",
+            "BR-CE": "Ceará",
+            "BR-BA": "Bahia",
+            "BR-TO": "Tocantins",
+            "BR-AC": "Acre",
+            "BR-MA": "Maranhão",
+            "BR-MT": "Mato Grosso",
+            "BR-MG": "Minas Gerais",
+            "BR-MS": "Mato Grosso do Sul",
+            "BR-AP": "Amapá",
+            "BR-PI": "Piauí",
+            "BR-SE": "Sergipe",
+            "BR-SP": "São Paulo",
+            "BR-SC": "Santa Catarina",
+            "BR-RS": "Rio Grande do Sul",
+            "BR-RR": "Roraima"
+        }
+    },
+    {
+        "Country": "Cabo Verde",
+        "Code": "CV",
+        "Subdivisions": {
+            "CV-MO": "Mosteiros",
+            "CV-SM": "São Miguel",
+            "CV-PR": "Praia",
+            "CV-RB": "Ribeira Brava"
+        }
+    },
+    {
+        "Country": "Cyprus",
+        "Code": "CY",
+        "Subdivisions": {
+            "CY-01": "Lefkosia"
+        }
+    },
+    {
+        "Country": "Chile",
+        "Code": "CL",
+        "Subdivisions": {
+            "CL-VS": "Valparaíso",
+            "CL-NB": "Ñuble",
+            "CL-ML": "Maule",
+            "CL-LI": "Libertador General Bernardo O'Higgins",
+            "CL-AN": "Antofagasta",
+            "CL-LL": "Los Lagos",
+            "CL-AI": "Aisén del General Carlos Ibañez del Campo",
+            "CL-RM": "Región Metropolitana de Santiago",
+            "CL-AR": "La Araucanía",
+            "CL-BI": "Biobío",
+            "CL-AP": "Arica y Parinacota",
+            "CL-CO": "Coquimbo",
+            "CL-AT": "Atacama",
+            "CL-LR": "Los Ríos",
+            "CL-MA": "Magallanes",
+            "CL-TA": "Tarapacá"
+        }
+    }
+]

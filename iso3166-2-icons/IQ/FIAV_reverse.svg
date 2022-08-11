@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="230" height="150">
-  <g fill="black">
-    <path d="M 30,130 L 30,20 L 180,20 L 180,110 L 40,110 L 40,130 L 30,130 z M 40,30 L 40,100 L 170,100 L 170,30 L 40,30 z"/>
-    <path d="M 90,60 L 203,60 L 188,45 L 195.5,37.5 L 223,65 L 195.5,92.5 L 188,85 L 203,70 L 90,70 L 90,60 z"/>
-  </g>
-</svg>

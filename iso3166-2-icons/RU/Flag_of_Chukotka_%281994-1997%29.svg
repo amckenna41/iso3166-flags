@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" >
-<path d="M0 0H1200V600H0z" fill="#39f"/>
-<path d="M0 0V600L600 300z" fill="#fff"/>
-<path d="M120 300h160v80h-160z" fill="#d81e05"/>
-<path d="M120 274.4449374h160v51.1101252h-160z" fill="#0051ba"/>
-<circle cx="200" cy="300" r="102.2202504" fill="none" stroke="gold" stroke-width="51.1101252"/><!--w=(160/7)√5-->
-</svg>

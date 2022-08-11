@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300">
-	<path d="M 0,0 H 600 L 360,120 V 180 L 600,300 H 0 z" fill="#002868"/>
-	<path d="M 180,0 V 300 M 0,150 H 360" stroke="#fcd116" stroke-width="60"/>
-	<path d="M 0,0 H 150 L 0,120 H 150 z" fill="#c50b1e"/>
-	<rect x="60" width="30" height="120" fill="#fff"/>
-	<rect x="67.5" width="15" height="120" fill="#002868"/>
-	<path d="M 0,48 H 60 L 90,72 H 150 V 48 H 90 L 60,72 H 0 z" fill="#fcd116"/>
-</svg>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
-<rect width="900" height="600" fill="#002864"/>
-<rect width="900" height="300" fill="#df0024"/>
-<path
-d="M545.105,269.098 H472.451 L450,200 427.549,269.098 H354.895 L413.673,311.803 391.222,380.901 450,338.196 508.778,380.901 486.327,311.803"
-fill="#fedb01"/>
-</svg>

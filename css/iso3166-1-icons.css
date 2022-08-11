@@ -1,0 +1,1081 @@
+.fib { 
+	background-size: contain; 
+	background-position: 50%; 
+	background-repeat: no-repeat; 
+}                     
+.fi { 
+	background-size: contain; 
+	background-position: 50%; 
+	background-repeat: no-repeat; 
+	position: relative;                     
+	display: inline-block; 
+	width: 1.33333333em; 
+	line-height: 1em; 
+}                     
+.fi.fis { 
+	width: 1em; 
+}
+
+.fi-hn {
+	background-image: url(../iso3166-1-icons/hn.svg);
+}
+
+.fi-dm {
+	background-image: url(../iso3166-1-icons/dm.svg);
+}
+
+.fi-fr {
+	background-image: url(../iso3166-1-icons/fr.svg);
+}
+
+.fi-dz {
+	background-image: url(../iso3166-1-icons/dz.svg);
+}
+
+.fi-ga {
+	background-image: url(../iso3166-1-icons/ga.svg);
+}
+
+.fi-ph {
+	background-image: url(../iso3166-1-icons/ph.svg);
+}
+
+.fi-ss {
+	background-image: url(../iso3166-1-icons/ss.svg);
+}
+
+.fi-rw {
+	background-image: url(../iso3166-1-icons/rw.svg);
+}
+
+.fi-sd {
+	background-image: url(../iso3166-1-icons/sd.svg);
+}
+
+.fi-se {
+	background-image: url(../iso3166-1-icons/se.svg);
+}
+
+.fi-sr {
+	background-image: url(../iso3166-1-icons/sr.svg);
+}
+
+.fi-eh {
+	background-image: url(../iso3166-1-icons/eh.svg);
+}
+
+.fi-gw {
+	background-image: url(../iso3166-1-icons/gw.svg);
+}
+
+.fi-jp {
+	background-image: url(../iso3166-1-icons/jp.svg);
+}
+
+.fi-hm {
+	background-image: url(../iso3166-1-icons/hm.svg);
+}
+
+.fi-je {
+	background-image: url(../iso3166-1-icons/je.svg);
+}
+
+.fi-gu {
+	background-image: url(../iso3166-1-icons/gu.svg);
+}
+
+.fi-gb {
+	background-image: url(../iso3166-1-icons/gb.svg);
+}
+
+.fi-pk {
+	background-image: url(../iso3166-1-icons/pk.svg);
+}
+
+.fi-sg {
+	background-image: url(../iso3166-1-icons/sg.svg);
+}
+
+.fi-ru {
+	background-image: url(../iso3166-1-icons/ru.svg);
+}
+
+.fi-do {
+	background-image: url(../iso3166-1-icons/do.svg);
+}
+
+.fi-gt {
+	background-image: url(../iso3166-1-icons/gt.svg);
+}
+
+.fi-kw {
+	background-image: url(../iso3166-1-icons/kw.svg);
+}
+
+.fi-il {
+	background-image: url(../iso3166-1-icons/il.svg);
+}
+
+.fi-gg {
+	background-image: url(../iso3166-1-icons/gg.svg);
+}
+
+.fi-gp {
+	background-image: url(../iso3166-1-icons/gp.svg);
+}
+
+.fi-dk {
+	background-image: url(../iso3166-1-icons/dk.svg);
+}
+
+.fi-sb {
+	background-image: url(../iso3166-1-icons/sb.svg);
+}
+
+.fi-py {
+	background-image: url(../iso3166-1-icons/py.svg);
+}
+
+.fi-pn {
+	background-image: url(../iso3166-1-icons/pn.svg);
+}
+
+.fi-st {
+	background-image: url(../iso3166-1-icons/st.svg);
+}
+
+.fi-sc {
+	background-image: url(../iso3166-1-icons/sc.svg);
+}
+
+.fi-dj {
+	background-image: url(../iso3166-1-icons/dj.svg);
+}
+
+.fi-gq {
+	background-image: url(../iso3166-1-icons/gq.svg);
+}
+
+.fi-gf {
+	background-image: url(../iso3166-1-icons/gf.svg);
+}
+
+.fi-kr {
+	background-image: url(../iso3166-1-icons/kr.svg);
+}
+
+.fi-im {
+	background-image: url(../iso3166-1-icons/im.svg);
+}
+
+.fi-ke {
+	background-image: url(../iso3166-1-icons/ke.svg);
+}
+
+.fi-kg {
+	background-image: url(../iso3166-1-icons/kg.svg);
+}
+
+.fi-gb-nir {
+	background-image: url(../iso3166-1-icons/gb-nir.svg);
+}
+
+.fi-hk {
+	background-image: url(../iso3166-1-icons/hk.svg);
+}
+
+.fi-kp {
+	background-image: url(../iso3166-1-icons/kp.svg);
+}
+
+.fi-io {
+	background-image: url(../iso3166-1-icons/io.svg);
+}
+
+.fi-gd {
+	background-image: url(../iso3166-1-icons/gd.svg);
+}
+
+.fi-gs {
+	background-image: url(../iso3166-1-icons/gs.svg);
+}
+
+.fi-sa {
+	background-image: url(../iso3166-1-icons/sa.svg);
+}
+
+.fi-re {
+	background-image: url(../iso3166-1-icons/re.svg);
+}
+
+.fi-pm {
+	background-image: url(../iso3166-1-icons/pm.svg);
+}
+
+.fi-sv {
+	background-image: url(../iso3166-1-icons/sv.svg);
+}
+
+.fi-rs {
+	background-image: url(../iso3166-1-icons/rs.svg);
+}
+
+.fi-pl {
+	background-image: url(../iso3166-1-icons/pl.svg);
+}
+
+.fi-gr {
+	background-image: url(../iso3166-1-icons/gr.svg);
+}
+
+.fi-ge {
+	background-image: url(../iso3166-1-icons/ge.svg);
+}
+
+.fi-in {
+	background-image: url(../iso3166-1-icons/in.svg);
+}
+
+.fi-mv {
+	background-image: url(../iso3166-1-icons/mv.svg);
+}
+
+.fi-lr {
+	background-image: url(../iso3166-1-icons/lr.svg);
+}
+
+.fi-ma {
+	background-image: url(../iso3166-1-icons/ma.svg);
+}
+
+.fi-nz {
+	background-image: url(../iso3166-1-icons/nz.svg);
+}
+
+.fi-au {
+	background-image: url(../iso3166-1-icons/au.svg);
+}
+
+.fi-bn {
+	background-image: url(../iso3166-1-icons/bn.svg);
+}
+
+.fi-by {
+	background-image: url(../iso3166-1-icons/by.svg);
+}
+
+.fi-tt {
+	background-image: url(../iso3166-1-icons/tt.svg);
+}
+
+.fi-ug {
+	background-image: url(../iso3166-1-icons/ug.svg);
+}
+
+.fi-tc {
+	background-image: url(../iso3166-1-icons/tc.svg);
+}
+
+.fi-es-ct {
+	background-image: url(../iso3166-1-icons/es-ct.svg);
+}
+
+.fi-ye {
+	background-image: url(../iso3166-1-icons/ye.svg);
+}
+
+.fi-ac {
+	background-image: url(../iso3166-1-icons/ac.svg);
+}
+
+.fi-ck {
+	background-image: url(../iso3166-1-icons/ck.svg);
+}
+
+.fi-bo {
+	background-image: url(../iso3166-1-icons/bo.svg);
+}
+
+.fi-at {
+	background-image: url(../iso3166-1-icons/at.svg);
+}
+
+.fi-ls {
+	background-image: url(../iso3166-1-icons/ls.svg);
+}
+
+.fi-mw {
+	background-image: url(../iso3166-1-icons/mw.svg);
+}
+
+.fi-nl {
+	background-image: url(../iso3166-1-icons/nl.svg);
+}
+
+.fi-mu {
+	background-image: url(../iso3166-1-icons/mu.svg);
+}
+
+.fi-ci {
+	background-image: url(../iso3166-1-icons/ci.svg);
+}
+
+.fi-bm {
+	background-image: url(../iso3166-1-icons/bm.svg);
+}
+
+.fi-bz {
+	background-image: url(../iso3166-1-icons/bz.svg);
+}
+
+.fi-tw {
+	background-image: url(../iso3166-1-icons/tw.svg);
+}
+
+.fi-us {
+	background-image: url(../iso3166-1-icons/us.svg);
+}
+
+.fi-ta {
+	background-image: url(../iso3166-1-icons/ta.svg);
+}
+
+.fi-vi {
+	background-image: url(../iso3166-1-icons/vi.svg);
+}
+
+.fi-tv {
+	background-image: url(../iso3166-1-icons/tv.svg);
+}
+
+.fi-bl {
+	background-image: url(../iso3166-1-icons/bl.svg);
+}
+
+.fi-aw {
+	background-image: url(../iso3166-1-icons/aw.svg);
+}
+
+.fi-ch {
+	background-image: url(../iso3166-1-icons/ch.svg);
+}
+
+.fi-mc {
+	background-image: url(../iso3166-1-icons/mc.svg);
+}
+
+.fi-mt {
+	background-image: url(../iso3166-1-icons/mt.svg);
+}
+
+.fi-no {
+	background-image: url(../iso3166-1-icons/no.svg);
+}
+
+.fi-lc {
+	background-image: url(../iso3166-1-icons/lc.svg);
+}
+
+.fi-mg {
+	background-image: url(../iso3166-1-icons/mg.svg);
+}
+
+.fi-lt {
+	background-image: url(../iso3166-1-icons/lt.svg);
+}
+
+.fi-mp {
+	background-image: url(../iso3166-1-icons/mp.svg);
+}
+
+.fi-ad {
+	background-image: url(../iso3166-1-icons/ad.svg);
+}
+
+.fi-cl {
+	background-image: url(../iso3166-1-icons/cl.svg);
+}
+
+.fi-as {
+	background-image: url(../iso3166-1-icons/as.svg);
+}
+
+.fi-bh {
+	background-image: url(../iso3166-1-icons/bh.svg);
+}
+
+.fi-ua {
+	background-image: url(../iso3166-1-icons/ua.svg);
+}
+
+.fi-tr {
+	background-image: url(../iso3166-1-icons/tr.svg);
+}
+
+.fi-yt {
+	background-image: url(../iso3166-1-icons/yt.svg);
+}
+
+.fi-td {
+	background-image: url(../iso3166-1-icons/td.svg);
+}
+
+.fi-bi {
+	background-image: url(../iso3166-1-icons/bi.svg);
+}
+
+.fi-ar {
+	background-image: url(../iso3166-1-icons/ar.svg);
+}
+
+.fi-cm {
+	background-image: url(../iso3166-1-icons/cm.svg);
+}
+
+.fi-ae {
+	background-image: url(../iso3166-1-icons/ae.svg);
+}
+
+.fi-cz {
+	background-image: url(../iso3166-1-icons/cz.svg);
+}
+
+.fi-mq {
+	background-image: url(../iso3166-1-icons/mq.svg);
+}
+
+.fi-lu {
+	background-image: url(../iso3166-1-icons/lu.svg);
+}
+
+.fi-mf {
+	background-image: url(../iso3166-1-icons/mf.svg);
+}
+
+.fi-lb {
+	background-image: url(../iso3166-1-icons/lb.svg);
+}
+
+.fi-md {
+	background-image: url(../iso3166-1-icons/md.svg);
+}
+
+.fi-ms {
+	background-image: url(../iso3166-1-icons/ms.svg);
+}
+
+.fi-ag {
+	background-image: url(../iso3166-1-icons/ag.svg);
+}
+
+.fi-cx {
+	background-image: url(../iso3166-1-icons/cx.svg);
+}
+
+.fi-co {
+	background-image: url(../iso3166-1-icons/co.svg);
+}
+
+.fi-tf {
+	background-image: url(../iso3166-1-icons/tf.svg);
+}
+
+.fi-vn {
+	background-image: url(../iso3166-1-icons/vn.svg);
+}
+
+.fi-zm {
+	background-image: url(../iso3166-1-icons/zm.svg);
+}
+
+.fi-gb-sct {
+	background-image: url(../iso3166-1-icons/gb-sct.svg);
+}
+
+.fi-tg {
+	background-image: url(../iso3166-1-icons/tg.svg);
+}
+
+.fi-cn {
+	background-image: url(../iso3166-1-icons/cn.svg);
+}
+
+.fi-bj {
+	background-image: url(../iso3166-1-icons/bj.svg);
+}
+
+.fi-aq {
+	background-image: url(../iso3166-1-icons/aq.svg);
+}
+
+.fi-cy {
+	background-image: url(../iso3166-1-icons/cy.svg);
+}
+
+.fi-af {
+	background-image: url(../iso3166-1-icons/af.svg);
+}
+
+.fi-lv {
+	background-image: url(../iso3166-1-icons/lv.svg);
+}
+
+.fi-om {
+	background-image: url(../iso3166-1-icons/om.svg);
+}
+
+.fi-mr {
+	background-image: url(../iso3166-1-icons/mr.svg);
+}
+
+.fi-ni {
+	background-image: url(../iso3166-1-icons/ni.svg);
+}
+
+.fi-la {
+	background-image: url(../iso3166-1-icons/la.svg);
+}
+
+.fi-me {
+	background-image: url(../iso3166-1-icons/me.svg);
+}
+
+.fi-mh {
+	background-image: url(../iso3166-1-icons/mh.svg);
+}
+
+.fi-gb-wls {
+	background-image: url(../iso3166-1-icons/gb-wls.svg);
+}
+
+.fi-cc {
+	background-image: url(../iso3166-1-icons/cc.svg);
+}
+
+.fi-bg {
+	background-image: url(../iso3166-1-icons/bg.svg);
+}
+
+.fi-tj {
+	background-image: url(../iso3166-1-icons/tj.svg);
+}
+
+.fi-un {
+	background-image: url(../iso3166-1-icons/un.svg);
+}
+
+.fi-vu {
+	background-image: url(../iso3166-1-icons/vu.svg);
+}
+
+.fi-wf {
+	background-image: url(../iso3166-1-icons/wf.svg);
+}
+
+.fi-uy {
+	background-image: url(../iso3166-1-icons/uy.svg);
+}
+
+.fi-README {
+	background-image: url(../iso3166-1-icons/README.md);
+}
+
+.fi-za {
+	background-image: url(../iso3166-1-icons/za.svg);
+}
+
+.fi-zw {
+	background-image: url(../iso3166-1-icons/zw.svg);
+}
+
+.fi-vc {
+	background-image: url(../iso3166-1-icons/vc.svg);
+}
+
+.fi-tk {
+	background-image: url(../iso3166-1-icons/tk.svg);
+}
+
+.fi-bf {
+	background-image: url(../iso3166-1-icons/bf.svg);
+}
+
+.fi-bq {
+	background-image: url(../iso3166-1-icons/bq.svg);
+}
+
+.fi-cu {
+	background-image: url(../iso3166-1-icons/cu.svg);
+}
+
+.fi-ne {
+	background-image: url(../iso3166-1-icons/ne.svg);
+}
+
+.fi-nr {
+	background-image: url(../iso3166-1-icons/nr.svg);
+}
+
+.fi-mk {
+	background-image: url(../iso3166-1-icons/mk.svg);
+}
+
+.fi-np {
+	background-image: url(../iso3166-1-icons/np.svg);
+}
+
+.fi-ng {
+	background-image: url(../iso3166-1-icons/ng.svg);
+}
+
+.fi-bs {
+	background-image: url(../iso3166-1-icons/bs.svg);
+}
+
+.fi-cw {
+	background-image: url(../iso3166-1-icons/cw.svg);
+}
+
+.fi-bd {
+	background-image: url(../iso3166-1-icons/bd.svg);
+}
+
+.fi-um {
+	background-image: url(../iso3166-1-icons/um.svg);
+}
+
+.fi-va {
+	background-image: url(../iso3166-1-icons/va.svg);
+}
+
+.fi-uz {
+	background-image: url(../iso3166-1-icons/uz.svg);
+}
+
+.fi-xk {
+	background-image: url(../iso3166-1-icons/xk.svg);
+}
+
+.fi-ws {
+	background-image: url(../iso3166-1-icons/ws.svg);
+}
+
+.fi-th {
+	background-image: url(../iso3166-1-icons/th.svg);
+}
+
+.fi-ca {
+	background-image: url(../iso3166-1-icons/ca.svg);
+}
+
+.fi-be {
+	background-image: url(../iso3166-1-icons/be.svg);
+}
+
+.fi-cv {
+	background-image: url(../iso3166-1-icons/cv.svg);
+}
+
+.fi-ai {
+	background-image: url(../iso3166-1-icons/ai.svg);
+}
+
+.fi-br {
+	background-image: url(../iso3166-1-icons/br.svg);
+}
+
+.fi-ly {
+	background-image: url(../iso3166-1-icons/ly.svg);
+}
+
+.fi-nf {
+	background-image: url(../iso3166-1-icons/nf.svg);
+}
+
+.fi-my {
+	background-image: url(../iso3166-1-icons/my.svg);
+}
+
+.fi-mn {
+	background-image: url(../iso3166-1-icons/mn.svg);
+}
+
+.fi-nu {
+	background-image: url(../iso3166-1-icons/nu.svg);
+}
+
+.fi-az {
+	background-image: url(../iso3166-1-icons/az.svg);
+}
+
+.fi-ba {
+	background-image: url(../iso3166-1-icons/ba.svg);
+}
+
+.fi-bv {
+	background-image: url(../iso3166-1-icons/bv.svg);
+}
+
+.fi-am {
+	background-image: url(../iso3166-1-icons/am.svg);
+}
+
+.fi-cr {
+	background-image: url(../iso3166-1-icons/cr.svg);
+}
+
+.fi-tl {
+	background-image: url(../iso3166-1-icons/tl.svg);
+}
+
+.fi-xx {
+	background-image: url(../iso3166-1-icons/xx.svg);
+}
+
+.fi-tm {
+	background-image: url(../iso3166-1-icons/tm.svg);
+}
+
+.fi-tz {
+	background-image: url(../iso3166-1-icons/tz.svg);
+}
+
+.fi-ve {
+	background-image: url(../iso3166-1-icons/ve.svg);
+}
+
+.fi-al {
+	background-image: url(../iso3166-1-icons/al.svg);
+}
+
+.fi-bw {
+	background-image: url(../iso3166-1-icons/bw.svg);
+}
+
+.fi-cd {
+	background-image: url(../iso3166-1-icons/cd.svg);
+}
+
+.fi-lk {
+	background-image: url(../iso3166-1-icons/lk.svg);
+}
+
+.fi-mo {
+	background-image: url(../iso3166-1-icons/mo.svg);
+}
+
+.fi-mx {
+	background-image: url(../iso3166-1-icons/mx.svg);
+}
+
+.fi-nc {
+	background-image: url(../iso3166-1-icons/nc.svg);
+}
+
+.fi-na {
+	background-image: url(../iso3166-1-icons/na.svg);
+}
+
+.fi-mz {
+	background-image: url(../iso3166-1-icons/mz.svg);
+}
+
+.fi-li {
+	background-image: url(../iso3166-1-icons/li.svg);
+}
+
+.fi-mm {
+	background-image: url(../iso3166-1-icons/mm.svg);
+}
+
+.fi-cf {
+	background-image: url(../iso3166-1-icons/cf.svg);
+}
+
+.fi-bb {
+	background-image: url(../iso3166-1-icons/bb.svg);
+}
+
+.fi-vg {
+	background-image: url(../iso3166-1-icons/vg.svg);
+}
+
+.fi-to {
+	background-image: url(../iso3166-1-icons/to.svg);
+}
+
+.fi-tn {
+	background-image: url(../iso3166-1-icons/tn.svg);
+}
+
+.fi-ao {
+	background-image: url(../iso3166-1-icons/ao.svg);
+}
+
+.fi-bt {
+	background-image: url(../iso3166-1-icons/bt.svg);
+}
+
+.fi-cp {
+	background-image: url(../iso3166-1-icons/cp.svg);
+}
+
+.fi-ax {
+	background-image: url(../iso3166-1-icons/ax.svg);
+}
+
+.fi-cg {
+	background-image: url(../iso3166-1-icons/cg.svg);
+}
+
+.fi-ml {
+	background-image: url(../iso3166-1-icons/ml.svg);
+}
+
+.fi-jo {
+	background-image: url(../iso3166-1-icons/jo.svg);
+}
+
+.fi-it {
+	background-image: url(../iso3166-1-icons/it.svg);
+}
+
+.fi-ic {
+	background-image: url(../iso3166-1-icons/ic.svg);
+}
+
+.fi-gh {
+	background-image: url(../iso3166-1-icons/gh.svg);
+}
+
+.fi-sm {
+	background-image: url(../iso3166-1-icons/sm.svg);
+}
+
+.fi-pa {
+	background-image: url(../iso3166-1-icons/pa.svg);
+}
+
+.fi-sz {
+	background-image: url(../iso3166-1-icons/sz.svg);
+}
+
+.fi-gb-eng {
+	background-image: url(../iso3166-1-icons/gb-eng.svg);
+}
+
+.fi-es-ga {
+	background-image: url(../iso3166-1-icons/es-ga.svg);
+}
+
+.fi-pw {
+	background-image: url(../iso3166-1-icons/pw.svg);
+}
+
+.fi-sl {
+	background-image: url(../iso3166-1-icons/sl.svg);
+}
+
+.fi-de {
+	background-image: url(../iso3166-1-icons/de.svg);
+}
+
+.fi-ea {
+	background-image: url(../iso3166-1-icons/ea.svg);
+}
+
+.fi-gi {
+	background-image: url(../iso3166-1-icons/gi.svg);
+}
+
+.fi-fm {
+	background-image: url(../iso3166-1-icons/fm.svg);
+}
+
+.fi-kh {
+	background-image: url(../iso3166-1-icons/kh.svg);
+}
+
+.fi-et {
+	background-image: url(../iso3166-1-icons/et.svg);
+}
+
+.fi-fo {
+	background-image: url(../iso3166-1-icons/fo.svg);
+}
+
+.fi-dg {
+	background-image: url(../iso3166-1-icons/dg.svg);
+}
+
+.fi-ec {
+	background-image: url(../iso3166-1-icons/ec.svg);
+}
+
+.fi-sn {
+	background-image: url(../iso3166-1-icons/sn.svg);
+}
+
+.fi-sy {
+	background-image: url(../iso3166-1-icons/sy.svg);
+}
+
+.fi-sx {
+	background-image: url(../iso3166-1-icons/sx.svg);
+}
+
+.fi-pt {
+	background-image: url(../iso3166-1-icons/pt.svg);
+}
+
+.fi-so {
+	background-image: url(../iso3166-1-icons/so.svg);
+}
+
+.fi-eu {
+	background-image: url(../iso3166-1-icons/eu.svg);
+}
+
+.fi-jm {
+	background-image: url(../iso3166-1-icons/jm.svg);
+}
+
+.fi-hr {
+	background-image: url(../iso3166-1-icons/hr.svg);
+}
+
+.fi-ki {
+	background-image: url(../iso3166-1-icons/ki.svg);
+}
+
+.fi-kz {
+	background-image: url(../iso3166-1-icons/kz.svg);
+}
+
+.fi-ie {
+	background-image: url(../iso3166-1-icons/ie.svg);
+}
+
+.fi-km {
+	background-image: url(../iso3166-1-icons/km.svg);
+}
+
+.fi-ir {
+	background-image: url(../iso3166-1-icons/ir.svg);
+}
+
+.fi-gy {
+	background-image: url(../iso3166-1-icons/gy.svg);
+}
+
+.fi-gn {
+	background-image: url(../iso3166-1-icons/gn.svg);
+}
+
+.fi-fj {
+	background-image: url(../iso3166-1-icons/fj.svg);
+}
+
+.fi-pg {
+	background-image: url(../iso3166-1-icons/pg.svg);
+}
+
+.fi-sk {
+	background-image: url(../iso3166-1-icons/sk.svg);
+}
+
+.fi-ro {
+	background-image: url(../iso3166-1-icons/ro.svg);
+}
+
+.fi-sj {
+	background-image: url(../iso3166-1-icons/sj.svg);
+}
+
+.fi-pf {
+	background-image: url(../iso3166-1-icons/pf.svg);
+}
+
+.fi-fk {
+	background-image: url(../iso3166-1-icons/fk.svg);
+}
+
+.fi-eg {
+	background-image: url(../iso3166-1-icons/eg.svg);
+}
+
+.fi-is {
+	background-image: url(../iso3166-1-icons/is.svg);
+}
+
+.fi-id {
+	background-image: url(../iso3166-1-icons/id.svg);
+}
+
+.fi-ky {
+	background-image: url(../iso3166-1-icons/ky.svg);
+}
+
+.fi-iq {
+	background-image: url(../iso3166-1-icons/iq.svg);
+}
+
+.fi-kn {
+	background-image: url(../iso3166-1-icons/kn.svg);
+}
+
+.fi-hu {
+	background-image: url(../iso3166-1-icons/hu.svg);
+}
+
+.fi-ee {
+	background-image: url(../iso3166-1-icons/ee.svg);
+}
+
+.fi-er {
+	background-image: url(../iso3166-1-icons/er.svg);
+}
+
+.fi-fi {
+	background-image: url(../iso3166-1-icons/fi.svg);
+}
+
+.fi-gm {
+	background-image: url(../iso3166-1-icons/gm.svg);
+}
+
+.fi-sh {
+	background-image: url(../iso3166-1-icons/sh.svg);
+}
+
+.fi-ps {
+	background-image: url(../iso3166-1-icons/ps.svg);
+}
+
+.fi-pr {
+	background-image: url(../iso3166-1-icons/pr.svg);
+}
+
+.fi-si {
+	background-image: url(../iso3166-1-icons/si.svg);
+}
+
+.fi-pe {
+	background-image: url(../iso3166-1-icons/pe.svg);
+}
+
+.fi-qa {
+	background-image: url(../iso3166-1-icons/qa.svg);
+}
+
+.fi-gl {
+	background-image: url(../iso3166-1-icons/gl.svg);
+}
+
+.fi-es {
+	background-image: url(../iso3166-1-icons/es.svg);
+}
+
+.fi-ht {
+	background-image: url(../iso3166-1-icons/ht.svg);
+}

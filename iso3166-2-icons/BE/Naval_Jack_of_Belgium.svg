@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="600" height="600">
-	<rect width="200" height="600" fill="#000"/>
-	<rect x="200" width="200" height="600" fill="#fae042"/>
-	<rect x="400" width="200" height="600" fill="#ed2939"/>
-</svg>

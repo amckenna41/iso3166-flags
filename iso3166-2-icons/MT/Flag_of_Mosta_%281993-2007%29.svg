@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="600" height="360" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect width="600" height="360" fill="#fff"/>
- <rect y="129.59" width="600" height="100.83" fill="#f00"/>
- <rect x="249.58" width="100.83" height="360" fill="#f00"/>
- <ellipse cx="299.99" cy="180" rx="72.927" ry="69.354" fill="#fc0"/>
- <path d="m366.6 159.04-107.78 78.3 41.166-126.69 41.166 126.69-107.78-78.3" fill="#00f"/>
-</svg>

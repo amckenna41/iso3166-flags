@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ISO3166 Flags in SVG | iso3166-flag-icons</title>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="scripts/jquery-jvectormap-2.0.5.css">
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/BrowserFS/2.0.0/browserfs.min.js" integrity="sha512-mz0EI+Ay1uIJP7rZEX8C/JlTAcHRIQ8Sny4vxmmj8MSzDJgG9NxxY2pUmOGv1lO7imFIFMyjjCzEXEywNgaUdQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="scripts/jquery-jvectormap-2.0.5.min.js"></script>
+<script src="https://jvectormap.com/js/jquery-jvectormap-world-mill.js"></script>
+<script src="scripts/mapMarkers.js"></script>
+
+<style>
+.header {
+    height: 25%;
+    padding: 15px;
+    text-align: center;
+    background: #dda0c7;
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+}
+
+.title {
+    display: flex;
+    color: white;
+}
+
+
+.mainBtns {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+.mainBtns:hover {
+  background-color: #f3b328;
+  box-shadow: 0px 15px 20px rgba(216, 205, 44, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.mainBtns:active {
+  transform: translateY(-1px);
+}
+
+.dropdowns {
+    padding-top: 20px;
+}
+
+.downloadBtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    gap: 4px;
+}
+
+.fa-2x {
+    font-size: 1.5em;
+}
+
+
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 95%;
+  float: right;
+  table-layout: fixed;
+  margin-bottom: 20px;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid rgb(0, 0, 0);
+  padding: .05em;
+}
+
+table th,
+table td {
+  padding: .5em;
+  text-align: left;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    /* border-bottom: 1px solid #ddd; */
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+
+}
+table td {
+    border: 1px solid rgb(0, 0, 0);
+  }
+
+#countryOutput {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 5%;
+}
+
+.jvectormap-tip {
+    position: absolute;
+    display: none;
+    border: 1px solid #b23427;
+    border-radius: 3px;
+    background: white;
+    color: #425563;
+    font-family: sans-serif, Verdana;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 3px;
+}
+.subdivisionBtns {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* el.html('<span style="font-size:16px;font-weight:700;">' + jurisdiction + '</span>').css("font-size", "14px").css("background-color", "white").css("border", "1px solid #b23427").css("color", "#425563").css("padding", "5px"); */
+
+</style>
+
+<div class="header">
+        <h1>🌎 ISO3166 Flag Icons 🌎</h1>
+        <h2>A comprehensive collection of all ISO3166-1 and ISO3166-2 flag icons in SVG format.</h2>
+    <!-- <a class="headerBtn" href="https://github.com/amckenna41/iso3166-flag-icons"></a> -->
+    <button class="mainBtns" id="githubBtn" onclick="location.href='https://github.com/amckenna41?tab=repositories'" type="button">
+        <i class="fa fa-github fa-2x"></i> Github Repository
+    </button class="mainBtns" onclick="location.href='https://github.com/amckenna41/flag-icons/archive/main.zip'" type="button">
+    <div class="downloadBtn">
+    <button class="mainBtns">
+        <i class="fa fa-download"></i> Download ISO3166-1 icons
+    </button>
+    <button class="mainBtns">
+        <i class="fa fa-download"></i> Download ISO3166-2 icons
+    </button>
+ 
+
+</div>
+
+</div>
+<div class="dropdowns">
+<select class="js-example-basic js-states form-control" data-placeholder="Select Country" id="countrySelect" name="state" style="width: 19%; margin-right: 5px;"></select>
+<select class="js-example-basic js-states form-control" data-placeholder="Select Subdivision" id="subdivisionSelect" name="state" style="width: 19%; display:none"></select>
+</div>
+
+
+<div id="countryOutput">
+    <img id="flagImg" width="25%" height="25%" src="https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/al.svg" style="display: none; margin-right: 20px;"></img>
+    <img id="subdivisionImg" width="26%" height="26%" src="" style="display: none;"></img>
+    <div id="countryTable">
+
+    </div>
+</div>
+
+
+<div id="subdivisionInfo" style="text-align: center; font-size: 18px;">
+    <h3></h3>
+</div>
+
+<div style="background-color: transparent;">
+    <div class="container" style="width: auto; min-height: 550px;">
+    <!-- <div class="jvectormap-tip" id="customTip" style="width: 200px; height: 110px;">&nbsp;</div> -->
+    
+    <div id="map-jurisdiction-filter" style="margin-bottom:20px;">&nbsp;</div>
+    <div id="map-core" style="height: 612px;">&nbsp;</div>
+    
+    </div>
+    </div>
+
+    <div style="text-align: center;">
+        <a href="https://www.flagle.vercel.app/">Play Flagle 🚩</a>
+    </div>
+<script>
+
+//rest countries api - https://restcountries.com/
+var mapColour = "#93959b";
+var countryColour = "#a4d446";
+const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/iso3166-1.json";
+const iso3166_2_json_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/test-2_min.json";
+
+var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
+// var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
+var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/";
+
+var allISO3166_1_json = {};
+var allISO3166_2_json = {};
+var rest_iso3166_2_json = {};
+
+var allCountryCodes = [];
+var countryCodes = {}
+var countryCodesColours = {}
+var countryList= [];
+
+var lookupCountry = "";
+var lookupSubdivision = "";
+
+
+$(document).ready(function () {
+  // $.getJSON('https://storage.googleapis.com/iso3166-1-icond/iso3166-1.json&callback=?', function(data) {
+  // console.log(data);
+    // JSON result in `data` variable
+//     $.ajax(settings).done(function (response) {
+//           console.log(response);
+// });
+
+getJSON(iso3166_1_json_url);
+getJSON(iso3166_2_json_url)
+// getJSON(iso3166_2_url);
+drawCountryDropdown();
+drawMap();
+
+});
+var allJson = {};
+
+//get country data from iSheets
+function getJSON(url="",) {
+ 
+    $.ajax({
+        url: url,
+        method: "GET",  //GET request
+        dataType: "json",
+        async: false,
+        cache: false,
+        success: function success(data) {
+            //         for (var i=0; i<jsonFile.length; i++) {
+            //     countryList.push(jsonFile[i]['Country'])
+            //     countryCodes[jsonFile[i]['Country']] = jsonFile[i]['Code']
+            //     countryCodesColours[jsonFile[i]['Code']] = mapColour;
+            // }
+
+            // countryList.sort();
+            // countryList.unshift("All Countries");
+            if (url.includes("iso3166-1")) {
+                allISO3166_1_json = data;
+                for (var i=0; i<allISO3166_1_json.length; i++) {
+                    countryList.push(allISO3166_1_json[i]['Country'])
+                    countryCodes[allISO3166_1_json[i]['Country']] = allISO3166_1_json[i]['Code']
+                    countryCodesColours[allISO3166_1_json[i]['Code']] = mapColour;
+                }
+                countryList.sort();
+                countryList.unshift("All Countries");
+                
+            } else {
+                allISO3166_2_json = data;
+
+
+            }
+        },
+        error: function error() {
+            console.log('Error...');
+            return;
+        },
+        statusCode: {
+            404: function() {
+            console.log(
+                ""
+            );
+        },
+        403: function() { 
+            console.log(
+                ""
+            );
+        },
+        408: function() { 
+            console.log(
+                "Request Timeout."
+            );
+                }
+        },
+        timeout: 30000  //set timeout for ajax call of 30 seconds 
+
+});
+}
+
+
+
+function getImgSrc(country) {
+
+    var imgDiv = $('#flagImg');
+    var srcURL = "";
+
+    srcURL = iso3166_1_flag_url + '/' + countryCodes[country] + '.svg';
+    srcURL = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/al.svg";
+    imgDiv.attr('src', srcURL);
+
+    imgDiv.show();
+
+//     var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
+// var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
+}
+
+function getSubdivisionSrc(country, subdivision) {
+
+    var imgDiv = $('#subdivisionImg');
+    var srcURL = "";
+
+    $('#subdivisionSelect').val(lookupSubdivision);
+    $('#subdivisionSelect').trigger('change');
+
+    srcURL = iso3166_2_flag_url + '/' + countryCodes[country] + '/' + subdivision + '.svg';
+    // srcURL = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/AD/AD-02.svg"
+    imgDiv.attr('src', srcURL);
+
+    imgDiv.show();
+
+    //     var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
+    // var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
+
+    var subdivisionInfoDiv1 = document.querySelector("#subdivisionInfo > h3:nth-child(1)");
+
+    subdivisionInfoDiv1.innerHTML = rest_iso3166_2_json.subdivisions[lookupSubdivision] + " (" +lookupSubdivision + ")";
+}
+
+//get country data from iSheets
+function restCountries(country) {
+ 
+ if (country != "" && country.toLowerCase() != "all countries" && country != undefined) {
+    $.ajax({
+        url: "https://restcountries.com/v3.1/name/" + country,
+        method: "GET",  //GET request
+        dataType: "json",
+        async: false,
+        cache: false,
+        success: function success(data) {
+            rest_iso3166_2_json = data[0];
+            console.log(data);
+            console.log('here')
+            //  var subdivisionNames = [];
+            var subdivisionNames = {};
+            for (var i=0; i<allISO3166_2_json.length; i++) {
+                if (allISO3166_2_json[i].Code == rest_iso3166_2_json.cca2) {
+                    // for (var j=0; j<allISO3166_2_json[i].Subdivisions.length; j++) {
+                    // for (var [key, val] of Object.entries(allISO3166_2_json[i].Subdivisions)) {
+
+                    //     // subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key].replace(/^.*[\\\/]/, '').replace(/\.[^/.]+$/, ""));
+                    //     subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key]);
+                    // }
+                    rest_iso3166_2_json["subdivisions"] = allISO3166_2_json[i].Subdivisions;
+                }
+            }
+
+        },
+        error: function error() {
+            return;
+        },
+        statusCode: {
+            404: function() {
+            console.log(
+                ""
+            );
+        },
+        403: function() { 
+            console.log(
+                ""
+            );
+        },
+        408: function() { 
+            console.log(
+                "Request Timeout."
+            );
+                }
+        },
+        timeout: 30000  //set timeout for ajax call of 30 seconds 
+
+    });
+ }
+}
+
+
+
+function drawCountryTable(countryJson) {
+    $("#countryTable").empty();
+
+    //Make list of subdivisions in table clickable. 
+
+    if (Object.keys(countryJson).length == 0) {
+        return;
+    }
+
+    console.log('Country table json')
+    console.log(countryJson)
+    var tbl = "";
+    tbl = '<table class="outputTable">';   
+    // tbl += '<caption>' + countryJson.name.common + '</caption>';
+    tbl += '<tbody>';
+    tbl += '<tr><td>Full Name</td><td>' + countryJson.name.common + ' (' + countryJson.cca2 + '/' + countryJson.cca3 +')</td></tr>';
+    tbl += '<tr><td>Official Name</td><td>' + countryJson.name.official + '</td></tr>';
+    tbl += '<tr><td>Capital City</td><td>' + countryJson.capital + '</td></tr>';
+
+    // var index = countryJson.subdivisions.indexOf("All Subdivisions");
+    // if (index > -1) {
+    //     countryJson.subdivisions.splice(index, 1);
+    // }
+    tbl += '<td>Subdivisions</td><td>';
+    // console.log("countryJson.subdivisions", countryJson.subdivisions)
+
+    if (Object.hasOwn(countryJson, 'subdivisions')) {
+    
+        var countrySubdivisions = Object.keys(countryJson.subdivisions).sort();
+
+        for (var i=0; i<countrySubdivisions.length; i++) {
+            // tbl += '<span><a href="javascript:getSubdivisionSrc("'+ countryJson.name.common, countrySubdivisions[i] +')">' + countrySubdivisions[i] +'</a>';
+            tbl += '<span><button class="subdivisionBtns" type="button">' + countrySubdivisions[i] + '</button>';
+            if (i+1==countrySubdivisions.length) {
+                tbl += "</span>"
+            } else {
+                tbl += ", </span>";
+            }
+        }
+    } else {
+        tbl += '<span>No available subdivisions</span>';;
+    }
+    
+    // console.log('countryJson.subdivisions', Object.keys(countryJson.subdivisions).sort().toString().split(',').join(', '));
+    // tbl += Object.keys(countryJson.subdivisions).sort().toString().split(',').join(', ') + '</td></tr>';
+    tbl += '<tr><td>Population</td><td>' + countryJson.population.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + '</td></tr>';
+    tbl += '<tr><td>Total Area</td><td>' + countryJson.area.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + ' km<sub>2</sub></td></tr>';
+    tbl += '<tr><td>Languages</td><td>' + Object.values(countryJson.languages).sort().toString().split(',').join(', ') + '</td></tr>';
+    tbl += '<tr><td>Timezones</td><td>' + countryJson.timezones.sort().toString().split(',').join(', ') + '</td></tr>';
+    // tbl += '<tr><td>Currencies</td><td>' + Object.values(countryJson.currencies)[0].name.capitalize() + '</td></tr>';
+    tbl += '<tr><td>Currencies</td><td>' + Object.values(countryJson.currencies)[0].name.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase()) + '</td></tr>';
+    tbl += '<tr><td>Borders</td><td>';
+
+    if (Object.hasOwn(countryJson, 'borders')) {
+        tbl += countryJson.borders.sort().toString().split(',').join(', ')
+    } else {
+        tbl += 'No borders';
+    }
+    tbl += '</td></tr>';
+
+    tbl += '<tbody>';
+    tbl += '</table>';
+
+    //append to table html element via jquery
+    $("#countryTable").append(tbl);
+
+    var subdBtns = document.getElementsByClassName('subdivisionBtns');
+
+    var addBtnLink = function() {
+        console.log(this.innerHTML);
+        lookupSubdivision = this.innerHTML;
+        getSubdivisionSrc(countryJson.name.common, this.innerHTML);
+    };
+
+    for (var i = 0; i < subdBtns.length; i++) {
+        subdBtns[i].addEventListener('click', addBtnLink, false);
+    }
+
+
+}
+
+
+function drawMap(country="") {
+
+    //if country == EU then colour in all EU countries
+    var countriesToDraw = {};
+    var markers = [];
+
+    if (country == "" || country == undefined || country.length == 0 || Number.isInteger(country)) {
+        countriesToDraw = {};
+    } else {
+        if (countryCodes[country] != undefined) {
+            countriesToDraw[countryCodes[country]] = countryColour;
+        }
+    }
+
+    if (country.toLowerCase() == "all countries") {
+        $('#countryOutput').hide();
+        $('#subdivisionInfo').hide();
+        $('body > div.dropdowns > span:nth-child(4) > span.selection > span').hide();
+        // $('#flagImg').hide();
+        // $('#subdivisionImg').hide();
+        // $('#countryTable').hide();
+
+    }
+    console.log('countriesToDraw', countriesToDraw);
+    
+    
+    var marker = getMarkerLatLng(country);
+    var testMarker = getMarkerLatLng("antigua and barbuda")
+
+    if (marker.length != 0) {
+        markers.push({latLng: marker, name: country, status: 'mrk'});
+    }
+
+    //initialise empty heatmap object
+    $("#map-core").empty();
+
+    //create new JVector map object with desired jurisdictions and markers highlighted
+    world_map = new jvm.Map({
+
+        container: $('#map-core'),  //html container to store heatmap
+        map: 'world_mill',      //version of heatmap to use (world_mill)
+        backgroundColor: "#ffffff",     
+        regionStyle: {initial: {fill: mapColour}},
+        colors: "#ffcc00",  //colours of selected jurisdictions
+        series: {
+            regions: [{ 
+            values: countriesToDraw,
+            attribute: 'fill'
+            }]
+        },
+        markerStyle: {
+            initial: {
+                fill: countryColour,
+                stroke: '#000000' 
+        }
+            },
+        onRegionClick: function(e, code) {
+            if (countriesToDraw[code] == null || countriesToDraw[code] == undefined ) {
+                e.preventDefault();
+            } else {   
+                lookupCountry = world_map.getRegionName(code)
+                $('#countrySelect').val(lookupCountry);
+                $('#countrySelect').trigger('change');
+            }
+        },
+        onMarkerClick: function(e, code){
+            if (countriesToDraw[code] == null || countriesToDraw[code] == undefined ) {
+                e.preventDefault();         
+            } else {
+                lookupCountry = tempMarkers[code].name; 
+                $('#countrySelect').val(lookupCountry);
+                $('#countrySelect').trigger('change');
+                drawCountryTable(rest_iso3166_2_json);
+            }
+        },
+        onRegionTipShow: function(e, el, code) {
+            if (countriesToDraw[code] == null || countriesToDraw[code] == undefined ) {
+                e.preventDefault();
+            } else {
+                var jurisdiction =  world_map.getRegionName(code);
+                //<![CDATA[
+                el.html('<span style="font-size:12px;font-weight:700;">' + jurisdiction + '</span>').css("font-size", "12px").css("background-color", "white").css("border", "1px solid #b23427").css("color", "#425563").css("padding", "3px");           
+                //]]>
+            }
+        },
+        
+        zoomOnScroll: false,
+        zoomOnScrollSpeed: 2,
+        zoomAnimate: true,
+        zoomButtons : false,
+        regionSelectable: true,
+        markersSelectable: true
+    });	 
+        //addMakers function adds an array of markers to the heatmap
+        if (markers.length!=0) {
+            world_map.addMarkers(markers);
+        }
+
+}
+
+function drawCountryDropdown() {
+
+    $("#countrySelect").empty(); 
+
+    $("#countrySelect").select2(); 
+
+    //set placeholder for dropdown 
+    $("#countrySelect").select2({
+        countrySelect: "Select a Country",
+        closeOnSelect: true
+    });
+
+    $.each(countryList, function (i, p) {
+        $('#countrySelect').append($('<option></option>').val(p).html(p));
+    });
+
+}
+
+function drawSubdivisionsDropdown() {
+
+    $("#subdivisionSelect").empty(); 
+
+    $("#subdivisionSelect").select2(); 
+
+    //set placeholder for dropdown 
+    $("#subdivisionSelect").select2({
+        countrySelect: "Select a Subdivision",
+        closeOnSelect: true
+    });
+
+    if (Object.hasOwn(rest_iso3166_2_json, 'subdivisions')) {
+        var subdivisionList = (Object.keys(rest_iso3166_2_json.subdivisions));
+        subdivisionList.unshift("All Subdivisions");
+
+        console.log('subdivisionList', subdivisionList);
+        $.each(subdivisionList, function (i, p) {
+            $('#subdivisionSelect').append($('<option></option>').val(p).html(p));
+        });
+    } else {
+        $('body > div.dropdowns > span:nth-child(4) > span.selection > span').hide();
+    }
+
+}
+
+
+
+
+
+$('#countrySelect').on('select2:select', function (e) {
+    var data = e.params.data;
+});
+
+$("#countrySelect").on("select2:select", function (event) {
+    lookupCountry = $(this).val();
+    drawMap(lookupCountry);
+    restCountries(lookupCountry);
+    //loader here
+    drawSubdivisionsDropdown();
+    getImgSrc(lookupCountry);
+    drawCountryTable(rest_iso3166_2_json);
+
+
+});
+
+$("#countrySelect").on("select2:unselect", function (event) {
+    lookupCountry = $(this).val();
+});
+
+
+
+
+$('#subdivisionSelect').on('select2:select', function (e) {
+    var data = e.params.data;
+});
+
+$("#subdivisionSelect").on("select2:select", function (event) {
+    lookupSubdivision = $(this).val();
+    getSubdivisionSrc(lookupCountry, lookupSubdivision);
+    // drawMap(lookupCountry);
+    // restCountries(lookupCountry);
+    // //loader here
+    // drawCountryTable(rest_iso3166_2_json)
+});
+
+$("#subdivisionSelect").on("select2:unselect", function (event) {
+    lookupCountry = $(this).val();
+});
+
+
+</script>
+
+</html>

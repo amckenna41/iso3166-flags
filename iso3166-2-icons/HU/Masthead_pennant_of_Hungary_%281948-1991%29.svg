@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="150">
-	<path d="M 0,25 V 125 L 2000,75 z" fill="#fff"/>
-	<path d="M 0,0 V 50 L 2000,75 z" fill="#cd2a3e"/>
-	<path d="M 0,100 V 150 L 2000,75 z" fill="#436f4d"/>
-</svg>
