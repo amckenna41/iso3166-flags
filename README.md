@@ -7,7 +7,7 @@
 
 > ** In development - ISO3166-2 flags completed from AD-DK **
 
-> A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here]().
+> A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
 
 Table of Contents
 -----------------
@@ -17,7 +17,6 @@ Table of Contents
   * [Usage](#usage)
   * [Requirements](#requirements)
   * [Installation](#installation)
-  * [Methodology][#methodology]
   * [Directory Folders](#directory-folders)
   * [Open Issues](#Issues)
   * [Contact](#contact)
@@ -67,7 +66,7 @@ yarn add --dev iso3166-flag-icons
 Usage
 -----
 
-The flags can be implemented in-line by referencing the CSS class of the respective flag using the ISO3166-1 or ISO3166-2 CSS file. For ISO3166-1 icons add the classes `.fi` and `.fi-xx` (where `xx` is the ISO 3166-1-alpha-2 code [[2]](#references) of a country) to an empty `<span>`. To add a squared version flag then additionally add the class `fis`. Example: 
+The flags can be implemented in-line by referencing the CSS class of the respective flag using the ISO3166-1 or ISO3166-2 CSS file. For ISO3166-1 icons add the classes `.fi` and `.fi-xx` (where `xx` is the ISO 3166-1-alpha-2 code [[5]](#references) of a country) to an empty `<span>`. To add a squared version flag then additionally add the class `fis`. Example: 
 
 ```html
 <span class="fi fi-ad"></span> <span class="fi fi-ad fis"></span>
@@ -78,8 +77,6 @@ For ISO3166-2 icons add the classes `.fi` and `.fi-xx-yy` (where `xx` is the ISO
 ```html
 <span class="fi fi-ad-02"></span> <span class="fi fi-ad-02 fis"></span>
 ```
-Methodology
------------
 
 Requirements
 ------------
@@ -99,8 +96,8 @@ Requirements
 Directory folders
 -----------------
 
-* `/iso3166-1-icons` - flags of all country/territories/subdivisions according to the ISO3166-1 standard [].
-* `/iso3166-2-icons` - flags of all subdivisions within countries/territories according to the ISO3166-2 standard [].
+* `/iso3166-1-icons` - flags of all country/territories/subdivisions according to the ISO3166-1 standard [[5]](#references).
+* `/iso3166-2-icons` - flags of all subdivisions within countries/territories according to the ISO3166-2 standard [[2]](#references).
 * `/scripts` - various Python and bash scripts created for downloading and compressing all the required flag SVG files for
 both the ISO3166-1 and ISO3166-2 icons. 
 * `/downloads` - directory of zipped iso3166-1 and iso3166-2 flag icons files.
@@ -127,6 +124,8 @@ References
 \[2\]: https://en.wikipedia.org/wiki/ISO_3166-2 <br>
 \[3\]: https://github.com/lipis/flag-icons <br>
 \[4\]: https://github.com/amckenna41/flagle <br>
+\[5\]: https://en.wikipedia.org/wiki/ISO_3166-1  <br>
+
 
 [Back to top](#TOP)
 

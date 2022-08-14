@@ -52,3 +52,6 @@ python3 generateCSS.py --countryFolder="../iso3166-1-icons" --cssFileName="iso31
 
 178 seconds for getAll
 3333 seconds for getISO...
+
+References
+----------

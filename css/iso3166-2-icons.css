@@ -16,10 +16,6 @@
 	width: 1em; 
 }
 
-.fi-ad-ad-08 {
-	background-image: url(../iso3166-2-icons/AD/AD-08.svg);
-}
-
 .fi-ad-ad-02 {
 	background-image: url(../iso3166-2-icons/AD/AD-02.svg);
 }
@@ -36,44 +32,76 @@
 	background-image: url(../iso3166-2-icons/AD/AD-05.svg);
 }
 
-.fi-ad-ad-07 {
-	background-image: url(../iso3166-2-icons/AD/AD-07.svg);
-}
-
 .fi-ad-ad-06 {
 	background-image: url(../iso3166-2-icons/AD/AD-06.svg);
 }
 
-.fi-ae-ae-fu.svg {
-	background-image: url(../iso3166-2-icons/AE/AE-FU.svg.png);
+.fi-ad-ad-07 {
+	background-image: url(../iso3166-2-icons/AD/AD-07.svg);
 }
 
-.fi-ae-ae-uq {
-	background-image: url(../iso3166-2-icons/AE/AE-UQ.svg);
-}
-
-.fi-ae-ae-az {
-	background-image: url(../iso3166-2-icons/AE/AE-AZ.svg);
-}
-
-.fi-ae-ae-rk {
-	background-image: url(../iso3166-2-icons/AE/AE-RK.png);
-}
-
-.fi-ae-ae-du {
-	background-image: url(../iso3166-2-icons/AE/AE-DU.png);
-}
-
-.fi-ae-ae-sh {
-	background-image: url(../iso3166-2-icons/AE/AE-SH.png);
+.fi-ad-ad-08 {
+	background-image: url(../iso3166-2-icons/AD/AD-08.svg);
 }
 
 .fi-ae-ae-aj {
 	background-image: url(../iso3166-2-icons/AE/AE-AJ.svg);
 }
 
+.fi-ae-ae-az {
+	background-image: url(../iso3166-2-icons/AE/AE-AZ.svg);
+}
+
+.fi-ae-ae-du {
+	background-image: url(../iso3166-2-icons/AE/AE-DU.png);
+}
+
+.fi-ae-ae-fu.svg {
+	background-image: url(../iso3166-2-icons/AE/AE-FU.svg.png);
+}
+
+.fi-ae-ae-rk {
+	background-image: url(../iso3166-2-icons/AE/AE-RK.png);
+}
+
+.fi-ae-ae-sh {
+	background-image: url(../iso3166-2-icons/AE/AE-SH.png);
+}
+
+.fi-ae-ae-uq {
+	background-image: url(../iso3166-2-icons/AE/AE-UQ.svg);
+}
+
 .fi-ag-ag-10 {
 	background-image: url(../iso3166-2-icons/AG/AG-10.svg);
+}
+
+.fi-al-al-01 {
+	background-image: url(../iso3166-2-icons/AL/AL-01.svg);
+}
+
+.fi-al-al-02 {
+	background-image: url(../iso3166-2-icons/AL/AL-02.svg);
+}
+
+.fi-al-al-03 {
+	background-image: url(../iso3166-2-icons/AL/AL-03.svg);
+}
+
+.fi-al-al-04 {
+	background-image: url(../iso3166-2-icons/AL/AL-04.png);
+}
+
+.fi-al-al-05 {
+	background-image: url(../iso3166-2-icons/AL/AL-05.png);
+}
+
+.fi-al-al-06 {
+	background-image: url(../iso3166-2-icons/AL/AL-06.svg);
+}
+
+.fi-al-al-07 {
+	background-image: url(../iso3166-2-icons/AL/AL-07.svg);
 }
 
 .fi-al-al-08 {
@@ -88,40 +116,20 @@
 	background-image: url(../iso3166-2-icons/AL/AL-10.png);
 }
 
-.fi-al-al-04 {
-	background-image: url(../iso3166-2-icons/AL/AL-04.png);
-}
-
-.fi-al-al-05 {
-	background-image: url(../iso3166-2-icons/AL/AL-05.png);
-}
-
 .fi-al-al-11 {
 	background-image: url(../iso3166-2-icons/AL/AL-11.svg);
-}
-
-.fi-al-al-06 {
-	background-image: url(../iso3166-2-icons/AL/AL-06.svg);
 }
 
 .fi-al-al-12 {
 	background-image: url(../iso3166-2-icons/AL/AL-12.svg);
 }
 
-.fi-al-al-07 {
-	background-image: url(../iso3166-2-icons/AL/AL-07.svg);
+.fi-am-am-er {
+	background-image: url(../iso3166-2-icons/AM/AM-ER.svg);
 }
 
-.fi-al-al-03 {
-	background-image: url(../iso3166-2-icons/AL/AL-03.svg);
-}
-
-.fi-al-al-02 {
-	background-image: url(../iso3166-2-icons/AL/AL-02.svg);
-}
-
-.fi-al-al-01 {
-	background-image: url(../iso3166-2-icons/AL/AL-01.svg);
+.fi-am-am-gr {
+	background-image: url(../iso3166-2-icons/AM/AM-GR.jpeg);
 }
 
 .fi-am-am-kt {
@@ -132,68 +140,16 @@
 	background-image: url(../iso3166-2-icons/AM/AM-LO.gif);
 }
 
-.fi-am-am-gr {
-	background-image: url(../iso3166-2-icons/AM/AM-GR.jpeg);
-}
-
 .fi-am-am-vd {
 	background-image: url(../iso3166-2-icons/AM/AM-VD.png);
-}
-
-.fi-am-am-er {
-	background-image: url(../iso3166-2-icons/AM/AM-ER.svg);
 }
 
 .fi-ao-ao-cab {
 	background-image: url(../iso3166-2-icons/AO/AO-CAB.svg);
 }
 
-.fi-ar-ar-g {
-	background-image: url(../iso3166-2-icons/AR/AR-G.svg);
-}
-
-.fi-ar-ar-p {
-	background-image: url(../iso3166-2-icons/AR/AR-P.svg);
-}
-
-.fi-ar-ar-q {
-	background-image: url(../iso3166-2-icons/AR/AR-Q.svg);
-}
-
-.fi-ar-ar-f {
-	background-image: url(../iso3166-2-icons/AR/AR-F.svg);
-}
-
-.fi-ar-ar-d {
-	background-image: url(../iso3166-2-icons/AR/AR-D.svg);
-}
-
-.fi-ar-ar-s {
-	background-image: url(../iso3166-2-icons/AR/AR-S.svg);
-}
-
-.fi-ar-ar-r {
-	background-image: url(../iso3166-2-icons/AR/AR-R.svg);
-}
-
-.fi-ar-ar-e {
-	background-image: url(../iso3166-2-icons/AR/AR-E.svg);
-}
-
-.fi-ar-ar-v {
-	background-image: url(../iso3166-2-icons/AR/AR-V.svg);
-}
-
 .fi-ar-ar-a {
 	background-image: url(../iso3166-2-icons/AR/AR-A.svg);
-}
-
-.fi-ar-ar-w {
-	background-image: url(../iso3166-2-icons/AR/AR-W.svg);
-}
-
-.fi-ar-ar-u {
-	background-image: url(../iso3166-2-icons/AR/AR-U.svg);
 }
 
 .fi-ar-ar-b {
@@ -204,60 +160,88 @@
 	background-image: url(../iso3166-2-icons/AR/AR-C.svg);
 }
 
-.fi-ar-ar-t {
-	background-image: url(../iso3166-2-icons/AR/AR-T.svg);
+.fi-ar-ar-d {
+	background-image: url(../iso3166-2-icons/AR/AR-D.svg);
 }
 
-.fi-ar-ar-y {
-	background-image: url(../iso3166-2-icons/AR/AR-Y.svg);
+.fi-ar-ar-e {
+	background-image: url(../iso3166-2-icons/AR/AR-E.svg);
 }
 
-.fi-ar-ar-n {
-	background-image: url(../iso3166-2-icons/AR/AR-N.svg);
+.fi-ar-ar-f {
+	background-image: url(../iso3166-2-icons/AR/AR-F.svg);
 }
 
-.fi-ar-ar-x {
-	background-image: url(../iso3166-2-icons/AR/AR-X.svg);
-}
-
-.fi-ar-ar-z {
-	background-image: url(../iso3166-2-icons/AR/AR-Z.svg);
-}
-
-.fi-ar-ar-m {
-	background-image: url(../iso3166-2-icons/AR/AR-M.svg);
-}
-
-.fi-ar-ar-l {
-	background-image: url(../iso3166-2-icons/AR/AR-L.svg);
+.fi-ar-ar-g {
+	background-image: url(../iso3166-2-icons/AR/AR-G.svg);
 }
 
 .fi-ar-ar-h {
 	background-image: url(../iso3166-2-icons/AR/AR-H.svg);
 }
 
-.fi-ar-ar-k {
-	background-image: url(../iso3166-2-icons/AR/AR-K.svg);
-}
-
 .fi-ar-ar-j {
 	background-image: url(../iso3166-2-icons/AR/AR-J.svg);
 }
 
-.fi-at-at-7 {
-	background-image: url(../iso3166-2-icons/AT/AT-7.svg);
+.fi-ar-ar-k {
+	background-image: url(../iso3166-2-icons/AR/AR-K.svg);
 }
 
-.fi-at-at-6 {
-	background-image: url(../iso3166-2-icons/AT/AT-6.svg);
+.fi-ar-ar-l {
+	background-image: url(../iso3166-2-icons/AR/AR-L.svg);
 }
 
-.fi-at-at-4 {
-	background-image: url(../iso3166-2-icons/AT/AT-4.svg);
+.fi-ar-ar-m {
+	background-image: url(../iso3166-2-icons/AR/AR-M.svg);
 }
 
-.fi-at-at-5 {
-	background-image: url(../iso3166-2-icons/AT/AT-5.svg);
+.fi-ar-ar-n {
+	background-image: url(../iso3166-2-icons/AR/AR-N.svg);
+}
+
+.fi-ar-ar-p {
+	background-image: url(../iso3166-2-icons/AR/AR-P.svg);
+}
+
+.fi-ar-ar-q {
+	background-image: url(../iso3166-2-icons/AR/AR-Q.svg);
+}
+
+.fi-ar-ar-r {
+	background-image: url(../iso3166-2-icons/AR/AR-R.svg);
+}
+
+.fi-ar-ar-s {
+	background-image: url(../iso3166-2-icons/AR/AR-S.svg);
+}
+
+.fi-ar-ar-t {
+	background-image: url(../iso3166-2-icons/AR/AR-T.svg);
+}
+
+.fi-ar-ar-u {
+	background-image: url(../iso3166-2-icons/AR/AR-U.svg);
+}
+
+.fi-ar-ar-v {
+	background-image: url(../iso3166-2-icons/AR/AR-V.svg);
+}
+
+.fi-ar-ar-w {
+	background-image: url(../iso3166-2-icons/AR/AR-W.svg);
+}
+
+.fi-ar-ar-x {
+	background-image: url(../iso3166-2-icons/AR/AR-X.svg);
+}
+
+.fi-ar-ar-y {
+	background-image: url(../iso3166-2-icons/AR/AR-Y.svg);
+}
+
+.fi-ar-ar-z {
+	background-image: url(../iso3166-2-icons/AR/AR-Z.svg);
 }
 
 .fi-at-at-1 {
@@ -272,6 +256,22 @@
 	background-image: url(../iso3166-2-icons/AT/AT-3.svg);
 }
 
+.fi-at-at-4 {
+	background-image: url(../iso3166-2-icons/AT/AT-4.svg);
+}
+
+.fi-at-at-5 {
+	background-image: url(../iso3166-2-icons/AT/AT-5.svg);
+}
+
+.fi-at-at-6 {
+	background-image: url(../iso3166-2-icons/AT/AT-6.svg);
+}
+
+.fi-at-at-7 {
+	background-image: url(../iso3166-2-icons/AT/AT-7.svg);
+}
+
 .fi-at-at-8 {
 	background-image: url(../iso3166-2-icons/AT/AT-8.svg);
 }
@@ -280,152 +280,160 @@
 	background-image: url(../iso3166-2-icons/AT/AT-9.svg);
 }
 
-.fi-au-au-vic {
-	background-image: url(../iso3166-2-icons/AU/AU-VIC.svg);
-}
-
-.fi-au-au-sa {
-	background-image: url(../iso3166-2-icons/AU/AU-SA.svg);
-}
-
-.fi-au-au-qld {
-	background-image: url(../iso3166-2-icons/AU/AU-QLD.svg);
-}
-
 .fi-au-au-act {
 	background-image: url(../iso3166-2-icons/AU/AU-ACT.svg);
-}
-
-.fi-au-au-tas {
-	background-image: url(../iso3166-2-icons/AU/AU-TAS.svg);
 }
 
 .fi-au-au-nsw {
 	background-image: url(../iso3166-2-icons/AU/AU-NSW.svg);
 }
 
-.fi-au-au-wa {
-	background-image: url(../iso3166-2-icons/AU/AU-WA.svg);
-}
-
 .fi-au-au-nt {
 	background-image: url(../iso3166-2-icons/AU/AU-NT.svg);
 }
 
-.fi-az-az-sa {
-	background-image: url(../iso3166-2-icons/AZ/AZ-SA.jpeg);
+.fi-au-au-qld {
+	background-image: url(../iso3166-2-icons/AU/AU-QLD.svg);
+}
+
+.fi-au-au-sa {
+	background-image: url(../iso3166-2-icons/AU/AU-SA.svg);
+}
+
+.fi-au-au-tas {
+	background-image: url(../iso3166-2-icons/AU/AU-TAS.svg);
+}
+
+.fi-au-au-vic {
+	background-image: url(../iso3166-2-icons/AU/AU-VIC.svg);
+}
+
+.fi-au-au-wa {
+	background-image: url(../iso3166-2-icons/AU/AU-WA.svg);
 }
 
 .fi-az-az-ba {
 	background-image: url(../iso3166-2-icons/AZ/AZ-BA.png);
 }
 
-.fi-az-az-sm {
-	background-image: url(../iso3166-2-icons/AZ/AZ-SM.png);
+.fi-az-az-sa {
+	background-image: url(../iso3166-2-icons/AZ/AZ-SA.jpeg);
 }
 
-.fi-az-az-ye {
-	background-image: url(../iso3166-2-icons/AZ/AZ-YE.jpg);
+.fi-az-az-sm {
+	background-image: url(../iso3166-2-icons/AZ/AZ-SM.png);
 }
 
 .fi-az-az-xa {
 	background-image: url(../iso3166-2-icons/AZ/AZ-XA.png);
 }
 
-.fi-ba-ba-srp {
-	background-image: url(../iso3166-2-icons/BA/BA-SRP.svg);
+.fi-az-az-ye {
+	background-image: url(../iso3166-2-icons/AZ/AZ-YE.jpg);
 }
 
 .fi-ba-ba-brc {
 	background-image: url(../iso3166-2-icons/BA/BA-BRC.png);
 }
 
-.fi-be-be-wlx {
-	background-image: url(../iso3166-2-icons/BE/BE-WLX.svg);
-}
-
-.fi-be-be-wbr {
-	background-image: url(../iso3166-2-icons/BE/BE-WBR.svg);
-}
-
-.fi-be-be-wal {
-	background-image: url(../iso3166-2-icons/BE/BE-WAL.svg);
-}
-
-.fi-be-be-wna {
-	background-image: url(../iso3166-2-icons/BE/BE-WNA.svg);
-}
-
-.fi-be-be-vbr {
-	background-image: url(../iso3166-2-icons/BE/BE-VBR.svg);
-}
-
-.fi-be-be-vov {
-	background-image: url(../iso3166-2-icons/BE/BE-VOV.svg);
-}
-
-.fi-be-be-van {
-	background-image: url(../iso3166-2-icons/BE/BE-VAN.svg);
-}
-
-.fi-be-be-vli {
-	background-image: url(../iso3166-2-icons/BE/BE-VLI.svg);
-}
-
-.fi-be-be-vwv {
-	background-image: url(../iso3166-2-icons/BE/BE-VWV.svg);
-}
-
-.fi-be-be-wht {
-	background-image: url(../iso3166-2-icons/BE/BE-WHT.svg);
+.fi-ba-ba-srp {
+	background-image: url(../iso3166-2-icons/BA/BA-SRP.svg);
 }
 
 .fi-be-be-bru {
 	background-image: url(../iso3166-2-icons/BE/BE-BRU.svg);
 }
 
+.fi-be-be-van {
+	background-image: url(../iso3166-2-icons/BE/BE-VAN.svg);
+}
+
+.fi-be-be-vbr {
+	background-image: url(../iso3166-2-icons/BE/BE-VBR.svg);
+}
+
 .fi-be-be-vlg {
 	background-image: url(../iso3166-2-icons/BE/BE-VLG.svg);
+}
+
+.fi-be-be-vli {
+	background-image: url(../iso3166-2-icons/BE/BE-VLI.svg);
+}
+
+.fi-be-be-vov {
+	background-image: url(../iso3166-2-icons/BE/BE-VOV.svg);
+}
+
+.fi-be-be-vwv {
+	background-image: url(../iso3166-2-icons/BE/BE-VWV.svg);
+}
+
+.fi-be-be-wal {
+	background-image: url(../iso3166-2-icons/BE/BE-WAL.svg);
+}
+
+.fi-be-be-wbr {
+	background-image: url(../iso3166-2-icons/BE/BE-WBR.svg);
+}
+
+.fi-be-be-wht {
+	background-image: url(../iso3166-2-icons/BE/BE-WHT.svg);
 }
 
 .fi-be-be-wlg {
 	background-image: url(../iso3166-2-icons/BE/BE-WLG.svg);
 }
 
+.fi-be-be-wlx {
+	background-image: url(../iso3166-2-icons/BE/BE-WLX.svg);
+}
+
+.fi-be-be-wna {
+	background-image: url(../iso3166-2-icons/BE/BE-WNA.svg);
+}
+
 .fi-bg-bg-23 {
 	background-image: url(../iso3166-2-icons/BG/BG-23.svg);
-}
-
-.fi-bh-bh-15 {
-	background-image: url(../iso3166-2-icons/BH/BH-15.svg);
-}
-
-.fi-bh-bh-14 {
-	background-image: url(../iso3166-2-icons/BH/BH-14.svg);
-}
-
-.fi-bh-bh-17 {
-	background-image: url(../iso3166-2-icons/BH/BH-17.svg);
 }
 
 .fi-bh-bh-13 {
 	background-image: url(../iso3166-2-icons/BH/BH-13.svg);
 }
 
-.fi-bo-bo-o {
-	background-image: url(../iso3166-2-icons/BO/BO-O.svg);
+.fi-bh-bh-14 {
+	background-image: url(../iso3166-2-icons/BH/BH-14.svg);
 }
 
-.fi-bo-bo-n {
-	background-image: url(../iso3166-2-icons/BO/BO-N.svg);
+.fi-bh-bh-15 {
+	background-image: url(../iso3166-2-icons/BH/BH-15.svg);
+}
+
+.fi-bh-bh-17 {
+	background-image: url(../iso3166-2-icons/BH/BH-17.svg);
+}
+
+.fi-bo-bo-b {
+	background-image: url(../iso3166-2-icons/BO/BO-B.svg);
+}
+
+.fi-bo-bo-c {
+	background-image: url(../iso3166-2-icons/BO/BO-C.svg);
+}
+
+.fi-bo-bo-h {
+	background-image: url(../iso3166-2-icons/BO/BO-H.svg);
 }
 
 .fi-bo-bo-l {
 	background-image: url(../iso3166-2-icons/BO/BO-L.svg);
 }
 
-.fi-bo-bo-h {
-	background-image: url(../iso3166-2-icons/BO/BO-H.svg);
+.fi-bo-bo-n {
+	background-image: url(../iso3166-2-icons/BO/BO-N.svg);
+}
+
+.fi-bo-bo-o {
+	background-image: url(../iso3166-2-icons/BO/BO-O.svg);
 }
 
 .fi-bo-bo-p {
@@ -440,14 +448,6 @@
 	background-image: url(../iso3166-2-icons/BO/BO-T.svg);
 }
 
-.fi-bo-bo-c {
-	background-image: url(../iso3166-2-icons/BO/BO-C.svg);
-}
-
-.fi-bo-bo-b {
-	background-image: url(../iso3166-2-icons/BO/BO-B.svg);
-}
-
 .fi-bq-bq-bo {
 	background-image: url(../iso3166-2-icons/BQ/BQ-BO.svg);
 }
@@ -460,76 +460,44 @@
 	background-image: url(../iso3166-2-icons/BQ/BQ-SE.svg);
 }
 
-.fi-br-br-pa {
-	background-image: url(../iso3166-2-icons/BR/BR-PA.svg);
-}
-
-.fi-br-br-df {
-	background-image: url(../iso3166-2-icons/BR/BR-DF.svg);
-}
-
-.fi-br-br-pb {
-	background-image: url(../iso3166-2-icons/BR/BR-PB.svg);
-}
-
-.fi-br-br-go {
-	background-image: url(../iso3166-2-icons/BR/BR-GO.svg);
-}
-
-.fi-br-br-rn {
-	background-image: url(../iso3166-2-icons/BR/BR-RN.svg);
-}
-
-.fi-br-br-ro {
-	background-image: url(../iso3166-2-icons/BR/BR-RO.svg);
-}
-
-.fi-br-br-es {
-	background-image: url(../iso3166-2-icons/BR/BR-ES.svg);
-}
-
-.fi-br-br-pe {
-	background-image: url(../iso3166-2-icons/BR/BR-PE.svg);
-}
-
-.fi-br-br-pr {
-	background-image: url(../iso3166-2-icons/BR/BR-PR.svg);
+.fi-br-br-ac {
+	background-image: url(../iso3166-2-icons/BR/BR-AC.svg);
 }
 
 .fi-br-br-al {
 	background-image: url(../iso3166-2-icons/BR/BR-AL.svg);
 }
 
-.fi-br-br-rj {
-	background-image: url(../iso3166-2-icons/BR/BR-RJ.png);
-}
-
 .fi-br-br-am {
 	background-image: url(../iso3166-2-icons/BR/BR-AM.svg);
 }
 
-.fi-br-br-ce {
-	background-image: url(../iso3166-2-icons/BR/BR-CE.svg);
+.fi-br-br-ap {
+	background-image: url(../iso3166-2-icons/BR/BR-AP.svg);
 }
 
 .fi-br-br-ba {
 	background-image: url(../iso3166-2-icons/BR/BR-BA.svg);
 }
 
-.fi-br-br-to {
-	background-image: url(../iso3166-2-icons/BR/BR-TO.svg);
+.fi-br-br-ce {
+	background-image: url(../iso3166-2-icons/BR/BR-CE.svg);
 }
 
-.fi-br-br-ac {
-	background-image: url(../iso3166-2-icons/BR/BR-AC.svg);
+.fi-br-br-df {
+	background-image: url(../iso3166-2-icons/BR/BR-DF.svg);
+}
+
+.fi-br-br-es {
+	background-image: url(../iso3166-2-icons/BR/BR-ES.svg);
+}
+
+.fi-br-br-go {
+	background-image: url(../iso3166-2-icons/BR/BR-GO.svg);
 }
 
 .fi-br-br-ma {
 	background-image: url(../iso3166-2-icons/BR/BR-MA.svg);
-}
-
-.fi-br-br-mt {
-	background-image: url(../iso3166-2-icons/BR/BR-MT.svg);
 }
 
 .fi-br-br-mg {
@@ -540,12 +508,52 @@
 	background-image: url(../iso3166-2-icons/BR/BR-MS.svg);
 }
 
-.fi-br-br-ap {
-	background-image: url(../iso3166-2-icons/BR/BR-AP.svg);
+.fi-br-br-mt {
+	background-image: url(../iso3166-2-icons/BR/BR-MT.svg);
+}
+
+.fi-br-br-pa {
+	background-image: url(../iso3166-2-icons/BR/BR-PA.svg);
+}
+
+.fi-br-br-pb {
+	background-image: url(../iso3166-2-icons/BR/BR-PB.svg);
+}
+
+.fi-br-br-pe {
+	background-image: url(../iso3166-2-icons/BR/BR-PE.svg);
 }
 
 .fi-br-br-pi {
 	background-image: url(../iso3166-2-icons/BR/BR-PI.svg);
+}
+
+.fi-br-br-pr {
+	background-image: url(../iso3166-2-icons/BR/BR-PR.svg);
+}
+
+.fi-br-br-rj {
+	background-image: url(../iso3166-2-icons/BR/BR-RJ.png);
+}
+
+.fi-br-br-rn {
+	background-image: url(../iso3166-2-icons/BR/BR-RN.svg);
+}
+
+.fi-br-br-ro {
+	background-image: url(../iso3166-2-icons/BR/BR-RO.svg);
+}
+
+.fi-br-br-rr {
+	background-image: url(../iso3166-2-icons/BR/BR-RR.svg);
+}
+
+.fi-br-br-rs {
+	background-image: url(../iso3166-2-icons/BR/BR-RS.svg);
+}
+
+.fi-br-br-sc {
+	background-image: url(../iso3166-2-icons/BR/BR-SC.svg);
 }
 
 .fi-br-br-se {
@@ -556,48 +564,40 @@
 	background-image: url(../iso3166-2-icons/BR/BR-SP.svg);
 }
 
-.fi-br-br-sc {
-	background-image: url(../iso3166-2-icons/BR/BR-SC.svg);
-}
-
-.fi-br-br-rs {
-	background-image: url(../iso3166-2-icons/BR/BR-RS.svg);
-}
-
-.fi-br-br-rr {
-	background-image: url(../iso3166-2-icons/BR/BR-RR.svg);
+.fi-br-br-to {
+	background-image: url(../iso3166-2-icons/BR/BR-TO.svg);
 }
 
 .fi-bw-bw-ga {
 	background-image: url(../iso3166-2-icons/BW/BW-GA.gif);
 }
 
-.fi-by-by-ho {
-	background-image: url(../iso3166-2-icons/BY/BY-HO.svg);
+.fi-by-by-br {
+	background-image: url(../iso3166-2-icons/BY/BY-BR.svg);
 }
 
 .fi-by-by-hm {
 	background-image: url(../iso3166-2-icons/BY/BY-HM.svg);
 }
 
-.fi-by-by-ma {
-	background-image: url(../iso3166-2-icons/BY/BY-MA.svg);
+.fi-by-by-ho {
+	background-image: url(../iso3166-2-icons/BY/BY-HO.svg);
 }
 
-.fi-by-by-vi {
-	background-image: url(../iso3166-2-icons/BY/BY-VI.svg);
+.fi-by-by-hr {
+	background-image: url(../iso3166-2-icons/BY/BY-HR.svg);
+}
+
+.fi-by-by-ma {
+	background-image: url(../iso3166-2-icons/BY/BY-MA.svg);
 }
 
 .fi-by-by-mi {
 	background-image: url(../iso3166-2-icons/BY/BY-MI.svg);
 }
 
-.fi-by-by-br {
-	background-image: url(../iso3166-2-icons/BY/BY-BR.svg);
-}
-
-.fi-by-by-hr {
-	background-image: url(../iso3166-2-icons/BY/BY-HR.svg);
+.fi-by-by-vi {
+	background-image: url(../iso3166-2-icons/BY/BY-VI.svg);
 }
 
 .fi-bz-bz-bz {
@@ -612,56 +612,40 @@
 	background-image: url(../iso3166-2-icons/CI/CI-AB.png);
 }
 
-.fi-cl-cl-vs {
-	background-image: url(../iso3166-2-icons/CL/CL-VS.svg);
-}
-
-.fi-cl-cl-nb {
-	background-image: url(../iso3166-2-icons/CL/CL-NB.svg);
-}
-
-.fi-cl-cl-ml {
-	background-image: url(../iso3166-2-icons/CL/CL-ML.svg);
-}
-
-.fi-cl-cl-li {
-	background-image: url(../iso3166-2-icons/CL/CL-LI.svg);
+.fi-cl-cl-ai {
+	background-image: url(../iso3166-2-icons/CL/CL-AI.svg);
 }
 
 .fi-cl-cl-an {
 	background-image: url(../iso3166-2-icons/CL/CL-AN.svg);
 }
 
-.fi-cl-cl-ll {
-	background-image: url(../iso3166-2-icons/CL/CL-LL.svg);
-}
-
-.fi-cl-cl-ai {
-	background-image: url(../iso3166-2-icons/CL/CL-AI.svg);
-}
-
-.fi-cl-cl-rm {
-	background-image: url(../iso3166-2-icons/CL/CL-RM.svg);
+.fi-cl-cl-ap {
+	background-image: url(../iso3166-2-icons/CL/CL-AP.svg);
 }
 
 .fi-cl-cl-ar {
 	background-image: url(../iso3166-2-icons/CL/CL-AR.svg);
 }
 
-.fi-cl-cl-bi {
-	background-image: url(../iso3166-2-icons/CL/CL-BI.svg);
+.fi-cl-cl-at {
+	background-image: url(../iso3166-2-icons/CL/CL-AT.svg);
 }
 
-.fi-cl-cl-ap {
-	background-image: url(../iso3166-2-icons/CL/CL-AP.svg);
+.fi-cl-cl-bi {
+	background-image: url(../iso3166-2-icons/CL/CL-BI.svg);
 }
 
 .fi-cl-cl-co {
 	background-image: url(../iso3166-2-icons/CL/CL-CO.svg);
 }
 
-.fi-cl-cl-at {
-	background-image: url(../iso3166-2-icons/CL/CL-AT.svg);
+.fi-cl-cl-li {
+	background-image: url(../iso3166-2-icons/CL/CL-LI.svg);
+}
+
+.fi-cl-cl-ll {
+	background-image: url(../iso3166-2-icons/CL/CL-LL.svg);
 }
 
 .fi-cl-cl-lr {
@@ -672,20 +656,64 @@
 	background-image: url(../iso3166-2-icons/CL/CL-MA.svg);
 }
 
+.fi-cl-cl-ml {
+	background-image: url(../iso3166-2-icons/CL/CL-ML.svg);
+}
+
+.fi-cl-cl-nb {
+	background-image: url(../iso3166-2-icons/CL/CL-NB.svg);
+}
+
+.fi-cl-cl-rm {
+	background-image: url(../iso3166-2-icons/CL/CL-RM.svg);
+}
+
 .fi-cl-cl-ta {
 	background-image: url(../iso3166-2-icons/CL/CL-TA.svg);
 }
 
-.fi-cn-cn-mo {
-	background-image: url(../iso3166-2-icons/CN/CN-MO.svg);
+.fi-cl-cl-vs {
+	background-image: url(../iso3166-2-icons/CL/CL-VS.svg);
 }
 
 .fi-cn-cn-hk {
 	background-image: url(../iso3166-2-icons/CN/CN-HK.svg);
 }
 
+.fi-cn-cn-mo {
+	background-image: url(../iso3166-2-icons/CN/CN-MO.svg);
+}
+
 .fi-cn-cn-tw {
 	background-image: url(../iso3166-2-icons/CN/CN-TW.svg);
+}
+
+.fi-co-co-ama {
+	background-image: url(../iso3166-2-icons/CO/CO-AMA.svg);
+}
+
+.fi-co-co-ant {
+	background-image: url(../iso3166-2-icons/CO/CO-ANT.svg);
+}
+
+.fi-co-co-ara {
+	background-image: url(../iso3166-2-icons/CO/CO-ARA.svg);
+}
+
+.fi-co-co-atl {
+	background-image: url(../iso3166-2-icons/CO/CO-ATL.svg);
+}
+
+.fi-co-co-bol {
+	background-image: url(../iso3166-2-icons/CO/CO-BOL.svg);
+}
+
+.fi-co-co-boy {
+	background-image: url(../iso3166-2-icons/CO/CO-BOY.svg);
+}
+
+.fi-co-co-cal {
+	background-image: url(../iso3166-2-icons/CO/CO-CAL.svg);
 }
 
 .fi-co-co-caq {
@@ -696,144 +724,108 @@
 	background-image: url(../iso3166-2-icons/CO/CO-CAS.svg);
 }
 
-.fi-co-co-ama {
-	background-image: url(../iso3166-2-icons/CO/CO-AMA.svg);
-}
-
-.fi-co-co-guv {
-	background-image: url(../iso3166-2-icons/CO/CO-GUV.svg);
-}
-
-.fi-co-co-gua {
-	background-image: url(../iso3166-2-icons/CO/CO-GUA.svg);
-}
-
 .fi-co-co-cau {
 	background-image: url(../iso3166-2-icons/CO/CO-CAU.svg);
-}
-
-.fi-co-co-ris {
-	background-image: url(../iso3166-2-icons/CO/CO-RIS.svg);
-}
-
-.fi-co-co-met {
-	background-image: url(../iso3166-2-icons/CO/CO-MET.svg);
-}
-
-.fi-co-co-san {
-	background-image: url(../iso3166-2-icons/CO/CO-SAN.svg);
-}
-
-.fi-co-co-qui {
-	background-image: url(../iso3166-2-icons/CO/CO-QUI.svg);
-}
-
-.fi-co-co-boy {
-	background-image: url(../iso3166-2-icons/CO/CO-BOY.svg);
-}
-
-.fi-co-co-bol {
-	background-image: url(../iso3166-2-icons/CO/CO-BOL.svg);
-}
-
-.fi-co-co-hui {
-	background-image: url(../iso3166-2-icons/CO/CO-HUI.svg);
-}
-
-.fi-co-co-ara {
-	background-image: url(../iso3166-2-icons/CO/CO-ARA.svg);
-}
-
-.fi-co-co-cho {
-	background-image: url(../iso3166-2-icons/CO/CO-CHO.svg);
-}
-
-.fi-co-co-vid {
-	background-image: url(../iso3166-2-icons/CO/CO-VID.svg);
-}
-
-.fi-co-co-suc {
-	background-image: url(../iso3166-2-icons/CO/CO-SUC.svg);
-}
-
-.fi-co-co-sap {
-	background-image: url(../iso3166-2-icons/CO/CO-SAP.svg);
 }
 
 .fi-co-co-ces {
 	background-image: url(../iso3166-2-icons/CO/CO-CES.svg);
 }
 
-.fi-co-co-lag {
-	background-image: url(../iso3166-2-icons/CO/CO-LAG.svg);
-}
-
-.fi-co-co-nar {
-	background-image: url(../iso3166-2-icons/CO/CO-NAR.svg);
-}
-
-.fi-co-co-ant {
-	background-image: url(../iso3166-2-icons/CO/CO-ANT.svg);
+.fi-co-co-cho {
+	background-image: url(../iso3166-2-icons/CO/CO-CHO.svg);
 }
 
 .fi-co-co-cor {
 	background-image: url(../iso3166-2-icons/CO/CO-COR.svg);
 }
 
-.fi-co-co-atl {
-	background-image: url(../iso3166-2-icons/CO/CO-ATL.svg);
-}
-
-.fi-co-co-put {
-	background-image: url(../iso3166-2-icons/CO/CO-PUT.svg);
-}
-
-.fi-co-co-vau {
-	background-image: url(../iso3166-2-icons/CO/CO-VAU.svg);
-}
-
-.fi-co-co-cal {
-	background-image: url(../iso3166-2-icons/CO/CO-CAL.svg);
-}
-
-.fi-co-co-vac {
-	background-image: url(../iso3166-2-icons/CO/CO-VAC.svg);
-}
-
-.fi-co-co-mag {
-	background-image: url(../iso3166-2-icons/CO/CO-MAG.svg);
+.fi-co-co-cun {
+	background-image: url(../iso3166-2-icons/CO/CO-CUN.svg);
 }
 
 .fi-co-co-dc {
 	background-image: url(../iso3166-2-icons/CO/CO-DC.svg);
 }
 
+.fi-co-co-gua {
+	background-image: url(../iso3166-2-icons/CO/CO-GUA.svg);
+}
+
+.fi-co-co-guv {
+	background-image: url(../iso3166-2-icons/CO/CO-GUV.svg);
+}
+
+.fi-co-co-hui {
+	background-image: url(../iso3166-2-icons/CO/CO-HUI.svg);
+}
+
+.fi-co-co-lag {
+	background-image: url(../iso3166-2-icons/CO/CO-LAG.svg);
+}
+
+.fi-co-co-mag {
+	background-image: url(../iso3166-2-icons/CO/CO-MAG.svg);
+}
+
+.fi-co-co-met {
+	background-image: url(../iso3166-2-icons/CO/CO-MET.svg);
+}
+
+.fi-co-co-nar {
+	background-image: url(../iso3166-2-icons/CO/CO-NAR.svg);
+}
+
 .fi-co-co-nsa {
 	background-image: url(../iso3166-2-icons/CO/CO-NSA.svg);
 }
 
-.fi-co-co-cun {
-	background-image: url(../iso3166-2-icons/CO/CO-CUN.svg);
+.fi-co-co-put {
+	background-image: url(../iso3166-2-icons/CO/CO-PUT.svg);
+}
+
+.fi-co-co-qui {
+	background-image: url(../iso3166-2-icons/CO/CO-QUI.svg);
+}
+
+.fi-co-co-ris {
+	background-image: url(../iso3166-2-icons/CO/CO-RIS.svg);
+}
+
+.fi-co-co-san {
+	background-image: url(../iso3166-2-icons/CO/CO-SAN.svg);
+}
+
+.fi-co-co-sap {
+	background-image: url(../iso3166-2-icons/CO/CO-SAP.svg);
+}
+
+.fi-co-co-suc {
+	background-image: url(../iso3166-2-icons/CO/CO-SUC.svg);
 }
 
 .fi-co-co-tol {
 	background-image: url(../iso3166-2-icons/CO/CO-TOL.svg);
 }
 
-.fi-cr-cr-c {
-	background-image: url(../iso3166-2-icons/CR/CR-C.svg);
+.fi-co-co-vac {
+	background-image: url(../iso3166-2-icons/CO/CO-VAC.svg);
+}
+
+.fi-co-co-vau {
+	background-image: url(../iso3166-2-icons/CO/CO-VAU.svg);
+}
+
+.fi-co-co-vid {
+	background-image: url(../iso3166-2-icons/CO/CO-VID.svg);
 }
 
 .fi-cr-cr-a {
 	background-image: url(../iso3166-2-icons/CR/CR-A.svg);
 }
 
-.fi-cr-cr-sj {
-	background-image: url(../iso3166-2-icons/CR/CR-SJ.svg);
-}
-
-.fi-cr-cr-p {
-	background-image: url(../iso3166-2-icons/CR/CR-P.svg);
+.fi-cr-cr-c {
+	background-image: url(../iso3166-2-icons/CR/CR-C.svg);
 }
 
 .fi-cr-cr-g {
@@ -848,12 +840,16 @@
 	background-image: url(../iso3166-2-icons/CR/CR-L.svg);
 }
 
-.fi-cv-cv-mo {
-	background-image: url(../iso3166-2-icons/CV/CV-MO.svg);
+.fi-cr-cr-p {
+	background-image: url(../iso3166-2-icons/CR/CR-P.svg);
 }
 
-.fi-cv-cv-sm {
-	background-image: url(../iso3166-2-icons/CV/CV-SM.svg);
+.fi-cr-cr-sj {
+	background-image: url(../iso3166-2-icons/CR/CR-SJ.svg);
+}
+
+.fi-cv-cv-mo {
+	background-image: url(../iso3166-2-icons/CV/CV-MO.svg);
 }
 
 .fi-cv-cv-pr {
@@ -864,8 +860,36 @@
 	background-image: url(../iso3166-2-icons/CV/CV-RB.png);
 }
 
+.fi-cv-cv-sm {
+	background-image: url(../iso3166-2-icons/CV/CV-SM.svg);
+}
+
 .fi-cy-cy-01 {
 	background-image: url(../iso3166-2-icons/CY/CY-01.svg);
+}
+
+.fi-cz-cz-10 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-10.svg);
+}
+
+.fi-cz-cz-20 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-20.svg);
+}
+
+.fi-cz-cz-31 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-31.svg);
+}
+
+.fi-cz-cz-32 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-32.svg);
+}
+
+.fi-cz-cz-41 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-41.svg);
+}
+
+.fi-cz-cz-42 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-42.svg);
 }
 
 .fi-cz-cz-51 {
@@ -880,32 +904,8 @@
 	background-image: url(../iso3166-2-icons/CZ/CZ-53.svg);
 }
 
-.fi-cz-cz-80 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-80.svg);
-}
-
-.fi-cz-cz-42 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-42.svg);
-}
-
-.fi-cz-cz-41 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-41.svg);
-}
-
-.fi-cz-cz-32 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-32.svg);
-}
-
-.fi-cz-cz-31 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-31.svg);
-}
-
-.fi-cz-cz-20 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-20.svg);
-}
-
-.fi-cz-cz-10 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-10.svg);
+.fi-cz-cz-63 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-63.svg);
 }
 
 .fi-cz-cz-64 {
@@ -920,8 +920,8 @@
 	background-image: url(../iso3166-2-icons/CZ/CZ-72.svg);
 }
 
-.fi-cz-cz-63 {
-	background-image: url(../iso3166-2-icons/CZ/CZ-63.svg);
+.fi-cz-cz-80 {
+	background-image: url(../iso3166-2-icons/CZ/CZ-80.svg);
 }
 
 .fi-dj-dj-dj {
@@ -932,18 +932,18 @@
 	background-image: url(../iso3166-2-icons/DK/DK-81.svg);
 }
 
-.fi-dk-dk-83 {
-	background-image: url(../iso3166-2-icons/DK/DK-83.svg);
-}
-
 .fi-dk-dk-82 {
 	background-image: url(../iso3166-2-icons/DK/DK-82.svg);
 }
 
-.fi-dk-dk-85 {
-	background-image: url(../iso3166-2-icons/DK/DK-85.svg);
+.fi-dk-dk-83 {
+	background-image: url(../iso3166-2-icons/DK/DK-83.svg);
 }
 
 .fi-dk-dk-84 {
 	background-image: url(../iso3166-2-icons/DK/DK-84.svg);
+}
+
+.fi-dk-dk-85 {
+	background-image: url(../iso3166-2-icons/DK/DK-85.svg);
 }

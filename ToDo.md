@@ -22,5 +22,6 @@
 [ ] - Add option to download individual flags on front-end
 [ ] - On main repo, have iso3166-2-icons.json & iso3166-2-icons-min.json (a minimmised version of flags without restcountries data)
 [ ] - Add actual names of 2 letter subdivision codes, maybe using pycountry...
+[ ] - Add play flagle to repo.
 
 https://flagmeister.github.io/?#repoanalyzer
