@@ -95,3 +95,28 @@ def createReadMe(country, code, url, outputFolder):
     #append output string to readme
     with open(readMeFilepath, "a") as readmeFile:
         readmeFile.write(outputStr)
+
+if __name__ == '__main__':
+
+    #parse input arguments using ArgParse 
+    parser = argparse.ArgumentParser(description='')
+
+    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-2-icons", help='Output folder of ISO3166 countrys, ../iso3166-1-icons by default.')
+    parser.add_argument('-jsonFileName', '--jsonFileName', type=str, required=False, default="iso3166-2.json", help='Filename of JSON, iso3166-1-icons.json by default.')
+    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
+
+    #parse input args
+    args = parser.parse_args()
+    countryFolder = args.countryFolder
+    jsonFileName = args.jsonFileName
+    iso3166Type = args.iso3166Type
+
+    #invalid country folder input
+    if not (os.path.isdir(countryFolder)):
+        raise ValueError(f'Country folder not found at path {countryFolder}')
+
+    #create JSON file for either ISO3166-1 or ISO3166-2
+    if (iso3166Type == "iso3166-1"):
+        createISO3166_1_Json(countryFolder=countryFolder, jsonFileName=jsonFileName)
+    else:
+        createISO3166_2_Json(countryFolder=countryFolder, jsonFileName=jsonFileName)

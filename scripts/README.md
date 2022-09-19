@@ -83,10 +83,11 @@ python3 generateCSS.py --countryFolder="../iso3166-1-icons" --cssFileName="iso31
 python3 generateJSON.py --countryFolder="" --jsonFileName="" --iso3166Type=""
 ```
 
+## Create README files for each ISO3166-2 country in iso3166-2-icons dir, listing contents of dir and subdivision info
 
-    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-1-icons", help='Output folder of ISO3166 countrys, ../iso3166-1-icons by default.')
-    parser.add_argument('-jsonFileName', '--jsonFileName', type=str, required=False, default="iso3166-1.json", help='Filename of JSON, iso3166-1-icons.json by default.')
-    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-1", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
+```bash
+python3 generateReadme.py
+```
 
 Tests
 -----
