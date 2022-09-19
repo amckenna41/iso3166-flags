@@ -51,8 +51,8 @@ def createISO3166_1_Json(countryFolder="../iso3166-1-icons", jsonFileName="test-
     #object for storing all json output data
     json_data = []
 
-    #get list of all ISO3166-1 svg files
-    allFiles = [f for f in os.listdir(countryFolder) if os.path.isfile(os.path.join(countryFolder, f))]
+    #get list of all ISO3166-1 svg files, sort 
+    allFiles = sorted([f for f in os.listdir(countryFolder) if os.path.isfile(os.path.join(countryFolder, f))])
 
     #iterate over all svg files in folder, appending country name, code and filepath/url to json
     for country in allFiles:
@@ -100,14 +100,14 @@ def createISO3166_2_Json(countryFolder="../iso3166-2-icons", jsonFileName="iso31
     json_filepath = os.path.join("../", jsonFileName)
     json_min_filepath = os.path.join("../", os.path.splitext(jsonFileName)[0] + '_min' + os.path.splitext(jsonFileName)[1])
 
-    #get list of all ISO3166-2 subfolders
-    allFolders = [f for f in os.listdir(countryFolder) if os.path.isdir(os.path.join(countryFolder, f))]
+    #get list of all ISO3166-2 subfolders, sort
+    allFolders = sorted([f for f in os.listdir(countryFolder) if os.path.isdir(os.path.join(countryFolder, f))])
 
     #iterate over all subdivision folders, getting country and subdivision info, append to json's
     for folder in allFolders:
 
-        #get list of files in country's folder
-        allFiles = [f for f in os.listdir(os.path.join(countryFolder, folder)) if os.path.isfile(os.path.join(countryFolder, folder, f))]
+        #get list of files in country's folder, sort
+        allFiles = sorted([f for f in os.listdir(os.path.join(countryFolder, folder)) if os.path.isfile(os.path.join(countryFolder, folder, f))])
         
         #get country info from restcountries api
         restCountriesResponse = requests.get("https://restcountries.com/v3.1/alpha/" + folder, stream=True, headers=USER_AGENT_HEADER)
@@ -116,9 +116,14 @@ def createISO3166_2_Json(countryFolder="../iso3166-2-icons", jsonFileName="iso31
             restCountriesResponse.raise_for_status()
         except:  
             raise requests.exceptions.HTTPError(f'Error retrieving URL {url}; Status Code {restCountriesResponse.status_code}')
-        
+
+        #skip Kosovo (XK) as has no listed subdivision
+        if (folder == "XK"):
+            continue
+
         #get country name and list of its subdivisions
         countryName = pycountry.countries.get(alpha_2=folder).name
+
         allSubdivisions = list(pycountry.subdivisions.get(country_code=folder))
 
         subdivisions = []
@@ -153,9 +158,9 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-1-icons", help='Output folder of ISO3166 countrys, ../iso3166-1-icons by default.')
-    parser.add_argument('-jsonFileName', '--jsonFileName', type=str, required=False, default="iso3166-1.json", help='Filename of JSON, iso3166-1-icons.json by default.')
-    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-1", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
+    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-2-icons", help='Output folder of ISO3166 countrys, ../iso3166-1-icons by default.')
+    parser.add_argument('-jsonFileName', '--jsonFileName', type=str, required=False, default="iso3166-2.json", help='Filename of JSON, iso3166-1-icons.json by default.')
+    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
 
     #parse input args
     args = parser.parse_args()

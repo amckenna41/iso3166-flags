@@ -1,0 +1,118 @@
+name: Building and Testing iso3166-flag-icons
+
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+
+  # allow for workflow to be manually initiated from the Actions tab
+  workflow_dispatch:
+
+#build and test iso3166-flag-icons
+jobs:
+  #build job
+  build:
+
+    name: Build iso3166-flag-icons
+    runs-on: ubuntu-latest         # platform: [ubuntu-latest, macos-latest, windows-latest]
+    strategy:
+      matrix:
+        python-version: [3.7, 3.8, 3.9]   #testing on multiple python versions
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    # install all required modules and dependancies using pip 
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install flake8 pytest
+        pip3 install codecov
+        pip3 install coverage
+        pip3 install pytest
+        pip3 install pytest-cov
+        pip3 install bandit
+        pip3 install safety
+        if [ -f scripts/requirements.txt ]; then pip install -r /scripts/requirements.txt; fi
+
+  #test job, waits for build job to complete
+  test:
+    needs: build
+
+    #package vulnerability check
+    - name: Package safety check
+      run: |
+       echo "Running package safety check"
+       python3 -m safety check > package_safety_output.txt
+       cat package_safety_output.txt
+      continue-on-error: true
+
+    #run Bandit security check for any known vulnerabilities in code
+    - name: Bandit
+      run: |
+       echo "Running Bandit"
+       python3 -m bandit -r scripts > bandit_output.txt
+       cat bandit_output.txt
+      continue-on-error: true
+    
+    #linting with flake8
+    - name: Lint with flake8
+      run: |
+        echo "Testing using flake8..."
+        # stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics > flake8_output.txt
+        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics >> flake8_output.txt
+      continue-on-error: true
+
+    # unit tests using unittest and pytest
+    - name: Testing with unittest
+      run: |
+        echo "Testing using unittest..."
+        python3 -m unittest discover
+
+    - name: Test with pytest
+      run: |
+        echo "Testing using pytest..."
+        python3 -m pytest scripts/tests/
+        
+    #generate coverage report
+     - name: Generate Report
+       run: pytest --cov .
+
+    #upload to Code Coverage
+     - name: Upload Coverage Report to Codecov
+       uses: codecov/codecov-action@v3
+       with:
+         flags: iso3166_flag_icons_workflow
+
+  #deploy job, waits for test job to complete
+  deploy:
+    needs: test
+    #set gcs bucket name as env var
+    env:
+      GCS_BUCKET: ${{ secrets.GCS_BUCKET }}
+
+    #upload artifacts, logs and outputs to GCP storage bucket
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup - gcloud / gsutil
+        uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+        with:
+          service_account_key: ${{ secrets.GCS_SA_KEY }}
+          project_id: ${{ secrets.GCS_PROJECT }}
+          export_default_credentials: true
+
+      - name: Upload to GCS
+        run: |
+          echo "NOW::$(date +'%Y-%m-%dT%H')" >> $GITHUB_ENV
+          gsutil -m rsync -R package_safety_output gs://$NOW/$GCS_BUCKET
+          gsutil -m rsync -R bandit_output gs://$NOW/$GCS_BUCKET
+          gsutil -m rsync -R flake8_output.txt gs://$NOW/$GCS_BUCKET

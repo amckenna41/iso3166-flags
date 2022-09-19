@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="755.84003" width="1511.84" xml:space="preserve">
+  <defs>
+    <clipPath id="a" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" d="M0 .00018311h1133.88V566.88018H0Z"/>
+    </clipPath>
+    <clipPath id="b" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" d="M-.00012207 566.88H1133.88V.00030518L0 .00024414"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 755.84)">
+    <path style="fill:#000;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M0 .00006104h1133.88V566.88006H0Z"/>
+  </g>
+  <path style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M662.16 378.91v-72.93l69.48-22.54-69.48-22.54v-72.93l-42.95 59-69.48-22.53 42.94 59-42.94 59 69.48-22.53zm-107.37 57.17c10.53 0 20.81-1.07 30.74-3.1l2.23-.57-12.35-1.89c-68.37-14-119.8-74.53-119.8-147.08 0-72.55 51.43-133.08 119.8-147.08l12.35-1.89-2.23-.57c-9.93-2.03-20.21-3.1-30.74-3.1-84.25 0-152.55 68.34-152.55 152.64 0 84.3 68.3 152.64 152.55 152.64z" transform="matrix(1.33333 0 0 -1.33333 0 755.84)"/>
+  <g clip-path="url(#b)" transform="matrix(1.33333 0 0 -1.33333 0 755.84)">
+    <path style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M94.033 472.85V94.034h945.817V472.85ZM.062256 566.88H1133.88V.00006103H-.00012207V566.88Z"/>
+  </g>
+</svg>

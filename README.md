@@ -5,9 +5,14 @@
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 [![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/iso3166-flag-icons)
 
-> ** In development - ISO3166-2 flags completed from AD-DK **
+> ** In development - ISO3166-2 flags in progress: FR, GB, IT, MK, MT, SI, TH **
 
 > A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
+
+To Do
+-----
+* Try and convert any png/jpeg flag images into SVG format. 
+* Create npm release, create package.json.
 
 Table of Contents
 -----------------
@@ -20,6 +25,7 @@ Table of Contents
   * [Directory Folders](#directory-folders)
   * [Open Issues](#Issues)
   * [Contact](#contact)
+  * [License](#license)
   * [References](#references)
 
 Introduction
@@ -72,7 +78,7 @@ The flags can be implemented in-line by referencing the CSS class of the respect
 <span class="fi fi-ad"></span> <span class="fi fi-ad fis"></span>
 ```
 
-For ISO3166-2 icons add the classes `.fi` and `.fi-xx-yy` (where `xx` is the ISO 3166-1-alpha-2 code [[2]](#references) of a country and `yy` is the ISO 3166-2 code) to an empty `<span>`. 
+For ISO3166-2 icons add the classes `.fi` and `.fi-xx-yy` (where `xx` is the ISO 3166-1-alpha-2 code [[2]](#references) of a country and `yy` is the ISO 3166-2 code, both in lower-case) to an empty `<span>`. For example to import the flag for the Canillo Parish of Andorra:
 
 ```html
 <span class="fi fi-ad-02"></span> <span class="fi fi-ad-02 fis"></span>
@@ -93,7 +99,7 @@ Requirements
 * [pyWikiCommons][pyWikiCommons] >= 0.0.1
 
 
-Directory folders
+Folders and files
 -----------------
 
 * `/iso3166-1-icons` - flags of all country/territories/subdivisions according to the ISO3166-1 standard [[5]](#references).
@@ -103,6 +109,11 @@ both the ISO3166-1 and ISO3166-2 icons.
 * `/downloads` - directory of zipped iso3166-1 and iso3166-2 flag icons files.
 * `/css` - css scripts for integrating the flags into front-end projects.
 * `/images` - directory for any images used in repo.
+
+* `index.html` - front-end demo for iso3166-flag-icons repo.
+* `iso3166-1.json` - json containing all ISO3166-1 country names, 2 letter codes and relative path to flag icon in repo.
+* `iso3166-2.json` - json containing all ISO3166-2 country names, 2 letter codes, all subdivision codes and common names as well as all info pulled per country via the restcountries api (https://restcountries.com/).
+* `iso3166-2_min.json` - minmised json containing all ISO3166-2 country names, 2 letter codes and all subdivision codes and common names.
 
 Issues
 ------
@@ -117,6 +128,9 @@ If you have any questions or feedback, please contact amckenna41@qub.ac.uk or vi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-mckenna-7a5b22151/)
 
+License
+-----------
+Distributed under the MIT License. See `LICENSE` for more details.  
 
 References
 ----------
@@ -141,10 +155,3 @@ References
 [emoji-country-flag]: https://pypi.org/project/emoji-country-flag/
 [fuzzywuzzy]: https://pypi.org/project/fuzzywuzzy/
 
-
-<!-- **all country folders manually checked, removing any unneeded imgs and renaming etc. -->
-
-
-<!-- Add unit tests - check nunber of imgs downloaded = total on subdivisios page, hardcode subdivisions. -->
-
-<!-- Mention that flags are from wikimedia commons and are under creatvie commons license -->

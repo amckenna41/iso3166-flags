@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Author: Eric Barriere -->
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+
+<rect height="300" width="500" fill="#ffd203"/>
+<g stroke="#08672f">
+
+<g fill="none" stroke-width="8">
+<circle cx="154" cy="35" r="15"/>
+<circle cx="250" cy="35" r="15"/>
+<circle cx="346" cy="35" r="15"/>
+</g>
+
+<path d="M154,54v151c0,11,9,20,20,20s20-9,20-20v-37h36v90c0,11,9,20,20,20s20-9,
+20-20v-90h36v37c0,11,9,20,20,20s20-9,20-20V54" fill="#ed2939" stroke-width="14"/>
+</g>
+</svg>

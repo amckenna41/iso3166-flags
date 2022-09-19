@@ -102,9 +102,9 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-1-icons", help='Output folder of ISO3166 countrys, ../iso3166-2-icons by default.')
-    parser.add_argument('-cssFileName', '--cssFileName', type=str, required=False, default="iso3166-1-icons.css", help='Filename of CSS, iso3166-1-icons.css by default.')
-    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-1", help='Create ISO3166-1 or ISO3166-2 CSS file, ISO3166-1 by default.')
+    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-2-icons", help='Output folder of ISO3166 countrys, ../iso3166-2-icons by default.')
+    parser.add_argument('-cssFileName', '--cssFileName', type=str, required=False, default="iso3166-2-icons.css", help='Filename of CSS, iso3166-1-icons.css by default.')
+    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 CSS file, ISO3166-1 by default.')
 
     #parse input args
     args = parser.parse_args()

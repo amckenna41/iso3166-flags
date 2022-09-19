@@ -17,7 +17,6 @@ import pandas as pd
 import argparse
 from bs4 import BeautifulSoup as bs
 from urllib.parse import urljoin, urlparse, unquote
-import subprocess
 import unicodedata
 from pyWikiCommons import pyWikiCommons
 
@@ -87,7 +86,8 @@ if __name__ == '__main__':
     outputFolder = args.output
     countryInput = args.country
     url_csv = args.url_csv
-        
+      
+    url_csv = "test_urls.csv"
     #import csv of countrys and their wiki urls
     country_csv = pd.read_csv(os.path.join("iso3166-files", url_csv))
     
@@ -121,7 +121,7 @@ if __name__ == '__main__':
       print(f'\n###### {country_} ({iso_code}): {url_} ######')
 
       #download all images from wiki url, store in output folder in iso_code subdir
-      # get_all_images_from_url(url_, outputFolder, country_, iso_code)
+      get_all_images_from_url(url_, outputFolder, country_, iso_code)
 
       #generate readme of all images in subdir of output folder
       createReadMe(country_, iso_code, url_, outputFolder)

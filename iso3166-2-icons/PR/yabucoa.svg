@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="300px" height="200px" viewBox="0 0 300 200" enable-background="new 0 0 300 200" xml:space="preserve">
+<defs>
+</defs>
+<rect fill="#660066" width="300" height="200"/>
+<polygon fill="#FFFFFF" points="0,0 0,200 150,100 "/>
+<polygon fill="#FFFFFF" points="300,0 150,100 300,200 "/>
+<polygon fill="#006600" points="0,0 60,100 0,200 "/>
+<polygon fill="#006600" points="300,0 240,100 300,200 "/>
+</svg>

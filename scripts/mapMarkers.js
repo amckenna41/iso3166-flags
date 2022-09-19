@@ -1,5 +1,18 @@
+/*
+This script is taken from a custom-built library called jsVectorMapMarkers (https://github.com/amckenna41/jsVectorMapMarkers).
+The library & this script contain a list of marker coordinates for various places/jurisdictions for compatibility
+and use in jsVectorMap interactive maps.
+This script is used to display the smallest countries/jurisdictions for the front-end demo.
+*/
+
 function getMarkerLatLng(country) {
-    
+    /**
+     * Return the coordinates of input country as an array of latitude and longitude, 
+     * so the country marker can be added to the jsVectorMap interactive map on front-end.
+     *
+     * @param country {string} - country name, alpha-2 code or alpha-3 code.
+     */
+
     //validate input var is of type string
     if (typeof country !== 'string') {
         return [];

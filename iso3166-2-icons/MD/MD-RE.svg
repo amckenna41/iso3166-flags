@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="450" height="300" 
+ viewBox="0 0 450 300"
+ >
+  <rect x="0" y="0" width="450" height="300" fill="#008DFF" stroke="no"/>  
+  <rect x="150" y="0" width="150" height="300" fill="#FFFFFF" stroke="no"/>
+  <path fill="#FFFF00"
+		stroke="black"
+		stroke-width="0.7px"       
+        d="M 70,35 H80 V45 H90 V55 H80 V67 H92 V57 H102 V67 H112 V77 H102 V87 H92 V77 H80 V89 H90 V99 H80 V109 H70 V99 H60 V89 H70 V77 H58 V87 H48 V77 H38 V67 H48 V57 H58 V67 H70 V55 H60 V45 H70 V35 Z"/>
+</svg>

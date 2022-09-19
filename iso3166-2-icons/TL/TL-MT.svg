@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1200" height="600" viewBox="0 0 12 6">
+<title>Flag of Manatuto, Timor-Leste</title>
+<path d="M0,0H12V6H0z" fill="#30f"/>
+<path d="M0,2H12V4H0z" fill="#00d000"/>
+<path d="M0,0V0,6L6,3z" fill="#ffc726"/>
+<path d="M0,0V0,6L4,3z" fill="#000"/>
+<path d="M1.0304,2.0609 2.4319,3.4838 0.4617,3.1564 2.2481,2.2632 1.3279,4.0358z" fill="#fff"/>
+</svg>

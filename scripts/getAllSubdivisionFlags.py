@@ -138,7 +138,9 @@ def download(url, pathname, country, folder="../countries", decode=True):
                     '_Prefecture': '',
                     'bandera_': '',
                     'Bandera_': '',
-                    '_governorate': ''}
+                    '_governorate': '',
+                    'Canton': '',
+                    'canton': ''}
     
     #iterate through filename, replacing above chars/substrings with empty space
     for key, value in char_to_replace.items():

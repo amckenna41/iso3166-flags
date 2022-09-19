@@ -1,0 +1,37 @@
+# El Salvador 🇸🇻 Subdivisions
+
+Source: https://en.wikipedia.org/wiki/Flags_of_country_subdivisions
+
+* bandera de san salvador 2015 [bandera_de_san_salvador_2015.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/bandera_de_san_salvador_2015.svg)
+* bandera de san salvador 2021 [bandera_de_san_salvador_2021.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/bandera_de_san_salvador_2021.svg)
+* bandera de santa ana el salvador [bandera_de_santa_ana_el_salvador.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/bandera_de_santa_ana_el_salvador.svg)
+* bandera de sonsonate [bandera_de_sonsonate.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/bandera_de_sonsonate.png)
+* bandera del departamento de ahuachapan [bandera_del_departamento_de_ahuachapan.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/bandera_del_departamento_de_ahuachapan.png)
+* bandera del departamento de cuscatlan [bandera_del_departamento_de_cuscatlan.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/bandera_del_departamento_de_cuscatlan.png)
+* bandera del departamento de la paz es [bandera_del_departamento_de_la_paz_es.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/bandera_del_departamento_de_la_paz_es.jpg)
+* cabanas department [cabanas_department.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/cabanas_department.svg)
+* departamento de la union [departamento_de_la_union.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/departamento_de_la_union.svg)
+* la libertad department el salvador [la_libertad_department_el_salvador.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/la_libertad_department_el_salvador.svg)
+* la libertad el salvador [la_libertad_el_salvador.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/la_libertad_el_salvador.svg)
+* morazan department [morazan_department.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/morazan_department.svg)
+* readme [readme.md](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/readme.md)
+* san miguel department [san_miguel_department.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/san_miguel_department.png)
+* san vicente department [san_vicente_department.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/san_vicente_department.svg)
+* sv-ca [sv-ca.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/sv-ca.svg)
+* sv-ch [sv-ch.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/sv-ch.svg)
+* sv-mo [sv-mo.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/sv-mo.svg)
+* sv-sm [sv-sm.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/sv-sm.png)
+* sv-ss [sv-ss.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/sv-ss.png)
+* sv-sv [sv-sv.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/sv-sv.svg)
+* sv-us [sv-us.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/sv-us.svg)
+* usulatan department [usulatan_department.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SV/usulatan_department.svg)
+
+El Salvador ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:SV)
+
+* SV-SO: Sonsonate (Department)
+* SV-LI: La Libertad (Department)
+* SV-AH: Ahuachapán (Department)
+* SV-PA: La Paz (Department)
+* SV-UN: La Unión (Department)
+* SV-SA: Santa Ana (Department)
+* SV-CU: Cuscatlán (Department)

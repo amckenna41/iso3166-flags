@@ -1,0 +1,37 @@
+# Seychelles 🇸🇨 Subdivisions
+
+Source: https://en.wikipedia.org/wiki/Flags_of_country_subdivisions
+
+* coat of arms of seychelles [coat_of_arms_of_seychelles.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SC/coat_of_arms_of_seychelles.svg)
+* praslin [praslin.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SC/praslin.svg)
+* readme [readme.md](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SC/readme.md)
+
+Seychelles ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:SC)
+
+* SC-16: English River (District)
+* SC-17: Mont Buxton (District)
+* SC-18: Mont Fleuri (District)
+* SC-19: Plaisance (District)
+* SC-20: Pointe Larue (District)
+* SC-21: Port Glaud (District)
+* SC-22: Saint Louis (District)
+* SC-01: Anse aux Pins (District)
+* SC-23: Takamaka (District)
+* SC-02: Anse Boileau (District)
+* SC-24: Les Mamelles (District)
+* SC-03: Anse Etoile (District)
+* SC-25: Roche Caiman (District)
+* SC-04: Au Cap (District)
+* SC-26: Ile Perseverance I (District)
+* SC-05: Anse Royale (District)
+* SC-27: Ile Perseverance II (District)
+* SC-06: Baie Lazare (District)
+* SC-07: Baie Sainte Anne (District)
+* SC-08: Beau Vallon (District)
+* SC-09: Bel Air (District)
+* SC-10: Bel Ombre (District)
+* SC-11: Cascade (District)
+* SC-12: Glacis (District)
+* SC-13: Grand Anse Mahe (District)
+* SC-14: Grand Anse Praslin (District)
+* SC-15: La Digue (District)

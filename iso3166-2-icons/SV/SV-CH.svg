@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:odm="http://product.corel.com/CGS/11/cddns/" xml:space="preserve" width="1143px" height="614px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd"
+     viewBox="0 0 1143 614">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:#FFFFFF}
+    .fil1 {fill:#000080}
+    .fil2 {fill:#008000}
+    .fil4 {fill:#E6C800}
+    .fil0 {fill:#FFFFFF}
+    .fnt0 {font-weight:normal;font-size:115px;font-family:serif}
+   ]]>
+  </style>
+ </defs>
+ <path class="fil0" d="M0 0l1143 0 0 614 -1143 0 0 -614z"/>
+ <g id="Layer 1">
+  <rect class="fil1" x="0" y="0" width="1143" height="205"/>
+  <rect class="fil2" x="0" y="409" width="1143" height="224"/>
+  <path class="fil3" d="M147 552l74 -20 0 45 -75 20 1 -45z"/>
+  <path class="fil3" d="M149 572c-32,-66 -76,-114 -130,-108l1 -8c56,-7 105,43 129,101l0 15z"/>
+  <path class="fil3" d="M340 429l-194 120 2 7 200 -122 0 7c9,-4 17,-9 24,-14 -11,-2 -22,-1 -32,2z"/>
+  <text x="44" y="350" class="fil4 fnt0">CHALATENANGO</text>
+ </g>
+</svg>

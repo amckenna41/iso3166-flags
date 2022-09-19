@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="216">
+<rect width="360" height="216" fill="#002395"/>
+<path d="M0,0L360,216" stroke="#ffd203" stroke-width="78"/>
+<path d="M0,0L360,216" stroke="#002395" stroke-width="36"/>
+<path d="M0,0L360,216" stroke="#fff" stroke-width="30"/>
+<g transform="rotate(30.9637565)">
+<path id="line" stroke="#002395" stroke-width="3" fill="none" d="M-19.5,22.5 h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33v-6h-13.5v-6h33v6h-13.5v6h33"/>
+<use xlink:href="#line" transform="scale(1,-1)"/>
+</g>
+</svg>

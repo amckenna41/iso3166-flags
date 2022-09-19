@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000.0002" height="645.16199" version="1.0" viewBox="0 0 750.00014 483.87148" xmlns="http://www.w3.org/2000/svg">
+ <metadata>Created by potrace 1.14, written by Peter Selinger 2001-2017</metadata>
+ <rect width="375" height="241.93547" fill="#019348" opacity=".999"/>
+ <rect x="375" y="241.93575" width="375" height="241.93575" fill="#019348" opacity=".999"/>
+ <rect x="6.8664551e-5" y="241.93626" width="375" height="241.93547" fill="#ffffff" opacity=".999"/>
+ <rect x="375" y="-3.5527137e-15" width="375" height="241.93547" fill="#ffffff" opacity=".999"/>
+ <g transform="translate(6.8664551e-5,-2.4526074e-4)" stroke-width="3.0896">
+  <path d="m449.99999 45.968262-74.99999 75.000558v120.96769h120.96826l74.99999-75.00055h-120.96826v-45.96714z" fill="#019348" opacity=".999"/>
+  <path d="m300.00001 437.90476 74.99999-75.00056v-120.96769h-120.96826l-74.99999 75.00055h120.96826v45.96714z" fill="#019348" opacity=".999"/>
+  <path d="m179.03175 166.93548 75.00056 74.99999h120.96769v-120.96826l-75.00055-74.999989v120.968259h-45.96714z" fill="#ffffff" opacity=".999"/>
+  <path d="m570.96825 316.93546-75.00056-74.99999h-120.96769v120.96826l75.00055 74.99999v-120.96826h45.96714z" fill="#ffffff" opacity=".999"/>
+ </g>
+</svg>

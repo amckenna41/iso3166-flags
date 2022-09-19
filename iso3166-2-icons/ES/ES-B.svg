@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 27 18">
+<clipPath id="c">
+<path d="m8.5,9 5,-5 5,5 -5,5z" id="r"/>
+</clipPath>
+<path d="M0,0H27V18H0z" fill="#fcdd09"/>
+<path d="M0,3H27m0,4H0m0,4H27m0,4H0" stroke="#da121a" stroke-width="2"/>
+<use xlink:href="#r" fill="#fff" stroke="#fcdd09" stroke-width="0.18"/>
+<g stroke="#fcdd09" stroke-width="1.272">
+<path d="M8.5,9h10m-5,-5v10" clip-path="url(#c)" id="s"/>
+</g>
+<use xlink:href="#s" stroke="#da121a" stroke-width="1.2"/>
+<use xlink:href="#r" fill="none" stroke="#fcdd09" stroke-width="0.036"/>
+</svg>

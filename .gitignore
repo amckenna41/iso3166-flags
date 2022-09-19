@@ -4,7 +4,6 @@ outputs/
 scripts/old_stuff/
 countries/
 node_modules/
-iso3166-2-icons_dontdelete_main/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

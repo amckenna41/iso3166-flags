@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1800">
+	<rect width="3000" height="1800" fill="#dc241f"/>
+	<path d="M 150,225 L 2850,1575 M 2850,225 L 150,1575" stroke="#fff" stroke-width="300"/>
+	<path d="M 0,0 H 3000 V 1800 H 0 z M 300,300 V 1500 H 2700 V 300 z" fill="#000"/>
+	<g fill="#ffd100">
+		<circle cx="150" cy="150" r="90"/>
+		<circle cx="825" cy="150" r="90"/>
+		<circle cx="1500" cy="150" r="90"/>
+		<circle cx="2175" cy="150" r="90"/>
+		<circle cx="2850" cy="150" r="90"/>
+		<circle cx="2850" cy="900" r="90"/>
+		<circle cx="2850" cy="1650" r="90"/>
+		<circle cx="2175" cy="1650" r="90"/>
+		<circle cx="1500" cy="1650" r="90"/>
+		<circle cx="825" cy="1650" r="90"/>
+		<circle cx="150" cy="1650" r="90"/>
+		<circle cx="150" cy="900" r="90"/>
+	</g>
+</svg>

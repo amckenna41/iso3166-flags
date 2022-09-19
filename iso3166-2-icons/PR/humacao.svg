@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="375" height="225" id="humacao_flag_svg">
+<desc>Flag of Humacao, Puerto Rico</desc>
+<rect fill="#FFFF00" width="375" height="90" />
+<rect fill="#FF0000" width="375" height="45" y="90" />
+<rect fill="#008000" width="375" height="90" y="135" />
+</svg>

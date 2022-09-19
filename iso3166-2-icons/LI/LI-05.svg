@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="2400" id="Flag_of_Planken1">
+
+<g transform="scale(1.171875,1.171875)">
+
+ <rect width="256" height="2048" fill="rgb(255,255,255)" />
+
+ <rect width="256" height="2048" x="256" fill="rgb(0,102,51)" />
+
+<g style="fill-opacity:1.0;fill-rule:evenodd;fill:rgb(255,229,0);stroke:none;">
+  <polygon points="128.008,101.93 159.398,170.885 231.106,161.19 
+    186.82,222.722 231.106,279.711 155.43,272.287 128.008,338.971 
+    96.618,269.983 24.9104,279.711 69.1957,218.146 24.9104,161.19 
+    100.586,168.613 128.008,101.93 128.008,101.93 "/>
+</g>
+
+</g>
+
+</svg>

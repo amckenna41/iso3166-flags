@@ -2,8 +2,10 @@
 <html lang="en">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>ISO3166 Flags in SVG | iso3166-flag-icons</title>
+<title>ISO3166-1 & ISO3166-2 Flags | iso3166-flag-icons </title>
+<link rel="icon" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/globe-showing-americas_1f30e.png">
 
+<!-- import external JS and CSS scripts -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
 <link rel="stylesheet" type="text/css" href="scripts/jquery-jvectormap-2.0.5.css">
@@ -18,6 +20,7 @@
 <script src="scripts/mapMarkers.js"></script>
 
 <style>
+
 .header {
     height: 25%;
     padding: 15px;
@@ -33,7 +36,6 @@
     display: flex;
     color: white;
 }
-
 
 .mainBtns {
   padding: 1.3em 3em;
@@ -78,8 +80,6 @@
 .fa-2x {
     font-size: 1.5em;
 }
-
-
 
 table {
   border: 1px solid #ccc;
@@ -164,9 +164,10 @@ table th {
   }
 
 }
+
 table td {
     border: 1px solid rgb(0, 0, 0);
-  }
+}
 
 #countryOutput {
     display: flex;
@@ -187,6 +188,7 @@ table td {
     font-weight: 700;
     padding: 3px;
 }
+
 .subdivisionBtns {
   background: none!important;
   border: none;
@@ -198,106 +200,172 @@ table td {
   text-decoration: underline;
   cursor: pointer;
 }
-/* el.html('<span style="font-size:16px;font-weight:700;">' + jurisdiction + '</span>').css("font-size", "14px").css("background-color", "white").css("border", "1px solid #b23427").css("color", "#425563").css("padding", "5px"); */
+
+#flagImg, #subdivisionImg {
+    border: black 1px solid;
+}
+
+#loader {
+  margin: auto;
+  width: 50px;
+  --b: 8px; /* the border thickness */
+  aspect-ratio: 1;
+  border-radius: 50%;
+  padding: 1px;
+  background: conic-gradient(#0000 10%,#f03355) content-box;
+  -webkit-mask:
+    repeating-conic-gradient(#0000 0deg,#000 1deg 20deg,#0000 21deg 36deg),
+    radial-gradient(farthest-side,#0000 calc(100% - var(--b) - 1px),#000 calc(100% - var(--b)));
+  -webkit-mask-composite: destination-in;
+  mask-composite: intersect;
+  animation:s4 1s infinite steps(10);
+}
+@keyframes s4 {to{transform: rotate(1turn)}}
+
+/* CSS */
+.playFlagle {
+  /* background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #673FD7 64.72%); */
+  border-radius: 12px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-family: "Inter UI","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  height: 4rem;
+  padding: 4px 1.6rem;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
+  transition: all .5s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  background-color: #17801e;
+}
+
+.playFlagle:hover {
+  box-shadow: rgba(80, 63, 205, 0.5) 0 1px 30px;
+  transition-duration: .1s;
+  background-color: #1ba723;
+}
+
+@media (min-width: 768px) {
+  .playFlagle {
+    padding: 4px 1.6rem;
+  }
+}
 
 </style>
 
+<!-- Header info and buttons -->
 <div class="header">
-        <h1>🌎 ISO3166 Flag Icons 🌎</h1>
-        <h2>A comprehensive collection of all ISO3166-1 and ISO3166-2 flag icons in SVG format.</h2>
+    <h1>🌎 ISO3166 Flag Icons 🌎</h1>
+    <h2>A comprehensive collection of all ISO3166-1 and ISO3166-2 flag icons in SVG format.</h2>
     <!-- <a class="headerBtn" href="https://github.com/amckenna41/iso3166-flag-icons"></a> -->
-    <button class="mainBtns" id="githubBtn" onclick="location.href='https://github.com/amckenna41?tab=repositories'" type="button">
+    <button class="mainBtns" id="githubBtn" onclick="location.href='https://github.com/amckenna41/iso3166-flag-icons'" type="button">
         <i class="fa fa-github fa-2x"></i> Github Repository
     </button class="mainBtns" onclick="location.href='https://github.com/amckenna41/flag-icons/archive/main.zip'" type="button">
     <div class="downloadBtn">
-    <button class="mainBtns">
+    <a href="https://github.com/amckenna41/flag-icons/tree/main/iso3166-downloads/iso3166-1-icons.zip" class="mainBtns">
         <i class="fa fa-download"></i> Download ISO3166-1 icons
-    </button>
-    <button class="mainBtns">
+    </a>
+    <a href="" class="mainBtns">
         <i class="fa fa-download"></i> Download ISO3166-2 icons
-    </button>
- 
-
+    </a>
 </div>
 
+<!-- country and subdivision dropdown -->
 </div>
-<div class="dropdowns">
-<select class="js-example-basic js-states form-control" data-placeholder="Select Country" id="countrySelect" name="state" style="width: 19%; margin-right: 5px;"></select>
-<select class="js-example-basic js-states form-control" data-placeholder="Select Subdivision" id="subdivisionSelect" name="state" style="width: 19%; display:none"></select>
+    <div class="dropdowns">
+    <select class="js-example-basic js-states form-control" data-placeholder="Select Country" id="countrySelect" name="state" style="width: 19%; margin-right: 5px;"></select>
+    <select class="js-example-basic js-states form-control" data-placeholder="Select Subdivision" id="subdivisionSelect" name="state" style="width: 19%; display:none"></select>
 </div>
 
-
+<!-- flags and country output table -->
 <div id="countryOutput">
-    <img id="flagImg" width="25%" height="25%" src="https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/al.svg" style="display: none; margin-right: 20px;"></img>
+    <img id="flagImg" width="25%" height="25%" src="" style="display: none; margin-right: 20px;"></img>
     <img id="subdivisionImg" width="26%" height="26%" src="" style="display: none;"></img>
     <div id="countryTable">
-
     </div>
 </div>
 
+<!-- CSS loader -->
+<div id="loader"></div>
 
+<!-- subdivision info -->
 <div id="subdivisionInfo" style="text-align: center; font-size: 18px;">
     <h3></h3>
 </div>
 
+<!-- map container -->
 <div style="background-color: transparent;">
     <div class="container" style="width: auto; min-height: 550px;">
     <!-- <div class="jvectormap-tip" id="customTip" style="width: 200px; height: 110px;">&nbsp;</div> -->
-    
     <div id="map-jurisdiction-filter" style="margin-bottom:20px;">&nbsp;</div>
     <div id="map-core" style="height: 612px;">&nbsp;</div>
-    
     </div>
-    </div>
+</div>
 
-    <div style="text-align: center;">
-        <a href="https://www.flagle.vercel.app/">Play Flagle 🚩</a>
-    </div>
+<!-- flagle link -->
+<div style="text-align: center;">
+    <a class="playFlagle" href="https://flagle.vercel.app/" target="_blank">Play Flagle 🚩</a>
+</div>
+
 <script>
 
-//rest countries api - https://restcountries.com/
+/** To Do 
+ * - Make list of subdivisions in table clickable.
+ * - getImgSrc() - what if image is png or jpeg & no svg found.
+ **/
+
+
+//default colour of map countries and colour of highlighted countries
 var mapColour = "#93959b";
 var countryColour = "#a4d446";
-const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/iso3166-1.json";
-const iso3166_2_json_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/test-2_min.json";
+
+//flag and json URL's in repo
+// const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1.json";
+const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/iso3166-1.json"
+const iso3166_2_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2_min.json";
 
 var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
-// var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
-var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/";
+var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
 
+//json object containing ISO3166-1 and ISO3166-2 country info
 var allISO3166_1_json = {};
 var allISO3166_2_json = {};
-var rest_iso3166_2_json = {};
+var rest_countries_json = {};
 
+//objects containing country names and codes
 var allCountryCodes = [];
 var countryCodes = {}
 var countryCodesColours = {}
 var countryList= [];
 
+//selected country or subdivision from dropdowns
 var lookupCountry = "";
 var lookupSubdivision = "";
 
-
+//on page load, get all country/flag info from ISO3166-1 and ISO3166-2 url's, draw dropdowns, draw map.
 $(document).ready(function () {
-  // $.getJSON('https://storage.googleapis.com/iso3166-1-icond/iso3166-1.json&callback=?', function(data) {
-  // console.log(data);
-    // JSON result in `data` variable
-//     $.ajax(settings).done(function (response) {
-//           console.log(response);
-// });
-
-getJSON(iso3166_1_json_url);
-getJSON(iso3166_2_json_url)
-// getJSON(iso3166_2_url);
-drawCountryDropdown();
-drawMap();
-
+    $('#loader').hide();
+    //get JSON objects from URLs
+    getJSON(iso3166_1_json_url);
+    getJSON(iso3166_2_json_url);
+    //draw dropdown and map
+    drawCountryDropdown();
+    drawMap();
 });
-var allJson = {};
 
-//get country data from iSheets
 function getJSON(url="",) {
- 
+     /**
+     * Pull ISO3166-1 and ISO3166-2 JSON from repo URL using ajax call.
+     *
+     * @param url {string} - URL to ISO3166-1 or ISO3166-2 JSON objects on repo. 
+     */
+
     $.ajax({
         url: url,
         method: "GET",  //GET request
@@ -305,16 +373,10 @@ function getJSON(url="",) {
         async: false,
         cache: false,
         success: function success(data) {
-            //         for (var i=0; i<jsonFile.length; i++) {
-            //     countryList.push(jsonFile[i]['Country'])
-            //     countryCodes[jsonFile[i]['Country']] = jsonFile[i]['Code']
-            //     countryCodesColours[jsonFile[i]['Code']] = mapColour;
-            // }
-
-            // countryList.sort();
-            // countryList.unshift("All Countries");
+            //get json data using either iso3166-1 or iso3166-2 url
             if (url.includes("iso3166-1")) {
                 allISO3166_1_json = data;
+                //get list of countries and associated ISO3166-1 country codes
                 for (var i=0; i<allISO3166_1_json.length; i++) {
                     countryList.push(allISO3166_1_json[i]['Country'])
                     countryCodes[allISO3166_1_json[i]['Country']] = allISO3166_1_json[i]['Code']
@@ -324,165 +386,203 @@ function getJSON(url="",) {
                 countryList.unshift("All Countries");
                 
             } else {
+                //assign pulled json to variable
                 allISO3166_2_json = data;
-
-
             }
         },
         error: function error() {
-            console.log('Error...');
+            console.log('Error getting ISO3166-1 or ISO3166-2 JSON data from URL.');
             return;
         },
         statusCode: {
             404: function() {
-            console.log(
-                ""
-            );
+            console.log("404 Error: page not found.");
         },
         403: function() { 
-            console.log(
-                ""
-            );
+            console.log("403 Error: forbidden.");
         },
         408: function() { 
-            console.log(
-                "Request Timeout."
-            );
-                }
-        },
-        timeout: 30000  //set timeout for ajax call of 30 seconds 
-
-});
-}
-
-
-
-function getImgSrc(country) {
-
-    var imgDiv = $('#flagImg');
-    var srcURL = "";
-
-    srcURL = iso3166_1_flag_url + '/' + countryCodes[country] + '.svg';
-    srcURL = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/al.svg";
-    imgDiv.attr('src', srcURL);
-
-    imgDiv.show();
-
-//     var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
-// var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
-}
-
-function getSubdivisionSrc(country, subdivision) {
-
-    var imgDiv = $('#subdivisionImg');
-    var srcURL = "";
-
-    $('#subdivisionSelect').val(lookupSubdivision);
-    $('#subdivisionSelect').trigger('change');
-
-    srcURL = iso3166_2_flag_url + '/' + countryCodes[country] + '/' + subdivision + '.svg';
-    // srcURL = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/AD/AD-02.svg"
-    imgDiv.attr('src', srcURL);
-
-    imgDiv.show();
-
-    //     var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
-    // var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
-
-    var subdivisionInfoDiv1 = document.querySelector("#subdivisionInfo > h3:nth-child(1)");
-
-    subdivisionInfoDiv1.innerHTML = rest_iso3166_2_json.subdivisions[lookupSubdivision] + " (" +lookupSubdivision + ")";
-}
-
-//get country data from iSheets
-function restCountries(country) {
- 
- if (country != "" && country.toLowerCase() != "all countries" && country != undefined) {
-    $.ajax({
-        url: "https://restcountries.com/v3.1/name/" + country,
-        method: "GET",  //GET request
-        dataType: "json",
-        async: false,
-        cache: false,
-        success: function success(data) {
-            rest_iso3166_2_json = data[0];
-            console.log(data);
-            console.log('here')
-            //  var subdivisionNames = [];
-            var subdivisionNames = {};
-            for (var i=0; i<allISO3166_2_json.length; i++) {
-                if (allISO3166_2_json[i].Code == rest_iso3166_2_json.cca2) {
-                    // for (var j=0; j<allISO3166_2_json[i].Subdivisions.length; j++) {
-                    // for (var [key, val] of Object.entries(allISO3166_2_json[i].Subdivisions)) {
-
-                    //     // subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key].replace(/^.*[\\\/]/, '').replace(/\.[^/.]+$/, ""));
-                    //     subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key]);
-                    // }
-                    rest_iso3166_2_json["subdivisions"] = allISO3166_2_json[i].Subdivisions;
-                }
-            }
-
-        },
-        error: function error() {
-            return;
-        },
-        statusCode: {
-            404: function() {
-            console.log(
-                ""
-            );
-        },
-        403: function() { 
-            console.log(
-                ""
-            );
-        },
-        408: function() { 
-            console.log(
-                "Request Timeout."
-            );
-                }
+            console.log("408 Error: request timeout.");
+        }
         },
         timeout: 30000  //set timeout for ajax call of 30 seconds 
 
     });
- }
+}
+function imageExists(image_url) {
+    /**
+     * Validate image URL is correct and image exists at endpoint.
+     * 
+     * @param image_url {string} - url to image in repo.
+     */
+    //send http request to check if img url valid
+    var http = new XMLHttpRequest();
+    http.open('HEAD', image_url, false);
+    http.send();
+    return http.status != 404;
 }
 
+function getImgSrc(country) {
+    /**
+     * Get src URL for country's ISO3166-1 flag icon in /iso3166-1-icons dir on repo.
+     * 
+     * @param country {string} - country name.
+     */
 
+    //initialise imgDiv element
+    var imgDiv = $('#flagImg');
+    var srcURL = "";
+
+    //possible file extensions of flags, majority are of svg type
+    var fileExtensions = ['.svg', '.png', '.jpg', '.gif']
+
+    for (var i = 0; i < fileExtensions.length; i++) {
+        //construct image src URL
+        srcURL = iso3166_1_flag_url + '/' + countryCodes[country].toLowerCase() + fileExtensions[i];
+        
+        //if image found, break from loop
+        if (imageExists(srcURL)) {
+            break;
+        }
+
+    }
+
+    //set src of img element
+    imgDiv.attr('src', srcURL);
+    imgDiv.show();
+    
+}
+
+function getSubdivisionSrc(country, subdivision) {
+    /**
+     * Get src URL for country's ISO3166-2 subdivision flag icon in /iso3166-2-icons dir on repo.
+     * 
+     * @param country {string} - country name.
+     * @param subdivision {string} - subdivision code. 
+     */
+
+    //initialise imgDiv element
+    var imgDiv = $('#subdivisionImg');
+    var srcURL = "";
+
+    //possible file extensions of flags, majority are of svg type
+    var fileExtensions = ['.svg', '.png', '.jpg', '.gif']
+    
+
+    for (var i = 0; i < fileExtensions.length; i++) {
+        //construct subdivision src URL
+        srcURL = iso3166_2_flag_url + '/' + countryCodes[country] + '/' + subdivision + fileExtensions[i]; 
+        
+        //if image found, break from loop
+        if (imageExists(srcURL)) {
+            break;
+        }
+
+    }
+
+    //set src of img element
+    imgDiv.attr('src', srcURL);
+    imgDiv.show();
+
+    //get full name of subdivision and set the subdivision name div to it
+    var subdivisionInfoDiv = document.querySelector("#subdivisionInfo > h3:nth-child(1)");
+    subdivisionInfoDiv.innerHTML = rest_countries_json.subdivisions[lookupSubdivision] + " (" +lookupSubdivision + ")";
+}
+
+function restCountries(country) {
+     /**
+     * Get country info from restcountries api (https://restcountries.com/v3.1/name/).
+     * 
+     * @param country {string} - country name.
+     */
+    //validate if valid country type and value input
+    if (typeof country !== 'string' || country == "" || country.toLowerCase() == "all countries" || country == undefined) {
+        rest_countries_json = {};
+    } else {
+        $.ajax({
+            url: "https://restcountries.com/v3.1/name/" + country,
+            method: "GET",  //GET request
+            dataType: "json",
+            async: false,
+            cache: false,
+            success: function success(data) {
+                rest_countries_json = data[0]; //set rest_countries_json object
+                // var subdivisionNames = {};
+                //iterate over all variables in json and add subdivision names and codes
+                for (var i=0; i<allISO3166_2_json.length; i++) {
+                    if (allISO3166_2_json[i].Code == rest_countries_json.cca2) {
+                        // for (var j=0; j<allISO3166_2_json[i].Subdivisions.length; j++) {
+                        // for (var [key, val] of Object.entries(allISO3166_2_json[i].Subdivisions)) {
+                        //     // subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key].replace(/^.*[\\\/]/, '').replace(/\.[^/.]+$/, ""));
+                        //     subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key]);
+                        // }
+                        rest_countries_json["subdivisions"] = allISO3166_2_json[i].Subdivisions;
+                    }
+                }
+            },
+            error: function error() {
+                console.log('Error getting country info from URL: ', "https://restcountries.com/v3.1/name/" + country);
+            return;
+            },
+            statusCode: {
+                404: function() {
+                console.log("404 Error: page not found.");
+            },
+            403: function() { 
+                console.log("403 Error: forbidden.");
+            },
+            408: function() { 
+                console.log("408 Error: request timeout.");
+            }
+            },
+            timeout: 30000  //set timeout for ajax call of 30 seconds 
+            });
+    }
+}
 
 function drawCountryTable(countryJson) {
+    /**
+     * Draw output country table displaying all relevant country info and subdivisions  
+     * from rest countries api.
+     *
+     * @param countryJson {object} - json object of country info.
+     */
+
+    //initialise empty output table div element
     $("#countryTable").empty();
 
-    //Make list of subdivisions in table clickable. 
-
+    //if empty json object then return 
     if (Object.keys(countryJson).length == 0) {
         return;
     }
 
-    console.log('Country table json')
-    console.log(countryJson)
+    //initialise table html var
     var tbl = "";
     tbl = '<table class="outputTable">';   
-    // tbl += '<caption>' + countryJson.name.common + '</caption>';
     tbl += '<tbody>';
     tbl += '<tr><td>Full Name</td><td>' + countryJson.name.common + ' (' + countryJson.cca2 + '/' + countryJson.cca3 +')</td></tr>';
     tbl += '<tr><td>Official Name</td><td>' + countryJson.name.official + '</td></tr>';
-    tbl += '<tr><td>Capital City</td><td>' + countryJson.capital + '</td></tr>';
-
-    // var index = countryJson.subdivisions.indexOf("All Subdivisions");
-    // if (index > -1) {
-    //     countryJson.subdivisions.splice(index, 1);
-    // }
-    tbl += '<td>Subdivisions</td><td>';
-    // console.log("countryJson.subdivisions", countryJson.subdivisions)
-
-    if (Object.hasOwn(countryJson, 'subdivisions')) {
     
+    tbl += '<td>Capital City</td><td>';
+    
+    //validate object has capital city key
+    if (Object.hasOwn(countryJson, 'capital') && countryJson["capital"] != undefined) {
+        tbl += countryJson.capital;
+    } else {
+        tbl += '<span>No listed capital city</span>';;
+    }
+    tbl +=  '</td></tr>';;
+    
+    tbl += '<td>Subdivisions</td><td>';
+
+    //validate object has subdivisions key
+    if (Object.hasOwn(countryJson, 'subdivisions') && countryJson["subdivisions"] != undefined) {
+        
+        //get sorted list of subdivision names
         var countrySubdivisions = Object.keys(countryJson.subdivisions).sort();
 
+        //iterate over list of subdivisions, append to tbl html, make each code clickable
         for (var i=0; i<countrySubdivisions.length; i++) {
-            // tbl += '<span><a href="javascript:getSubdivisionSrc("'+ countryJson.name.common, countrySubdivisions[i] +')">' + countrySubdivisions[i] +'</a>';
             tbl += '<span><button class="subdivisionBtns" type="button">' + countrySubdivisions[i] + '</button>';
             if (i+1==countrySubdivisions.length) {
                 tbl += "</span>"
@@ -494,22 +594,39 @@ function drawCountryTable(countryJson) {
         tbl += '<span>No available subdivisions</span>';;
     }
     
-    // console.log('countryJson.subdivisions', Object.keys(countryJson.subdivisions).sort().toString().split(',').join(', '));
-    // tbl += Object.keys(countryJson.subdivisions).sort().toString().split(',').join(', ') + '</td></tr>';
     tbl += '<tr><td>Population</td><td>' + countryJson.population.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + '</td></tr>';
     tbl += '<tr><td>Total Area</td><td>' + countryJson.area.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + ' km<sub>2</sub></td></tr>';
-    tbl += '<tr><td>Languages</td><td>' + Object.values(countryJson.languages).sort().toString().split(',').join(', ') + '</td></tr>';
+    
+    tbl += '<tr><td>Languages</td><td>'
+
+    //validate object has languages key
+    if (Object.hasOwn(countryJson, 'languages') && countryJson["languages"] != undefined) {
+        tbl +=  Object.values(countryJson.languages).sort().toString().split(',').join(', ');
+    } else {
+        tbl += 'No languages listed';
+    }
+    tbl += '</td></tr>';
+
     tbl += '<tr><td>Timezones</td><td>' + countryJson.timezones.sort().toString().split(',').join(', ') + '</td></tr>';
-    // tbl += '<tr><td>Currencies</td><td>' + Object.values(countryJson.currencies)[0].name.capitalize() + '</td></tr>';
-    tbl += '<tr><td>Currencies</td><td>' + Object.values(countryJson.currencies)[0].name.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase()) + '</td></tr>';
+    
+    tbl += '<tr><td>Currencies</td><td>';
+
+    //validate object has currencies key
+    if (Object.hasOwn(countryJson, 'currencies') && countryJson["currencies"] != undefined) {
+        tbl += Object.values(countryJson.currencies)[0].name.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
+    } else {
+        tbl += 'No currencies listed';
+    }
+    tbl += '</td></tr>';
+
     tbl += '<tr><td>Borders</td><td>';
 
-    if (Object.hasOwn(countryJson, 'borders')) {
+    //validate object has borders key
+    if (Object.hasOwn(countryJson, 'borders') && countryJson["borders"] != undefined) {
         tbl += countryJson.borders.sort().toString().split(',').join(', ')
     } else {
         tbl += 'No borders';
     }
-    tbl += '</td></tr>';
 
     tbl += '<tbody>';
     tbl += '</table>';
@@ -517,28 +634,30 @@ function drawCountryTable(countryJson) {
     //append to table html element via jquery
     $("#countryTable").append(tbl);
 
+    //get subdivision code buttons, assign correct subdivision src img to them on
     var subdBtns = document.getElementsByClassName('subdivisionBtns');
 
-    var addBtnLink = function() {
-        console.log(this.innerHTML);
-        lookupSubdivision = this.innerHTML;
-        getSubdivisionSrc(countryJson.name.common, this.innerHTML);
-    };
-
+    //add click event to buttons to show correct subdiv on cliock
     for (var i = 0; i < subdBtns.length; i++) {
-        subdBtns[i].addEventListener('click', addBtnLink, false);
+        subdBtns[i].addEventListener('click', function() {
+            lookupSubdivision = this.innerHTML;
+            getSubdivisionSrc(countryJson.name.common, this.innerHTML);
+        }, false);
     }
-
-
 }
 
-
 function drawMap(country="") {
+    /**
+     * Draw interactive jsVectorMap with user-input country
+     *
+     * @param country {string} - country name to draw on jsVectorMap.
+     */
 
-    //if country == EU then colour in all EU countries
+    //object of countrys to highlight on map
     var countriesToDraw = {};
     var markers = [];
 
+    //get 2 letter ISO code of input country name if valid and correct datatype
     if (country == "" || country == undefined || country.length == 0 || Number.isInteger(country)) {
         countriesToDraw = {};
     } else {
@@ -547,29 +666,28 @@ function drawMap(country="") {
         }
     }
 
+    //default map view displaying all countryies, non-highlighted, hide any country divs
     if (country.toLowerCase() == "all countries") {
         $('#countryOutput').hide();
         $('#subdivisionInfo').hide();
         $('body > div.dropdowns > span:nth-child(4) > span.selection > span').hide();
-        // $('#flagImg').hide();
-        // $('#subdivisionImg').hide();
-        // $('#countryTable').hide();
-
+        $('#flagImg').hide();
+        $('#subdivisionImg').hide();
+        $('#countryTable').hide();
     }
-    console.log('countriesToDraw', countriesToDraw);
     
-    
+    //get position of country on map if it is small enough 
     var marker = getMarkerLatLng(country);
-    var testMarker = getMarkerLatLng("antigua and barbuda")
 
+    //add marker object to array
     if (marker.length != 0) {
         markers.push({latLng: marker, name: country, status: 'mrk'});
     }
 
-    //initialise empty heatmap object
+    //initialise empty map object
     $("#map-core").empty();
 
-    //create new JVector map object with desired jurisdictions and markers highlighted
+    //create new JVector map object with desired countrys and markers highlighted
     world_map = new jvm.Map({
 
         container: $('#map-core'),  //html container to store heatmap
@@ -605,7 +723,7 @@ function drawMap(country="") {
                 lookupCountry = tempMarkers[code].name; 
                 $('#countrySelect').val(lookupCountry);
                 $('#countrySelect').trigger('change');
-                drawCountryTable(rest_iso3166_2_json);
+                drawCountryTable(rest_countries_json);
             }
         },
         onRegionTipShow: function(e, el, code) {
@@ -634,9 +752,16 @@ function drawMap(country="") {
 }
 
 function drawCountryDropdown() {
+    /**
+     * Draw select2 dropdown with list of countrys/jurisdictions.
+     *
+     * @param - no parameters
+     */
 
+    //create empty select2 object via jquery
     $("#countrySelect").empty(); 
 
+    //create select2 object
     $("#countrySelect").select2(); 
 
     //set placeholder for dropdown 
@@ -645,6 +770,7 @@ function drawCountryDropdown() {
         closeOnSelect: true
     });
 
+    //append list of countries to dropdown
     $.each(countryList, function (i, p) {
         $('#countrySelect').append($('<option></option>').val(p).html(p));
     });
@@ -652,9 +778,16 @@ function drawCountryDropdown() {
 }
 
 function drawSubdivisionsDropdown() {
+    /**
+     * Draw select2 dropdown with list of a country's subdivisions.
+     *
+     * @param - no parameters
+     */
 
+        //create empty select2 object via jquery
     $("#subdivisionSelect").empty(); 
 
+    //create select2 object
     $("#subdivisionSelect").select2(); 
 
     //set placeholder for dropdown 
@@ -663,60 +796,71 @@ function drawSubdivisionsDropdown() {
         closeOnSelect: true
     });
 
-    if (Object.hasOwn(rest_iso3166_2_json, 'subdivisions')) {
-        var subdivisionList = (Object.keys(rest_iso3166_2_json.subdivisions));
+    //check if ISO3166-2 object has subdivisions key, else hide dropdown
+    if (Object.hasOwn(rest_countries_json, 'subdivisions')) {
+        //get list of subdivisions of country
+        var subdivisionList = (Object.keys(rest_countries_json.subdivisions));
         subdivisionList.unshift("All Subdivisions");
 
-        console.log('subdivisionList', subdivisionList);
+        //append list of countries to dropdown
         $.each(subdivisionList, function (i, p) {
             $('#subdivisionSelect').append($('<option></option>').val(p).html(p));
         });
     } else {
+        //hide subdivisions dropdown
         $('body > div.dropdowns > span:nth-child(4) > span.selection > span').hide();
     }
 
 }
 
-
-
-
-
+//initialise the country dropdown select2 
 $('#countrySelect').on('select2:select', function (e) {
     var data = e.params.data;
 });
 
+//on selection of country, hide any existing imgs or div elements,
+//get country info via the restcountries api, draw map with country highlighted,
+//draw subdivision dropdown, country ISO3166-1 flag and output table info.
 $("#countrySelect").on("select2:select", function (event) {
     lookupCountry = $(this).val();
+    $('#flagImg').hide();
+    $('#subdivisionImg').hide();
+    $('#countryTable').hide();
     drawMap(lookupCountry);
+    $('#loader').show();
     restCountries(lookupCountry);
-    //loader here
     drawSubdivisionsDropdown();
     getImgSrc(lookupCountry);
-    drawCountryTable(rest_iso3166_2_json);
-
+    drawCountryTable(rest_countries_json);
+    $('#subdivisionInfo').show();
+    $('#countryTable').show();
+    $('#loader').hide();
 
 });
 
+//on deselection of country...
 $("#countrySelect").on("select2:unselect", function (event) {
     lookupCountry = $(this).val();
 });
 
-
-
-
+//initialise the subdivisions dropdown select2 
 $('#subdivisionSelect').on('select2:select', function (e) {
     var data = e.params.data;
 });
 
+//
 $("#subdivisionSelect").on("select2:select", function (event) {
     lookupSubdivision = $(this).val();
+    $('#subdivisionSelect').val(lookupSubdivision);
+    $('#subdivisionSelect').trigger('change');
     getSubdivisionSrc(lookupCountry, lookupSubdivision);
     // drawMap(lookupCountry);
     // restCountries(lookupCountry);
     // //loader here
-    // drawCountryTable(rest_iso3166_2_json)
+    // drawCountryTable(rest_countries_json)
 });
 
+//on deselection of subdivision...
 $("#subdivisionSelect").on("select2:unselect", function (event) {
     lookupCountry = $(this).val();
 });

@@ -28,7 +28,7 @@ _records = [
     Country("Antigua and Barbuda", "AG", "ATG", "028", "Antigua and Barbuda"),
     Country("Argentina", "AR", "ARG", "032", "Argentina"),
     Country("Armenia", "AM", "ARM", "051", "Armenia"),
-    Country("Ascension Island", "AC", "ASC", "", "Ascension Island"),
+    Country("Ascension Island", "AC", "ASC", "", "Ascension Island"), #exceptional reservation
     Country("Aruba", "AW", "ABW", "533", "Aruba"),
     Country("Australia", "AU", "AUS", "036", "Australia"),
     Country("Austria", "AT", "AUT", "040", "Austria"),
@@ -58,7 +58,7 @@ _records = [
     Country("Brunei Darussalam", "BN", "BRN", "096", "Brunei Darussalam"),
     Country("Bulgaria", "BG", "BGR", "100", "Bulgaria"),
     Country("Burkina Faso", "BF", "BFA", "854", "Burkina Faso"),
-    Country("Burma", "MM", "MMR", "104", "Burma"),
+    Country("Burma", "BU", "", "104", "Burma"), #transitional reservations
     Country("Burundi", "BI", "BDI", "108", "Burundi"),
     Country("Cambodia", "KH", "KHM", "116", "Cambodia"),
     Country("Cameroon", "CM", "CMR", "120", "Cameroon"),
@@ -74,7 +74,7 @@ _records = [
     Country("Chile", "CL", "CHL", "152", "Chile"),
     Country("China", "CN", "CHN", "156", "China"),
     Country("Christmas Island", "CX", "CXR", "162", "Christmas Island"),
-    Country("Clipperton Island", "CP", "", "", "Clipperton Island"),
+    Country("Clipperton Island", "CP", "CPT", "", "Clipperton Island"),
     Country("Cocos Islands", "CC", "CCK", "166", "Cocos Islands"),
     Country("Cocos (Keeling) Islands", "CC", "CCK", "166", "Cocos (Keeling) Islands"),
     Country("Colombia", "CO", "COL", "170", "Colombia"),
@@ -90,10 +90,10 @@ _records = [
     Country("Cyprus", "CY", "CYP", "196", "Cyprus"),
     Country("Czech Republic", "CZ", "CZE", "203", "Czech Republic"),
     Country("Czechia", "CZ", "CZE", "203", "Czechia"),
-    Country("Czechoslovakia", "CS", "", "", "Czechoslovakia"),
+    Country("Czechoslovakia", "CS", "CSK", "200", "Czechoslovakia"),
     Country("Democratic Republic of the Congo", "CD", "COD", "180", "Democratic Republic of the Congo"),
     Country("Denmark", "DK", "DNK", "208", "Denmark"),
-    Country("Diego Garcia", "DG", "", "", "Diego Garcia"),
+    Country("Diego Garcia", "DG", "DGA", "", "Diego Garcia"),
     Country("Djibouti", "DJ", "DJI", "262", "Djibouti"),
     Country("Dominica", "DM", "DMA", "212", "Dominica"),
     Country("Dominican Republic", "DO", "DOM", "214", "Dominican Republic"),
@@ -105,7 +105,7 @@ _records = [
     Country("Eritrea", "ER", "ERI", "232", "Eritrea"),
     Country("Estonia", "EE", "EST", "233", "Estonia"),
     Country("Ethiopia", "ET", "ETH", "231", "Ethiopia"),
-    Country("European Union", "EU", "", "", "European Union"),
+    Country("European Union", "EU", "", "", "European Union"), #exceptional reservation
     Country("Eurozone", "EZ", "", "", "Eurozone"), #exceptional reservation
     Country("Falkland Islands", "FK", "FLK", "238", "Falkland Islands"),
     Country("Falkland Islands (Malvinas)", "FK", "FLK", "238", "Falkland Islands (Malvinas)"),
@@ -147,7 +147,7 @@ _records = [
     Country("Iran", "IR", "IRN", "364", "Iran"),
     Country("Iraq", "IQ", "IRQ", "368", "Iraq"),
     Country("Ireland", "IE", "IRL", "372", "Ireland"),
-    Country("Island of Sark", "CQ", "", "", "Island of Sark"), #exceptional reservation 
+    Country("Island of Sark", "CQ", "CRQ", "680", "Island of Sark"), #exceptional reservation 
     Country("Isle of Man", "IM", "IMN", "833", "Isle of Man"),
     Country("Israel", "IL", "ISR", "376", "Israel"),
     Country("Italy", "IT", "ITA", "380", "Italy"),
@@ -204,8 +204,8 @@ _records = [
     Country("Nauru", "NR", "NRU", "520", "Nauru"),
     Country("Nepal", "NP", "NPL", "524", "Nepal"),
     Country("Netherlands", "NL", "NLD", "528", "Netherlands"),
-    Country("Netherlands Antilles", "AN", "", "", "Netherlands Antilles"),
-    Country("Neutral Zone", "NT", "", "", "Neutral Zone"),
+    Country("Netherlands Antilles", "AN", "ANT", "530", "Netherlands Antilles"), #transitional reservations
+    Country("Neutral Zone", "NT", "NTZ", "536", "Neutral Zone"), #transitional reservations
     Country("New Caledonia", "NC", "NCL", "540", "New Caledonia"),
     Country("New Zealand", "NZ", "NZL", "554", "New Zealand"),
     Country("Nicaragua", "NI", "NIC", "558", "Nicaragua"),
@@ -285,7 +285,7 @@ _records = [
     Country("Tokelau", "TK", "TKL", "772", "Tokelau"),
     Country("Tonga", "TO", "TON", "776", "Tonga"),
     Country("Trinidad and Tobago", "TT", "TTO", "780", "Trinidad and Tobago"),
-    Country("Tristan da Cunha", "TA", "TAA", "", "Tristan da Cunha",),
+    Country("Tristan da Cunha", "TA", "TAA", "", "Tristan da Cunha",), #exceptional reservation
     Country("Tunisia", "TN", "TUN", "788", "Tunisia"),
     Country("Turkey", "TR", "TUR", "792", "Turkey"),
     Country("Turkmenistan", "TM", "TKM", "795", "Turkmenistan"),
@@ -309,7 +309,7 @@ _records = [
     Country("United States Minor Outlying Islands", "UM", "UMI", "581", "United States Minor Outlying Islands"),
     Country("United States Virgin Islands", "VI", "VIR", "850", "United States Virgin Islands"),
     Country("US Virgin Islands", "VI", "VIR", "850", "US Virgin Islands"),
-    Country("USSR", "SU", "", "", "USSR"), #exceptional reservation
+    Country("USSR", "SU", "SUN", "810", "USSR"), #exceptional reservation
     Country("Unknown States", "XX", "", "", "Unknown States"),
     Country("Uruguay", "UY", "URY", "858", "Uruguay"),
     Country("Uzbekistan", "UZ", "UZB", "860", "Uzbekistan"),
@@ -324,8 +324,8 @@ _records = [
     Country("Western Sahara", "EH", "ESH", "732", "Western Sahara"),
     Country("Flags of Moroccan provinces claimed by Western Sahara", "EH", "ESH", "732", "Flags of Moroccan provinces claimed by Western Sahara"),
     Country("Yemen", "YE", "YEM", "887", "Yemen"),
-    Country("Yugoslavia", "YU", "", "", "Yugoslavia"),
-    Country("Zaire", "ZR", "", "", "Zaire"),
+    Country("Yugoslavia", "YU", "YUG", "891", "Yugoslavia"), #transitional reservations
+    Country("Zaire", "ZR", "ZAR", "180", "Zaire"), #transitional reservations
     Country("Zambia", "ZM", "ZMB", "894", "Zambia"),
     Country("Zimbabwe", "ZW", "ZWE", "716", "Zimbabwe"),
 ]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="300">
+<rect width="600" height="300" fill="#f8001a"/>
+<path d="M0,0H300V300H0zM300,235 375,150V65H225V150z" fill="#fff"/>
+<path d="M225,150V160A75,75 0 1,0 375,160V150z" fill="#3700fc"/>
+<g fill="#fbfe2f" transform="translate(300,192.5)">
+<path id="p" d="M0,-22.5 5.5,0 0,22.5 -5.5,0z"/>
+<use xlink:href="#p" transform="rotate(60)"/>
+<use xlink:href="#p" transform="rotate(120)"/>
+</g>
+</svg>
