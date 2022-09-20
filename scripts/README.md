@@ -6,9 +6,9 @@
 [![Build](https://img.shields.io/github/workflow/status/amckenna41/pySAR/Deploy%20to%20PyPI%20%F0%9F%93%A6)](https://github.com/amckenna41/pySAR/actions)
 <!-- [![CircleCI](https://circleci.com/gh/amckenna41/pySAR.svg?style=svg&circle-token=d860bb64668be19d44f106841b80eb47a8b7e7e8)](https://app.circleci.com/pipelines/github/amckenna41/pySAR) -->
 [![codecov](https://codecov.io/gh/amckenna41/iso3166-flag-icons/branch/master/graph/badge.svg?token="")](https://codecov.io/gh/amckenna41/iso3166-flag-icons)
-[![Issues](https://img.shields.io/github/issues/amckenna41/pySAR)](https://github.com/amckenna41/pySAR/issues)
-[![Size](https://img.shields.io/github/repo-size/amckenna41/pySAR)](https://github.com/amckenna41/pySAR)
-[![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/pySAR)](https://github.com/amckenna41/pySAR)
+[![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
+[![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
+[![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 
 
 
@@ -31,6 +31,20 @@ The exact purpose of each script can be seen below, as well as in the comments o
 * `jquery-jvectormap-2.0.5.css` - styling for jvectormap interactive maps.
 * `jquery-jvectormap-2.0.5.js` - jvectormap library source code to built interactive maps.
 * `svgCompress.sh` - script for compressing folder of image flags in SVG format.
+
+Requirements
+------------
+
+* [Python][python] >= 3.6
+* [requests][requests] >= 1.16.0
+* [pandas][pandas] >= 1.4.3
+* [tqdm][tqdm] >= 4.55.0
+* [beautifulsoup4][beautifulsoup4] >= 4.10.0
+* [scour][scour] >= 0.38.2
+* [pycountry][pycountry] >= 22.3.5
+* [emoji-country-flag][emoji-country-flag]>= 1.3.0
+* [fuzzywuzzy][fuzzywuzzy] >= 0.18.0
+* [pyWikiCommons][pyWikiCommons] >= 0.0.1
 
 Usage
 -----
@@ -64,12 +78,14 @@ python3 getAllSubdivisionFlags.py --output="../countries" && python3 getISO3166-
 ## Compress all SVG flag icon files in output folder
 
 ```bash
-./svgCompress.sh --input="../countries/" --output="../output/" --filesize_threshold=50
+./svgCompress.sh --input="../iso3166-2-icons/" --output="../output/" --filesize=50
 
 --input: input folder of SVG files to compress
 --output: output folder to store compressed SVG files
 --filesize_threshold: all SVG files above this threshold will go through the compression algorithm. 
 ```
+
+<strong>After execution of the ./svgCompress.sh script, the iso3166-2-icons dir was compressed from XMB -> YMB.</strong>
 
 ## Create CSS files for both ISO3166-1 and ISO3166-2 icons
 
@@ -86,8 +102,28 @@ python3 generateJSON.py --countryFolder="" --jsonFileName="" --iso3166Type=""
 ## Create README files for each ISO3166-2 country in iso3166-2-icons dir, listing contents of dir and subdivision info
 
 ```bash
-python3 generateReadme.py
+python3 generateReadme.py --country
 ```
+def createReadMe(country, code, url, outputFolder):
+    """
+    Create custom README for each countrys subdivision folder in the output folder. The
+    README will list all of the country's subdivisions, their filename on the repo and 
+    links to download them on the repo.
+
+    Parameters
+    ----------
+    :country : string 
+      country name.
+    :code : string 
+        2 letter ISO code of country.
+    :url : string
+        source url for where subdivisions were pulled from.
+    :outputFolder : string
+        filepath to output folder to write README
+    Returns
+    -------
+    None 
+    """  
 
 Tests
 -----
@@ -102,5 +138,5 @@ To run tests for specific module, from the main <i>scripts</i> repo folder run:
 python -m unittest tests.MODULE_NAME -v
 ```
 
-178 seconds for getAll
-3333 seconds for getISO...
+<!-- 178 seconds for getAll
+3333 seconds for getISO... -->

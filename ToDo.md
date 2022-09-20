@@ -28,5 +28,7 @@
 [ ] - Get list of subdivison types using pycountry, remove from filenames or add to object. 
 [ ] - Try and convert all png's to svg's.
 [ ] - Upload bandit, package safety check etc to GCP bucket 
+[ ] - Move requirements section from main readme to scripts dir.
+[ ] - Add download link to downloads/ folder for iso3166-2-icons, stored on AWS or GCP
 
 https://flagmeister.github.io/?#repoanalyzer

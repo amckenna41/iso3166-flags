@@ -15,7 +15,6 @@ on:
 jobs:
   #build job
   build:
-
     name: Build iso3166-flag-icons
     runs-on: ubuntu-latest         # platform: [ubuntu-latest, macos-latest, windows-latest]
     strategy:
@@ -42,9 +41,19 @@ jobs:
         if [ -f scripts/requirements.txt ]; then pip install -r /scripts/requirements.txt; fi
 
   #test job, waits for build job to complete
+  
   test:
     needs: build
-
+    runs-on: ubuntu-latest         # platform: [ubuntu-latest, macos-latest, windows-latest]
+    strategy:
+      matrix:
+        python-version: [3.7, 3.8, 3.9]   #testing on multiple python versions
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
     #package vulnerability check
     - name: Package safety check
       run: |
@@ -83,36 +92,46 @@ jobs:
         python3 -m pytest scripts/tests/
         
     #generate coverage report
-     - name: Generate Report
-       run: pytest --cov .
+    - name: Generate Report
+      run: pytest --cov .
 
     #upload to Code Coverage
-     - name: Upload Coverage Report to Codecov
-       uses: codecov/codecov-action@v3
-       with:
-         flags: iso3166_flag_icons_workflow
+    - name: Upload Coverage Report to Codecov
+      uses: codecov/codecov-action@v3
+      with:
+        flags: iso3166_flag_icons_workflow
 
   #deploy job, waits for test job to complete
   deploy:
-    needs: test
-    #set gcs bucket name as env var
     env:
       GCS_BUCKET: ${{ secrets.GCS_BUCKET }}
+    needs: test
+    runs-on: ubuntu-latest         # platform: [ubuntu-latest, macos-latest, windows-latest]
+    strategy:
+      matrix:
+        python-version: [3.7, 3.8, 3.9]   #testing on multiple python versions
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    #install required dependancies for gcloud sdk 
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Setup - gcloud / gsutil
+      uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        service_account_key: ${{ secrets.GCS_SA_KEY }}
+        project_id: ${{ secrets.GCS_PROJECT }}
+        export_default_credentials: true
 
     #upload artifacts, logs and outputs to GCP storage bucket
-      - name: Checkout
-        uses: actions/checkout@v2
+    - name: Upload to GCS
+      run: |
+        echo "NOW::$(date +'%Y-%m-%dT%H')" >> $GITHUB_ENV
+        gsutil -m rsync -R package_safety_output gs://$NOW/$GCS_BUCKET
+        gsutil -m rsync -R bandit_output gs://$NOW/$GCS_BUCKET
+        gsutil -m rsync -R flake8_output.txt gs://$NOW/$GCS_BUCKET
 
-      - name: Setup - gcloud / gsutil
-        uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
-        with:
-          service_account_key: ${{ secrets.GCS_SA_KEY }}
-          project_id: ${{ secrets.GCS_PROJECT }}
-          export_default_credentials: true
-
-      - name: Upload to GCS
-        run: |
-          echo "NOW::$(date +'%Y-%m-%dT%H')" >> $GITHUB_ENV
-          gsutil -m rsync -R package_safety_output gs://$NOW/$GCS_BUCKET
-          gsutil -m rsync -R bandit_output gs://$NOW/$GCS_BUCKET
-          gsutil -m rsync -R flake8_output.txt gs://$NOW/$GCS_BUCKET

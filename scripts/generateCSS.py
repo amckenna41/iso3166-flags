@@ -85,6 +85,7 @@ def createISO3166_2_css(countryFolder="../iso3166-2-icons", cssFileName="iso3166
 
     #iterate over each subfolder and each subdivision flag, creating a custom and unique CSS class selector for each   
     for country in allFolders:
+        
         allFiles = [f for f in os.listdir(os.path.join(countryFolder, country)) if os.path.isfile(os.path.join(countryFolder, country, f))]
         allFiles.sort()
         for file in allFiles:

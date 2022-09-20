@@ -84,6 +84,9 @@ fi
 [ ! -d "$INPUT" ] && echo "Input directory path does not exist." && exit 1
 [ ! -d "$OUTPUT" ] && mkdir $OUTPUT
 
+#calculate output filesize before and after compression script
+OUTPUT_FOLDERSIZE_PRE=$(du -sh $INPUT | cut -f1 | rev | cut -c 2- | rev)
+
 #start time of script
 start=`date +%s`
 
@@ -93,7 +96,7 @@ echo "Compressing SVG Files using scour algorithm..."
 echo ""
 echo "Input Folder: $INPUT"
 echo "Output Folder: $OUTPUT"
-echo "Filesize Threshold: $FILESIZE_THRESHOLD"
+echo "Filesize Threshold: $FILESIZE_THRESHOLD KB"
 echo ""
 echo "#############################################"
 echo ""
@@ -198,5 +201,13 @@ else
   echo "Number of input and output files/dirs do not match"
 fi
 
+#calculate output filesize before and after compression script
+OUTPUT_FOLDERSIZE_POST=$(du -sh $OUTPUT | cut -f1 | rev | cut -c 2- | rev)
+#calculate compression ratio
+COMPRESSION_RATIO=$(bc <<<"scale=2; $OUTPUT_FOLDERSIZE_POST / $OUTPUT_FOLDERSIZE_PRE")
+COMPRESSION_RATIO="${COMPRESSION_RATIO:1}"
+
 echo ""
-echo "Script executed in $runtime seconds."
+echo "Script executed in $runtime seconds. Input folder - $INPUT - compressed to output folder - $OUTPUT - by ${COMPRESSION_RATIO}%, from ${OUTPUT_FOLDERSIZE_PRE}MB -> ${OUTPUT_FOLDERSIZE_POST}MB."
+echo ""
+

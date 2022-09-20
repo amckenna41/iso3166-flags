@@ -4,11 +4,14 @@ each country's subdivision, its subdivision code and a link to the image in the 
 """
 import os
 from os import listdir
+import argparse
+import iso3166_
 import flag
 import pycountry
 
 #base URL to iso3166-2-icons folder in repo
 baseURL = 'https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons'
+subdivisionURL = "https://en.wikipedia.org/wiki/ISO_3166-2:"
 
 def createReadMe(country, code, url, outputFolder):
     """
@@ -36,6 +39,7 @@ def createReadMe(country, code, url, outputFolder):
 
     #get list of all files in subfolder
     allFiles = sorted([f.lower() for f in listdir(filepath) if os.path.isfile(os.path.join(filepath, f))], key=str.casefold)
+    print(code)
     allSubdivisions = list(pycountry.subdivisions.get(country_code=code))
 
     #remove readme file from list of files
@@ -83,7 +87,7 @@ def createReadMe(country, code, url, outputFolder):
         
     #print list of country's subdivisions that dont have any flags
     if len(missingSubdivisions) != 0:
-        outputStr += f'\n{country} ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:{code})\n'
+        outputStr += f'\n{country} ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:{code}):\n'
         for subd in missingSubdivisions:
             for subdiv in pycountry.subdivisions.get(country_code=code):
                 if (subdiv.code.lower() == subd):
@@ -101,22 +105,15 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-2-icons", help='Output folder of ISO3166 countrys, ../iso3166-1-icons by default.')
-    parser.add_argument('-jsonFileName', '--jsonFileName', type=str, required=False, default="iso3166-2.json", help='Filename of JSON, iso3166-1-icons.json by default.')
-    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
+    parser.add_argument('-countryFolder', '--countryFolder', type=str, required=False, default="../iso3166-2-icons", help='Output folder of ISO3166 countrys, ../iso3166-2-icons by default.')
 
     #parse input args
     args = parser.parse_args()
     countryFolder = args.countryFolder
-    jsonFileName = args.jsonFileName
-    iso3166Type = args.iso3166Type
 
-    #invalid country folder input
-    if not (os.path.isdir(countryFolder)):
-        raise ValueError(f'Country folder not found at path {countryFolder}')
+    #get list of ISO3166-2 country dirs
+    iso3166_2_folder = sorted([i for i in os.listdir(countryFolder) if os.path.isdir(os.path.join(countryFolder, i))])
 
-    #create JSON file for either ISO3166-1 or ISO3166-2
-    if (iso3166Type == "iso3166-1"):
-        createISO3166_1_Json(countryFolder=countryFolder, jsonFileName=jsonFileName)
-    else:
-        createISO3166_2_Json(countryFolder=countryFolder, jsonFileName=jsonFileName)
+    #iterate over all ISO3166-2 folders and create custom readme file
+    for folder in iso3166_2_folder:
+        createReadMe(iso3166_.countries_by_alpha2[folder].name, folder, subdivisionURL + folder, countryFolder)

@@ -22,7 +22,8 @@ class ISO3166_2_Tests(unittest.TestCase):
 
         for file in iso3166_2_folder:
             self.assertTrue(len(os.path.splitext(file)[0].split('-')[1]) == 2 or \
-                len(os.path.splitext(file)[0].split('-')[1]) == 3, "All ISO3166-1 flag icon filenames should be 2 letters.")
+                len(os.path.splitext(file)[0].split('-')[1]) == 3, "All ISO3166-2 flag icon filenames \
+                    should follow the naming convention of XX-YY OR XX-YYY.")
 
     def test_iso3166_2(self):
         """ Testing ISO3166-2 json which contains all data for the ISO3166-2 flags. """

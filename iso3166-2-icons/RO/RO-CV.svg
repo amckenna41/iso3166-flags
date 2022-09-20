@@ -1,492 +1,479 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="300" width="260" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs7">
-  <radialGradient id="radialGradient4519" xlink:href="#radialGradient7724" gradientUnits="userSpaceOnUse" cy="31.7" cx="27" gradientTransform="matrix(1 0 0 1.1808 0 -5.7304)" r="26"/>
-  <radialGradient id="radialGradient4517" xlink:href="#radialGradient7722" gradientUnits="userSpaceOnUse" cy="31.7" cx="27" gradientTransform="matrix(1 0 0 1.1808 0 -5.7304)" r="26"/>
-  <pattern id="Hatch-8" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-38" transform="translate(-64)">
-    <rect id="HatchW-5" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-17" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="HatchH-91" xlink:href="#Hatch-8" patternTransform="translate(0,2)rotate(90)"/>
-  <pattern id="pattern7489-0" width="11.729427" patternUnits="userSpaceOnUse" patternTransform="translate(1.49 -16.738)" height="11.159601">
-   <g id="g5689-3" transform="translate(-57.271 .15960)">
-    <g id="fer-3">
-     <rect id="rect5691-84" height="11" width="9" y="0" x="60" fill="#fff"/>
-     <rect id="rect5693-4" y="-.1596" x="59.244" width="1" height="5"/>
-     <rect id="rect5699-5" y="5" x="65" width="1" height="5"/>
-     <rect id="rect5701-5" transform="rotate(90)" height="5" width="1" y="-67.857" x="1.3953"/>
-     <rect id="rect5703-8" transform="rotate(90)" height="5" width="1" y="-62.271" x="7.1409"/>
-    </g>
-   </g>
-  </pattern>
-  <pattern id="Hatch-3-0" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-0-8" transform="translate(-64)">
-    <rect id="HatchW-7-0" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-1-9" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="HatchV-9" xlink:href="#Hatch-3-0" patternTransform="translate(26)"/>
-  <pattern id="XHatch-5" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-47" transform="translate(-64)">
-    <rect id="XHatchB-19" y="0" width="5" x="64" height="5"/>
-    <rect id="XHatchW-55" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="XHatchD-3" xlink:href="#XHatch-5" patternTransform="translate(27,2)rotate(45)"/>
-  <pattern id="Dotted-93" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="8">
-   <g id="gDotted-81" transform="translate(-60)">
-    <rect id="DottedW-1" height="9" width="9" y="0" x="60" fill="#fff"/>
-    <rect id="DottedB1-00" y="5" width="1" x="61" height="1"/>
-    <rect id="DottedB2-2" y="1" width="1" x="65" height="1"/>
-   </g>
-  </pattern>
-  <pattern id="DottedT-6" xlink:href="#Dotted-93" patternTransform="translate(28,7)"/>
-  <pattern id="DashDotHatch-6-9" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="10">
-   <g id="gDashDotHatch-8-2" transform="translate(-60)">
-    <rect id="DashDotHatchW-7-6" height="11" width="9" y="0" x="60" fill="#fff"/>
-    <rect id="DashDotHatchDash1-8-81" y="0" width="1" x="61" height="5"/>
-    <rect id="DashDotHatchDot1-5-9" y="7" width="1" x="61" height="1"/>
-    <rect id="DashDotHatchDot2-9-8" y="2" width="1" x="65" height="1"/>
-    <rect id="DashDotHatchDash2-8-2" y="5" width="1" x="65" height="5"/>
-   </g>
-  </pattern>
-  <pattern id="DashDotHatchT-2-2" xlink:href="#DashDotHatch-6-9" patternTransform="translate(28,8)"/>
-  <pattern id="Hatch-4-8" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-4-1" transform="translate(-64)">
-    <rect id="HatchW-2-8" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-0-5" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="HatchU-3" xlink:href="#Hatch-4-8" patternTransform="translate(57.5) rotate(45)"/>
-  <pattern id="XHatch-7-1" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-3-18" transform="translate(-64)">
-    <rect id="XHatchB-1-7" y="0" width="5" x="64" height="5"/>
-    <rect id="XHatchW-7-2" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="XHatchT-2" xlink:href="#XHatch-7-1" patternTransform="translate(30,2)"/>
-  <pattern id="XHatch-6-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-4-9" transform="translate(-64)">
-    <rect id="XHatchB-6-1" y="0" width="5" x="64" height="5"/>
-    <rect id="XHatchW-9-03" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="HatchHD-78" xlink:href="#XHatch-6-6" patternTransform="translate(3,2)skewX(45)"/>
-  <pattern id="Hatch-32-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-8-45" transform="translate(-64)">
-    <rect id="HatchW-71-7" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-6-22" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="HatchD-0" xlink:href="#Hatch-32-6" patternTransform="translate(28,0.5)rotate(135)"/>
-  <style id="style3923" type="text/css"/>
-  <pattern id="HatchD-6" xlink:href="#Hatch-32-5" patternTransform="translate(28,0.5)rotate(135)"/>
-  <pattern id="Hatch-32-5" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-8-9" transform="translate(-64)">
-    <rect id="HatchW-71-9" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-6-1" y="0" x="67" width="2" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="HatchHD-7" xlink:href="#XHatch-6-4" patternTransform="translate(3,2)skewX(45)"/>
-  <pattern id="XHatch-6-4" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-4-7" transform="translate(-64)">
-    <rect id="XHatchB-6-2" y="0" x="64" width="5" height="5"/>
-    <rect id="XHatchW-9-1" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="XHatchT-6" xlink:href="#XHatch-7-4" patternTransform="translate(30,2)"/>
-  <pattern id="XHatch-7-4" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-3-1" transform="translate(-64)">
-    <rect id="XHatchB-1-0" y="0" x="64" width="5" height="5"/>
-    <rect id="XHatchW-7-0" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="HatchU-4" xlink:href="#Hatch-4-6" patternTransform="translate(57.5) rotate(45)"/>
-  <pattern id="Hatch-4-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-4-3" transform="translate(-64)">
-    <rect id="HatchW-2-6" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-0-8" y="0" x="67" width="2" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="DashDotHatchT-2-5" xlink:href="#DashDotHatch-6-3" patternTransform="translate(28,8)"/>
-  <pattern id="DashDotHatch-6-3" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="10">
-   <g id="gDashDotHatch-8-9" transform="translate(-60)">
-    <rect id="DashDotHatchW-7-1" height="11" width="9" y="0" x="60" fill="#fff"/>
-    <rect id="DashDotHatchDash1-8-8" y="0" x="61" width="1" height="5"/>
-    <rect id="DashDotHatchDot1-5-8" y="7" x="61" width="1" height="1"/>
-    <rect id="DashDotHatchDot2-9-7" y="2" x="65" width="1" height="1"/>
-    <rect id="DashDotHatchDash2-8-0" y="5" x="65" width="1" height="5"/>
-   </g>
-  </pattern>
-  <pattern id="DottedT-2" xlink:href="#Dotted-7" patternTransform="translate(28,7)"/>
-  <pattern id="Dotted-7" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="8">
-   <g id="gDotted-3" transform="translate(-60)">
-    <rect id="DottedW-9" height="9" width="9" y="0" x="60" fill="#fff"/>
-    <rect id="DottedB1-0" y="5" x="61" width="1" height="1"/>
-    <rect id="DottedB2-7" y="1" x="65" width="1" height="1"/>
-   </g>
-  </pattern>
-  <pattern id="XHatchD-4" xlink:href="#XHatch-3" patternTransform="translate(27,2)rotate(45)"/>
-  <pattern id="XHatch-3" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-2" transform="translate(-64)">
-    <rect id="XHatchB-9" y="0" x="64" width="5" height="5"/>
-    <rect id="XHatchW-5" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="HatchV-4" xlink:href="#Hatch-3-3" patternTransform="translate(26)"/>
-  <pattern id="Hatch-3-3" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-0-9" transform="translate(-64)">
-    <rect id="HatchW-7-2" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-1-4" y="0" x="67" width="2" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="pattern7489-6" width="11.729427" patternUnits="userSpaceOnUse" patternTransform="translate(1.49 -16.738)" height="11.159601">
-   <g id="g5689-5" transform="translate(-57.271 .15960)">
-    <g id="fer-9">
-     <rect id="rect5691-5" height="11" width="9" y="0" x="60" fill="#fff"/>
-     <rect id="rect5693-6" y="-.1596" width="1" x="59.244" height="5"/>
-     <rect id="rect5699-1" y="5" width="1" x="65" height="5"/>
-     <rect id="rect5701-1" transform="rotate(90)" height="5" width="1" y="-67.857" x="1.3953"/>
-     <rect id="rect5703-4" transform="rotate(90)" height="5" width="1" y="-62.271" x="7.1409"/>
-    </g>
-   </g>
-  </pattern>
-  <pattern id="HatchH-9" xlink:href="#Hatch-0" patternTransform="translate(0,2)rotate(90)"/>
-  <pattern id="Hatch-0" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-3" transform="translate(-64)">
-    <rect id="HatchW-3" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-7" y="0" x="67" width="2" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="HatchD" xlink:href="#Hatch-32" patternTransform="translate(28,0.5)rotate(135)"/>
-  <pattern id="Hatch-32" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-8" transform="translate(-64)">
-    <rect id="HatchW-71" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-6" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="HatchHD" xlink:href="#XHatch-6" patternTransform="translate(3,2)skewX(45)"/>
-  <pattern id="XHatch-6" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-4" transform="translate(-64)">
-    <rect id="XHatchB-6" y="0" width="5" x="64" height="5"/>
-    <rect id="XHatchW-9" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="XHatchT" xlink:href="#XHatch-7" patternTransform="translate(30,2)"/>
-  <pattern id="XHatch-7" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch-3" transform="translate(-64)">
-    <rect id="XHatchB-1" y="0" width="5" x="64" height="5"/>
-    <rect id="XHatchW-7" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="HatchU" xlink:href="#Hatch-4" patternTransform="translate(57.5) rotate(45)"/>
-  <pattern id="Hatch-4" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-4" transform="translate(-64)">
-    <rect id="HatchW-2" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-0" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="DashDotHatchT-2" xlink:href="#DashDotHatch-6" patternTransform="translate(28,8)"/>
-  <pattern id="DashDotHatch-6" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="10">
-   <g id="gDashDotHatch-8" transform="translate(-60)">
-    <rect id="DashDotHatchW-7" height="11" width="9" y="0" x="60" fill="#fff"/>
-    <rect id="DashDotHatchDash1-8" y="0" width="1" x="61" height="5"/>
-    <rect id="DashDotHatchDot1-5" y="7" width="1" x="61" height="1"/>
-    <rect id="DashDotHatchDot2-9" y="2" width="1" x="65" height="1"/>
-    <rect id="DashDotHatchDash2-8" y="5" width="1" x="65" height="5"/>
-   </g>
-  </pattern>
-  <pattern id="DottedT" xlink:href="#Dotted" patternTransform="translate(28,7)"/>
-  <pattern id="Dotted" width="8" patternUnits="userSpaceOnUse" patternTransform="translate(60)" height="8">
-   <g id="gDotted" transform="translate(-60)">
-    <rect id="DottedW" height="9" width="9" y="0" x="60" fill="#fff"/>
-    <rect id="DottedB1" y="5" width="1" x="61" height="1"/>
-    <rect id="DottedB2" y="1" width="1" x="65" height="1"/>
-   </g>
-  </pattern>
-  <pattern id="XHatchD" xlink:href="#XHatch" patternTransform="translate(27,2)rotate(45)"/>
-  <pattern id="XHatch" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="4">
-   <g id="gXHatch" transform="translate(-64)">
-    <rect id="XHatchB" y="0" width="5" x="64" height="5"/>
-    <rect id="XHatchW" height="3" width="3" y="0" x="64" fill="#fff"/>
-   </g>
-  </pattern>
-  <pattern id="HatchV" xlink:href="#Hatch-3" patternTransform="translate(26)"/>
-  <pattern id="Hatch-3" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch-0" transform="translate(-64)">
-    <rect id="HatchW-7" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB-1" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <pattern id="pattern7489" width="11.729427" patternUnits="userSpaceOnUse" patternTransform="translate(1.49 -16.738)" height="11.159601">
-   <g id="g5689" transform="translate(-57.271 .15960)">
-    <g id="fer">
-     <rect id="rect5691" height="11" width="9" y="0" x="60" fill="#fff"/>
-     <rect id="rect5693" y="-.1596" x="59.244" width="1" height="5"/>
-     <rect id="rect5699" y="5" x="65" width="1" height="5"/>
-     <rect id="rect5701" transform="rotate(90)" height="5" width="1" y="-67.857" x="1.3953"/>
-     <rect id="rect5703" transform="rotate(90)" height="5" width="1" y="-62.271" x="7.1409"/>
-    </g>
-   </g>
-  </pattern>
-  <pattern id="HatchH" xlink:href="#Hatch" patternTransform="translate(0,2)rotate(90)"/>
-  <pattern id="Hatch" width="4" patternUnits="userSpaceOnUse" patternTransform="translate(70)" height="64">
-   <g id="gHatch" transform="translate(-64)">
-    <rect id="HatchW" height="65" width="4" y="0" x="64" fill="#fff"/>
-    <rect id="HatchB" y="0" width="2" x="67" height="65"/>
-   </g>
-  </pattern>
-  <radialGradient id="radialGradient7722" gradientUnits="userSpaceOnUse" cy="31.7" cx="27" gradientTransform="matrix(1 0 0 1.1808 0 -5.7304)" r="26">
-   <stop id="ArgentLight" stop-color="#fff" offset="0"/>
-   <stop id="ArgentDark" stop-color="#e0e0e0" offset="1"/>
-  </radialGradient>
-  <radialGradient id="radialGradient7724" gradientUnits="userSpaceOnUse" cy="31.7" cx="27" gradientTransform="matrix(1 0 0 1.1808 0 -5.7304)" r="26">
-   <stop id="OrLight" stop-color="#ff0" offset="0"/>
-   <stop id="OrDark" stop-color="#ffe000" offset="1"/>
-  </radialGradient>
- </defs>
- <metadata id="metadata7950">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="Shield" transform="translate(-16023 2795.3)">
-  <use id="Field" xlink:href="#Shield1" height="1" width="1" y="0" x="0" fill="url(#radialGradient4517)"/>
-  <use id="Trick" xlink:href="#Shield1R" height="1" width="1" y="0" x="0" fill="#ffffff"/>
-  <use id="Border" xlink:href="#Shield1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-0" transform="translate(-16100 2690.5)">
-  <use id="Field-5" xlink:href="#Shield1-2" height="1" width="1" y="0" x="0" fill="#0000ff"/>
-  <use id="Trick-0" xlink:href="#Shield1R-3" height="1" width="1" y="0" x="0" fill="url(#HatchH)"/>
-  <use id="Border-7" xlink:href="#Shield1-2" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-2" transform="translate(-16100 2792.1)">
-  <use id="Field-3" xlink:href="#Shield1-8" height="1" width="1" y="0" x="0" fill="#808080"/>
-  <use id="Border-5" xlink:href="#Shield1-8" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
-  <use id="use3104" xlink:href="#Shield1R-0" transform="translate(.21945 .060601)" height="64" width="54" y="0" x="0" fill="#ffffff"/>
-  <use id="Trick-4" xlink:href="#Shield1R-0" transform="translate(.798 -.1596)" height="64" width="54" y="0" x="0" fill="url(#pattern7489)"/>
- </g>
- <g id="Shield-4" transform="translate(-16100 2893.8)">
-  <use id="Field-2" xlink:href="#Shield1-88" height="1" width="1" y="0" x="0" fill="#ff0000"/>
-  <use id="Trick-2" xlink:href="#Shield1R-7" height="1" width="1" y="0" x="0" fill="url(#HatchV)"/>
-  <use id="Border-1" xlink:href="#Shield1-88" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-6" transform="translate(-16100 2995.5)">
-  <use id="Field-36" xlink:href="#Shield1-21" height="1" width="1" y="0" x="0" fill="#800040"/>
-  <use id="Trick-08" xlink:href="#Shield1R-72" height="1" width="1" y="0" x="0" fill="url(#XHatchD)"/>
-  <use id="Border-8" xlink:href="#Shield1-21" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-9" transform="translate(-16100 3097.1)">
-  <use id="Field-9" xlink:href="#Shield1-7" height="1" width="1" y="0" x="0" fill="url(#radialGradient4519)"/>
-  <use id="Trick-8" xlink:href="#Shield1R-08" height="1" width="1" y="0" x="0" fill="url(#DottedT)"/>
-  <use id="Border-4" xlink:href="#Shield1-7" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-47" transform="translate(-16021 3088.5)">
-  <use id="Field-1" xlink:href="#Shield1-3" height="1" width="1" y="0" x="0" fill="#ff8000"/>
-  <use id="Trick-5" xlink:href="#Shield1R-6" height="1" width="1" y="0" x="0" fill="url(#DashDotHatchT-2)"/>
-  <use id="Border-9" xlink:href="#Shield1-3" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-8" transform="translate(-16018 2990.8)">
-  <use id="Field-17" xlink:href="#Shield1-0" height="1" width="1" y="0" x="0" fill="#800080"/>
-  <use id="Trick-1" xlink:href="#Shield1R-00" height="1" width="1" y="0" x="0" fill="url(#HatchU)"/>
-  <use id="Border-99" xlink:href="#Shield1-0" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-82" transform="translate(-16191 2799.7)">
-  <use id="Field-53" xlink:href="#Shield1-09" height="1" width="1" y="0" x="0"/>
-  <use id="Trick-12" xlink:href="#Shield1R-34" height="1" width="1" y="0" x="0" fill="url(#XHatchT)"/>
-  <use id="Border-12" xlink:href="#Shield1-09" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-69" transform="translate(-16014 2892.9)">
-  <use id="Field-94" xlink:href="#Shield1-9" height="1" width="1" y="0" x="0" fill="#c00000"/>
-  <use id="Trick-09" xlink:href="#Shield1R-2" height="1" width="1" y="0" x="0" fill="url(#HatchHD)"/>
-  <use id="Border-51" xlink:href="#Shield1-9" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-1" transform="translate(-16090 3205.1)">
-  <use id="Field-21" xlink:href="#Shield1-1" height="1" width="1" y="0" x="0" fill="#00c000"/>
-  <use id="Trick-46" xlink:href="#Shield1R-9" height="1" width="1" y="0" x="0" fill="url(#HatchD)"/>
-  <use id="Border-0" xlink:href="#Shield1-1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-81" transform="translate(-8748.3 1459.1)">
-  <use id="Field-8" xlink:href="#Shield1" height="1" width="1" y="0" x="0" fill="url(#radialGradient4517)"/>
-  <use id="Trick-40" xlink:href="#Shield1R" height="1" width="1" y="0" x="0" fill="#ffffff"/>
-  <use id="Border-2" xlink:href="#Shield1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-0-5" transform="translate(-8826.1 1354.3)">
-  <use id="Field-5-1" xlink:href="#Shield1-2" height="1" width="1" y="0" x="0" fill="#0000ff"/>
-  <use id="Trick-0-1" xlink:href="#Shield1R-3" height="1" width="1" y="0" x="0" fill="url(#HatchH-91)"/>
-  <use id="Border-7-5" xlink:href="#Shield1-2" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-2-4" transform="translate(-8826.3 1455.9)">
-  <use id="Field-3-0" xlink:href="#Shield1-8" height="1" width="1" y="0" x="0" fill="#808080"/>
-  <use id="Border-5-1" xlink:href="#Shield1-8" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
-  <use id="use3104-5" xlink:href="#Shield1R-0" transform="translate(.21945 .060601)" height="64" width="54" y="0" x="0" fill="#ffffff"/>
-  <use id="Trick-4-5" xlink:href="#Shield1R-0" transform="translate(.798 -.1596)" height="64" width="54" y="0" x="0" fill="url(#pattern7489-0)"/>
- </g>
- <g id="Shield-4-9" transform="translate(-8826.1 1557.6)">
-  <use id="Field-2-1" xlink:href="#Shield1-88" height="1" width="1" y="0" x="0" fill="#ff0000"/>
-  <use id="Trick-2-4" xlink:href="#Shield1R-7" height="1" width="1" y="0" x="0" fill="url(#HatchV-9)"/>
-  <use id="Border-1-6" xlink:href="#Shield1-88" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-6-1" transform="translate(-8826.1 1659.3)">
-  <use id="Field-36-28" xlink:href="#Shield1-21" height="1" width="1" y="0" x="0" fill="#800040"/>
-  <use id="Trick-08-2" xlink:href="#Shield1R-72" height="1" width="1" y="0" x="0" fill="url(#XHatchD-3)"/>
-  <use id="Border-8-20" xlink:href="#Shield1-21" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-9-9" transform="translate(-8826.1 1760.9)">
-  <use id="Field-9-4" xlink:href="#Shield1-7" height="1" width="1" y="0" x="0" fill="url(#radialGradient4519)"/>
-  <use id="Trick-8-0" xlink:href="#Shield1R-08" height="1" width="1" y="0" x="0" fill="url(#DottedT-6)"/>
-  <use id="Border-4-8" xlink:href="#Shield1-7" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-47-2" transform="translate(-8746.9 1752.3)">
-  <use id="Field-1-0" xlink:href="#Shield1-3" height="1" width="1" y="0" x="0" fill="#ff8000"/>
-  <use id="Trick-5-9" xlink:href="#Shield1R-6" height="1" width="1" y="0" x="0" fill="url(#DashDotHatchT-2-2)"/>
-  <use id="Border-9-6" xlink:href="#Shield1-3" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-8-1" transform="translate(-8744.1 1654.6)">
-  <use id="Field-17-5" xlink:href="#Shield1-0" height="1" width="1" y="0" x="0" fill="#800080"/>
-  <use id="Trick-1-8" xlink:href="#Shield1R-00" height="1" width="1" y="0" x="0" fill="url(#HatchU-3)"/>
-  <use id="Border-99-5" xlink:href="#Shield1-0" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-82-2" transform="translate(-8916.6 1463.5)">
-  <use id="Field-53-9" xlink:href="#Shield1-09" height="1" width="1" y="0" x="0"/>
-  <use id="Trick-12-6" xlink:href="#Shield1R-34" height="1" width="1" y="0" x="0" fill="url(#XHatchT-2)"/>
-  <use id="Border-12-7" xlink:href="#Shield1-09" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-69-4" transform="translate(-8739.8 1556.7)">
-  <use id="Field-94-8" xlink:href="#Shield1-9" height="1" width="1" y="0" x="0" fill="#c00000"/>
-  <use id="Trick-09-0" xlink:href="#Shield1R-2" height="1" width="1" y="0" x="0" fill="url(#HatchHD-78)"/>
-  <use id="Border-51-1" xlink:href="#Shield1-9" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-1-6" transform="translate(-8816.2 1868.9)">
-  <use id="Field-21-22" xlink:href="#Shield1-1" height="1" width="1" y="0" x="0" fill="#00c000"/>
-  <use id="Trick-46-0" xlink:href="#Shield1R-9" height="1" width="1" y="0" x="0" fill="url(#HatchD-0)"/>
-  <use id="Border-0-8" xlink:href="#Shield1-1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <text id="text4839" font-family="Georgia" transform="matrix(-.99188 .027453 -.017892 -1.0077 0 0)" font-size="31.883px" y="-3.4377301" x="-8807.2979" stroke-width="0" fill="none">
-  <tspan id="tspan4841" rotate="187"/>
- </text>
- <text id="text4855" font-family="Georgia" transform="matrix(-.99188 .027453 -.017892 -1.0077 0 0)" font-size="31.883px" y="-5.770668" x="-8853.9561" stroke-width="0" fill="none">
-  <tspan id="tspan4857" rotate="537"/>
- </text>
- <ellipse id="ellipse5679" rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cy="403" cx="216" stroke-width="0" fill="#191919"/>
- <ellipse id="ellipse5683" rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cy="402" cx="216" fill="#fff"/>
- <ellipse id="ellipse5749" rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cy="400" cx="354" stroke-width="0" fill="#191919"/>
- <ellipse id="ellipse5753" rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cy="400" cx="354" fill="#fff"/>
- <ellipse id="ellipse5819" rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cy="523" cx="284" stroke-width="0" fill="#191919"/>
- <ellipse id="ellipse5823" rx="0" ry="0" transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cy="522" cx="284" fill="#fff"/>
- <g id="Shield-09" transform="translate(-1011.6 1081.3)">
-  <use id="Field-23" xlink:href="#Shield1" height="1" width="1" y="0" x="0" fill="url(#radialGradient4517)"/>
-  <use id="Trick-18" xlink:href="#Shield1R" height="1" width="1" y="0" x="0" fill="#ffffff"/>
-  <use id="Border-74" xlink:href="#Shield1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-0-1" transform="translate(-1089.4 976.44)">
-  <use id="Field-5-6" xlink:href="#Shield1-2" height="1" width="1" y="0" x="0" fill="#0000ff"/>
-  <use id="Trick-0-3" xlink:href="#Shield1R-3" height="1" width="1" y="0" x="0" fill="url(#HatchH-9)"/>
-  <use id="Border-7-8" xlink:href="#Shield1-2" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-2-5" transform="translate(-1089.6 1078.1)">
-  <use id="Field-3-5" xlink:href="#Shield1-8" height="1" width="1" y="0" x="0" fill="#808080"/>
-  <use id="Border-5-0" xlink:href="#Shield1-8" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
-  <use id="use3104-1" xlink:href="#Shield1R-0" transform="translate(.21945 .060601)" height="64" width="54" y="0" x="0" fill="#ffffff"/>
-  <use id="Trick-4-2" xlink:href="#Shield1R-0" transform="translate(.798 -.1596)" height="64" width="54" y="0" x="0" fill="url(#pattern7489-6)"/>
- </g>
- <g id="Shield-4-6" transform="translate(-1089.4 1179.8)">
-  <use id="Field-2-4" xlink:href="#Shield1-88" height="1" width="1" y="0" x="0" fill="#ff0000"/>
-  <use id="Trick-2-8" xlink:href="#Shield1R-7" height="1" width="1" y="0" x="0" fill="url(#HatchV-4)"/>
-  <use id="Border-1-5" xlink:href="#Shield1-88" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-6-6" transform="translate(-1089.4 1281.4)">
-  <use id="Field-36-2" xlink:href="#Shield1-21" height="1" width="1" y="0" x="0" fill="#800040"/>
-  <use id="Trick-08-5" xlink:href="#Shield1R-72" height="1" width="1" y="0" x="0" fill="url(#XHatchD-4)"/>
-  <use id="Border-8-2" xlink:href="#Shield1-21" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-9-6" transform="translate(-1089.4 1383.1)">
-  <use id="Field-9-9" xlink:href="#Shield1-7" height="1" width="1" y="0" x="0" fill="url(#radialGradient4519)"/>
-  <use id="Trick-8-1" xlink:href="#Shield1R-08" height="1" width="1" y="0" x="0" fill="url(#DottedT-2)"/>
-  <use id="Border-4-3" xlink:href="#Shield1-7" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-47-3" transform="translate(-1010.2 1374.5)">
-  <use id="Field-1-1" xlink:href="#Shield1-3" height="1" width="1" y="0" x="0" fill="#ff8000"/>
-  <use id="Trick-5-5" xlink:href="#Shield1R-6" height="1" width="1" y="0" x="0" fill="url(#DashDotHatchT-2-5)"/>
-  <use id="Border-9-2" xlink:href="#Shield1-3" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-8-6" transform="translate(-1007.4 1276.7)">
-  <use id="Field-17-9" xlink:href="#Shield1-0" height="1" width="1" y="0" x="0" fill="#800080"/>
-  <use id="Trick-1-4" xlink:href="#Shield1R-00" height="1" width="1" y="0" x="0" fill="url(#HatchU-4)"/>
-  <use id="Border-99-4" xlink:href="#Shield1-0" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-82-6" transform="translate(-1179.9 1085.7)">
-  <use id="Field-53-0" xlink:href="#Shield1-09" height="1" width="1" y="0" x="0"/>
-  <use id="Trick-12-7" xlink:href="#Shield1R-34" height="1" width="1" y="0" x="0" fill="url(#XHatchT-6)"/>
-  <use id="Border-12-4" xlink:href="#Shield1-09" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-69-3" transform="translate(-1003.1 1178.8)">
-  <use id="Field-94-7" xlink:href="#Shield1-9" height="1" width="1" y="0" x="0" fill="#c00000"/>
-  <use id="Trick-09-9" xlink:href="#Shield1R-2" height="1" width="1" y="0" x="0" fill="url(#HatchHD-7)"/>
-  <use id="Border-51-0" xlink:href="#Shield1-9" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <g id="Shield-1-0" transform="translate(-1079.5 1491.1)">
-  <use id="Field-21-2" xlink:href="#Shield1-1" height="1" width="1" y="0" x="0" fill="#00c000"/>
-  <use id="Trick-46-2" xlink:href="#Shield1R-9" height="1" width="1" y="0" x="0" fill="url(#HatchD-6)"/>
-  <use id="Border-0-6" xlink:href="#Shield1-1" height="1" width="1" stroke="#000000" y="0" x="0" fill="none"/>
- </g>
- <path id="path5875" d="m6.5 6.5v84.562c0 140.89 81.042 184.35 123.5 202.44 42.46-18.09 123.5-61.55 123.5-202.44v-84.56h-123.5-123.5z" stroke="#000" stroke-width="3" fill="#0085cf"/>
- <g id="g4262" transform="matrix(.98752 -.15749 .15749 .98752 -22.42 28.133)">
-  <path id="path5477" d="m77.971 140.56-11.667-7.734c-1.3183 1.5469 0.14059 2.4137 0.66291 4.5078 1.6686 6.6901-21.733 25.161-31.82 37.035l4.3973 4.5741 0.066291 0.066291 4.552 4.3752c11.874-10.087 30.345-33.488 37.035-31.82 2.0941 0.52232 2.9609 1.9812 4.5078 0.66291l-7.734-11.667z" stroke="#000" fill="#ffd200"/>
-  <path id="path5479" stroke-linejoin="round" d="m39.088 176.05c-1.6915-1.6424-4.3232-3.5924-6.3861-2.3644-3.3005 1.9649-1.7949 5.934-0.7955 6.8501-1.5373 2.6652-1.5213 5.1676-0.57452 6.6733 1.5057 0.94677 4.0081 0.9628 6.6733-0.57452 0.91613 0.99941 4.8852 2.505 6.8501-0.7955 1.916-3.2185-3.8625-7.771-4.1543-7.9991-0.081919-0.10475-0.66548-0.86975-1.6131-1.7899z" stroke="#000" stroke-linecap="round" fill="#ffd200"/>
-  <path id="path5481" stroke-linejoin="round" d="m38.002 186.66c-2.1072-1.9208 1.0172-5.8132 3.8136-4.2108" stroke="#000" stroke-linecap="round" fill="none"/>
-  <path id="path5483" stroke-linejoin="round" d="m31.885 180.54c1.9208 2.1072 5.8132-1.0172 4.2108-3.8136" stroke="#000" stroke-linecap="round" fill="none"/>
-  <path id="path5493" d="m202 16.545c-4.274 0.81452-8.0636 1.3324-12.811 5.7127-41.749 38.518-116.22 112.77-121.72 111.71l8.5531 8.5531 8.5725 8.5725c-1.0565-5.5 73.172-79.989 111.69-121.74 4.3803-4.7476 4.8982-8.5371 5.7127-12.811z" stroke="#000" stroke-width=".93702px" fill="#fff"/>
-  <path id="path5495" d="m196.75 21.796-119.52 119.6" stroke="#000" stroke-width="1.0011px" fill="none"/>
-  <path id="path5519" stroke-linejoin="round" d="m60.78 106.66c-0.87097-0.93953-2.5742-0.99428-4.0672-0.087064-1.0153 0.61696-1.6753 1.5126-1.9264 2.4568-0.161-0.052644-0.33872-0.088264-0.51088-0.10783 0.37701-0.9169 0.37482-1.9924-0.11402-2.9354-0.82152-1.5847-2.6944-2.1235-4.1569-1.2348-1.4626 0.88871-1.9604 2.8687-1.1389 4.4534 0.48884 0.943 1.3275 1.5131 2.2468 1.6423-0.074253 0.1693-0.13353 0.35323-0.17589 0.52945-0.87524-0.25977-1.9351-0.14143-2.9504 0.47553-1.7063 1.0368-2.5652 2.9775-1.861 4.3359 0.70416 1.3583 2.7051 1.6193 4.4115 0.58248 1.0065-0.61158 1.6698-1.5209 1.9264-2.4568 0.33331 0.10899 0.68882 0.12839 1.0531 0.095902 3.9339 9.4809 9.4058 19.153 15.103 26.297 3.2354 0.041698 3.8622 3.5767 5.1941 4.6046 4.5098 1.3597 3.8718 3.4387 5.0409 5.4116 7.03 5.4106 16.245 10.56 25.286 14.312-0.032492 0.36433-0.013087 0.71983 0.095902 1.0531-0.93581 0.25666-1.8452 0.91994-2.4568 1.9264-1.0368 1.7063-0.77587 3.7073 0.58248 4.4115 1.3583 0.70416 3.2991-0.1547 4.3359-1.861 0.61696-1.0153 0.7353-2.0752 0.47553-2.9504 0.17621-0.04236 0.36015-0.10164 0.52945-0.17589 0.1292 0.91931 0.69926 1.758 1.6423 2.2468 1.5847 0.82152 3.5647 0.32367 4.4534-1.1389 0.88871-1.4626 0.34995-3.3354-1.2348-4.1569-0.943-0.48884-2.0185-0.49104-2.9354-0.11402-0.019569-0.17216-0.05519-0.34989-0.10783-0.51088 0.94419-0.25111 1.8398-0.91109 2.4568-1.9264 0.90722-1.493 0.85247-3.1962-0.087064-4.0672-0.13422-0.12442-0.28143-0.21206-0.45122-0.30008-1.3583-0.70416-3.3212 0.13261-4.358 1.8389-0.61158 1.0065-0.74791 2.0568-0.49763 2.9283-0.3365 0.080893-0.64512 0.26624-0.94841 0.46227-4.6738-2.1294-14.619-9.1696-21.434-16.352-3.3314-3.5112-2.1364-9.727-2.1089-9.8677 0.00014207-0.00072889-0.022176-0.021698-0.022097-0.022097-0.13812 0.02693-6.3558 1.2231-9.8677-2.1089-7.1826-6.8148-14.223-16.76-16.352-21.434 0.19603-0.30329 0.38138-0.6119 0.46227-0.94841 0.87152 0.25028 1.9218 0.11395 2.9283-0.49763 1.7063-1.0368 2.5431-2.9996 1.8389-4.358-0.08802-0.16979-0.17565-0.317-0.30008-0.45122z" stroke="#000" stroke-linecap="round" stroke-width="2" fill="none"/>
-  <path id="path5521" fill="#fff" d="m62.14 134.24 0.63541 0.55347 1.2557 0.33866 1.5689 1.1263c0.88249 1.2684 1.5779 2.5759 2.6791 3.6699l2.3666 1.3815c0.25143 0.13248 0.11246 0.1797 0.32415 0.35602 0.19868 0.17798 0.40802 0.37594 0.5838 0.57951 0.25391 0.42555 0.54109 0.87857 0.92283 1.3797 0.37288 0.52095 0.82057 1.0884 1.3376 1.6884l0.064867 0.06439 0.051608-0.026042c0.45374 0.088232 0.88541 0.2511 1.2812 0.42181 0.011573 0.0046391 0.013525 0.045973 0.026042 0.051608 0.28677 0.12609 0.58675 0.27802 0.84184 0.4493 0.12942 0.08666 0.22864 0.146 0.3499 0.2443 0.12457 0.10142 0.28636 0.23348 0.40198 0.34752 0.19454 0.19366 0.35998 0.37636 0.5322 0.60556 0.33626 0.44759 0.62121 0.95207 0.8717 1.535l0.038825 0.012783c0.12376 0.28947 0.1981 0.59407 0.30068 0.91663 1.3599 4.0088 5.9534 9.898 5.1114 15.583 0.32907 1.6314 2.3627 2.4489 2.3599 2.4574 5.1809 8.4501-2.3154 10.105-6.5662 13.231-3.8866 5.9251-5.7502 13.232-12.837 4.9148-0.41069-0.39227-0.59538-0.32568-1.5607-0.69361-5.8475-2.7203-8.673-4.7791-11.387-10.505 0.53615-1.9488 7.8015-8.0766 9.0766-9.7925l0.45873-1.7854c0.2162-0.76712 0.89059-1.1855 1.2466-1.9565 0.36829-0.80756 0.84137-1.6165 1.3612-2.4352 0.35475-0.55159 0.64904-0.93057 0.91332-1.2055l0.012783-0.038825 0.19308-3.7234-0.026042-0.051608c-0.16655-0.73865-0.40862-1.5338-0.7326-2.3498-1.7307-4.3619 1.4301-0.90192 1.1372-3.5847-0.65125 0.60704-1.5713 0.88148-2.6727 0.7984-1.0001-0.071411-2.1518-0.44373-3.3512-0.93121l-1.5762 0.21261 1.1998 2.891c0.030068 0.082716 0.06428 0.16481 0.091386 0.24526 0.37967 1.0988 0.11355 2.2351 0.010983 2.9729-0.021609 0.14366-0.099558 0.2971-0.14061 0.42707l-0.74472 1.347-1.1609 0.65058-0.99523 0.016596c0.20123 0.026606 0.35787 0.088319 0.56911 0.10131 0.28328 0.97771 0.40186 1.7235 0.31868 2.2997-0.069819 0.43803-0.22629 0.79525-0.50043 0.99714l-1.5089 0.92324-0.15149 0.98293c0.34547 0.60756-0.12144 0.65001 0.0042898 1.1633l0.092816 0.63303c0.028526 0.44262-0.030342 0.86543-0.18936 1.2287-0.087738 0.18204-0.21646 0.34958-0.34704 0.53124-0.6204 0.75286-3.1343 0.99939-4.5476 0.61132l-2.1486-0.79348 0.080986 0.93037-0.090433 0.013259c0.40016 0.68624 0.62368 1.4409 0.62787 2.0141-0.0054293 0.42243-0.34091 1.4199-0.54918 1.7987-0.019002-0.016502-0.059856-0.0020666-0.07765-0.025565 0.10686 0.093211-0.10555 0.16685 0.0009533 0.25851l-0.10322 0.052084c-1.2521 2.2886-5.1585 0.85249-6.2337-0.93353l-0.63303 0.092816-0.053038-0.36173c-0.069262-0.051258-0.13168-0.10024-0.20738-0.15435-0.19559-0.16191-0.36774-0.3518-0.55776-0.52791-0.0034718-0.0013917-0.027251-0.0081437-0.038825-0.012783-0.57843-0.53672-1.6526-1.3401-2.179-2.0084-0.0018506-0.0020851-0.038825-0.012783-0.038825-0.012783-0.34985-0.44501-0.63636-0.8896-0.96159-1.3924l-0.026042-0.051608c-0.15916-0.2464-0.3281-0.50071-0.48106-0.76086-0.004024-0.0067175-0.029571-0.0023569-0.038825-0.012783-0.15714-0.26817-0.27897-0.50412-0.42946-0.7869-0.28175-0.98555-0.59567-1.9506-0.52656-2.5832 0.027783-0.25365 0.059515-0.48564 0.13966-0.68559 0.04344-0.098339 0.67551-1.0939 0.73241-1.1789 0.14079-0.21051 0.31479-0.37733 0.55395-0.50615 0.15882-0.086906 0.37919-0.14579 0.58094-0.19603 0.10076-0.025179 0.16001-0.023532 0.2713-0.039778 0.22306-0.031667 0.48407-0.060516 0.7495-0.054468 0.1137 0.0026023 0.52465 0.39308 0.79071 0.6046l-0.17378-1.5635c-0.066294-0.1207-1.2155-0.11526-0.67328-0.30774-0.4519-0.92335-0.78332-1.7407-0.99151-2.4781-0.070159-0.24423-0.11451-0.47332-0.15768-0.69742-0.086712-0.44825-0.14114-0.83246-0.12076-1.2017 0.011045-0.1844 0.025812-0.41667 0.062484-0.5819 0.067399-0.30221 0.22057-0.54122 0.38491-0.77697 0.082564-0.1191 0.17695-0.23623 0.28313-0.33712l0.56482-1.062 1.7693-0.40723 0.095092-2.2494c-0.76595-1.5389-0.0793-3.2841 0.25316-4.9515l1.1894 0.047318-0.093292-0.76228 5.23-1.3765c-0.006055-0.051558 0.00019649-0.085356-0.00047665-0.12926-0.0070276-0.015982-0.030682-0.040034-0.026042-0.051608-0.0076967-0.42487 0.012251-0.80789 0.086143-1.1766l0.012783-0.038825c0.024699-0.12865 0.09244-0.26645 0.12783-0.38825 0.079984-0.23979 0.14395-0.43104 0.25613-0.64724 0.11151-0.21719 0.40034-0.57485 0.55299-0.76467 0.44638-0.54293 0.68047-0.96409 1.3266-1.2846 0.25961-0.12925 0.70281-0.43954 0.99333-0.53363 0.14511-0.047017 0.27328-0.079763 0.42612-0.1179 0.31581-0.074203 0.64799-0.11046 0.99476-0.14585l-0.026042-0.051608c0.34676-0.035395 0.70646-0.029723 1.0857-0.029855 0.11348-0.00050118 0.27185 0.023462 0.41381 0.050178l7.4046-0.53135z"/>
-  <path id="path5523" fill="#ffd200" d="m60.78 106.66c-0.87097-0.93953-2.5742-0.99428-4.0672-0.087064-1.0153 0.61696-1.6753 1.5126-1.9264 2.4568-0.161-0.052644-0.33872-0.088264-0.51088-0.10783 0.37701-0.9169 0.37482-1.9924-0.11402-2.9354-0.82152-1.5847-2.6944-2.1235-4.1569-1.2348-1.4626 0.88871-1.9604 2.8687-1.1389 4.4534 0.48884 0.943 1.3275 1.5131 2.2468 1.6423-0.074253 0.1693-0.13353 0.35323-0.17589 0.52945-0.87524-0.25977-1.9351-0.14143-2.9504 0.47553-1.7063 1.0368-2.5652 2.9775-1.861 4.3359 0.70416 1.3583 2.7051 1.6193 4.4115 0.58248 1.0065-0.61158 1.6698-1.5209 1.9264-2.4568 0.33331 0.10899 0.68882 0.12839 1.0531 0.095902 3.9339 9.4809 9.4058 19.153 15.103 26.297 3.2354 0.041698 3.8622 3.5767 5.1941 4.6046 4.5098 1.3597 3.8718 3.4387 5.0409 5.4116 7.03 5.4106 16.245 10.56 25.286 14.312-0.032492 0.36433-0.013087 0.71983 0.095902 1.0531-0.93581 0.25666-1.8452 0.91994-2.4568 1.9264-1.0368 1.7063-0.77587 3.7073 0.58248 4.4115 1.3583 0.70416 3.2991-0.1547 4.3359-1.861 0.61696-1.0153 0.7353-2.0752 0.47553-2.9504 0.17621-0.04236 0.36015-0.10164 0.52945-0.17589 0.1292 0.91931 0.69926 1.758 1.6423 2.2468 1.5847 0.82152 3.5647 0.32367 4.4534-1.1389 0.88871-1.4626 0.34995-3.3354-1.2348-4.1569-0.943-0.48884-2.0185-0.49104-2.9354-0.11402-0.019569-0.17216-0.05519-0.34989-0.10783-0.51088 0.94419-0.25111 1.8398-0.91109 2.4568-1.9264 0.90722-1.493 0.85247-3.1962-0.087064-4.0672-0.13422-0.12442-0.28143-0.21206-0.45122-0.30008-1.3583-0.70416-3.3212 0.13261-4.358 1.8389-0.61158 1.0065-0.74791 2.0568-0.49763 2.9283-0.3365 0.080893-0.64512 0.26624-0.94841 0.46227-4.6738-2.1294-14.619-9.1696-21.434-16.352-3.3314-3.5112-2.1364-9.727-2.1089-9.8677 0.00014207-0.00072889-0.022176-0.021698-0.022097-0.022097-0.13812 0.02693-6.3558 1.2231-9.8677-2.1089-7.1826-6.8148-14.223-16.76-16.352-21.434 0.19603-0.30329 0.38138-0.6119 0.46227-0.94841 0.87152 0.25028 1.9218 0.11395 2.9283-0.49763 1.7063-1.0368 2.5431-2.9996 1.8389-4.358-0.08802-0.16979-0.17565-0.317-0.30008-0.45122z"/>
-  <path id="path5525" d="m144.34 49.307c-2.2889-2.2108-5.5723-3.6254-10.34-3.4861-19.071 0.55743-22.744 41.287-19.291 57.993 16.706 3.4523 57.465-0.19098 58.022-19.262 0.55743-19.071-23.871-14.89-23.871-14.89s2.3467-13.723-4.5201-20.355z" stroke="#000" fill="#dc281e"/>
-  <path id="path5527" style="color:#000000" d="m62.652 134.11c0.69485 0.24233 1.1968 0.61158 1.9379 1.0816l1.0826 1.5749 2.6893 3.6196-0.66652 0.022829c-1.2025-1.3437-2.427-2.8518-3.4211-4.5599-2.1025-1.1637-4.8824-1.7206-6.7754-0.59546-1.8977-0.25452-4.4036-0.44076-6.1764 0.59143-1.7975 1.0465-2.6155 2.5591-2.3994 4.8044 0.42357 3.1457 2.6021 5.9999 3.2397 9.243 0.2036 0.76232 0.4644 1.2685 0.84762 2.0004 1.4294-2.8955 5.1001-0.6704 5.8262 2.5637-0.43458 0.57805-0.57605 1.234-1.2997 1.5947 2.3034 1.17 4.0648-1.6422 3.1896-4.329-0.4044-1.2001-0.94334-2.8549-2.0838-4.2579-0.71217-0.44927-1.3071-0.81616-2.0468-1.2333-1.3726-0.96523-2.952-2.1266-3.5303-3.9165-0.14015-0.50033-0.29642-1.2364-0.2003-1.7443 0.031638-0.16944 0.069256-0.47619 0.12687-0.64676-0.22546-1.1384 1.3976-2.153 2.9-2.2728 1.5738-0.12532 3.3128 0.70677 4.7105 1.5079 0.74352 0.31009 1.1268 0.31517 1.9279 0.54868 0.6088 0.15958 1.3522 0.36788 2.07 0.5094 2.013-0.10043 4.1704-0.072294 5.8317 0.58601 0.61082 0.24203 1.2049 0.7284 1.6335 1.3124 0.28733 0.44703 0.55943 1.0188 0.97491 1.4829 0.29039 0.40568 0.67974 0.90709 1.0909 1.392 1.4791 0.41524 2.8993 1.1037 3.7964 2.4549 0.53869 0.81139 1.0594 1.8469 1.4068 2.916 1.1301 3.4788 5.3913 8.9364 4.774 15.17-0.087465 0.88326 1.1907 1.3435 1.9466 1.6154 0.64279 0.23121-0.3766 0.83103-0.43781 0.90132-1.1793-0.78678-2.4673-1.069-2.3999-2.2937 0.31393-5.7034-3.6027-11.096-4.9676-15.105-0.094157-0.27661-0.028801-0.68026-0.16099-1.0014-0.24151-0.58665-0.64084-1.4473-1-1.8768-0.91324-1.0919-2.0616-1.8245-3.5364-2.068-0.77595-0.96556-1.3833-1.861-2.1695-2.952-0.30582-0.42441-0.7304-0.94384-1.2325-1.2234-0.18152-0.10638-0.38545-0.21382-0.59563-0.28217-1.4713-0.47846-3.5666-0.12924-5.1846-0.3299-0.33316-0.071344-0.66049-0.070181-0.98293-0.15149-0.81289-0.21626-1.6409-0.50238-2.4588-0.76651-0.063535 0.71186-0.064283 1.2694-0.57475 1.8764-0.18452 0.13419-0.28042 0.39615-0.54117 0.46733-2.2244 0.53996-4.3072 0.2502-6.0288-1.4255-0.00017606 0.64097-0.023605 1.1937 0.30401 1.8214 0.1282 0.24892 0.33672 0.48574 0.53267 0.73481 0.80957 0.89774 1.7728 1.7991 2.8654 2.4066 0.68002 0.44776 1.2888 0.87 2.0468 1.2333 1.7621 0.89875 3.6426 1.5719 5.1249 1.6873 1.1014 0.083173 2.0087-0.15247 2.6599-0.75951 0.29286 2.6827-2.8291-0.76439-1.0984 3.5975 0.32388 0.81605 0.56594 1.6112 0.7326 2.3498 0.21223 0.78641 0.45647 1.7562 1.1591 2.3611 0.71121 0.18289 1.6406 0.4083 2.4953 0.133-0.70499 0.41043-1.3676 0.8337-2.2589 0.84845-0.26395 0.12774-0.63697 0.1882-0.87733 0.44272-1.016 1.1569-1.8431 2.439-2.5448 3.9389-0.35602 0.77098-0.62846 1.5367-0.84461 2.3039-0.77204 2.83-0.49259 6.7867 1.0443 9.7682-1.8383-2.4023-2.7194-5.5264-2.2389-8.6491-1.9041 2.1931-6.0359 6.4263-8.7174 9.4038 2.5939 6.3803 5.9882 7.5987 11.863 10.216 0.50078 0.92987 3.9193 3.5894 3.8752 3.2938-0.051049 0.23164-0.42072 0.55909-0.45524 0.78574-0.048941 0.32132-1.4241-0.023567-3.2314-2.038-0.32304-0.3261-0.642-0.66582-0.94696-0.91425-0.61682-0.27112-1.8912-0.71457-3.1974-1.2679-4.3599-1.6012-7.4059-5.1753-9.182-9.542-0.22554-0.56505 0.82774-0.99585 1.3229-1.3494 0.21802-0.15818-0.14712-0.22613 0.68272-1.0644 0.82986-0.83829 1.8015-1.7875 2.7738-2.8468 1.4895-1.6267 3.4434-3.5318 5.2598-5.3059 0.22371-1.0229 0.19232-2.3141 0.7236-3.3839 0.72592-1.4492 1.8791-2.9741 3.1495-4.2202-0.42248-0.77238-1.1388-1.7833-1.2104-2.7152-0.14512-0.62039-0.036037-1.9005-0.33289-2.6486-0.33192-0.83657-0.37706-1.3609-0.43375-1.9502-1.2699-0.10603-3.4748-0.89798-4.8139-1.4558 1.9465 2.5065 2.457 6.3475 0.23737 8.2975-0.33397 0.21118-0.82427 0.4087-1.2907 0.5218 0.53276 1.6892 0.17938 3.3399-1.7304 3.9487l-0.050654 0.28456c-0.037619 0.11399-0.23272 0.034953-0.36173 0.053038 0.32866 0.5698 0.37646 1.4791 0.13686 2.0677 0.28094 0.91208 0.25768 1.8417-0.45637 2.4318-1.2798 1.0576-4.0526 1.1263-5.9065 0.1639-0.24504-0.12721-0.44653-0.0083715-0.68559-0.13966 0.65652 1.4101 1.1191 3.5809-0.0093595 4.4724-0.37096 1.9932-5.1708 2.1466-7.1238-0.45197-1.1271-0.83411-2.2454-1.5565-3.1373-2.4961-1.6756-1.7651-3.1761-4.1161-2.8429-6.7885 0.1803-1.4648 1.2817-2.567 2.8975-2.919-1.9721-3.3285-1.8704-7.6613 1.8283-8.9515-0.50586-2.2629-1.1828-4.2444 0.23564-6.2053 1.1299-1.5619 3.7884-2.2897 6.0926-2.2974 0.24463-2.0765 1.0436-3.9074 3.226-4.9625 1.9362-0.9419 4.0385-1.0218 6.2796-0.64368 1.5321-0.79553 3.061-0.94762 4.5865-0.59852 0.24968 0.057132 0.48001 0.11049 0.71163 0.19126zm-4.4297 4.5663c-0.24942-0.10568-0.5194-0.18835-0.7765-0.25565-0.32936-0.086229-0.66857-0.092737-1.0085-0.073837l-0.038825-0.012783c-1.184 0.085814-2.4369 0.58865-2.6561 1.7936 1.6134 1.7419 3.9267 2.1481 6.0935 1.4898 0.42649-0.34523 0.58112-1.0063 0.4971-1.9019-0.66445-0.28065-1.3625-0.72217-2.1107-1.0392zm-10.305 2.6748c-1.7446-0.16513-3.8639-0.12303-5.255 1.5834-0.78965 0.96868-1.0131 2.0471-0.75039 3.3248 0.20846 1.7834 0.97283 3.8854 2.0759 5.5893 1.7352 2.923 4.9084 4.7698 7.8186 6.5762 1.721-1.0127 4.4028-1.1327 5.4042 0.31615 0.30131 0.43605 0.12654 1.1574 0.058301 1.7835 1.5634-0.6245 1.4361-2.0165 0.9303-3.6098-0.51509-0.046886-0.89056-0.15802-1.436-0.3437-0.12093 0.10127-0.30911 0.22126-0.46447 0.23438-1.2058 0.10177-3.0257-2.402-3.5427-3.7484 1.1e-13 -2e-13 -1.0823-2.0113-1.2907-3.007-0.93434-2.9931-2.7131-5.5201-3.5479-8.6989zm7.8315 10.066c-0.15061-0.057416-0.28903-0.082207-0.43986-0.10179-0.72397-0.093975-1.4371 0.29003-1.9597 1.3774 0.51702 1.5892 1.5741 3.1022 2.9091 3.7119 0.82576-0.30943 1.5243-1.099 2.0221-1.9592-0.47823-1.3309-1.4774-2.6264-2.5317-3.0283zm-13.761-1.8625-0.038825-0.012783c-7.0067 1.5747 1.0504 13.773 8.3562 15.661-0.47711-2.6405 3.2568-3.6664 6.1441-2.3234 0.20597-0.27414 0.30889-0.77994-0.30356-1.6921-0.96866-0.057128-3.8233-0.90288-4.4796-1.9482-3.3865-1.788-6.8644-3.9737-8.5714-7.4267-0.35867-0.59832-0.87362-1.6575-1.1071-2.258zm13.851 8.9067c-0.9766-0.41664-2.4862-0.14631-3.6173 0.53038 1.058 1.0804 2.7757 1.6038 4.427 1.7157 0.16743-0.56606 0.1654-1.2153-0.044545-1.5639-0.17341-0.28789-0.43961-0.54337-0.76514-0.68225zm0.37984 4.8587c-2.4489-0.78493-5.8073-0.6978-5.4212 2.0881 1.4114 1.0016 5.0101 1.1242 5.7247-0.3959 0.19309-0.41073-0.026921-1.0886-0.30356-1.6921zm-15.955-4.88c-1.386-0.067866-2.4782 0.6424-2.6414 2.2717-0.35341 3.5267 2.1001 5.8457 5.1094 8.0082 0.39935-1.2016 1.4956-1.6489 2.7607-1.458 1.4953 0.22692 3.6322 0.74482 4.2618 2.479 0.35906-1.1939 0.13095-2.4172-0.65967-3.6169-0.61076-0.84436-1.3054-1.0316-2.41-1.5681-2.0766-1.2175-4.8892-4.0547-6.4209-6.1161zm7.4692 9.9901c-0.36904-0.16725-0.81273-0.29067-1.2036-0.39627-0.52112-0.1408-1.0321-0.22557-1.4356-0.21447-0.73937 0.011107-1.4908 0.52598-1.7916 1.3897 0.25561 1.2062 4.4802 3.3864 5.9758 1.0638 0.3902-0.60607-0.43783-1.341-1.545-1.8427z"/>
-  <path id="path5529" d="m175.86 163.99c-10.199 7.5632-19.433 18.021-29.032 27.386l-8.25 29.5 11 22c14.322-9.612 30.411-27.432 45.917-36.048-2.6762-16.362-10.938-29.717-19.635-42.838z" stroke="#000" stroke-width="1px" fill="#fff"/>
-  <path id="path5531" stroke-linejoin="round" d="m188.32 184.98-39.845 32.864" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5533" stroke-linejoin="round" d="m186.4 155.42c-5.6453 3.3333-10.722 5.4861-14.857 10.405 7.9328 9.88 16.828 21.653 22.239 43.012 2.475 0.13105 4.6489-0.83877 7.2305-3.3788-1.1661-24.995-7.8562-32.388-14.613-50.038z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5535" stroke-linejoin="round" d="m192.72 146.62c-5.6453 3.3333-10.722 5.4861-14.857 10.405 8.3603 10.532 15.31 25.299 18.103 40.291 0.70283 3.7723 1.2335 6.915 1.6496 10.7 1.7875 1.8185 5.1983-0.0047151 7.7798-2.5448-1.1661-24.995-5.9187-41.201-12.675-58.851z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5537" stroke-linejoin="round" d="m206.63 140.61c-6.5967 3.5113-17.222 4.3482-17.437 5.7508 6.7454 11.633 12.944 33.214 13.535 48.452 0.14862 3.8343 0.96182 8.3065 0.82496 12.111 3.0342 1.6971 4.4086-0.52053 7.3228-2.676 2.4693-24.9-0.11899-45.195-4.2461-63.638z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5539" stroke-linejoin="round" d="m222.29 135.54c-0.59441 1.0429-1.4135 2.3184-3.403 2.961-5.2411 1.6928-11.388-1.3706-14.761 0.26517 7.4175 17.286 10.355 48.996 5.0972 66.804 1.2584 2.4188 5.0682-0.52522 7.2815 0.8016 7.417-27.727 7.737-50.131 5.7851-70.831z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5541" stroke-linejoin="round" d="m223.52 132.62c1.802-0.29482 3.0887 2.36 3.0494 4.0217-0.55644 23.517 1.8546 47.004-8.481 69.727-0.94236 2.0718-3.9027 1.907-3.3188 0.14438 8.227-24.836 6.3484-48.038 6.0104-69.296-0.037582-2.3639 0.78434-4.2762 2.74-4.5962z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5543" stroke-linejoin="round" d="m89.086 166.39c0.57929-1.1546 1.3485-1.8709 3.1806 1.4398 2.745 4.9603 21.905 16.782 33.423 24.359l3.5247 11.855-0.70711 8.4853-5.4801 11.667-9.5459 10.96c-18.804-16.59-37.772-40.55-43.397-43.4l10.076-11.314s6.364-10.43 6.7175-10.783c0.35355-0.35355 2.2097-3.2704 2.2097-3.2704z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5545" stroke-linejoin="round" d="m151.05 188.75c-0.24158-0.20756-0.53439-0.40043-0.83969-0.57452-6.1612-3.5134-9.8807 3.4283-11.623 7.0269-1.7126 0.59643-1.2357 1.7298-2.7383 0.76451-1.6073-3.6609-5.0702-10.75-11.358-7.4688-4.985 2.6018-1.706 10.053 1.4584 14.628 1.4336 2.0827 1.1875 5.1882 0.46404 8.5958-2.3884 8.9044-10.506 17.366-17.655 24.413-3.6032 3.5522 1.5407 7.8577 4.2868 5.1707 7.0147 6.0006 13.227 10.828 18.183 19.37-0.31324 2.3583 0.62012 4.1965 3.009 4.3389 2.3889 0.14242 3.6388-2.1427 3.2887-4.2284 5.2705-8.3522 12.389-14.24 19.622-19.976 2.6442 2.7873 7.9542-1.288 4.4857-4.9718-6.8812-7.3083-12.153-15.563-14.208-24.55-0.59614-3.4321-0.71465-6.5458 0.7955-8.5737 3.1242-4.1761 6.4521-10.852 2.8284-13.965z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5547" stroke-linejoin="round" d="m143.92 213.28c2.2054 9.2918 6.616 20.319 13.224 27.528" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5549" stroke-linejoin="round" d="m138.58 195.2c-2.1138 4.604-0.8166 11.926-0.022097 15.357" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5551" stroke-linejoin="round" d="m129.53 215.04c-2.5496 9.2033-9.6175 19.309-16.489 26.266" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5553" stroke-linejoin="round" d="m135.85 195.97c1.6049 4.7763-2.9554 12.08-3.2894 19.502" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5555" stroke-linejoin="round" d="m181.79 187.67a2.0338 2.0338 0 0 1 -2.8762 -2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" stroke="#000" stroke-linecap="round" fill="#fff"/>
-  <path id="path5557" stroke-linejoin="round" d="m168.69 198.82a2.0338 2.0338 0 0 1 -2.8762 -2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" stroke="#000" stroke-linecap="round" fill="#fff"/>
-  <path id="path5559" stroke-linejoin="round" d="m153.95 211.66a2.0338 2.0338 0 0 1 -2.8762 -2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" stroke="#000" stroke-linecap="round" fill="#fff"/>
-  <path id="path5561" stroke-linejoin="round" d="m99.786 174.81c-5.9161 8.8683-12.52 17.638-19.602 26.34" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5563" stroke-linejoin="round" d="m82.845 182c14.42 10.581 28.297 22.14 41.885 34.218" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5565" stroke-linejoin="round" d="m86.98 165.28c-3.1581 6.1439-4.5755 11.461-18.621 24.573-3.6538 3.4111 0.22958 6.5049 3.0936 3.9775 9.0237-7.9631 15.627-15.829 19.926-26.857 1.2038-3.0883-1.9045-6.5463-4.3989-1.6936z" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="#fff"/>
-  <path id="path5567" stroke-linejoin="round" d="m122.3 208.8a2.0338 2.0338 0 0 1 -2.8762 -2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" stroke="#000" stroke-linecap="round" fill="#fff"/>
-  <path id="path5569" stroke-linejoin="round" d="m110.37 198.28a2.0338 2.0338 0 0 1 -2.8762 -2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" stroke="#000" stroke-linecap="round" fill="#fff"/>
-  <path id="path5571" stroke-linejoin="round" d="m98.46 189.24a2.0338 2.0338 0 0 1 -2.8762 -2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" stroke="#000" stroke-linecap="round" fill="#fff"/>
-  <path id="path5573" stroke-linejoin="round" d="m90.361 182.91a2.0338 2.0338 0 0 1 -2.8762 -2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" stroke="#000" stroke-linecap="round" fill="#fff"/>
-  <path id="path3435" stroke-linejoin="round" d="m117.97 100.56c15.899 0.52843 32.689 1.6229 45.707-7.4368 8.8021-5.8865 5.8869-18.199-3.426-19.637" stroke="#000" stroke-linecap="round" fill="#dc281e"/>
- </g>
- <path id="path4170" stroke-linejoin="round" d="m206.12 13.094-3.5938 8.0938-8.8125-0.9375 5.25 7.1562-5.25 7.1562 8.8125-0.96875 3.5938 8.125 3.5625-8.125l8.82 0.969-5.22-7.156 5.22-7.156-8.8125 0.9375-3.5625-8.0938zm-27.875 75.5-3.5938 8.0938-8.8125-0.9375 5.25 7.1562-5.25 7.1562 8.8125-0.96875 3.5938 8.125 3.5625-8.125 8.8438 0.96875-5.25-7.1562 5.25-7.1562-8.8438 0.9375-3.5625-8.0938zm55.719 0-3.5625 8.0938-8.8125-0.9375 5.2188 7.1562-5.2188 7.1562 8.8125-0.96875 3.5625 8.125 3.5938-8.125 8.8125 0.96875-5.25-7.1562 5.25-7.1562-8.8125 0.9375-3.5938-8.0938z" stroke="#000" stroke-linecap="round" fill="#ffd200"/>
- <path id="path4172" stroke-linejoin="round" d="m206.56 44c-6.2616 7e-15 -11.955 2.3773-16.25 6.2812 2.4142-1.0662 5.0974-1.6562 7.9062-1.6562 10.802 0 19.531 8.761 19.531 19.562 0 10.802-8.7297 19.563-19.531 19.562-2.8088 0-5.492-0.59004-7.9062-1.6562 4.2953 3.9039 9.9884 6.2812 16.25 6.2812 13.358 0 24.188-10.829 24.188-24.188 0-13.357-10.83-24.186-24.19-24.186z" stroke="#000" stroke-linecap="round" fill="#fff"/>
- <g id="g4393" transform="translate(270,80)">
-  <path id="path4316" stroke-linejoin="round" d="m-214.59-62.469-3.3438 20.656c-1.6672-3.6088-3.0531-2.9511-4.9375-4.25-2.8795-1.9848-0.37204-8.7632-7.9688-7.9375-0.50645 0.055044-1.0554 0.15496-1.6562 0.28125 5.0604 3.2818 1.6667 9.2143 4.4062 11.562 4.4107 3.7806 5.7834 3.708 7.7812 7.75l-19.17-13.842 10.66 14.75c-0.40835-0.23281-0.76308-0.3974-1.0312-0.5-3.9064-1.4945-4.336 0.01649-6.625 0.4375-2.293 0.42176-4.433-2.3655-7-2.5-1.5402-0.080676-3.2364 0.82109-5.25 3.9062 5.8988-1.2577 7.6836 5.3392 11.281 5.0625 5.1169-0.39358 6.447-1.2389 9.625-0.4375l-25.906 4.1562 20.656 3.3438c-3.6078 1.6672-2.9198 3.0531-4.2188 4.9375-2.1171 3.0714-9.6769 0.01077-7.6562 9.625 3.2818-5.0604 9.183-1.6667 11.531-4.4062 3.7699-4.3982 3.7377-5.7612 7.75-7.75l-13.812 19.125 14.688-10.594c-0.21142 0.37536-0.37275 0.71781-0.46875 0.96875-1.4945 3.9064 0.01649 4.336 0.4375 6.625 0.67481 3.6688-6.8208 6.8805 1.4062 12.25-1.2577-5.8988 5.3392-7.6836 5.0625-11.281-0.39125-5.0866-1.1916-6.425-0.40625-9.5625l4.1562 25.812 3.3125-20.625c1.6685 3.6097 3.084 2.9196 4.9688 4.2188 3.0714 2.1171-0.02048 9.6769 9.5938 7.6562-5.0604-3.2818-1.6667-9.2143-4.4062-11.562-4.4107-3.7806-5.7834-3.708-7.7812-7.75l19.156 13.812-10.562-14.625c0.37216 0.20868 0.68836 0.34218 0.9375 0.4375 3.9064 1.4945 4.3673-0.04774 6.6562-0.46875 3.6688-0.67481 6.8805 6.8521 12.25-1.375-5.8988 1.2577-7.7149-5.3392-11.312-5.0625-5.0866 0.39125-6.425 1.1916-9.5625 0.40625l25.83-4.156-20.656-3.3125c3.6088-1.6682 2.9511-3.0843 4.25-4.9688 2.1171-3.0714 9.6769 0.02048 7.6562-9.5938-3.2818 5.0604-9.2143 1.6667-11.562 4.4062-3.7806 4.4107-3.7343 5.7832-7.7812 7.7812l13.85-19.186-14.688 10.656c0.22347-0.39442 0.36894-0.7391 0.46875-1 1.4945-3.9064-0.01649-4.3673-0.4375-6.6562-0.67481-3.6688 6.8208-6.8805-1.4062-12.25 1.2577 5.8988-5.3392 7.7149-5.0625 11.312 0.39358 5.1169 1.2389 6.447 0.4375 9.625l-4.1562-25.906z" stroke="#000" stroke-linecap="round" fill="#ffd200"/>
-  <path id="path4336" d="m-213.14 45.06a14.719 14.719 0 1 1 -29.438 0 14.719 14.719 0 1 1 29.438 0z" transform="matrix(1.3511 0 0 1.3511 93.271 -84.25)" stroke="#000" stroke-width=".74011" fill="#ffd200"/>
-  <path id="path4338" stroke-linejoin="round" d="m-226.06-28.188c2.978-2.0452 4.8604-1.8402 7.2391 0.9085" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="none"/>
-  <path id="path4340" d="m-220.78 51.885a1.2078 1.2078 0 1 1 -2.4157 0 1.2078 1.2078 0 1 1 2.4157 0z" transform="matrix(1.2093 0 0 1.2093 46.258 -90.908)"/>
-  <path id="path4342" stroke-linejoin="round" d="m-226.02-31.732c2.8853-1.4889 4.8717-1.3919 7.4179 0.35236" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="none"/>
-  <path id="path4348" stroke-linejoin="round" d="m-208.2-17.219c-1.0988 1.6057-3.0781 3.2574-6.3559 3.2574s-5.2571-1.6517-6.3559-3.2574" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="none"/>
-  <path id="path4350" stroke-linejoin="round" d="m-213.52-29.414c0.12884 2.6621 0.13349 5.6553 0.55614 7.5339 0.2247 0.99876-3.9759 1.2841-3.5355-0.51642l0.26175-1.07" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="none"/>
-  <path id="path4359" stroke-linejoin="round" d="m-203.15-28.188c-2.978-2.0452-4.8604-1.8402-7.2391 0.9085" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="none"/>
-  <path id="path4361" d="m-220.78 51.885a1.2078 1.2078 0 1 1 -2.4157 0 1.2078 1.2078 0 1 1 2.4157 0z" transform="matrix(-1.2093 0 0 1.2093 -475.47 -90.908)"/>
-  <path id="path4363" stroke-linejoin="round" d="m-203.19-31.732c-2.8853-1.4889-4.8717-1.3919-7.4179 0.35236" stroke="#000" stroke-linecap="round" stroke-width="1px" fill="none"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 260 300" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="a" cx="27" cy="31.7" r="26" gradientTransform="matrix(1 0 0 1.1808 0 -5.7304)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff0" offset="0"/>
+<stop stop-color="#ffe000" offset="1"/>
+</radialGradient>
+<radialGradient id="b" cx="27" cy="31.7" r="26" gradientTransform="matrix(1 0 0 1.1808 0 -5.7304)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#e0e0e0" offset="1"/>
+</radialGradient>
+<pattern id="aj" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="ad" xlink:href="#aj" patternTransform="translate(0,2)rotate(90)"/>
+<pattern id="d" width="11.729427" height="11.159601" patternTransform="translate(1.49 -16.738)" patternUnits="userSpaceOnUse">
+<g transform="translate(-57.271 .1596)">
+<rect x="60" width="9" height="11" fill="#fff"/>
+<rect x="59.244" y="-.1596" width="1" height="5"/>
+<rect x="65" y="5" width="1" height="5"/>
+<rect transform="rotate(90)" x="1.3953" y="-67.857" width="1" height="5"/>
+<rect transform="rotate(90)" x="7.1409" y="-62.271" width="1" height="5"/>
+</g>
+</pattern>
+<pattern id="ar" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="u" xlink:href="#ar" patternTransform="translate(26)"/>
+<pattern id="r" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="j" xlink:href="#r" patternTransform="translate(27,2)rotate(45)"/>
+<pattern id="ay" width="8" height="8" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+<g transform="translate(-60)">
+<rect x="60" width="9" height="9" fill="#fff"/>
+<rect x="61" y="5" width="1" height="1"/>
+<rect x="65" y="1" width="1" height="1"/>
+</g>
+</pattern>
+<pattern id="av" xlink:href="#ay" patternTransform="translate(28,7)"/>
+<pattern id="be" width="8" height="10" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+<g transform="translate(-60)">
+<rect x="60" width="9" height="11" fill="#fff"/>
+<rect x="61" width="1" height="5"/>
+<rect x="61" y="7" width="1" height="1"/>
+<rect x="65" y="2" width="1" height="1"/>
+<rect x="65" y="5" width="1" height="5"/>
+</g>
+</pattern>
+<pattern id="bc" xlink:href="#be" patternTransform="translate(28,8)"/>
+<pattern id="ak" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="y" xlink:href="#ak" patternTransform="translate(57.5) rotate(45)"/>
+<pattern id="m" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="g" xlink:href="#m" patternTransform="translate(30,2)"/>
+<pattern id="o" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="aa" xlink:href="#o" patternTransform="translate(3,2)skewX(45)"/>
+<pattern id="an" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="ah" xlink:href="#an" patternTransform="translate(28,0.5)rotate(135)"/>
+<style type="text/css"/>
+<pattern id="ag" xlink:href="#ao" patternTransform="translate(28,0.5)rotate(135)"/>
+<pattern id="ao" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="ab" xlink:href="#p" patternTransform="translate(3,2)skewX(45)"/>
+<pattern id="p" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="f" xlink:href="#l" patternTransform="translate(30,2)"/>
+<pattern id="l" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="x" xlink:href="#al" patternTransform="translate(57.5) rotate(45)"/>
+<pattern id="al" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="bb" xlink:href="#bf" patternTransform="translate(28,8)"/>
+<pattern id="bf" width="8" height="10" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+<g transform="translate(-60)">
+<rect x="60" width="9" height="11" fill="#fff"/>
+<rect x="61" width="1" height="5"/>
+<rect x="61" y="7" width="1" height="1"/>
+<rect x="65" y="2" width="1" height="1"/>
+<rect x="65" y="5" width="1" height="5"/>
+</g>
+</pattern>
+<pattern id="aw" xlink:href="#az" patternTransform="translate(28,7)"/>
+<pattern id="az" width="8" height="8" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+<g transform="translate(-60)">
+<rect x="60" width="9" height="9" fill="#fff"/>
+<rect x="61" y="5" width="1" height="1"/>
+<rect x="65" y="1" width="1" height="1"/>
+</g>
+</pattern>
+<pattern id="i" xlink:href="#s" patternTransform="translate(27,2)rotate(45)"/>
+<pattern id="s" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="v" xlink:href="#aq" patternTransform="translate(26)"/>
+<pattern id="aq" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="c" width="11.729427" height="11.159601" patternTransform="translate(1.49 -16.738)" patternUnits="userSpaceOnUse">
+<g transform="translate(-57.271 .1596)">
+<rect x="60" width="9" height="11" fill="#fff"/>
+<rect x="59.244" y="-.1596" width="1" height="5"/>
+<rect x="65" y="5" width="1" height="5"/>
+<rect transform="rotate(90)" x="1.3953" y="-67.857" width="1" height="5"/>
+<rect transform="rotate(90)" x="7.1409" y="-62.271" width="1" height="5"/>
+</g>
+</pattern>
+<pattern id="ae" xlink:href="#at" patternTransform="translate(0,2)rotate(90)"/>
+<pattern id="at" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="ai" xlink:href="#ap" patternTransform="translate(28,0.5)rotate(135)"/>
+<pattern id="ap" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="ac" xlink:href="#q" patternTransform="translate(3,2)skewX(45)"/>
+<pattern id="q" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="h" xlink:href="#n" patternTransform="translate(30,2)"/>
+<pattern id="n" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="z" xlink:href="#am" patternTransform="translate(57.5) rotate(45)"/>
+<pattern id="am" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="bd" xlink:href="#bg" patternTransform="translate(28,8)"/>
+<pattern id="bg" width="8" height="10" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+<g transform="translate(-60)">
+<rect x="60" width="9" height="11" fill="#fff"/>
+<rect x="61" width="1" height="5"/>
+<rect x="61" y="7" width="1" height="1"/>
+<rect x="65" y="2" width="1" height="1"/>
+<rect x="65" y="5" width="1" height="5"/>
+</g>
+</pattern>
+<pattern id="ax" xlink:href="#ba" patternTransform="translate(28,7)"/>
+<pattern id="ba" width="8" height="8" patternTransform="translate(60)" patternUnits="userSpaceOnUse">
+<g transform="translate(-60)">
+<rect x="60" width="9" height="9" fill="#fff"/>
+<rect x="61" y="5" width="1" height="1"/>
+<rect x="65" y="1" width="1" height="1"/>
+</g>
+</pattern>
+<pattern id="k" xlink:href="#t" patternTransform="translate(27,2)rotate(45)"/>
+<pattern id="t" width="4" height="4" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="5" height="5"/>
+<rect x="64" width="3" height="3" fill="#fff"/>
+</g>
+</pattern>
+<pattern id="w" xlink:href="#as" patternTransform="translate(26)"/>
+<pattern id="as" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+<pattern id="e" width="11.729427" height="11.159601" patternTransform="translate(1.49 -16.738)" patternUnits="userSpaceOnUse">
+<g transform="translate(-57.271 .1596)">
+<rect x="60" width="9" height="11" fill="#fff"/>
+<rect x="59.244" y="-.1596" width="1" height="5"/>
+<rect x="65" y="5" width="1" height="5"/>
+<rect transform="rotate(90)" x="1.3953" y="-67.857" width="1" height="5"/>
+<rect transform="rotate(90)" x="7.1409" y="-62.271" width="1" height="5"/>
+</g>
+</pattern>
+<pattern id="af" xlink:href="#au" patternTransform="translate(0,2)rotate(90)"/>
+<pattern id="au" width="4" height="64" patternTransform="translate(70)" patternUnits="userSpaceOnUse">
+<g transform="translate(-64)">
+<rect x="64" width="4" height="65" fill="#fff"/>
+<rect x="67" width="2" height="65"/>
+</g>
+</pattern>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-16023 2795.3)">
+<use width="1" height="1" fill="url(#b)" xlink:href="#Shield1"/>
+<use width="1" height="1" fill="#ffffff" xlink:href="#Shield1R"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1"/>
+</g>
+<g transform="translate(-16100 2690.5)">
+<use width="1" height="1" fill="#0000ff" xlink:href="#Shield1-2"/>
+<use width="1" height="1" fill="url(#af)" xlink:href="#Shield1R-3"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-2"/>
+</g>
+<g transform="translate(-16100 2792.1)">
+<use width="1" height="1" fill="#808080" xlink:href="#Shield1-8"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-8"/>
+<use transform="translate(.21945 .060601)" width="54" height="64" fill="#ffffff" xlink:href="#Shield1R-0"/>
+<use transform="translate(.798 -.1596)" width="54" height="64" fill="url(#e)" xlink:href="#Shield1R-0"/>
+</g>
+<g transform="translate(-16100 2893.8)">
+<use width="1" height="1" fill="#ff0000" xlink:href="#Shield1-88"/>
+<use width="1" height="1" fill="url(#w)" xlink:href="#Shield1R-7"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-88"/>
+</g>
+<g transform="translate(-16100 2995.5)">
+<use width="1" height="1" fill="#800040" xlink:href="#Shield1-21"/>
+<use width="1" height="1" fill="url(#k)" xlink:href="#Shield1R-72"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-21"/>
+</g>
+<g transform="translate(-16100 3097.1)">
+<use width="1" height="1" fill="url(#a)" xlink:href="#Shield1-7"/>
+<use width="1" height="1" fill="url(#ax)" xlink:href="#Shield1R-08"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-7"/>
+</g>
+<g transform="translate(-16021 3088.5)">
+<use width="1" height="1" fill="#ff8000" xlink:href="#Shield1-3"/>
+<use width="1" height="1" fill="url(#bd)" xlink:href="#Shield1R-6"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-3"/>
+</g>
+<g transform="translate(-16018 2990.8)">
+<use width="1" height="1" fill="#800080" xlink:href="#Shield1-0"/>
+<use width="1" height="1" fill="url(#z)" xlink:href="#Shield1R-00"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-0"/>
+</g>
+<g transform="translate(-16191 2799.7)">
+<use width="1" height="1" xlink:href="#Shield1-09"/>
+<use width="1" height="1" fill="url(#h)" xlink:href="#Shield1R-34"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-09"/>
+</g>
+<g transform="translate(-16014 2892.9)">
+<use width="1" height="1" fill="#c00000" xlink:href="#Shield1-9"/>
+<use width="1" height="1" fill="url(#ac)" xlink:href="#Shield1R-2"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-9"/>
+</g>
+<g transform="translate(-16090 3205.1)">
+<use width="1" height="1" fill="#00c000" xlink:href="#Shield1-1"/>
+<use width="1" height="1" fill="url(#ai)" xlink:href="#Shield1R-9"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-1"/>
+</g>
+<g transform="translate(-8748.3 1459.1)">
+<use width="1" height="1" fill="url(#b)" xlink:href="#Shield1"/>
+<use width="1" height="1" fill="#ffffff" xlink:href="#Shield1R"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1"/>
+</g>
+<g transform="translate(-8826.1 1354.3)">
+<use width="1" height="1" fill="#0000ff" xlink:href="#Shield1-2"/>
+<use width="1" height="1" fill="url(#ad)" xlink:href="#Shield1R-3"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-2"/>
+</g>
+<g transform="translate(-8826.3 1455.9)">
+<use width="1" height="1" fill="#808080" xlink:href="#Shield1-8"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-8"/>
+<use transform="translate(.21945 .060601)" width="54" height="64" fill="#ffffff" xlink:href="#Shield1R-0"/>
+<use transform="translate(.798 -.1596)" width="54" height="64" fill="url(#d)" xlink:href="#Shield1R-0"/>
+</g>
+<g transform="translate(-8826.1 1557.6)">
+<use width="1" height="1" fill="#ff0000" xlink:href="#Shield1-88"/>
+<use width="1" height="1" fill="url(#u)" xlink:href="#Shield1R-7"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-88"/>
+</g>
+<g transform="translate(-8826.1 1659.3)">
+<use width="1" height="1" fill="#800040" xlink:href="#Shield1-21"/>
+<use width="1" height="1" fill="url(#j)" xlink:href="#Shield1R-72"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-21"/>
+</g>
+<g transform="translate(-8826.1 1760.9)">
+<use width="1" height="1" fill="url(#a)" xlink:href="#Shield1-7"/>
+<use width="1" height="1" fill="url(#av)" xlink:href="#Shield1R-08"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-7"/>
+</g>
+<g transform="translate(-8746.9 1752.3)">
+<use width="1" height="1" fill="#ff8000" xlink:href="#Shield1-3"/>
+<use width="1" height="1" fill="url(#bc)" xlink:href="#Shield1R-6"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-3"/>
+</g>
+<g transform="translate(-8744.1 1654.6)">
+<use width="1" height="1" fill="#800080" xlink:href="#Shield1-0"/>
+<use width="1" height="1" fill="url(#y)" xlink:href="#Shield1R-00"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-0"/>
+</g>
+<g transform="translate(-8916.6 1463.5)">
+<use width="1" height="1" xlink:href="#Shield1-09"/>
+<use width="1" height="1" fill="url(#g)" xlink:href="#Shield1R-34"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-09"/>
+</g>
+<g transform="translate(-8739.8 1556.7)">
+<use width="1" height="1" fill="#c00000" xlink:href="#Shield1-9"/>
+<use width="1" height="1" fill="url(#aa)" xlink:href="#Shield1R-2"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-9"/>
+</g>
+<g transform="translate(-8816.2 1868.9)">
+<use width="1" height="1" fill="#00c000" xlink:href="#Shield1-1"/>
+<use width="1" height="1" fill="url(#ah)" xlink:href="#Shield1R-9"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-1"/>
+</g>
+<text transform="matrix(-.99188 .027453 -.017892 -1.0077 0 0)" x="-8807.2979" y="-3.4377301" fill="none" font-family="Georgia" font-size="31.883px" stroke-width="0"><tspan rotate="187"/></text>
+<text transform="matrix(-.99188 .027453 -.017892 -1.0077 0 0)" x="-8853.9561" y="-5.770668" fill="none" font-family="Georgia" font-size="31.883px" stroke-width="0"><tspan rotate="537"/></text>
+<ellipse transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cx="216" cy="403" rx="0" ry="0" fill="#191919" stroke-width="0"/>
+<ellipse transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cx="216" cy="402" rx="0" ry="0" fill="#fff"/>
+<ellipse transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cx="354" cy="400" rx="0" ry="0" fill="#191919" stroke-width="0"/>
+<ellipse transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cx="354" cy="400" rx="0" ry="0" fill="#fff"/>
+<ellipse transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cx="284" cy="523" rx="0" ry="0" fill="#191919" stroke-width="0"/>
+<ellipse transform="matrix(.99856 0 0 .99856 8457.5 -849.18)" cx="284" cy="522" rx="0" ry="0" fill="#fff"/>
+<g transform="translate(-1011.6 1081.3)">
+<use width="1" height="1" fill="url(#b)" xlink:href="#Shield1"/>
+<use width="1" height="1" fill="#ffffff" xlink:href="#Shield1R"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1"/>
+</g>
+<g transform="translate(-1089.4 976.44)">
+<use width="1" height="1" fill="#0000ff" xlink:href="#Shield1-2"/>
+<use width="1" height="1" fill="url(#ae)" xlink:href="#Shield1R-3"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-2"/>
+</g>
+<g transform="translate(-1089.6 1078.1)">
+<use width="1" height="1" fill="#808080" xlink:href="#Shield1-8"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-8"/>
+<use transform="translate(.21945 .060601)" width="54" height="64" fill="#ffffff" xlink:href="#Shield1R-0"/>
+<use transform="translate(.798 -.1596)" width="54" height="64" fill="url(#c)" xlink:href="#Shield1R-0"/>
+</g>
+<g transform="translate(-1089.4 1179.8)">
+<use width="1" height="1" fill="#ff0000" xlink:href="#Shield1-88"/>
+<use width="1" height="1" fill="url(#v)" xlink:href="#Shield1R-7"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-88"/>
+</g>
+<g transform="translate(-1089.4 1281.4)">
+<use width="1" height="1" fill="#800040" xlink:href="#Shield1-21"/>
+<use width="1" height="1" fill="url(#i)" xlink:href="#Shield1R-72"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-21"/>
+</g>
+<g transform="translate(-1089.4 1383.1)">
+<use width="1" height="1" fill="url(#a)" xlink:href="#Shield1-7"/>
+<use width="1" height="1" fill="url(#aw)" xlink:href="#Shield1R-08"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-7"/>
+</g>
+<g transform="translate(-1010.2 1374.5)">
+<use width="1" height="1" fill="#ff8000" xlink:href="#Shield1-3"/>
+<use width="1" height="1" fill="url(#bb)" xlink:href="#Shield1R-6"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-3"/>
+</g>
+<g transform="translate(-1007.4 1276.7)">
+<use width="1" height="1" fill="#800080" xlink:href="#Shield1-0"/>
+<use width="1" height="1" fill="url(#x)" xlink:href="#Shield1R-00"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-0"/>
+</g>
+<g transform="translate(-1179.9 1085.7)">
+<use width="1" height="1" xlink:href="#Shield1-09"/>
+<use width="1" height="1" fill="url(#f)" xlink:href="#Shield1R-34"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-09"/>
+</g>
+<g transform="translate(-1003.1 1178.8)">
+<use width="1" height="1" fill="#c00000" xlink:href="#Shield1-9"/>
+<use width="1" height="1" fill="url(#ab)" xlink:href="#Shield1R-2"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-9"/>
+</g>
+<g transform="translate(-1079.5 1491.1)">
+<use width="1" height="1" fill="#00c000" xlink:href="#Shield1-1"/>
+<use width="1" height="1" fill="url(#ag)" xlink:href="#Shield1R-9"/>
+<use width="1" height="1" fill="none" stroke="#000000" xlink:href="#Shield1-1"/>
+</g>
+<path d="m6.5 6.5v84.562c0 140.89 81.042 184.35 123.5 202.44 42.46-18.09 123.5-61.55 123.5-202.44v-84.56h-247z" fill="#0085cf" stroke="#000" stroke-width="3"/>
+<g transform="matrix(.98752 -.15749 .15749 .98752 -22.42 28.133)">
+<path d="m77.971 140.56-11.667-7.734c-1.3183 1.5469 0.14059 2.4137 0.66291 4.5078 1.6686 6.6901-21.733 25.161-31.82 37.035l4.3973 4.5741 0.066291 0.066291 4.552 4.3752c11.874-10.087 30.345-33.488 37.035-31.82 2.0941 0.52232 2.9609 1.9812 4.5078 0.66291l-7.734-11.667z" fill="#ffd200" stroke="#000"/>
+<path d="m39.088 176.05c-1.6915-1.6424-4.3232-3.5924-6.3861-2.3644-3.3005 1.9649-1.7949 5.934-0.7955 6.8501-1.5373 2.6652-1.5213 5.1676-0.57452 6.6733 1.5057 0.94677 4.0081 0.9628 6.6733-0.57452 0.91613 0.99941 4.8852 2.505 6.8501-0.7955 1.916-3.2185-3.8625-7.771-4.1543-7.9991-0.081919-0.10475-0.66548-0.86975-1.6131-1.7899z" fill="#ffd200" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m38.002 186.66c-2.1072-1.9208 1.0172-5.8132 3.8136-4.2108" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m31.885 180.54c1.9208 2.1072 5.8132-1.0172 4.2108-3.8136" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m202 16.545c-4.274 0.81452-8.0636 1.3324-12.811 5.7127-41.749 38.518-116.22 112.77-121.72 111.71l17.126 17.126c-1.0565-5.5 73.172-79.989 111.69-121.74 4.3803-4.7476 4.8982-8.5371 5.7127-12.811z" fill="#fff" stroke="#000" stroke-width=".93702px"/>
+<path d="m196.75 21.796-119.52 119.6" fill="none" stroke="#000" stroke-width="1.0011px"/>
+<path d="m60.78 106.66c-0.87097-0.93953-2.5742-0.99428-4.0672-0.087064-1.0153 0.61696-1.6753 1.5126-1.9264 2.4568-0.161-0.052644-0.33872-0.088264-0.51088-0.10783 0.37701-0.9169 0.37482-1.9924-0.11402-2.9354-0.82152-1.5847-2.6944-2.1235-4.1569-1.2348-1.4626 0.88871-1.9604 2.8687-1.1389 4.4534 0.48884 0.943 1.3275 1.5131 2.2468 1.6423-0.074253 0.1693-0.13353 0.35323-0.17589 0.52945-0.87524-0.25977-1.9351-0.14143-2.9504 0.47553-1.7063 1.0368-2.5652 2.9775-1.861 4.3359 0.70416 1.3583 2.7051 1.6193 4.4115 0.58248 1.0065-0.61158 1.6698-1.5209 1.9264-2.4568 0.33331 0.10899 0.68882 0.12839 1.0531 0.095902 3.9339 9.4809 9.4058 19.153 15.103 26.297 3.2354 0.041698 3.8622 3.5767 5.1941 4.6046 4.5098 1.3597 3.8718 3.4387 5.0409 5.4116 7.03 5.4106 16.245 10.56 25.286 14.312-0.032492 0.36433-0.013087 0.71983 0.095902 1.0531-0.93581 0.25666-1.8452 0.91994-2.4568 1.9264-1.0368 1.7063-0.77587 3.7073 0.58248 4.4115 1.3583 0.70416 3.2991-0.1547 4.3359-1.861 0.61696-1.0153 0.7353-2.0752 0.47553-2.9504 0.17621-0.04236 0.36015-0.10164 0.52945-0.17589 0.1292 0.91931 0.69926 1.758 1.6423 2.2468 1.5847 0.82152 3.5647 0.32367 4.4534-1.1389 0.88871-1.4626 0.34995-3.3354-1.2348-4.1569-0.943-0.48884-2.0185-0.49104-2.9354-0.11402-0.019569-0.17216-0.05519-0.34989-0.10783-0.51088 0.94419-0.25111 1.8398-0.91109 2.4568-1.9264 0.90722-1.493 0.85247-3.1962-0.087064-4.0672-0.13422-0.12442-0.28143-0.21206-0.45122-0.30008-1.3583-0.70416-3.3212 0.13261-4.358 1.8389-0.61158 1.0065-0.74791 2.0568-0.49763 2.9283-0.3365 0.080893-0.64512 0.26624-0.94841 0.46227-4.6738-2.1294-14.619-9.1696-21.434-16.352-3.3314-3.5112-2.1364-9.727-2.1089-9.8677 1.4207e-4 -7.2889e-4 -0.022176-0.021698-0.022097-0.022097-0.13812 0.02693-6.3558 1.2231-9.8677-2.1089-7.1826-6.8148-14.223-16.76-16.352-21.434 0.19603-0.30329 0.38138-0.6119 0.46227-0.94841 0.87152 0.25028 1.9218 0.11395 2.9283-0.49763 1.7063-1.0368 2.5431-2.9996 1.8389-4.358-0.08802-0.16979-0.17565-0.317-0.30008-0.45122z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+<path d="m62.14 134.24 0.63541 0.55347 1.2557 0.33866 1.5689 1.1263c0.88249 1.2684 1.5779 2.5759 2.6791 3.6699l2.3666 1.3815c0.25143 0.13248 0.11246 0.1797 0.32415 0.35602 0.19868 0.17798 0.40802 0.37594 0.5838 0.57951 0.25391 0.42555 0.54109 0.87857 0.92283 1.3797 0.37288 0.52095 0.82057 1.0884 1.3376 1.6884l0.064867 0.06439 0.051608-0.026042c0.45374 0.088232 0.88541 0.2511 1.2812 0.42181 0.011573 0.0046391 0.013525 0.045973 0.026042 0.051608 0.28677 0.12609 0.58675 0.27802 0.84184 0.4493 0.12942 0.08666 0.22864 0.146 0.3499 0.2443 0.12457 0.10142 0.28636 0.23348 0.40198 0.34752 0.19454 0.19366 0.35998 0.37636 0.5322 0.60556 0.33626 0.44759 0.62121 0.95207 0.8717 1.535l0.038825 0.012783c0.12376 0.28947 0.1981 0.59407 0.30068 0.91663 1.3599 4.0088 5.9534 9.898 5.1114 15.583 0.32907 1.6314 2.3627 2.4489 2.3599 2.4574 5.1809 8.4501-2.3154 10.105-6.5662 13.231-3.8866 5.9251-5.7502 13.232-12.837 4.9148-0.41069-0.39227-0.59538-0.32568-1.5607-0.69361-5.8475-2.7203-8.673-4.7791-11.387-10.505 0.53615-1.9488 7.8015-8.0766 9.0766-9.7925l0.45873-1.7854c0.2162-0.76712 0.89059-1.1855 1.2466-1.9565 0.36829-0.80756 0.84137-1.6165 1.3612-2.4352 0.35475-0.55159 0.64904-0.93057 0.91332-1.2055l0.012783-0.038825 0.19308-3.7234-0.026042-0.051608c-0.16655-0.73865-0.40862-1.5338-0.7326-2.3498-1.7307-4.3619 1.4301-0.90192 1.1372-3.5847-0.65125 0.60704-1.5713 0.88148-2.6727 0.7984-1.0001-0.071411-2.1518-0.44373-3.3512-0.93121l-1.5762 0.21261 1.1998 2.891c0.030068 0.082716 0.06428 0.16481 0.091386 0.24526 0.37967 1.0988 0.11355 2.2351 0.010983 2.9729-0.021609 0.14366-0.099558 0.2971-0.14061 0.42707l-0.74472 1.347-1.1609 0.65058-0.99523 0.016596c0.20123 0.026606 0.35787 0.088319 0.56911 0.10131 0.28328 0.97771 0.40186 1.7235 0.31868 2.2997-0.069819 0.43803-0.22629 0.79525-0.50043 0.99714l-1.5089 0.92324-0.15149 0.98293c0.34547 0.60756-0.12144 0.65001 0.0042898 1.1633l0.092816 0.63303c0.028526 0.44262-0.030342 0.86543-0.18936 1.2287-0.087738 0.18204-0.21646 0.34958-0.34704 0.53124-0.6204 0.75286-3.1343 0.99939-4.5476 0.61132l-2.1486-0.79348 0.080986 0.93037-0.090433 0.013259c0.40016 0.68624 0.62368 1.4409 0.62787 2.0141-0.0054293 0.42243-0.34091 1.4199-0.54918 1.7987-0.019002-0.016502-0.059856-0.0020666-0.07765-0.025565 0.10686 0.093211-0.10555 0.16685 9.533e-4 0.25851l-0.10322 0.052084c-1.2521 2.2886-5.1585 0.85249-6.2337-0.93353l-0.63303 0.092816-0.053038-0.36173c-0.069262-0.051258-0.13168-0.10024-0.20738-0.15435-0.19559-0.16191-0.36774-0.3518-0.55776-0.52791-0.0034718-0.0013917-0.027251-0.0081437-0.038825-0.012783-0.57843-0.53672-1.6526-1.3401-2.179-2.0084-0.0018506-0.0020851-0.038825-0.012783-0.038825-0.012783-0.34985-0.44501-0.63636-0.8896-0.96159-1.3924l-0.026042-0.051608c-0.15916-0.2464-0.3281-0.50071-0.48106-0.76086-0.004024-0.0067175-0.029571-0.0023569-0.038825-0.012783-0.15714-0.26817-0.27897-0.50412-0.42946-0.7869-0.28175-0.98555-0.59567-1.9506-0.52656-2.5832 0.027783-0.25365 0.059515-0.48564 0.13966-0.68559 0.04344-0.098339 0.67551-1.0939 0.73241-1.1789 0.14079-0.21051 0.31479-0.37733 0.55395-0.50615 0.15882-0.086906 0.37919-0.14579 0.58094-0.19603 0.10076-0.025179 0.16001-0.023532 0.2713-0.039778 0.22306-0.031667 0.48407-0.060516 0.7495-0.054468 0.1137 0.0026023 0.52465 0.39308 0.79071 0.6046l-0.17378-1.5635c-0.066294-0.1207-1.2155-0.11526-0.67328-0.30774-0.4519-0.92335-0.78332-1.7407-0.99151-2.4781-0.070159-0.24423-0.11451-0.47332-0.15768-0.69742-0.086712-0.44825-0.14114-0.83246-0.12076-1.2017 0.011045-0.1844 0.025812-0.41667 0.062484-0.5819 0.067399-0.30221 0.22057-0.54122 0.38491-0.77697 0.082564-0.1191 0.17695-0.23623 0.28313-0.33712l0.56482-1.062 1.7693-0.40723 0.095092-2.2494c-0.76595-1.5389-0.0793-3.2841 0.25316-4.9515l1.1894 0.047318-0.093292-0.76228 5.23-1.3765c-0.006055-0.051558 1.9649e-4 -0.085356-4.7665e-4 -0.12926-0.0070276-0.015982-0.030682-0.040034-0.026042-0.051608-0.0076967-0.42487 0.012251-0.80789 0.086143-1.1766l0.012783-0.038825c0.024699-0.12865 0.09244-0.26645 0.12783-0.38825 0.079984-0.23979 0.14395-0.43104 0.25613-0.64724 0.11151-0.21719 0.40034-0.57485 0.55299-0.76467 0.44638-0.54293 0.68047-0.96409 1.3266-1.2846 0.25961-0.12925 0.70281-0.43954 0.99333-0.53363 0.14511-0.047017 0.27328-0.079763 0.42612-0.1179 0.31581-0.074203 0.64799-0.11046 0.99476-0.14585l-0.026042-0.051608c0.34676-0.035395 0.70646-0.029723 1.0857-0.029855 0.11348-5.0118e-4 0.27185 0.023462 0.41381 0.050178l7.4046-0.53135z" fill="#fff"/>
+<path d="m60.78 106.66c-0.87097-0.93953-2.5742-0.99428-4.0672-0.087064-1.0153 0.61696-1.6753 1.5126-1.9264 2.4568-0.161-0.052644-0.33872-0.088264-0.51088-0.10783 0.37701-0.9169 0.37482-1.9924-0.11402-2.9354-0.82152-1.5847-2.6944-2.1235-4.1569-1.2348-1.4626 0.88871-1.9604 2.8687-1.1389 4.4534 0.48884 0.943 1.3275 1.5131 2.2468 1.6423-0.074253 0.1693-0.13353 0.35323-0.17589 0.52945-0.87524-0.25977-1.9351-0.14143-2.9504 0.47553-1.7063 1.0368-2.5652 2.9775-1.861 4.3359 0.70416 1.3583 2.7051 1.6193 4.4115 0.58248 1.0065-0.61158 1.6698-1.5209 1.9264-2.4568 0.33331 0.10899 0.68882 0.12839 1.0531 0.095902 3.9339 9.4809 9.4058 19.153 15.103 26.297 3.2354 0.041698 3.8622 3.5767 5.1941 4.6046 4.5098 1.3597 3.8718 3.4387 5.0409 5.4116 7.03 5.4106 16.245 10.56 25.286 14.312-0.032492 0.36433-0.013087 0.71983 0.095902 1.0531-0.93581 0.25666-1.8452 0.91994-2.4568 1.9264-1.0368 1.7063-0.77587 3.7073 0.58248 4.4115 1.3583 0.70416 3.2991-0.1547 4.3359-1.861 0.61696-1.0153 0.7353-2.0752 0.47553-2.9504 0.17621-0.04236 0.36015-0.10164 0.52945-0.17589 0.1292 0.91931 0.69926 1.758 1.6423 2.2468 1.5847 0.82152 3.5647 0.32367 4.4534-1.1389 0.88871-1.4626 0.34995-3.3354-1.2348-4.1569-0.943-0.48884-2.0185-0.49104-2.9354-0.11402-0.019569-0.17216-0.05519-0.34989-0.10783-0.51088 0.94419-0.25111 1.8398-0.91109 2.4568-1.9264 0.90722-1.493 0.85247-3.1962-0.087064-4.0672-0.13422-0.12442-0.28143-0.21206-0.45122-0.30008-1.3583-0.70416-3.3212 0.13261-4.358 1.8389-0.61158 1.0065-0.74791 2.0568-0.49763 2.9283-0.3365 0.080893-0.64512 0.26624-0.94841 0.46227-4.6738-2.1294-14.619-9.1696-21.434-16.352-3.3314-3.5112-2.1364-9.727-2.1089-9.8677 1.4207e-4 -7.2889e-4 -0.022176-0.021698-0.022097-0.022097-0.13812 0.02693-6.3558 1.2231-9.8677-2.1089-7.1826-6.8148-14.223-16.76-16.352-21.434 0.19603-0.30329 0.38138-0.6119 0.46227-0.94841 0.87152 0.25028 1.9218 0.11395 2.9283-0.49763 1.7063-1.0368 2.5431-2.9996 1.8389-4.358-0.08802-0.16979-0.17565-0.317-0.30008-0.45122z" fill="#ffd200"/>
+<path d="m144.34 49.307c-2.2889-2.2108-5.5723-3.6254-10.34-3.4861-19.071 0.55743-22.744 41.287-19.291 57.993 16.706 3.4523 57.465-0.19098 58.022-19.262 0.55743-19.071-23.871-14.89-23.871-14.89s2.3467-13.723-4.5201-20.355z" fill="#dc281e" stroke="#000"/>
+<path d="m62.652 134.11c0.69485 0.24233 1.1968 0.61158 1.9379 1.0816l1.0826 1.5749 2.6893 3.6196-0.66652 0.022829c-1.2025-1.3437-2.427-2.8518-3.4211-4.5599-2.1025-1.1637-4.8824-1.7206-6.7754-0.59546-1.8977-0.25452-4.4036-0.44076-6.1764 0.59143-1.7975 1.0465-2.6155 2.5591-2.3994 4.8044 0.42357 3.1457 2.6021 5.9999 3.2397 9.243 0.2036 0.76232 0.4644 1.2685 0.84762 2.0004 1.4294-2.8955 5.1001-0.6704 5.8262 2.5637-0.43458 0.57805-0.57605 1.234-1.2997 1.5947 2.3034 1.17 4.0648-1.6422 3.1896-4.329-0.4044-1.2001-0.94334-2.8549-2.0838-4.2579-0.71217-0.44927-1.3071-0.81616-2.0468-1.2333-1.3726-0.96523-2.952-2.1266-3.5303-3.9165-0.14015-0.50033-0.29642-1.2364-0.2003-1.7443 0.031638-0.16944 0.069256-0.47619 0.12687-0.64676-0.22546-1.1384 1.3976-2.153 2.9-2.2728 1.5738-0.12532 3.3128 0.70677 4.7105 1.5079 0.74352 0.31009 1.1268 0.31517 1.9279 0.54868 0.6088 0.15958 1.3522 0.36788 2.07 0.5094 2.013-0.10043 4.1704-0.072294 5.8317 0.58601 0.61082 0.24203 1.2049 0.7284 1.6335 1.3124 0.28733 0.44703 0.55943 1.0188 0.97491 1.4829 0.29039 0.40568 0.67974 0.90709 1.0909 1.392 1.4791 0.41524 2.8993 1.1037 3.7964 2.4549 0.53869 0.81139 1.0594 1.8469 1.4068 2.916 1.1301 3.4788 5.3913 8.9364 4.774 15.17-0.087465 0.88326 1.1907 1.3435 1.9466 1.6154 0.64279 0.23121-0.3766 0.83103-0.43781 0.90132-1.1793-0.78678-2.4673-1.069-2.3999-2.2937 0.31393-5.7034-3.6027-11.096-4.9676-15.105-0.094157-0.27661-0.028801-0.68026-0.16099-1.0014-0.24151-0.58665-0.64084-1.4473-1-1.8768-0.91324-1.0919-2.0616-1.8245-3.5364-2.068-0.77595-0.96556-1.3833-1.861-2.1695-2.952-0.30582-0.42441-0.7304-0.94384-1.2325-1.2234-0.18152-0.10638-0.38545-0.21382-0.59563-0.28217-1.4713-0.47846-3.5666-0.12924-5.1846-0.3299-0.33316-0.071344-0.66049-0.070181-0.98293-0.15149-0.81289-0.21626-1.6409-0.50238-2.4588-0.76651-0.063535 0.71186-0.064283 1.2694-0.57475 1.8764-0.18452 0.13419-0.28042 0.39615-0.54117 0.46733-2.2244 0.53996-4.3072 0.2502-6.0288-1.4255-1.7606e-4 0.64097-0.023605 1.1937 0.30401 1.8214 0.1282 0.24892 0.33672 0.48574 0.53267 0.73481 0.80957 0.89774 1.7728 1.7991 2.8654 2.4066 0.68002 0.44776 1.2888 0.87 2.0468 1.2333 1.7621 0.89875 3.6426 1.5719 5.1249 1.6873 1.1014 0.083173 2.0087-0.15247 2.6599-0.75951 0.29286 2.6827-2.8291-0.76439-1.0984 3.5975 0.32388 0.81605 0.56594 1.6112 0.7326 2.3498 0.21223 0.78641 0.45647 1.7562 1.1591 2.3611 0.71121 0.18289 1.6406 0.4083 2.4953 0.133-0.70499 0.41043-1.3676 0.8337-2.2589 0.84845-0.26395 0.12774-0.63697 0.1882-0.87733 0.44272-1.016 1.1569-1.8431 2.439-2.5448 3.9389-0.35602 0.77098-0.62846 1.5367-0.84461 2.3039-0.77204 2.83-0.49259 6.7867 1.0443 9.7682-1.8383-2.4023-2.7194-5.5264-2.2389-8.6491-1.9041 2.1931-6.0359 6.4263-8.7174 9.4038 2.5939 6.3803 5.9882 7.5987 11.863 10.216 0.50078 0.92987 3.9193 3.5894 3.8752 3.2938-0.051049 0.23164-0.42072 0.55909-0.45524 0.78574-0.048941 0.32132-1.4241-0.023567-3.2314-2.038-0.32304-0.3261-0.642-0.66582-0.94696-0.91425-0.61682-0.27112-1.8912-0.71457-3.1974-1.2679-4.3599-1.6012-7.4059-5.1753-9.182-9.542-0.22554-0.56505 0.82774-0.99585 1.3229-1.3494 0.21802-0.15818-0.14712-0.22613 0.68272-1.0644 0.82986-0.83829 1.8015-1.7875 2.7738-2.8468 1.4895-1.6267 3.4434-3.5318 5.2598-5.3059 0.22371-1.0229 0.19232-2.3141 0.7236-3.3839 0.72592-1.4492 1.8791-2.9741 3.1495-4.2202-0.42248-0.77238-1.1388-1.7833-1.2104-2.7152-0.14512-0.62039-0.036037-1.9005-0.33289-2.6486-0.33192-0.83657-0.37706-1.3609-0.43375-1.9502-1.2699-0.10603-3.4748-0.89798-4.8139-1.4558 1.9465 2.5065 2.457 6.3475 0.23737 8.2975-0.33397 0.21118-0.82427 0.4087-1.2907 0.5218 0.53276 1.6892 0.17938 3.3399-1.7304 3.9487l-0.050654 0.28456c-0.037619 0.11399-0.23272 0.034953-0.36173 0.053038 0.32866 0.5698 0.37646 1.4791 0.13686 2.0677 0.28094 0.91208 0.25768 1.8417-0.45637 2.4318-1.2798 1.0576-4.0526 1.1263-5.9065 0.1639-0.24504-0.12721-0.44653-0.0083715-0.68559-0.13966 0.65652 1.4101 1.1191 3.5809-0.0093595 4.4724-0.37096 1.9932-5.1708 2.1466-7.1238-0.45197-1.1271-0.83411-2.2454-1.5565-3.1373-2.4961-1.6756-1.7651-3.1761-4.1161-2.8429-6.7885 0.1803-1.4648 1.2817-2.567 2.8975-2.919-1.9721-3.3285-1.8704-7.6613 1.8283-8.9515-0.50586-2.2629-1.1828-4.2444 0.23564-6.2053 1.1299-1.5619 3.7884-2.2897 6.0926-2.2974 0.24463-2.0765 1.0436-3.9074 3.226-4.9625 1.9362-0.9419 4.0385-1.0218 6.2796-0.64368 1.5321-0.79553 3.061-0.94762 4.5865-0.59852 0.24968 0.057132 0.48001 0.11049 0.71163 0.19126zm-4.4297 4.5663c-0.24942-0.10568-0.5194-0.18835-0.7765-0.25565-0.32936-0.086229-0.66857-0.092737-1.0085-0.073837l-0.038825-0.012783c-1.184 0.085814-2.4369 0.58865-2.6561 1.7936 1.6134 1.7419 3.9267 2.1481 6.0935 1.4898 0.42649-0.34523 0.58112-1.0063 0.4971-1.9019-0.66445-0.28065-1.3625-0.72217-2.1107-1.0392zm-10.305 2.6748c-1.7446-0.16513-3.8639-0.12303-5.255 1.5834-0.78965 0.96868-1.0131 2.0471-0.75039 3.3248 0.20846 1.7834 0.97283 3.8854 2.0759 5.5893 1.7352 2.923 4.9084 4.7698 7.8186 6.5762 1.721-1.0127 4.4028-1.1327 5.4042 0.31615 0.30131 0.43605 0.12654 1.1574 0.058301 1.7835 1.5634-0.6245 1.4361-2.0165 0.9303-3.6098-0.51509-0.046886-0.89056-0.15802-1.436-0.3437-0.12093 0.10127-0.30911 0.22126-0.46447 0.23438-1.2058 0.10177-3.0257-2.402-3.5427-3.7484 1.1e-13 -2e-13 -1.0823-2.0113-1.2907-3.007-0.93434-2.9931-2.7131-5.5201-3.5479-8.6989zm7.8315 10.066c-0.15061-0.057416-0.28903-0.082207-0.43986-0.10179-0.72397-0.093975-1.4371 0.29003-1.9597 1.3774 0.51702 1.5892 1.5741 3.1022 2.9091 3.7119 0.82576-0.30943 1.5243-1.099 2.0221-1.9592-0.47823-1.3309-1.4774-2.6264-2.5317-3.0283zm-13.761-1.8625-0.038825-0.012783c-7.0067 1.5747 1.0504 13.773 8.3562 15.661-0.47711-2.6405 3.2568-3.6664 6.1441-2.3234 0.20597-0.27414 0.30889-0.77994-0.30356-1.6921-0.96866-0.057128-3.8233-0.90288-4.4796-1.9482-3.3865-1.788-6.8644-3.9737-8.5714-7.4267-0.35867-0.59832-0.87362-1.6575-1.1071-2.258zm13.851 8.9067c-0.9766-0.41664-2.4862-0.14631-3.6173 0.53038 1.058 1.0804 2.7757 1.6038 4.427 1.7157 0.16743-0.56606 0.1654-1.2153-0.044545-1.5639-0.17341-0.28789-0.43961-0.54337-0.76514-0.68225zm0.37984 4.8587c-2.4489-0.78493-5.8073-0.6978-5.4212 2.0881 1.4114 1.0016 5.0101 1.1242 5.7247-0.3959 0.19309-0.41073-0.026921-1.0886-0.30356-1.6921zm-15.955-4.88c-1.386-0.067866-2.4782 0.6424-2.6414 2.2717-0.35341 3.5267 2.1001 5.8457 5.1094 8.0082 0.39935-1.2016 1.4956-1.6489 2.7607-1.458 1.4953 0.22692 3.6322 0.74482 4.2618 2.479 0.35906-1.1939 0.13095-2.4172-0.65967-3.6169-0.61076-0.84436-1.3054-1.0316-2.41-1.5681-2.0766-1.2175-4.8892-4.0547-6.4209-6.1161zm7.4692 9.9901c-0.36904-0.16725-0.81273-0.29067-1.2036-0.39627-0.52112-0.1408-1.0321-0.22557-1.4356-0.21447-0.73937 0.011107-1.4908 0.52598-1.7916 1.3897 0.25561 1.2062 4.4802 3.3864 5.9758 1.0638 0.3902-0.60607-0.43783-1.341-1.545-1.8427z" color="#000000"/>
+<path d="m175.86 163.99c-10.199 7.5632-19.433 18.021-29.032 27.386l-8.25 29.5 11 22c14.322-9.612 30.411-27.432 45.917-36.048-2.6762-16.362-10.938-29.717-19.635-42.838z" fill="#fff" stroke="#000" stroke-width="1px"/>
+<path d="m188.32 184.98-39.845 32.864" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m186.4 155.42c-5.6453 3.3333-10.722 5.4861-14.857 10.405 7.9328 9.88 16.828 21.653 22.239 43.012 2.475 0.13105 4.6489-0.83877 7.2305-3.3788-1.1661-24.995-7.8562-32.388-14.613-50.038z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m192.72 146.62c-5.6453 3.3333-10.722 5.4861-14.857 10.405 8.3603 10.532 15.31 25.299 18.103 40.291 0.70283 3.7723 1.2335 6.915 1.6496 10.7 1.7875 1.8185 5.1983-0.0047151 7.7798-2.5448-1.1661-24.995-5.9187-41.201-12.675-58.851z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m206.63 140.61c-6.5967 3.5113-17.222 4.3482-17.437 5.7508 6.7454 11.633 12.944 33.214 13.535 48.452 0.14862 3.8343 0.96182 8.3065 0.82496 12.111 3.0342 1.6971 4.4086-0.52053 7.3228-2.676 2.4693-24.9-0.11899-45.195-4.2461-63.638z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m222.29 135.54c-0.59441 1.0429-1.4135 2.3184-3.403 2.961-5.2411 1.6928-11.388-1.3706-14.761 0.26517 7.4175 17.286 10.355 48.996 5.0972 66.804 1.2584 2.4188 5.0682-0.52522 7.2815 0.8016 7.417-27.727 7.737-50.131 5.7851-70.831z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m223.52 132.62c1.802-0.29482 3.0887 2.36 3.0494 4.0217-0.55644 23.517 1.8546 47.004-8.481 69.727-0.94236 2.0718-3.9027 1.907-3.3188 0.14438 8.227-24.836 6.3484-48.038 6.0104-69.296-0.037582-2.3639 0.78434-4.2762 2.74-4.5962z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m89.086 166.39c0.57929-1.1546 1.3485-1.8709 3.1806 1.4398 2.745 4.9603 21.905 16.782 33.423 24.359l3.5247 11.855-0.70711 8.4853-5.4801 11.667-9.5459 10.96c-18.804-16.59-37.772-40.55-43.397-43.4l10.076-11.314s6.364-10.43 6.7175-10.783c0.35355-0.35355 2.2097-3.2704 2.2097-3.2704z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m151.05 188.75c-0.24158-0.20756-0.53439-0.40043-0.83969-0.57452-6.1612-3.5134-9.8807 3.4283-11.623 7.0269-1.7126 0.59643-1.2357 1.7298-2.7383 0.76451-1.6073-3.6609-5.0702-10.75-11.358-7.4688-4.985 2.6018-1.706 10.053 1.4584 14.628 1.4336 2.0827 1.1875 5.1882 0.46404 8.5958-2.3884 8.9044-10.506 17.366-17.655 24.413-3.6032 3.5522 1.5407 7.8577 4.2868 5.1707 7.0147 6.0006 13.227 10.828 18.183 19.37-0.31324 2.3583 0.62012 4.1965 3.009 4.3389 2.3889 0.14242 3.6388-2.1427 3.2887-4.2284 5.2705-8.3522 12.389-14.24 19.622-19.976 2.6442 2.7873 7.9542-1.288 4.4857-4.9718-6.8812-7.3083-12.153-15.563-14.208-24.55-0.59614-3.4321-0.71465-6.5458 0.7955-8.5737 3.1242-4.1761 6.4521-10.852 2.8284-13.965z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m143.92 213.28c2.2054 9.2918 6.616 20.319 13.224 27.528" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m138.58 195.2c-2.1138 4.604-0.8166 11.926-0.022097 15.357" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m129.53 215.04c-2.5496 9.2033-9.6175 19.309-16.489 26.266" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m135.85 195.97c1.6049 4.7763-2.9554 12.08-3.2894 19.502" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m181.79 187.67a2.0338 2.0338 0 0 1-2.8762-2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m168.69 198.82a2.0338 2.0338 0 0 1-2.8762-2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m153.95 211.66a2.0338 2.0338 0 0 1-2.8762-2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m99.786 174.81c-5.9161 8.8683-12.52 17.638-19.602 26.34" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m82.845 182c14.42 10.581 28.297 22.14 41.885 34.218" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m86.98 165.28c-3.1581 6.1439-4.5755 11.461-18.621 24.573-3.6538 3.4111 0.22958 6.5049 3.0936 3.9775 9.0237-7.9631 15.627-15.829 19.926-26.857 1.2038-3.0883-1.9045-6.5463-4.3989-1.6936z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m122.3 208.8a2.0338 2.0338 0 0 1-2.8762-2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m110.37 198.28a2.0338 2.0338 0 0 1-2.8762-2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m98.46 189.24a2.0338 2.0338 0 0 1-2.8762-2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m90.361 182.91a2.0338 2.0338 0 0 1-2.8762-2.8762 2.0338 2.0338 0 0 1 2.8762 2.8762z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m117.97 100.56c15.899 0.52843 32.689 1.6229 45.707-7.4368 8.8021-5.8865 5.8869-18.199-3.426-19.637" fill="#dc281e" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="m206.12 13.094-3.5938 8.0938-8.8125-0.9375 5.25 7.1562-5.25 7.1562 8.8125-0.96875 3.5938 8.125 3.5625-8.125 8.82 0.969-5.22-7.156 5.22-7.156-8.8125 0.9375-3.5625-8.0938zm-27.875 75.5-3.5938 8.0938-8.8125-0.9375 5.25 7.1562-5.25 7.1562 8.8125-0.96875 3.5938 8.125 3.5625-8.125 8.8438 0.96875-5.25-7.1562 5.25-7.1562-8.8438 0.9375-3.5625-8.0938zm55.719 0-3.5625 8.0938-8.8125-0.9375 5.2188 7.1562-5.2188 7.1562 8.8125-0.96875 3.5625 8.125 3.5938-8.125 8.8125 0.96875-5.25-7.1562 5.25-7.1562-8.8125 0.9375-3.5938-8.0938z" fill="#ffd200" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m206.56 44c-6.2616 7e-15 -11.955 2.3773-16.25 6.2812 2.4142-1.0662 5.0974-1.6562 7.9062-1.6562 10.802 0 19.531 8.761 19.531 19.562 0 10.802-8.7297 19.563-19.531 19.562-2.8088 0-5.492-0.59004-7.9062-1.6562 4.2953 3.9039 9.9884 6.2812 16.25 6.2812 13.358 0 24.188-10.829 24.188-24.188 0-13.357-10.83-24.186-24.19-24.186z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(270,80)">
+<path d="m-214.59-62.469-3.3438 20.656c-1.6672-3.6088-3.0531-2.9511-4.9375-4.25-2.8795-1.9848-0.37204-8.7632-7.9688-7.9375-0.50645 0.055044-1.0554 0.15496-1.6562 0.28125 5.0604 3.2818 1.6667 9.2143 4.4062 11.562 4.4107 3.7806 5.7834 3.708 7.7812 7.75l-19.17-13.842 10.66 14.75c-0.40835-0.23281-0.76308-0.3974-1.0312-0.5-3.9064-1.4945-4.336 0.01649-6.625 0.4375-2.293 0.42176-4.433-2.3655-7-2.5-1.5402-0.080676-3.2364 0.82109-5.25 3.9062 5.8988-1.2577 7.6836 5.3392 11.281 5.0625 5.1169-0.39358 6.447-1.2389 9.625-0.4375l-25.906 4.1562 20.656 3.3438c-3.6078 1.6672-2.9198 3.0531-4.2188 4.9375-2.1171 3.0714-9.6769 0.01077-7.6562 9.625 3.2818-5.0604 9.183-1.6667 11.531-4.4062 3.7699-4.3982 3.7377-5.7612 7.75-7.75l-13.812 19.125 14.688-10.594c-0.21142 0.37536-0.37275 0.71781-0.46875 0.96875-1.4945 3.9064 0.01649 4.336 0.4375 6.625 0.67481 3.6688-6.8208 6.8805 1.4062 12.25-1.2577-5.8988 5.3392-7.6836 5.0625-11.281-0.39125-5.0866-1.1916-6.425-0.40625-9.5625l4.1562 25.812 3.3125-20.625c1.6685 3.6097 3.084 2.9196 4.9688 4.2188 3.0714 2.1171-0.02048 9.6769 9.5938 7.6562-5.0604-3.2818-1.6667-9.2143-4.4062-11.562-4.4107-3.7806-5.7834-3.708-7.7812-7.75l19.156 13.812-10.562-14.625c0.37216 0.20868 0.68836 0.34218 0.9375 0.4375 3.9064 1.4945 4.3673-0.04774 6.6562-0.46875 3.6688-0.67481 6.8805 6.8521 12.25-1.375-5.8988 1.2577-7.7149-5.3392-11.312-5.0625-5.0866 0.39125-6.425 1.1916-9.5625 0.40625l25.83-4.156-20.656-3.3125c3.6088-1.6682 2.9511-3.0843 4.25-4.9688 2.1171-3.0714 9.6769 0.02048 7.6562-9.5938-3.2818 5.0604-9.2143 1.6667-11.562 4.4062-3.7806 4.4107-3.7343 5.7832-7.7812 7.7812l13.85-19.186-14.688 10.656c0.22347-0.39442 0.36894-0.7391 0.46875-1 1.4945-3.9064-0.01649-4.3673-0.4375-6.6562-0.67481-3.6688 6.8208-6.8805-1.4062-12.25 1.2577 5.8988-5.3392 7.7149-5.0625 11.312 0.39358 5.1169 1.2389 6.447 0.4375 9.625l-4.1562-25.906z" fill="#ffd200" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+<path transform="matrix(1.3511 0 0 1.3511 93.271 -84.25)" d="m-213.14 45.06a14.719 14.719 0 1 1-29.438 0 14.719 14.719 0 1 1 29.438 0z" fill="#ffd200" stroke="#000" stroke-width=".74011"/>
+<path d="m-226.06-28.188c2.978-2.0452 4.8604-1.8402 7.2391 0.9085" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path transform="matrix(1.2093 0 0 1.2093 46.258 -90.908)" d="m-220.78 51.885a1.2078 1.2078 0 1 1-2.4157 0 1.2078 1.2078 0 1 1 2.4157 0z"/>
+<path d="m-226.02-31.732c2.8853-1.4889 4.8717-1.3919 7.4179 0.35236" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m-208.2-17.219c-1.0988 1.6057-3.0781 3.2574-6.3559 3.2574s-5.2571-1.6517-6.3559-3.2574" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m-213.52-29.414c0.12884 2.6621 0.13349 5.6553 0.55614 7.5339 0.2247 0.99876-3.9759 1.2841-3.5355-0.51642l0.26175-1.07" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path d="m-203.15-28.188c-2.978-2.0452-4.8604-1.8402-7.2391 0.9085" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+<path transform="matrix(-1.2093 0 0 1.2093 -475.47 -90.908)" d="m-220.78 51.885a1.2078 1.2078 0 1 1-2.4157 0 1.2078 1.2078 0 1 1 2.4157 0z"/>
+<path d="m-203.19-31.732c-2.8853-1.4889-4.8717-1.3919-7.4179 0.35236" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1px"/>
+</g>
 </svg>

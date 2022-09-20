@@ -62,7 +62,7 @@ def createISO3166_1_Json(countryFolder="../iso3166-1-icons", jsonFileName="test-
         countryCode = os.path.splitext(country)[0].upper()
         print(countryCode)
         if (pycountry.countries.get(alpha_2=countryCode) == None):
-            countryName = iso3166_.countries_by_alpha2[countryCode.title()].name
+            countryName = iso3166_.countries_by_alpha2[countryCode.upper()].name
         else:
             countryName = pycountry.countries.get(alpha_2=countryCode).name
 

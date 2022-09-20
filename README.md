@@ -1,4 +1,4 @@
-# iso3166-flag-icons
+# Repository of all ISO3166-1 and ISO3166-2 flags 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
@@ -9,6 +9,9 @@
 
 > A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="300" width="700"/>
+</p>
 To Do
 -----
 * Try and convert any png/jpeg flag images into SVG format. 
@@ -22,7 +25,7 @@ Table of Contents
   * [Usage](#usage)
   * [Requirements](#requirements)
   * [Installation](#installation)
-  * [Directory Folders](#directory-folders)
+  * [Directory Folders](#foldersandfiles)
   * [Open Issues](#Issues)
   * [Contact](#contact)
   * [License](#license)
@@ -46,7 +49,7 @@ Motivation
 ----------
 The main motivation behind this project was to integrate additional flag icons into my custom-built web-app <b>Flagle</b> (https://flagle.vercel.app/). This daily worldle-inspired game generates a new flag from around the world each day, consisting of flags of countries, territories and everywhere in between. <br>
 
-After searching around, it was fairly straightforward to find a repo with ISO3166-1 flags, an example being [here][flag-icons-repo] but there didn't seem to be any single repo/dataset of all ISO3166-2 subdivision flags, hence I decided to make one myself. <br>
+After searching around, it was fairly straightforward to find a repo with ISO3166-1 flags, an example being [here][flag-icons-repo] but there didn't seem to be any single repo/dataset of all ISO3166-2 subdivision flags, hence I decided to make one from scratch. <br>
 
 Installation
 ------------
@@ -57,9 +60,11 @@ The whole project can be cloned from git:
 git clone https://github.com/amckenna41/iso3166-flag-icons.git
 ```
 
-The ISO3166-1 and ISO3166-2 are also split into branches and be downloaded seperately, so the ISO3166-1 branch can be downloaded using:
+The ISO3166-1 and ISO3166-2 are also split into branches and be downloaded seperately:
 ```
 git clone -b iso3166-1-icons https://github.com/amckenna41/iso3166-flag-icons.git 
+OR
+git clone -b iso3166-2-icons https://github.com/amckenna41/iso3166-flag-icons.git 
 ```
 
 Install via npm or yarn (<b><i>not implemented yet</i></b>):
@@ -84,32 +89,14 @@ For ISO3166-2 icons add the classes `.fi` and `.fi-xx-yy` (where `xx` is the ISO
 <span class="fi fi-ad-02"></span> <span class="fi fi-ad-02 fis"></span>
 ```
 
-Requirements
-------------
-
-* [Python][python] >= 3.6
-* [requests][requests] >= 1.16.0
-* [pandas][pandas] >= 1.4.3
-* [tqdm][tqdm] >= 4.55.0
-* [beautifulsoup4][beautifulsoup4] >= 4.10.0
-* [scour][scour] >= 0.38.2
-* [pycountry][pycountry] >= 22.3.5
-* [emoji-country-flag][emoji-country-flag]>= 1.3.0
-* [fuzzywuzzy][fuzzywuzzy] >= 0.18.0
-* [pyWikiCommons][pyWikiCommons] >= 0.0.1
-
-
 Folders and files
 -----------------
 
 * `/iso3166-1-icons` - flags of all country/territories/subdivisions according to the ISO3166-1 standard [[5]](#references).
 * `/iso3166-2-icons` - flags of all subdivisions within countries/territories according to the ISO3166-2 standard [[2]](#references).
-* `/scripts` - various Python and bash scripts created for downloading and compressing all the required flag SVG files for
-both the ISO3166-1 and ISO3166-2 icons. 
+* `/scripts` - various Python and bash scripts created for downloading and compressing all the required flag SVG files for both the ISO3166-1 and ISO3166-2 icons, as well as scripts for creating the json, CSS and readme files.
 * `/downloads` - directory of zipped iso3166-1 and iso3166-2 flag icons files.
 * `/css` - css scripts for integrating the flags into front-end projects.
-* `/images` - directory for any images used in repo.
-
 * `index.html` - front-end demo for iso3166-flag-icons repo.
 * `iso3166-1.json` - json containing all ISO3166-1 country names, 2 letter codes and relative path to flag icon in repo.
 * `iso3166-2.json` - json containing all ISO3166-2 country names, 2 letter codes, all subdivision codes and common names as well as all info pulled per country via the restcountries api (https://restcountries.com/).
@@ -117,7 +104,7 @@ both the ISO3166-1 and ISO3166-2 icons.
 
 Issues
 ------
-Due to the nature of the methodology for getting the ISO3166-2 subdivision flags (via web scraping) there may exist several outstanding issues with the dataset of icons including incorrect or missing flags for certain countries/territories. Please feel free to raise an Issue in the [Issues](https://github.com/amckenna41/iso3166-2-flag-icons/issues) tab for any such cases and I will try to rectify it.
+Due to the nature of the methodology for getting the ISO3166-2 subdivision flags, as well as the verbosity of flags included, there may exist several outstanding issues with the dataset of icons including incorrect or missing flags for certain countries/territories. Please feel free to raise an Issue in the [Issues](https://github.com/amckenna41/iso3166-2-flag-icons/issues) tab for any such cases and I will try to rectify it.
 
 Any other issues, errors or bugs can be raised via the [Issues](https://github.com/amckenna41/iso3166-2-flag-icons/issues) tab in the repository.
 

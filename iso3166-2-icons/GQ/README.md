@@ -1,21 +1,19 @@
 # Equatorial Guinea 🇬🇶 Subdivisions
 
-Source: https://en.wikipedia.org/wiki/Flags_of_country_subdivisions
+Source: https://en.wikipedia.org/wiki/ISO_3166-2:GQ
 
-* bandera de la provincia bioko del norte [bandera_de_la_provincia_bioko_del_norte.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_bioko_del_norte.png)
-* bandera de la provincia bioko del sur [bandera_de_la_provincia_bioko_del_sur.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_bioko_del_sur.png)
-* bandera de la provincia centro sur [bandera_de_la_provincia_centro_sur.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_centro_sur.png)
-* bandera de la provincia kie-ntem [bandera_de_la_provincia_kie-ntem.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_kie-ntem.png)
-* bandera de la provincia litoral [bandera_de_la_provincia_litoral.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_litoral.png)
-* bandera de la provincia wele-nzas [bandera_de_la_provincia_wele-nzas.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_wele-nzas.png)
-* bubi tribal [bubi_tribal.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bubi_tribal.svg)
-* gq-an [gq-an.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/gq-an.svg)
-* gq-dj [gq-dj.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/gq-dj.svg)
-* readme [readme.md](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/readme.md)
+* BANDERA DE LA PROVINCIA BIOKO DEL NORTE -> [bandera_de_la_provincia_bioko_del_norte.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_bioko_del_norte.png)
+* BANDERA DE LA PROVINCIA BIOKO DEL SUR -> [bandera_de_la_provincia_bioko_del_sur.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_bioko_del_sur.png)
+* BANDERA DE LA PROVINCIA CENTRO SUR -> [bandera_de_la_provincia_centro_sur.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_centro_sur.png)
+* BANDERA DE LA PROVINCIA KIE-NTEM -> [bandera_de_la_provincia_kie-ntem.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_kie-ntem.png)
+* BANDERA DE LA PROVINCIA LITORAL -> [bandera_de_la_provincia_litoral.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_litoral.png)
+* BANDERA DE LA PROVINCIA WELE-NZAS -> [bandera_de_la_provincia_wele-nzas.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bandera_de_la_provincia_wele-nzas.png)
+* BUBI TRIBAL -> [bubi_tribal.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/bubi_tribal.svg)
+* GQ-AN (Annobon) -> [gq-an.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/gq-an.svg)
+* GQ-DJ (Djibloho) -> [gq-dj.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GQ/gq-dj.svg)
 
 Equatorial Guinea ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GQ)
 
-* GQ-CS: Centro Sud (Province)
 * GQ-I: Região Insular (Region)
 * GQ-BN: Bioko Nord (Province)
 * GQ-KN: Kié-Ntem (Province)
@@ -23,3 +21,4 @@ Equatorial Guinea ISO3166-2 subdivisions with no available flags (https://en.wik
 * GQ-LI: Litoral (Province)
 * GQ-C: Região Continental (Region)
 * GQ-WN: Wele-Nzas (Province)
+* GQ-CS: Centro Sud (Province)

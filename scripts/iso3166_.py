@@ -342,8 +342,18 @@ _by_name = _build_index(0)
 _by_apolitical_name = _build_index(4)
 
 # Documented accessors for the country indexes
-countries_by_alpha2 = _by_alpha2
-countries_by_alpha3 = _by_alpha3
+countries_by_alpha2_ = _by_alpha2
+#ensure alpha2 keys in dict are uppercase
+countries_by_alpha2 = {}
+for key,val in countries_by_alpha2_.items():
+    countries_by_alpha2[key.upper()] = val
+
+countries_by_alpha3_ = _by_alpha3
+#ensure alpha3 keys in dict are uppercase
+countries_by_alpha3 = {}
+for key,val in countries_by_alpha3_.items():
+    countries_by_alpha3[key.upper()] = val
+
 countries_by_numeric = _by_numeric
 countries_by_name = _by_name
 countries_by_apolitical_name = _by_apolitical_name

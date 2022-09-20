@@ -277,7 +277,7 @@ if __name__ == '__main__':
 
   parser = argparse.ArgumentParser(description='Downloading all country subdivision flags for Flagle game.')
 
-  parser.add_argument('-output', '--output', type=str, required=False, default="../iso3166-2-icons-test", help='Output folder path for downloaded ISO3166-2 country SVGs.')
+  parser.add_argument('-output', '--output', type=str, required=False, default="../iso3166-2-icons", help='Output folder path for downloaded ISO3166-2 country SVGs.')
 
   #parse input args
   args = parser.parse_args()
