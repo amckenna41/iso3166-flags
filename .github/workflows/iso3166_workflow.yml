@@ -38,7 +38,7 @@ jobs:
         pip3 install pytest-cov
         pip3 install bandit
         pip3 install safety
-        if [ -f scripts/requirements.txt ]; then pip install -r /scripts/requirements.txt; fi
+        if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
 
   #test job, waits for build job to complete
   

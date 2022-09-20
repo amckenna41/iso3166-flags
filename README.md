@@ -1,17 +1,18 @@
-# Repository of all ISO3166-1 and ISO3166-2 flags 
+# Repository of all ISO3166-1 and ISO3166-2 Flags 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 [![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/iso3166-flag-icons)
 
-> ** In development - ISO3166-2 flags in progress: FR, GB, IT, MK, MT, SI, TH **
-
 > A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
+
+> ** In development - ISO3166-2 flags in progress: FR, GB, IT, MK, MT, SI, TH **
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="300" width="700"/>
 </p>
+
 To Do
 -----
 * Try and convert any png/jpeg flag images into SVG format. 
