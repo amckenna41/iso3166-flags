@@ -2207,11 +2207,6 @@
         "Subdivisions": {}
     },
     {
-        "Country": "Puerto Rico",
-        "Code": "PR",
-        "Subdivisions": {}
-    },
-    {
         "Country": "Portugal",
         "Code": "PT",
         "Subdivisions": {
@@ -2866,11 +2861,6 @@
             "UZ-QR": "Qoraqalpog‘iston Respublikasi",
             "UZ-TK": "Toshkent"
         }
-    },
-    {
-        "Country": "Saint Vincent and the Grenadines",
-        "Code": "VC",
-        "Subdivisions": {}
     },
     {
         "Country": "Venezuela, Bolivarian Republic of",

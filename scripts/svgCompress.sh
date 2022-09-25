@@ -1,15 +1,16 @@
 #!/bin/bash
 
 ############################## SVG Compress ##############################
-: '
+'
 SVG files can be quite large in size but a lot of its data can be 
 redundant or unncessary information so I created this script to help
 maximise the storage of the files, especially since the output folder may
-contain hundreds of files. The script utilises the scour Python library 
+contain thousands of files. The script utilises the scour Python library 
 to compress the output SVG files if they meet a specific threshold of 
 file size. These files are then copied to the output folder. If file size 
 threshold is not met or the file is not an SVG then the original file is 
-copied to the output.
+copied to the output. Any other image file types such as png, jpg or gif
+are copied to the output folder.
 '
 ##########################################################################
 
@@ -19,16 +20,16 @@ python3 -m pip install --user --upgrade pip
 #Help Funtion showing script usage
 Help()
 {
-   echo "Bash Script for compressing SVG files if they are above certain size threshold"
+   echo "Bash Script for compressing SVG files if they are above certain file size threshold."
    echo ""
    echo "Basic Usage, using default parameters: ./svgCompress.sh "
-   echo "Usage: ./svgCompress.sh [--input --output --filesizeThreshold]"
+   echo "Usage: ./svgCompress.sh [--input --output --filesize]"
    echo ""
    echo "Options:"
-   echo "-h     help"
+   echo "-h          help"
    echo "-input      Path to input directory of country flags to compress."
    echo "-output     Path to output directory to store compressed SVG files."
-   echo "-filesizeThreshold   Filesize threshold in KB, if file above it then execute compression algorithm."
+   echo "-filesize   Filesize threshold in KB, if file above it then execute compression algorithm."
    exit
 }
 
@@ -203,6 +204,7 @@ fi
 
 #calculate output filesize before and after compression script
 OUTPUT_FOLDERSIZE_POST=$(du -sh $OUTPUT | cut -f1 | rev | cut -c 2- | rev)
+
 #calculate compression ratio
 COMPRESSION_RATIO=$(bc <<<"scale=2; $OUTPUT_FOLDERSIZE_POST / $OUTPUT_FOLDERSIZE_PRE")
 COMPRESSION_RATIO="${COMPRESSION_RATIO:1}"

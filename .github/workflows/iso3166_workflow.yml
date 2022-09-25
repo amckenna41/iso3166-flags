@@ -41,7 +41,6 @@ jobs:
         if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
 
   #test job, waits for build job to complete
-  
   test:
     needs: build
     runs-on: ubuntu-latest         # platform: [ubuntu-latest, macos-latest, windows-latest]
@@ -54,10 +53,11 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
+
     #package vulnerability check
     - name: Package safety check
       run: |
-       echo "Running package safety check"
+       echo "Running package safety check..."
        python3 -m safety check > package_safety_output.txt
        cat package_safety_output.txt
       continue-on-error: true
@@ -65,7 +65,7 @@ jobs:
     #run Bandit security check for any known vulnerabilities in code
     - name: Bandit
       run: |
-       echo "Running Bandit"
+       echo "Running Bandit..."
        python3 -m bandit -r scripts > bandit_output.txt
        cat bandit_output.txt
       continue-on-error: true
@@ -73,7 +73,7 @@ jobs:
     #linting with flake8
     - name: Lint with flake8
       run: |
-        echo "Testing using flake8..."
+        echo "Running flake8 tests..."
         # stop the build if there are Python syntax errors or undefined names
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics > flake8_output.txt
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
@@ -85,7 +85,6 @@ jobs:
       run: |
         echo "Testing using unittest..."
         python3 -m unittest discover
-
     - name: Test with pytest
       run: |
         echo "Testing using pytest..."

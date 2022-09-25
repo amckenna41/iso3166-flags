@@ -21,8 +21,7 @@ Several scripts were required to automate the collection, downloading and cleani
 Note the `jquery-jvectormap-2.0.5.js` and `jquery-jvectormap-2.0.5.css` files are only required for the interactive map demo of the repo found [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
 
 The exact purpose of each script can be seen below, as well as in the comments of each file:
-* `getAllSubdivisionFlags.py` - downloading all ISO3166-2 subdivision flags from the main subdivisions wiki (https://en.wikipedia.org/wiki/Flags_of_country_subdivisions).
-* `getISO3166-2Flags.py` - download remaining ISO3166-2 subdivision flags from each countrys respecitve wiki.
+* `getAllSubdivisionFlags.py` - downloading all ISO3166-2 subdivision flags from the main subdivisions wiki (https://en.wikipedia.org/wiki/Flags_of_country_subdivisions) as well as using country's respective wiki URL's. 
 * `generateReadMe.py` - create README file for each ISO3166-2 subfolder, listing all the subdivisions per country.
 * `generateCSS.py` - create CSS files with respective CSS selectors/classes for both ISO3166-2 and ISO3166-2 flag icons.
 * `generateJSON.py` - create JSON files of flag files, their name and ISO code for both ISO3166-1 and ISO3166-2 folders. 
@@ -49,30 +48,14 @@ Requirements
 Usage
 -----
 
-## Get all flags from subdivions wiki (https://en.wikipedia.org/wiki/Flags_of_country_subdivisions)
+## Download all ISO3166-2 subdivision flags
 
 ```bash
-python3 getAllSubdivisionFlags.py --output="../countries"
+python3 getAllSubdivisionFlags.py --output="../iso3166-2-icons" 
 
 --output: output folder to downloaded flag files
-```
-
-## Get remainder of flags according to iso3166-files/iso3166-2_urls.csv
-
-```bash
-python3 getISO3166-2Flags.py --output="../countries" --url_wiki_csv="iso3166-2_urls.csv"
-
---output: output folder to downloaded flag files
---url_wiki_csv: csv file of countries and their associated wiki url with their subdivision flags.
-```
-
-## Get all flags using both scripts
-
-```bash
-python3 getAllSubdivisionFlags.py --output="../countries" && python3 getISO3166-2Flags.py --output="../countries" --url_wiki_csv="iso3166-2_urls.csv"
-
---output: output folder to downloaded flag files
---url_wiki_csv: csv file of countries and their associated wiki url with their subdivision flags.
+--url_csv: using default value of iso3166-2_urls.csv
+--no_flags_csv: using default value of noISO3166-2Flags.csv
 ```
 
 ## Compress all SVG flag icon files in output folder
@@ -138,5 +121,4 @@ To run tests for specific module, from the main <i>scripts</i> repo folder run:
 python -m unittest tests.MODULE_NAME -v
 ```
 
-<!-- 178 seconds for getAll
-3333 seconds for getISO... -->
+<!-- 3511 seconds total-->

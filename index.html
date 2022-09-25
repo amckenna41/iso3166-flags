@@ -317,7 +317,6 @@ table td {
 
 /** To Do 
  * - Make list of subdivisions in table clickable.
- * - getImgSrc() - what if image is png or jpeg & no svg found.
  **/
 
 
@@ -326,16 +325,15 @@ var mapColour = "#93959b";
 var countryColour = "#a4d446";
 
 //flag and json URL's in repo
-// const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1.json";
-const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/test-iso3166-icons/main/iso3166-1.json"
+const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1.json";
 const iso3166_2_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2_min.json";
 
 var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
 var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
 
 //json object containing ISO3166-1 and ISO3166-2 country info
-var allISO3166_1_json = {};
-var allISO3166_2_json = {};
+var iso3166_1_json = {};
+var iso3166_2_json = {};
 var rest_countries_json = {};
 
 //objects containing country names and codes
@@ -375,19 +373,19 @@ function getJSON(url="",) {
         success: function success(data) {
             //get json data using either iso3166-1 or iso3166-2 url
             if (url.includes("iso3166-1")) {
-                allISO3166_1_json = data;
+                iso3166_1_json = data;
                 //get list of countries and associated ISO3166-1 country codes
-                for (var i=0; i<allISO3166_1_json.length; i++) {
-                    countryList.push(allISO3166_1_json[i]['Country'])
-                    countryCodes[allISO3166_1_json[i]['Country']] = allISO3166_1_json[i]['Code']
-                    countryCodesColours[allISO3166_1_json[i]['Code']] = mapColour;
+                for (var i=0; i<iso3166_1_json.length; i++) {
+                    countryList.push(iso3166_1_json[i]['Country'])
+                    countryCodes[iso3166_1_json[i]['Country']] = iso3166_1_json[i]['Code']
+                    countryCodesColours[iso3166_1_json[i]['Code']] = mapColour;
                 }
                 countryList.sort();
                 countryList.unshift("All Countries");
                 
             } else {
                 //assign pulled json to variable
-                allISO3166_2_json = data;
+                iso3166_2_json = data;
             }
         },
         error: function error() {
@@ -509,14 +507,14 @@ function restCountries(country) {
                 rest_countries_json = data[0]; //set rest_countries_json object
                 // var subdivisionNames = {};
                 //iterate over all variables in json and add subdivision names and codes
-                for (var i=0; i<allISO3166_2_json.length; i++) {
-                    if (allISO3166_2_json[i].Code == rest_countries_json.cca2) {
-                        // for (var j=0; j<allISO3166_2_json[i].Subdivisions.length; j++) {
-                        // for (var [key, val] of Object.entries(allISO3166_2_json[i].Subdivisions)) {
-                        //     // subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key].replace(/^.*[\\\/]/, '').replace(/\.[^/.]+$/, ""));
-                        //     subdivisionNames.push(allISO3166_2_json[i].Subdivisions[key]);
+                for (var i=0; i<iso3166_2_json.length; i++) {
+                    if (iso3166_2_json[i].Code == rest_countries_json.cca2) {
+                        // for (var j=0; j<iso3166_2_json[i].Subdivisions.length; j++) {
+                        // for (var [key, val] of Object.entries(iso3166_2_json[i].Subdivisions)) {
+                        //     // subdivisionNames.push(iso3166_2_json[i].Subdivisions[key].replace(/^.*[\\\/]/, '').replace(/\.[^/.]+$/, ""));
+                        //     subdivisionNames.push(iso3166_2_json[i].Subdivisions[key]);
                         // }
-                        rest_countries_json["subdivisions"] = allISO3166_2_json[i].Subdivisions;
+                        rest_countries_json["subdivisions"] = iso3166_2_json[i].Subdivisions;
                     }
                 }
             },

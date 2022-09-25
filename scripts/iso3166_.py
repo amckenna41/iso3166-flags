@@ -1,5 +1,4 @@
 #Source: https://github.com/deactivated/python-iso3166
-# -*- coding: utf-8 -*-
 import re
 from typing import Dict, Iterator, NamedTuple, Type, TypeVar, Union, overload
 
@@ -8,6 +7,7 @@ __all__ = ["countries"]
 StrOrInt = Union[str, int]
 _D = TypeVar("_D")
 
+#initialise country class, tuple of name, alpha2, alpha3, numeric, apolitical name
 class Country(NamedTuple):
     name: str
     alpha2: str
@@ -15,6 +15,7 @@ class Country(NamedTuple):
     numeric: str
     apolitical_name: str
 
+#list of country records
 _records = [
     Country("Afghanistan", "AF", "AFG", "004", "Afghanistan"),
     Country("Åland Islands", "AX", "ALA", "248", "Åland Islands"),
@@ -304,7 +305,7 @@ _records = [
     Country("Scotland", "GB-SCT", "GBR", "826", "Scotland"),
     Country("United Nations", "UN", "", "", "United Nations"), #exceptional reservation
     Country("United States of America", "US", "USA", "840", "United States of America"),
-    Country("United States ", "US", "USA", "840", "United States"),
+    Country("United States", "US", "USA", "840", "United States"),
     Country("USA", "US", "USA", "840", "USA"),
     Country("United States Minor Outlying Islands", "UM", "UMI", "581", "United States Minor Outlying Islands"),
     Country("United States Virgin Islands", "VI", "VIR", "850", "United States Virgin Islands"),

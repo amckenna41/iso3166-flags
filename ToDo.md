@@ -28,7 +28,9 @@
 [ ] - Get list of subdivison types using pycountry, remove from filenames or add to object. 
 [ ] - Try and convert all png's to svg's.
 [ ] - Upload bandit, package safety check etc to GCP bucket 
-[ ] - Move requirements section from main readme to scripts dir.
+[X] - Move requirements section from main readme to scripts dir.
 [ ] - Add download link to downloads/ folder for iso3166-2-icons, stored on AWS or GCP
+[ ] - Add getAllSubdiv and getISO3166... files into one.
+[ ] - Use noISO3166-2Flags.csv file to not download from any countries that don't have flags in getAllSubdivisionFlags.py
 
 https://flagmeister.github.io/?#repoanalyzer

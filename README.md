@@ -143,3 +143,5 @@ References
 [emoji-country-flag]: https://pypi.org/project/emoji-country-flag/
 [fuzzywuzzy]: https://pypi.org/project/fuzzywuzzy/
 
+* add note that ISO3166-2 jsons dont neccesarrily include all subdivisions just 
+ones with flags in the repo.
