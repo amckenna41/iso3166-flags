@@ -2,10 +2,10 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CR
 
-* CR-A (Alajuela) -> [cr-a.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/cr-a.svg)
-* CR-C (Cartago) -> [cr-c.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/cr-c.svg)
-* CR-G (Guanacaste) -> [cr-g.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/cr-g.svg)
-* CR-H (Heredia) -> [cr-h.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/cr-h.svg)
-* CR-L (Limón) -> [cr-l.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/cr-l.svg)
-* CR-P (Puntarenas) -> [cr-p.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/cr-p.svg)
-* CR-SJ (San José) -> [cr-sj.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/cr-sj.svg)
+* CR-A (Alajuela) -> [CR-A.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/CR-A.svg)
+* CR-C (Cartago) -> [CR-C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/CR-C.svg)
+* CR-G (Guanacaste) -> [CR-G.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/CR-G.svg)
+* CR-H (Heredia) -> [CR-H.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/CR-H.svg)
+* CR-L (Limón) -> [CR-L.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/CR-L.svg)
+* CR-P (Puntarenas) -> [CR-P.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/CR-P.svg)
+* CR-SJ (San José) -> [CR-SJ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CR/CR-SJ.svg)

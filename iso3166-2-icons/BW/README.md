@@ -2,10 +2,13 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:BW
 
-* BW-GA (Gaborone) -> [bw-ga.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BW/bw-ga.gif)
+* BW-GA (Gaborone) -> [BW-GA.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BW/BW-GA.gif)
 
-Botswana ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:BW)
+Botswana ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:BW):
 
+* BW-CE: Central (District)
+* BW-NW: North West (District)
+* BW-KG: Kgalagadi (District)
 * BW-CH: Chobe (District)
 * BW-SE: South East (District)
 * BW-KL: Kgatleng (District)
@@ -18,6 +21,3 @@ Botswana ISO3166-2 subdivisions with no available flags (https://en.wikipedia.or
 * BW-ST: Sowa Town (Town)
 * BW-NE: North East (District)
 * BW-JW: Jwaneng (Town)
-* BW-CE: Central (District)
-* BW-NW: North West (District)
-* BW-KG: Kgalagadi (District)

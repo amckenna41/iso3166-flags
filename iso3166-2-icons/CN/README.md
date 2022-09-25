@@ -2,12 +2,22 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CN
 
-* CN-HK (Hong Kong Sar) -> [cn-hk.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CN/cn-hk.svg)
-* CN-MO (Macao Sar) -> [cn-mo.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CN/cn-mo.svg)
-* CN-TW (Taiwan Sheng) -> [cn-tw.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CN/cn-tw.svg)
+* CN-HK (Hong Kong Sar) -> [CN-HK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CN/CN-HK.svg)
+* CN-MO (Macao Sar) -> [CN-MO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CN/CN-MO.svg)
+* CN-TW (Taiwan Sheng) -> [CN-TW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CN/CN-TW.svg)
 
-China ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CN)
+China ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CN):
 
+* CN-GZ: Guizhou Sheng (Province)
+* CN-HA: Henan Sheng (Province)
+* CN-XJ: Xinjiang Uygur Zizhiqu (Autonomous region)
+* CN-HB: Hubei Sheng (Province)
+* CN-XZ: Xizang Zizhiqu (Autonomous region)
+* CN-HE: Hebei Sheng (Province)
+* CN-YN: Yunnan Sheng (Province)
+* CN-HI: Hainan Sheng (Province)
+* CN-ZJ: Zhejiang Sheng (Province)
+* CN-HL: Heilongjiang Sheng (Province)
 * CN-HN: Hunan Sheng (Province)
 * CN-JL: Jilin Sheng (Province)
 * CN-JS: Jiangsu Sheng (Province)
@@ -29,13 +39,3 @@ China ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/w
 * CN-SX: Shanxi Sheng (Province)
 * CN-GX: Guangxi Zhuangzu Zizhiqu (Autonomous region)
 * CN-TJ: Tianjin Shi (Municipality)
-* CN-GZ: Guizhou Sheng (Province)
-* CN-HA: Henan Sheng (Province)
-* CN-XJ: Xinjiang Uygur Zizhiqu (Autonomous region)
-* CN-HB: Hubei Sheng (Province)
-* CN-XZ: Xizang Zizhiqu (Autonomous region)
-* CN-HE: Hebei Sheng (Province)
-* CN-YN: Yunnan Sheng (Province)
-* CN-HI: Hainan Sheng (Province)
-* CN-ZJ: Zhejiang Sheng (Province)
-* CN-HL: Heilongjiang Sheng (Province)

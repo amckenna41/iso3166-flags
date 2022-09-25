@@ -2,10 +2,12 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CG
 
-* CG-16 (Pointe-Noire) -> [cg-16.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CG/cg-16.svg)
+* CG-16 (Pointe-Noire) -> [CG-16.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CG/CG-16.svg)
 
-Republic of the Congo ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CG)
+Republic of the Congo ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CG):
 
+* CG-11: Bouenza (Department)
+* CG-BZV: Brazzaville (Department)
 * CG-2: Lékoumou (Department)
 * CG-12: Pool (Department)
 * CG-5: Kouilou (Department)
@@ -15,5 +17,3 @@ Republic of the Congo ISO3166-2 subdivisions with no available flags (https://en
 * CG-8: Cuvette (Department)
 * CG-15: Cuvette-Ouest (Department)
 * CG-9: Niari (Department)
-* CG-11: Bouenza (Department)
-* CG-BZV: Brazzaville (Department)

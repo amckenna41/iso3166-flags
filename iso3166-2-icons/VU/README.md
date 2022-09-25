@@ -2,9 +2,9 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:VU
 
-* VU-MAP (Malampa) -> [vu-map.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/vu-map.svg)
-* VU-PAM (Pénama) -> [vu-pam.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/vu-pam.svg)
-* VU-SAM (Sanma) -> [vu-sam.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/vu-sam.svg)
-* VU-SEE (Shéfa) -> [vu-see.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/vu-see.svg)
-* VU-TAE (Taféa) -> [vu-tae.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/vu-tae.svg)
-* VU-TOB (Torba) -> [vu-tob.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/vu-tob.svg)
+* VU-MAP (Malampa) -> [VU-MAP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/VU-MAP.svg)
+* VU-PAM (Pénama) -> [VU-PAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/VU-PAM.svg)
+* VU-SAM (Sanma) -> [VU-SAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/VU-SAM.svg)
+* VU-SEE (Shéfa) -> [VU-SEE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/VU-SEE.svg)
+* VU-TAE (Taféa) -> [VU-TAE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/VU-TAE.svg)
+* VU-TOB (Torba) -> [VU-TOB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VU/VU-TOB.svg)

@@ -2,10 +2,22 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:UG
 
-* UG-206 (Kapchorwa) -> [ug-206.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UG/ug-206.svg)
+* UG-206 (Kapchorwa) -> [UG-206.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UG/UG-206.svg)
 
-Uganda ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:UG)
+Uganda ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:UG):
 
+* UG-119: Butambala (District)
+* UG-404: Kabale (District)
+* UG-120: Buvuma (District)
+* UG-405: Kabarole (District)
+* UG-121: Gomba (District)
+* UG-406: Kasese (District)
+* UG-122: Kalungu (District)
+* UG-407: Kibaale (District)
+* UG-123: Kyankwanzi (District)
+* UG-408: Kisoro (District)
+* UG-124: Lwengo (District)
+* UG-409: Masindi (District)
 * UG-125: Kyotera (District)
 * UG-410: Mbarara (District)
 * UG-126: Kasanda (District)
@@ -132,15 +144,3 @@ Uganda ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * UG-117: Buikwe (District)
 * UG-403: Hoima (District)
 * UG-118: Bukomansibi (District)
-* UG-404: Kabale (District)
-* UG-119: Butambala (District)
-* UG-405: Kabarole (District)
-* UG-120: Buvuma (District)
-* UG-406: Kasese (District)
-* UG-121: Gomba (District)
-* UG-407: Kibaale (District)
-* UG-122: Kalungu (District)
-* UG-408: Kisoro (District)
-* UG-123: Kyankwanzi (District)
-* UG-409: Masindi (District)
-* UG-124: Lwengo (District)

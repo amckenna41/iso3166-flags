@@ -2,12 +2,17 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:TR
 
-* TR-34 (İstanbul) -> [tr-34.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TR/tr-34.png)
-* TR-48 (Muğla) -> [tr-48.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TR/tr-48.jpeg)
-* TR-54 (Sakarya) -> [tr-54.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TR/tr-54.png)
+* TR-34 (İstanbul) -> [TR-34.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TR/TR-34.png)
+* TR-48 (Muğla) -> [TR-48.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TR/TR-48.jpeg)
+* TR-54 (Sakarya) -> [TR-54.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TR/TR-54.png)
 
-Turkey ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TR)
+Turkey ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TR):
 
+* TR-33: Mersin (Province)
+* TR-35: İzmir (Province)
+* TR-36: Kars (Province)
+* TR-37: Kastamonu (Province)
+* TR-38: Kayseri (Province)
 * TR-39: Kırklareli (Province)
 * TR-40: Kırşehir (Province)
 * TR-41: Kocaeli (Province)
@@ -81,8 +86,3 @@ Turkey ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * TR-30: Hakkâri (Province)
 * TR-31: Hatay (Province)
 * TR-32: Isparta (Province)
-* TR-33: Mersin (Province)
-* TR-35: İzmir (Province)
-* TR-36: Kars (Province)
-* TR-37: Kastamonu (Province)
-* TR-38: Kayseri (Province)

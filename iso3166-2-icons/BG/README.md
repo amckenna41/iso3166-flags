@@ -2,10 +2,16 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:BG
 
-* BG-23 (Sofia) -> [bg-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BG/bg-23.svg)
+* BG-23 (Sofia) -> [BG-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BG/BG-23.svg)
 
-Bulgaria ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:BG)
+Bulgaria ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:BG):
 
+* BG-10: Kyustendil (District)
+* BG-11: Lovech (District)
+* BG-12: Montana (District)
+* BG-13: Pazardzhik (District)
+* BG-14: Pernik (District)
+* BG-15: Pleven (District)
 * BG-16: Plovdiv (District)
 * BG-17: Razgrad (District)
 * BG-18: Ruse (District)
@@ -27,9 +33,3 @@ Bulgaria ISO3166-2 subdivisions with no available flags (https://en.wikipedia.or
 * BG-07: Gabrovo (District)
 * BG-08: Dobrich (District)
 * BG-09: Kardzhali (District)
-* BG-10: Kyustendil (District)
-* BG-11: Lovech (District)
-* BG-12: Montana (District)
-* BG-13: Pazardzhik (District)
-* BG-14: Pernik (District)
-* BG-15: Pleven (District)

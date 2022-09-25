@@ -2,14 +2,14 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:PK
 
-* PK-BA (Balochistan) -> [pk-ba.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/pk-ba.svg)
-* PK-GB (Gilgit-Baltistan) -> [pk-gb.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/pk-gb.svg)
-* PK-JK (Azad Jammu And Kashmir) -> [pk-jk.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/pk-jk.svg)
-* PK-KP (Khyber Pakhtunkhwa) -> [pk-kp.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/pk-kp.svg)
-* PK-PB (Punjab) -> [pk-pb.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/pk-pb.svg)
-* PK-SD (Sindh) -> [pk-sd.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/pk-sd.svg)
-* PK-TA (Sindh) -> [pk-ta.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/pk-ta.png)
+* PK-BA (Balochistan) -> [PK-BA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-BA.svg)
+* PK-GB (Gilgit-Baltistan) -> [PK-GB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-GB.svg)
+* PK-JK (Azad Jammu And Kashmir) -> [PK-JK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-JK.svg)
+* PK-KP (Khyber Pakhtunkhwa) -> [PK-KP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-KP.svg)
+* PK-PB (Punjab) -> [PK-PB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-PB.svg)
+* PK-SD (Sindh) -> [PK-SD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-SD.svg)
+* PK-TA (Sindh) -> [PK-TA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-TA.png)
 
-Pakistan ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:PK)
+Pakistan ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:PK):
 
 * PK-IS: Islamabad (Federal capital territory)

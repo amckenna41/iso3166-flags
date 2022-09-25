@@ -2,12 +2,12 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:KG
 
-* KG-B (Batken) -> [kg-b.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-b.svg)
-* KG-C (Chuyskaya Oblast') -> [kg-c.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-c.svg)
-* KG-GB (Bishkek Shaary) -> [kg-gb.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-gb.svg)
-* KG-GO (Gorod Osh) -> [kg-go.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-go.png)
-* KG-J (Dzhalal-Abadskaya Oblast') -> [kg-j.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-j.png)
-* KG-N (Naryn) -> [kg-n.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-n.svg)
-* KG-O (Osh) -> [kg-o.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-o.svg)
-* KG-T (Talas) -> [kg-t.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-t.svg)
-* KG-Y (Issyk-Kul'Skaja Oblast') -> [kg-y.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/kg-y.png)
+* KG-B (Batken) -> [KG-B.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-B.svg)
+* KG-C (Chuyskaya Oblast') -> [KG-C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-C.svg)
+* KG-GB (Bishkek Shaary) -> [KG-GB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-GB.svg)
+* KG-GO (Gorod Osh) -> [KG-GO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-GO.png)
+* KG-J (Dzhalal-Abadskaya Oblast') -> [KG-J.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-J.png)
+* KG-N (Naryn) -> [KG-N.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-N.svg)
+* KG-O (Osh) -> [KG-O.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-O.svg)
+* KG-T (Talas) -> [KG-T.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-T.svg)
+* KG-Y (Issyk-Kul'Skaja Oblast') -> [KG-Y.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KG/KG-Y.png)

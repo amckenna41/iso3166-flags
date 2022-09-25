@@ -2,11 +2,11 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:AU
 
-* AU-ACT (Australian Capital Territory) -> [au-act.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-act.svg)
-* AU-NSW (New South Wales) -> [au-nsw.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-nsw.svg)
-* AU-NT (Northern Territory) -> [au-nt.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-nt.svg)
-* AU-QLD (Queensland) -> [au-qld.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-qld.svg)
-* AU-SA (South Australia) -> [au-sa.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-sa.svg)
-* AU-TAS (Tasmania) -> [au-tas.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-tas.svg)
-* AU-VIC (Victoria) -> [au-vic.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-vic.svg)
-* AU-WA (Western Australia) -> [au-wa.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/au-wa.svg)
+* AU-ACT (Australian Capital Territory) -> [AU-ACT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-ACT.svg)
+* AU-NSW (New South Wales) -> [AU-NSW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-NSW.svg)
+* AU-NT (Northern Territory) -> [AU-NT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-NT.svg)
+* AU-QLD (Queensland) -> [AU-QLD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-QLD.svg)
+* AU-SA (South Australia) -> [AU-SA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-SA.svg)
+* AU-TAS (Tasmania) -> [AU-TAS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-TAS.svg)
+* AU-VIC (Victoria) -> [AU-VIC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-VIC.svg)
+* AU-WA (Western Australia) -> [AU-WA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AU/AU-WA.svg)

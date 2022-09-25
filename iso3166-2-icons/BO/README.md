@@ -2,12 +2,12 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:BO
 
-* BO-B (El Beni) -> [bo-b.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-b.svg)
-* BO-C (Cochabamba) -> [bo-c.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-c.svg)
-* BO-H (Chuquisaca) -> [bo-h.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-h.svg)
-* BO-L (La Paz) -> [bo-l.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-l.svg)
-* BO-N (Pando) -> [bo-n.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-n.svg)
-* BO-O (Oruro) -> [bo-o.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-o.svg)
-* BO-P (Potosí) -> [bo-p.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-p.svg)
-* BO-S (Santa Cruz) -> [bo-s.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-s.svg)
-* BO-T (Tarija) -> [bo-t.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/bo-t.svg)
+* BO-B (El Beni) -> [BO-B.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-B.svg)
+* BO-C (Cochabamba) -> [BO-C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-C.svg)
+* BO-H (Chuquisaca) -> [BO-H.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-H.svg)
+* BO-L (La Paz) -> [BO-L.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-L.svg)
+* BO-N (Pando) -> [BO-N.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-N.svg)
+* BO-O (Oruro) -> [BO-O.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-O.svg)
+* BO-P (Potosí) -> [BO-P.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-P.svg)
+* BO-S (Santa Cruz) -> [BO-S.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-S.svg)
+* BO-T (Tarija) -> [BO-T.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BO/BO-T.svg)

@@ -2,13 +2,19 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CV
 
-* CV-MO (Mosteiros) -> [cv-mo.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/cv-mo.svg)
-* CV-PR (Praia) -> [cv-pr.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/cv-pr.gif)
-* CV-RB (Ribeira Brava) -> [cv-rb.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/cv-rb.png)
-* CV-SM (São Miguel) -> [cv-sm.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/cv-sm.svg)
+* CV-MO (Mosteiros) -> [CV-MO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/CV-MO.svg)
+* CV-PR (Praia) -> [CV-PR.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/CV-PR.gif)
+* CV-RB (Ribeira Brava) -> [CV-RB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/CV-RB.png)
+* CV-SM (São Miguel) -> [CV-SM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CV/CV-SM.svg)
 
-Cabo Verde ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CV)
+Cabo Verde ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CV):
 
+* CV-TS: Tarrafal de São Nicolau (Municipality)
+* CV-BV: Boa Vista (Municipality)
+* CV-CA: Santa Catarina (Municipality)
+* CV-CF: Santa Catarina do Fogo (Municipality)
+* CV-CR: Santa Cruz (Municipality)
+* CV-MA: Maio (Municipality)
 * CV-PA: Paul (Municipality)
 * CV-PN: Porto Novo (Municipality)
 * CV-RG: Ribeira Grande (Municipality)
@@ -23,9 +29,3 @@ Cabo Verde ISO3166-2 subdivisions with no available flags (https://en.wikipedia.
 * CV-B: Ilhas de Barlavento (Geographical region)
 * CV-TA: Tarrafal (Municipality)
 * CV-BR: Brava (Municipality)
-* CV-TS: Tarrafal de São Nicolau (Municipality)
-* CV-BV: Boa Vista (Municipality)
-* CV-CA: Santa Catarina (Municipality)
-* CV-CF: Santa Catarina do Fogo (Municipality)
-* CV-CR: Santa Cruz (Municipality)
-* CV-MA: Maio (Municipality)

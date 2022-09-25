@@ -2,11 +2,17 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:RS
 
-* RS-OO -> [rs-oo.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RS/rs-oo.svg)
-* RS-VO (Vojvodina) -> [rs-vo.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RS/rs-vo.svg)
+* RS-OO -> [RS-OO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RS/RS-OO.svg)
+* RS-VO (Vojvodina) -> [RS-VO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RS/RS-VO.svg)
 
-Serbia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:RS)
+Serbia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:RS):
 
+* RS-10: Podunavski okrug (District)
+* RS-11: Braničevski okrug (District)
+* RS-12: Šumadijski okrug (District)
+* RS-13: Pomoravski okrug (District)
+* RS-14: Borski okrug (District)
+* RS-15: Zaječarski okrug (District)
 * RS-16: Zlatiborski okrug (District)
 * RS-17: Moravički okrug (District)
 * RS-18: Raški okrug (District)
@@ -32,9 +38,3 @@ Serbia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * RS-08: Mačvanski okrug (District)
 * RS-KM: Kosovo-Metohija (Autonomous province)
 * RS-09: Kolubarski okrug (District)
-* RS-10: Podunavski okrug (District)
-* RS-11: Braničevski okrug (District)
-* RS-12: Šumadijski okrug (District)
-* RS-13: Pomoravski okrug (District)
-* RS-14: Borski okrug (District)
-* RS-15: Zaječarski okrug (District)

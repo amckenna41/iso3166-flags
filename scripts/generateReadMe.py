@@ -68,6 +68,10 @@ def createReadMe(country, code, url, outputFolder):
         if (subdName != "" and subdName != None):
             outputStr += " (" + subdName.title() + ")"
 
+        file = os.path.splitext(file)[0].upper() + os.path.splitext(file)[1]
+
+        print('file here', file)        
+
         outputStr += " -> [{}]({}/{}/{})\n".format(file, baseURL, code, file)
 
     #get list of all filenames in folder
