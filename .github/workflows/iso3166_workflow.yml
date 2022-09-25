@@ -65,15 +65,11 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics >> flake8_output.txt
       continue-on-error: true
 
-    # unit tests using unittest and pytest
+    # unit tests using unittest 
     - name: Testing with unittest
       run: |
         echo "Testing using unittest..."
         python3 -m unittest discover scripts/
-    - name: Test with pytest
-      run: |
-        echo "Testing using pytest..."
-        python3 -m pytest scripts/tests/
         
     #generate coverage report
     - name: Generate Report
