@@ -1,4 +1,4 @@
-# Bonaire, Saint Eustatius and Saba 🇧🇶 Subdivisions
+# Bonaire, Saint Eustatius and Saba Subdivisions 🇧🇶
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:BQ
 

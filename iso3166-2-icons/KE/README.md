@@ -1,4 +1,4 @@
-# Kenya 🇰🇪 Subdivisions
+# Kenya Subdivisions 🇰🇪
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:KE
 
@@ -40,7 +40,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:KE
 
 Kenya ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:KE):
 
-* KE-16: Kisii (County)
 * KE-40: Tana River (County)
 * KE-21: Lamu (County)
 * KE-03: Bungoma (County)
@@ -52,3 +51,4 @@ Kenya ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/w
 * KE-33: Narok (County)
 * KE-34: Nyamira (County)
 * KE-36: Nyeri (County)
+* KE-16: Kisii (County)

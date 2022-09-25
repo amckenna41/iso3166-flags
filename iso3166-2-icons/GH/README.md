@@ -1,4 +1,4 @@
-# Ghana 🇬🇭 Subdivisions
+# Ghana Subdivisions 🇬🇭
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:GH
 
@@ -12,12 +12,12 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:GH
 
 Ghana ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GH):
 
-* GH-WN: Western North (Region)
-* GH-OT: Oti (Region)
-* GH-BO: Bono (Region)
 * GH-SV: Savannah (Region)
 * GH-UE: Upper East (Region)
 * GH-NE: North East (Region)
 * GH-UW: Upper West (Region)
 * GH-NP: Northern (Region)
 * GH-BE: Bono East (Region)
+* GH-WN: Western North (Region)
+* GH-OT: Oti (Region)
+* GH-BO: Bono (Region)

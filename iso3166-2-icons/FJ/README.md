@@ -1,4 +1,4 @@
-# Fiji 🇫🇯 Subdivisions
+# Fiji Subdivisions 🇫🇯
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:FJ
 
@@ -6,7 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:FJ
 
 Fiji ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:FJ):
 
-* FJ-E: Eastern (Division)
 * FJ-N: Northern (Division)
 * FJ-R: Rotuma (Dependency)
 * FJ-W: Western (Division)
@@ -25,3 +24,4 @@ Fiji ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wi
 * FJ-13: Serua (Province)
 * FJ-14: Tailevu (Province)
 * FJ-C: Central (Division)
+* FJ-E: Eastern (Division)

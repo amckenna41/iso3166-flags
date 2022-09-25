@@ -1,4 +1,4 @@
-# Ivory Coast 🇨🇮 Subdivisions
+# Ivory Coast Subdivisions 🇨🇮
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CI
 
@@ -6,8 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CI
 
 Ivory Coast ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CI):
 
-* CI-VB: Vallée du Bandama (District)
-* CI-LC: Lacs (District)
 * CI-WR: Woroba (District)
 * CI-LG: Lagunes (District)
 * CI-BS: Bas-Sassandra (District)
@@ -19,3 +17,5 @@ Ivory Coast ISO3166-2 subdivisions with no available flags (https://en.wikipedia
 * CI-DN: Denguélé (District)
 * CI-SV: Savanes (District)
 * CI-GD: Gôh-Djiboua (District)
+* CI-VB: Vallée du Bandama (District)
+* CI-LC: Lacs (District)

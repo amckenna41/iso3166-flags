@@ -1,4 +1,4 @@
-# Azerbaijan 🇦🇿 Subdivisions
+# Azerbaijan Subdivisions 🇦🇿
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:AZ
 
@@ -10,12 +10,10 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:AZ
 
 Azerbaijan ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:AZ):
 
-* AZ-BAR: Bərdə (Rayon)
 * AZ-CAB: Cəbrayıl (Rayon)
-* AZ-CAL: Cəlilabad (Rayon)
-* AZ-BEY: Beyləqan (Rayon)
 * AZ-CUL: Culfa (Rayon)
-* AZ-BAL: Balakən (Rayon)
+* AZ-BEY: Beyləqan (Rayon)
+* AZ-BIL: Biləsuvar (Rayon)
 * AZ-DAS: Daşkəsən (Rayon)
 * AZ-FUZ: Füzuli (Rayon)
 * AZ-GA: Gəncə (Municipality)
@@ -29,19 +27,19 @@ Azerbaijan ISO3166-2 subdivisions with no available flags (https://en.wikipedia.
 * AZ-KAL: Kəlbəcər (Rayon)
 * AZ-KAN: Kǝngǝrli (Rayon)
 * AZ-KUR: Kürdəmir (Rayon)
-* AZ-BIL: Biləsuvar (Rayon)
 * AZ-LA: Lənkəran (Municipality)
+* AZ-CAL: Cəlilabad (Rayon)
 * AZ-LAC: Laçın (Rayon)
 * AZ-LAN: Lənkəran (Rayon)
-* AZ-AST: Astara (Rayon)
 * AZ-LER: Lerik (Rayon)
 * AZ-MAS: Masallı (Rayon)
-* AZ-AGU: Ağsu (Rayon)
 * AZ-MI: Mingəçevir (Municipality)
-* AZ-NA: Naftalan (Municipality)
-* AZ-NEF: Neftçala (Rayon)
 * AZ-BAB: Babək (Rayon)
+* AZ-NA: Naftalan (Municipality)
+* AZ-BAL: Balakən (Rayon)
+* AZ-NEF: Neftçala (Rayon)
 * AZ-NV: Naxçıvan (Municipality)
+* AZ-BAR: Bərdə (Rayon)
 * AZ-NX: Naxçıvan (Autonomous republic)
 * AZ-OGU: Oğuz (Rayon)
 * AZ-ORD: Ordubad (Rayon)
@@ -54,9 +52,11 @@ Azerbaijan ISO3166-2 subdivisions with no available flags (https://en.wikipedia.
 * AZ-QUS: Qusar (Rayon)
 * AZ-SAB: Sabirabad (Rayon)
 * AZ-SAD: Sədərək (Rayon)
-* AZ-SAH: Şahbuz (Rayon)
-* AZ-SAK: Şəki (Rayon)
 * AZ-ABS: Abşeron (Rayon)
+* AZ-SAH: Şahbuz (Rayon)
+* AZ-AGA: Ağstafa (Rayon)
+* AZ-SAK: Şəki (Rayon)
+* AZ-AGC: Ağcabədi (Rayon)
 * AZ-SAL: Salyan (Rayon)
 * AZ-SAR: Şərur (Rayon)
 * AZ-SAT: Saatlı (Rayon)
@@ -80,6 +80,6 @@ Azerbaijan ISO3166-2 subdivisions with no available flags (https://en.wikipedia.
 * AZ-ZAQ: Zaqatala (Rayon)
 * AZ-ZAR: Zərdab (Rayon)
 * AZ-AGM: Ağdam (Rayon)
-* AZ-AGA: Ağstafa (Rayon)
-* AZ-AGC: Ağcabədi (Rayon)
 * AZ-AGS: Ağdaş (Rayon)
+* AZ-AGU: Ağsu (Rayon)
+* AZ-AST: Astara (Rayon)

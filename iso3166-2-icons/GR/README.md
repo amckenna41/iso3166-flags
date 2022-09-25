@@ -1,4 +1,4 @@
-# Greece 🇬🇷 Subdivisions
+# Greece Subdivisions 🇬🇷
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:GR
 
@@ -9,10 +9,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:GR
 
 Greece ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GR):
 
-* GR-69: Ágion Óros (Self-governed part)
-* GR-F: Ionía Nísia (Administrative region)
-* GR-A: Anatolikí Makedonía kai Thráki (Administrative region)
-* GR-K: Vóreio Aigaío (Administrative region)
 * GR-B: Kentrikí Makedonía (Administrative region)
 * GR-L: Nótio Aigaío (Administrative region)
 * GR-H: Stereá Elláda (Administrative region)
@@ -20,3 +16,7 @@ Greece ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * GR-I: Attikí (Administrative region)
 * GR-D: Ípeiros (Administrative region)
 * GR-J: Pelopónnisos (Administrative region)
+* GR-69: Ágion Óros (Self-governed part)
+* GR-K: Vóreio Aigaío (Administrative region)
+* GR-F: Ionía Nísia (Administrative region)
+* GR-A: Anatolikí Makedonía kai Thráki (Administrative region)

@@ -1,4 +1,4 @@
-# North Korea 🇰🇵 Subdivisions
+# North Korea Subdivisions 🇰🇵
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:KP
 
@@ -6,8 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:KP
 
 North Korea ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:KP):
 
-* KP-08: Hamgyǒng-namdo (Province)
-* KP-03: P'yǒngan-bukto (Province)
 * KP-09: Hamgyǒng-bukto (Province)
 * KP-04: Chagang-do (Province)
 * KP-10: Ryanggang-do (Province)
@@ -17,3 +15,5 @@ North Korea ISO3166-2 subdivisions with no available flags (https://en.wikipedia
 * KP-14: Nampho (Metropolitan city)
 * KP-07: Kangweonto (Province)
 * KP-02: P'yǒngan-namdo (Province)
+* KP-08: Hamgyǒng-namdo (Province)
+* KP-03: P'yǒngan-bukto (Province)

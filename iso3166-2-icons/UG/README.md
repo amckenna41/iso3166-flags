@@ -1,4 +1,4 @@
-# Uganda 🇺🇬 Subdivisions
+# Uganda Subdivisions 🇺🇬
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:UG
 
@@ -6,8 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:UG
 
 Uganda ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:UG):
 
-* UG-119: Butambala (District)
-* UG-404: Kabale (District)
 * UG-120: Buvuma (District)
 * UG-405: Kabarole (District)
 * UG-121: Gomba (District)
@@ -144,3 +142,5 @@ Uganda ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * UG-117: Buikwe (District)
 * UG-403: Hoima (District)
 * UG-118: Bukomansibi (District)
+* UG-404: Kabale (District)
+* UG-119: Butambala (District)

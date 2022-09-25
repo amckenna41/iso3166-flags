@@ -1,4 +1,4 @@
-# UAE 🇦🇪 Subdivisions
+# UAE Subdivisions 🇦🇪
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:AE
 

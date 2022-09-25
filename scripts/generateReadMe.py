@@ -1,5 +1,5 @@
 """
-Create README file for each ISO3166-2 country subfolder, listing the name of 
+Create README file for each ISO 3166-2 country subfolder, listing the name of 
 each country's subdivision (including those with no associated flags), its
 subdivision code and a link to the flags in the repo.
 """
@@ -50,7 +50,7 @@ def createReadMe(country, code, url, outputFolder):
 
     #append subdivision name, flag emoji and source url to readme
     outputStr = ""
-    outputStr+= "# {} {} Subdivisions\n\n".format(country, flag.flag(code))
+    outputStr+= "# {} Subdivisions {}\n\n".format(country, flag.flag(code))
     outputStr+= "Source: {}\n\n".format(url)
 
     subdName = ""
@@ -68,9 +68,8 @@ def createReadMe(country, code, url, outputFolder):
         if (subdName != "" and subdName != None):
             outputStr += " (" + subdName.title() + ")"
 
+        #ensure filename is in uppercase
         file = os.path.splitext(file)[0].upper() + os.path.splitext(file)[1]
-
-        print('file here', file)        
 
         outputStr += " -> [{}]({}/{}/{})\n".format(file, baseURL, code, file)
 
@@ -93,7 +92,7 @@ def createReadMe(country, code, url, outputFolder):
         
     #print list of country's subdivisions that dont have any associated flags
     if len(missingSubdivisions) != 0:
-        outputStr += f'\n{country} ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:{code}):\n'
+        outputStr += f'\n{country} ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:{code}):\n'
         for subd in missingSubdivisions:
             for subdiv in pycountry.subdivisions.get(country_code=code):
                 if (subdiv.code.lower() == subd):
@@ -121,9 +120,9 @@ if __name__ == '__main__':
     if not (os.path.isdir(countryInputFolder)):
         raise ValueError(f'Country folder not found at path {countryInputFolder}.')
 
-    #get list of ISO3166-2 country dirs
+    #get list of ISO 3166-2 country dirs
     iso3166_2_folder = sorted([i for i in os.listdir(countryInputFolder) if os.path.isdir(os.path.join(countryInputFolder, i))])
 
-    #iterate over all ISO3166-2 folders and create custom readme file
+    #iterate over all ISO 3166-2 folders and create custom readme file
     for folder in iso3166_2_folder:
         createReadMe(iso3166_.countries_by_alpha2[folder].name, folder, subdivisionURL + folder, countryInputFolder)

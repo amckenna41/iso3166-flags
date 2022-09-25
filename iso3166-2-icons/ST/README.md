@@ -1,4 +1,4 @@
-# Sao Tome and Principe 🇸🇹 Subdivisions
+# Sao Tome and Principe Subdivisions 🇸🇹
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:ST
 
@@ -7,8 +7,8 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:ST
 
 Sao Tome and Principe ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:ST):
 
-* ST-02: Cantagalo (District)
 * ST-03: Caué (District)
 * ST-04: Lembá (District)
 * ST-05: Lobata (District)
 * ST-06: Mé-Zóchi (District)
+* ST-02: Cantagalo (District)

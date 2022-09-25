@@ -1,4 +1,4 @@
-# San Marino 🇸🇲 Subdivisions
+# San Marino Subdivisions 🇸🇲
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:SM
 

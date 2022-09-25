@@ -1,4 +1,4 @@
-# Marshall Islands 🇲🇭 Subdivisions
+# Marshall Islands Subdivisions 🇲🇭
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:MH
 
@@ -14,7 +14,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:MH
 
 Marshall Islands ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MH):
 
-* MH-NMU: Namu (Municipality)
 * MH-RON: Rongelap (Municipality)
 * MH-T: Ratak chain (Chain (of islands))
 * MH-ALL: Ailinglaplap (Municipality)
@@ -31,3 +30,4 @@ Marshall Islands ISO3166-2 subdivisions with no available flags (https://en.wiki
 * MH-MAL: Maloelap (Municipality)
 * MH-MEJ: Mejit (Municipality)
 * MH-MIL: Mili (Municipality)
+* MH-NMU: Namu (Municipality)

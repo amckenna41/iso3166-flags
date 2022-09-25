@@ -1,4 +1,4 @@
-# Guinea-Bissau 🇬🇼 Subdivisions
+# Guinea-Bissau Subdivisions 🇬🇼
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:GW
 
@@ -6,9 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:GW
 
 Guinea-Bissau ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GW):
 
-* GW-L: Leste (Province)
-* GW-BL: Bolama / Bijagós (Region)
-* GW-N: Norte (Province)
 * GW-BM: Biombo (Region)
 * GW-OI: Oio (Region)
 * GW-QU: Quinara (Region)
@@ -17,3 +14,6 @@ Guinea-Bissau ISO3166-2 subdivisions with no available flags (https://en.wikiped
 * GW-GA: Gabú (Region)
 * GW-BA: Bafatá (Region)
 * GW-TO: Tombali (Region)
+* GW-L: Leste (Province)
+* GW-BL: Bolama / Bijagós (Region)
+* GW-N: Norte (Province)

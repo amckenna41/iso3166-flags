@@ -1,4 +1,4 @@
-# Sri Lanka 🇱🇰 Subdivisions
+# Sri Lanka Subdivisions 🇱🇰
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:LK
 
@@ -15,7 +15,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:LK
 
 Sri Lanka ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:LK):
 
-* LK-71: Anuradhapura (District)
 * LK-21: Kandy (District)
 * LK-72: Polonnaruwa (District)
 * LK-23: Nuwara Eliya (District)
@@ -39,3 +38,4 @@ Sri Lanka ISO3166-2 subdivisions with no available flags (https://en.wikipedia.o
 * LK-12: Gampaha (District)
 * LK-62: Puttalam (District)
 * LK-13: Kalutara (District)
+* LK-71: Anuradhapura (District)

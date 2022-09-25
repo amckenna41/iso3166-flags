@@ -1,4 +1,4 @@
-# Serbia 🇷🇸 Subdivisions
+# Serbia Subdivisions 🇷🇸
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:RS
 
@@ -7,7 +7,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:RS
 
 Serbia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:RS):
 
-* RS-10: Podunavski okrug (District)
 * RS-11: Braničevski okrug (District)
 * RS-12: Šumadijski okrug (District)
 * RS-13: Pomoravski okrug (District)
@@ -38,3 +37,4 @@ Serbia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * RS-08: Mačvanski okrug (District)
 * RS-KM: Kosovo-Metohija (Autonomous province)
 * RS-09: Kolubarski okrug (District)
+* RS-10: Podunavski okrug (District)

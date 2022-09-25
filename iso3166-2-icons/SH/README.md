@@ -1,4 +1,4 @@
-# Saint Helena, Ascension and Tristan da Cunha 🇸🇭 Subdivisions
+# Saint Helena, Ascension and Tristan da Cunha Subdivisions 🇸🇭
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:SH
 

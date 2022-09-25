@@ -1,4 +1,4 @@
-# Armenia 🇦🇲 Subdivisions
+# Armenia Subdivisions 🇦🇲
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:AM
 
@@ -11,8 +11,8 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:AM
 Armenia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:AM):
 
 * AM-TV: Tavuš (Region)
-* AM-SH: Širak (Region)
-* AM-AV: Armavir (Region)
-* AM-SU: Syunik' (Region)
 * AM-AR: Ararat (Region)
+* AM-AV: Armavir (Region)
+* AM-SH: Širak (Region)
 * AM-AG: Aragac̣otn (Region)
+* AM-SU: Syunik' (Region)

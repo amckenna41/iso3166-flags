@@ -1,4 +1,4 @@
-# Yemen 🇾🇪 Subdivisions
+# Yemen Subdivisions 🇾🇪
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:YE
 

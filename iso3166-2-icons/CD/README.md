@@ -1,4 +1,4 @@
-# Democratic Republic of the Congo 🇨🇩 Subdivisions
+# Democratic Republic of the Congo Subdivisions 🇨🇩
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CD
 
@@ -8,8 +8,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CD
 
 Democratic Republic of the Congo ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CD):
 
-* CD-SU: Sud-Ubangi (Province)
-* CD-BU: Bas-Uélé (Province)
 * CD-TA: Tanganyika (Province)
 * CD-EQ: Équateur (Province)
 * CD-TO: Tshopo (Province)
@@ -32,3 +30,5 @@ Democratic Republic of the Congo ISO3166-2 subdivisions with no available flags 
 * CD-NU: Nord-Ubangi (Province)
 * CD-BC: Kongo Central (Province)
 * CD-SK: Sud-Kivu (Province)
+* CD-BU: Bas-Uélé (Province)
+* CD-SU: Sud-Ubangi (Province)

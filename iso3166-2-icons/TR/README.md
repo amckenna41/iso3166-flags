@@ -1,4 +1,4 @@
-# Turkey 🇹🇷 Subdivisions
+# Turkey Subdivisions 🇹🇷
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:TR
 
@@ -8,7 +8,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:TR
 
 Turkey ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TR):
 
-* TR-33: Mersin (Province)
 * TR-35: İzmir (Province)
 * TR-36: Kars (Province)
 * TR-37: Kastamonu (Province)
@@ -86,3 +85,4 @@ Turkey ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * TR-30: Hakkâri (Province)
 * TR-31: Hatay (Province)
 * TR-32: Isparta (Province)
+* TR-33: Mersin (Province)

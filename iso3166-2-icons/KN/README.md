@@ -1,4 +1,4 @@
-# Saint Kitts and Nevis 🇰🇳 Subdivisions
+# Saint Kitts and Nevis Subdivisions 🇰🇳
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:KN
 
@@ -6,10 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:KN
 
 Saint Kitts and Nevis ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:KN):
 
-* KN-03: Saint George Basseterre (Parish)
-* KN-09: Saint Paul Capisterre (Parish)
-* KN-04: Saint George Gingerland (Parish)
-* KN-15: Trinity Palmetto Point (Parish)
 * KN-10: Saint Paul Charlestown (Parish)
 * KN-05: Saint James Windward (Parish)
 * KN-K: Saint Kitts (State)
@@ -21,3 +17,7 @@ Saint Kitts and Nevis ISO3166-2 subdivisions with no available flags (https://en
 * KN-02: Saint Anne Sandy Point (Parish)
 * KN-13: Saint Thomas Middle Island (Parish)
 * KN-08: Saint Mary Cayon (Parish)
+* KN-03: Saint George Basseterre (Parish)
+* KN-15: Trinity Palmetto Point (Parish)
+* KN-09: Saint Paul Capisterre (Parish)
+* KN-04: Saint George Gingerland (Parish)

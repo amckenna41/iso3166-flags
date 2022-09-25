@@ -1,4 +1,4 @@
-# Gambia 🇬🇲 Subdivisions
+# Gambia Subdivisions 🇬🇲
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:GM
 
@@ -6,8 +6,8 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:GM
 
 Gambia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GM):
 
-* GM-U: Upper River (Division)
 * GM-W: Western (Division)
 * GM-L: Lower River (Division)
 * GM-M: Central River (Division)
 * GM-N: North Bank (Division)
+* GM-U: Upper River (Division)

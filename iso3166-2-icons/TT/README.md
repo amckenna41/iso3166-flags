@@ -1,4 +1,4 @@
-# Trinidad and Tobago 🇹🇹 Subdivisions
+# Trinidad and Tobago Subdivisions 🇹🇹
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:TT
 
@@ -12,11 +12,11 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:TT
 
 Trinidad and Tobago ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TT):
 
-* TT-SFO: San Fernando (City)
-* TT-SGE: Sangre Grande (Region)
 * TT-PED: Penal-Debe (Region)
 * TT-SIP: Siparia (Region)
 * TT-POS: Port of Spain (City)
 * TT-SJL: San Juan-Laventille (Region)
 * TT-TOB: Tobago (Ward)
 * TT-PTF: Point Fortin (Borough)
+* TT-SFO: San Fernando (City)
+* TT-SGE: Sangre Grande (Region)

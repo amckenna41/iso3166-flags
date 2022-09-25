@@ -1,4 +1,4 @@
-# China 🇨🇳 Subdivisions
+# China Subdivisions 🇨🇳
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CN
 
@@ -8,8 +8,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CN
 
 China ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CN):
 
-* CN-GZ: Guizhou Sheng (Province)
-* CN-HA: Henan Sheng (Province)
 * CN-XJ: Xinjiang Uygur Zizhiqu (Autonomous region)
 * CN-HB: Hubei Sheng (Province)
 * CN-XZ: Xizang Zizhiqu (Autonomous region)
@@ -39,3 +37,5 @@ China ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/w
 * CN-SX: Shanxi Sheng (Province)
 * CN-GX: Guangxi Zhuangzu Zizhiqu (Autonomous region)
 * CN-TJ: Tianjin Shi (Municipality)
+* CN-GZ: Guizhou Sheng (Province)
+* CN-HA: Henan Sheng (Province)

@@ -1,4 +1,4 @@
-# Georgia 🇬🇪 Subdivisions
+# Georgia Subdivisions 🇬🇪
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:GE
 
@@ -8,8 +8,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:GE
 
 Georgia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GE):
 
-* GE-SZ: Samegrelo-Zemo Svaneti (Region)
-* GE-KK: Kvemo Kartli (Region)
 * GE-MM: Mtskheta-Mtianeti (Region)
 * GE-RL: Rach'a-Lechkhumi-Kvemo Svaneti (Region)
 * GE-GU: Guria (Region)
@@ -17,3 +15,5 @@ Georgia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * GE-IM: Imereti (Region)
 * GE-SK: Shida Kartli (Region)
 * GE-KA: K'akheti (Region)
+* GE-SZ: Samegrelo-Zemo Svaneti (Region)
+* GE-KK: Kvemo Kartli (Region)

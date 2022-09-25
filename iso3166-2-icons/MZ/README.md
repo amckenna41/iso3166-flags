@@ -1,4 +1,4 @@
-# Mozambique 🇲🇿 Subdivisions
+# Mozambique Subdivisions 🇲🇿
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:MZ
 
@@ -7,9 +7,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:MZ
 
 Mozambique ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MZ):
 
-* MZ-S: Sofala (Province)
-* MZ-L: Maputo (Province)
-* MZ-T: Tete (Province)
 * MZ-MPM: Maputo (City)
 * MZ-A: Niassa (Province)
 * MZ-N: Nampula (Province)
@@ -18,3 +15,6 @@ Mozambique ISO3166-2 subdivisions with no available flags (https://en.wikipedia.
 * MZ-G: Gaza (Province)
 * MZ-Q: Zambézia (Province)
 * MZ-I: Inhambane (Province)
+* MZ-S: Sofala (Province)
+* MZ-L: Maputo (Province)
+* MZ-T: Tete (Province)

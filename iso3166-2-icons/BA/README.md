@@ -1,4 +1,4 @@
-# Bosnia Herzegovina 🇧🇦 Subdivisions
+# Bosnia Herzegovina Subdivisions 🇧🇦
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:BA
 

@@ -1,4 +1,4 @@
-# Dominican Republic 🇩🇴 Subdivisions
+# Dominican Republic Subdivisions 🇩🇴
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:DO
 
@@ -37,8 +37,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:DO
 
 Dominican Republic ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:DO):
 
-* DO-37: El Valle (Region)
-* DO-38: Enriquillo (Region)
 * DO-39: Higuamo (Region)
 * DO-40: Ozama (Region)
 * DO-41: Valdesia (Region)
@@ -47,3 +45,5 @@ Dominican Republic ISO3166-2 subdivisions with no available flags (https://en.wi
 * DO-34: Cibao Noroeste (Region)
 * DO-35: Cibao Norte (Region)
 * DO-36: Cibao Sur (Region)
+* DO-37: El Valle (Region)
+* DO-38: Enriquillo (Region)

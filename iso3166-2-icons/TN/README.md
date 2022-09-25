@@ -1,4 +1,4 @@
-# Tunisia 🇹🇳 Subdivisions
+# Tunisia Subdivisions 🇹🇳
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:TN
 
@@ -7,7 +7,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:TN
 
 Tunisia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TN):
 
-* TN-71: Gafsa (Governorate)
 * TN-72: Tozeur (Governorate)
 * TN-11: Tunis (Governorate)
 * TN-82: Médenine (Governorate)
@@ -29,3 +28,4 @@ Tunisia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * TN-52: Monastir (Governorate)
 * TN-53: Mahdia (Governorate)
 * TN-61: Sfax (Governorate)
+* TN-71: Gafsa (Governorate)

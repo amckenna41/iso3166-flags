@@ -13,9 +13,8 @@ on:
 
 #build and test iso3166-flag-icons
 jobs:
-  #build job
-  build:
-    name: Build iso3166-flag-icons
+  #test job, waits for build job to complete
+  test:
     runs-on: ubuntu-latest         # platform: [ubuntu-latest, macos-latest, windows-latest]
     strategy:
       matrix:
@@ -39,20 +38,6 @@ jobs:
         pip3 install bandit
         pip3 install safety
         if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
-
-  #test job, waits for build job to complete
-  test:
-    needs: build
-    runs-on: ubuntu-latest         # platform: [ubuntu-latest, macos-latest, windows-latest]
-    strategy:
-      matrix:
-        python-version: [3.7, 3.8, 3.9]   #testing on multiple python versions
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v2
-      with:
-        python-version: ${{ matrix.python-version }}
 
     #package vulnerability check
     - name: Package safety check

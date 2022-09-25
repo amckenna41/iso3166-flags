@@ -1,4 +1,4 @@
-# Somalia 🇸🇴 Subdivisions
+# Somalia Subdivisions 🇸🇴
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:SO
 
@@ -11,15 +11,15 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:SO
 
 Somalia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:SO):
 
-* SO-JD: Jubbada Dhexe (Region)
-* SO-SD: Shabeellaha Dhexe (Region)
 * SO-JH: Jubbada Hoose (Region)
 * SO-MU: Mudug (Region)
 * SO-GA: Galguduud (Region)
 * SO-SO: Sool (Region)
 * SO-AW: Awdal (Region)
 * SO-NU: Nugaal (Region)
-* SO-WO: Woqooyi Galbeed (Region)
-* SO-SA: Sanaag (Region)
 * SO-TO: Togdheer (Region)
+* SO-SA: Sanaag (Region)
 * SO-HI: Hiiraan (Region)
+* SO-WO: Woqooyi Galbeed (Region)
+* SO-SD: Shabeellaha Dhexe (Region)
+* SO-JD: Jubbada Dhexe (Region)

@@ -1,4 +1,4 @@
-# Vietnam 🇻🇳 Subdivisions
+# Vietnam Subdivisions 🇻🇳
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:VN
 
@@ -6,9 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:VN
 
 Vietnam ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:VN):
 
-* VN-58: Bình Phước (Province)
-* VN-34: Khánh Hòa (Province)
-* VN-05: Sơn La (Province)
 * VN-59: Cà Mau (Province)
 * VN-35: Lâm Đồng (Province)
 * VN-06: Yên Bái (Province)
@@ -30,6 +27,7 @@ Vietnam ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * VN-69: Thái Nguyên (Province)
 * VN-43: Bà Rịa - Vũng Tàu (Province)
 * VN-20: Thái Bình (Province)
+* VN-58: Bình Phước (Province)
 * VN-70: Vĩnh Phúc (Province)
 * VN-44: An Giang (Province)
 * VN-21: Thanh Hóa (Province)
@@ -46,12 +44,10 @@ Vietnam ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * VN-49: Vĩnh Long (Province)
 * VN-25: Quảng Trị (Province)
 * VN-DN: Đà Nẵng (Municipality)
-* VN-57: Bình Dương (Province)
 * VN-50: Bến Tre (Province)
 * VN-26: Thừa Thiên-Huế (Province)
 * VN-51: Trà Vinh (Province)
 * VN-27: Quảng Nam (Province)
-* VN-56: Bắc Ninh (Province)
 * VN-HP: Hải Phòng (Municipality)
 * VN-52: Sóc Trăng (Province)
 * VN-28: Kon Tum (Province)
@@ -65,6 +61,10 @@ Vietnam ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * VN-55: Bạc Liêu (Province)
 * VN-31: Bình Định (Province)
 * VN-03: Hà Giang (Province)
+* VN-56: Bắc Ninh (Province)
 * VN-32: Phú Yên (Province)
 * VN-04: Cao Bằng (Province)
+* VN-57: Bình Dương (Province)
 * VN-33: Đắk Lắk (Province)
+* VN-05: Sơn La (Province)
+* VN-34: Khánh Hòa (Province)

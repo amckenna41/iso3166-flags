@@ -1,4 +1,4 @@
-# Latvia 🇱🇻 Subdivisions
+# Latvia Subdivisions 🇱🇻
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:LV
 
@@ -45,8 +45,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:LV
 
 Latvia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:LV):
 
-* LV-013: Baldones novads (Municipality)
-* LV-098: Tērvetes novads (Municipality)
 * LV-014: Baltinavas novads (Municipality)
 * LV-100: Vaiņodes novads (Municipality)
 * LV-017: Beverīnas novads (Municipality)
@@ -127,3 +125,5 @@ Latvia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/
 * LV-010: Auces novads (Municipality)
 * LV-096: Strenču novads (Municipality)
 * LV-012: Babītes novads (Municipality)
+* LV-098: Tērvetes novads (Municipality)
+* LV-013: Baldones novads (Municipality)

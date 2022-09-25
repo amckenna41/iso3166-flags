@@ -1,4 +1,4 @@
-# Cabo Verde 🇨🇻 Subdivisions
+# Cabo Verde Subdivisions 🇨🇻
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CV
 
@@ -9,8 +9,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CV
 
 Cabo Verde ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CV):
 
-* CV-TS: Tarrafal de São Nicolau (Municipality)
-* CV-BV: Boa Vista (Municipality)
 * CV-CA: Santa Catarina (Municipality)
 * CV-CF: Santa Catarina do Fogo (Municipality)
 * CV-CR: Santa Cruz (Municipality)
@@ -29,3 +27,5 @@ Cabo Verde ISO3166-2 subdivisions with no available flags (https://en.wikipedia.
 * CV-B: Ilhas de Barlavento (Geographical region)
 * CV-TA: Tarrafal (Municipality)
 * CV-BR: Brava (Municipality)
+* CV-TS: Tarrafal de São Nicolau (Municipality)
+* CV-BV: Boa Vista (Municipality)

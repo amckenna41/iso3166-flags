@@ -1,4 +1,4 @@
-# Bulgaria 🇧🇬 Subdivisions
+# Bulgaria Subdivisions 🇧🇬
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:BG
 
@@ -6,7 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:BG
 
 Bulgaria ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:BG):
 
-* BG-10: Kyustendil (District)
 * BG-11: Lovech (District)
 * BG-12: Montana (District)
 * BG-13: Pazardzhik (District)
@@ -33,3 +32,4 @@ Bulgaria ISO3166-2 subdivisions with no available flags (https://en.wikipedia.or
 * BG-07: Gabrovo (District)
 * BG-08: Dobrich (District)
 * BG-09: Kardzhali (District)
+* BG-10: Kyustendil (District)

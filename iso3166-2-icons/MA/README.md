@@ -1,4 +1,4 @@
-# Morocco 🇲🇦 Subdivisions
+# Morocco Subdivisions 🇲🇦
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:MA
 
@@ -29,7 +29,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:MA
 
 Morocco ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MA):
 
-* MA-JDI: El Jadida (Province)
 * MA-JRA: Jerada (Province)
 * MA-KEN: Kénitra (Province)
 * MA-KHE: Khémisset (Province)
@@ -92,3 +91,4 @@ Morocco ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * MA-HAJ: El Hajeb (Province)
 * MA-IFR: Ifrane (Province)
 * MA-INE: Inezgane-Ait Melloul (Prefecture)
+* MA-JDI: El Jadida (Province)

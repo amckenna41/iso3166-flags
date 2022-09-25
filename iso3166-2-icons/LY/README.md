@@ -1,4 +1,4 @@
-# Libya 🇱🇾 Subdivisions
+# Libya Subdivisions 🇱🇾
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:LY
 
@@ -6,7 +6,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:LY
 
 Libya ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:LY):
 
-* LY-WS: Wādī ash Shāţi’ (Popularate)
 * LY-ZA: Az Zāwiyah (Popularate)
 * LY-BU: Al Buţnān (Popularate)
 * LY-DR: Darnah (Popularate)
@@ -27,3 +26,4 @@ Libya ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/w
 * LY-TB: Ţarābulus (Popularate)
 * LY-WA: Al Wāḩāt (Popularate)
 * LY-WD: Wādī al Ḩayāt (Popularate)
+* LY-WS: Wādī ash Shāţi’ (Popularate)

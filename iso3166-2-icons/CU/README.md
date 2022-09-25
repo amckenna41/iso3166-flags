@@ -1,4 +1,4 @@
-# Cuba 🇨🇺 Subdivisions
+# Cuba Subdivisions 🇨🇺
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CU
 
@@ -16,10 +16,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CU
 
 Cuba ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CU):
 
-* CU-09: Camagüey (Province)
-* CU-04: Matanzas (Province)
-* CU-15: Artemisa (Province)
-* CU-10: Las Tunas (Province)
 * CU-16: Mayabeque (Province)
 * CU-11: Holguín (Province)
 * CU-99: Isla de la Juventud (Special municipality)
@@ -29,3 +25,7 @@ Cuba ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wi
 * CU-08: Ciego de Ávila (Province)
 * CU-03: La Habana (Province)
 * CU-14: Guantánamo (Province)
+* CU-09: Camagüey (Province)
+* CU-04: Matanzas (Province)
+* CU-15: Artemisa (Province)
+* CU-10: Las Tunas (Province)

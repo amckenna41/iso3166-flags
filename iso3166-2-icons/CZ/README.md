@@ -1,4 +1,4 @@
-# Czechia 🇨🇿 Subdivisions
+# Czechia Subdivisions 🇨🇿
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CZ
 
@@ -19,7 +19,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CZ
 
 Czechia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CZ):
 
-* CZ-311: České Budějovice (District)
 * CZ-312: Český Krumlov (District)
 * CZ-313: Jindřichův Hradec (District)
 * CZ-314: Písek (District)
@@ -95,3 +94,4 @@ Czechia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * CZ-20A: Praha-západ (District)
 * CZ-20B: Příbram (District)
 * CZ-20C: Rakovník (District)
+* CZ-311: České Budějovice (District)

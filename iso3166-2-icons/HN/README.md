@@ -1,4 +1,4 @@
-# Honduras 🇭🇳 Subdivisions
+# Honduras Subdivisions 🇭🇳
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:HN
 
@@ -13,13 +13,13 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:HN
 
 Honduras ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:HN):
 
-* HN-VA: Valle (Department)
-* HN-LE: Lempira (Department)
-* HN-EP: El Paraíso (Department)
-* HN-CH: Choluteca (Department)
-* HN-YO: Yoro (Department)
 * HN-LP: La Paz (Department)
+* HN-YO: Yoro (Department)
+* HN-VA: Valle (Department)
 * HN-GD: Gracias a Dios (Department)
 * HN-IB: Islas de la Bahía (Department)
 * HN-IN: Intibucá (Department)
 * HN-CR: Cortés (Department)
+* HN-LE: Lempira (Department)
+* HN-EP: El Paraíso (Department)
+* HN-CH: Choluteca (Department)

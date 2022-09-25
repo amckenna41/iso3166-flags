@@ -1,4 +1,4 @@
-# South Sudan 🇸🇸 Subdivisions
+# South Sudan Subdivisions 🇸🇸
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:SS
 

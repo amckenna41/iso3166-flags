@@ -1,4 +1,4 @@
-# Cyprus 🇨🇾 Subdivisions
+# Cyprus Subdivisions 🇨🇾
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:CY
 
@@ -6,8 +6,8 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CY
 
 Cyprus ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:CY):
 
-* CY-06: Girne (District)
 * CY-02: Lemesos (District)
 * CY-03: Larnaka (District)
 * CY-04: Ammochostos (District)
 * CY-05: Baf (District)
+* CY-06: Girne (District)
