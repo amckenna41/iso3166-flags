@@ -37,5 +37,5 @@
 - [ ] - Add space b/w ISO 3166-1 and ISO 3166-2.
 - [ ] - Add note that ISO 3166-2 jsons dont neccesarrily include all subdivisions just 
 ones with flags in the repo.
-
+- [ ] Replace '.svg.png' with '.png'
 <!-- https://flagmeister.github.io/?#repoanalyzer -->

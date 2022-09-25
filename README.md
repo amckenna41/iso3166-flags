@@ -54,7 +54,7 @@ After searching around, it was fairly straightforward to find a repo with ISO 31
 
 Installation
 ------------
-<em>A zipped folder of all ISO 3166-1 OR ISO 3166-2 flag icons are available to download in the /downloads folder of the repo.</em>
+<em><strong>A zipped folder of all ISO 3166-1 OR ISO 3166-2 flag icons are available to download in the /downloads folder of the repo.</em></strong>
 
 The whole project can be cloned from git:
 ```

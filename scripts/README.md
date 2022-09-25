@@ -1,6 +1,6 @@
 # Scripts for downloading all ISO3166-2 country subdivision flags
 
-[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/iso3166_workflow/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions?query=workflowiso3166_workflow)
+[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/iso3166_workflow/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions/workflows/iso3166_workflow.yml)
 [![Platforms](https://img.shields.io/badge/platforms-linux%2C%20macOS%2C%20Windows-green)](https://pypi.org/project/pySAR/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Build](https://img.shields.io/github/workflow/status/amckenna41/pySAR/Deploy%20to%20PyPI%20%F0%9F%93%A6)](https://github.com/amckenna41/pySAR/actions)
@@ -9,8 +9,6 @@
 [![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 [![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
-
-
 
 
 Purpose

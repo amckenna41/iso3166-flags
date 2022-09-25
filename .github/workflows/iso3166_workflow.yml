@@ -72,8 +72,8 @@ jobs:
         python3 -m unittest discover scripts/
         
     #generate coverage report
-    - name: Generate Report
-      run: pytest --cov scripts/
+    # - name: Generate Report
+    #   run: pytest --cov scripts/
 
     #upload to Code Coverage
     - name: Upload Coverage Report to Codecov

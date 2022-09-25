@@ -268,10 +268,10 @@ table td {
         <i class="fa fa-github fa-2x"></i> Github Repository
     </button class="mainBtns" onclick="location.href='https://github.com/amckenna41/flag-icons/archive/main.zip'" type="button">
     <div class="downloadBtn">
-    <a href="https://github.com/amckenna41/flag-icons/tree/main/iso3166-downloads/iso3166-1-icons.zip" class="mainBtns">
+    <a href="https://github.com/amckenna41/flag-icons/tree/main/iso3166-downloads/" class="mainBtns">
         <i class="fa fa-download"></i> Download ISO3166-1 icons
     </a>
-    <a href="" class="mainBtns">
+    <a href="https://github.com/amckenna41/flag-icons/tree/main/iso3166-downloads/" class="mainBtns">
         <i class="fa fa-download"></i> Download ISO3166-2 icons
     </a>
 </div>
@@ -316,7 +316,7 @@ table td {
 <script>
 
 /** To Do 
- * - Make list of subdivisions in table clickable.
+ * - Make list of subdivisions in table clickable, subdivisions not in json should not be clickable.
  **/
 
 
@@ -416,6 +416,7 @@ function imageExists(image_url) {
     //send http request to check if img url valid
     var http = new XMLHttpRequest();
     http.open('HEAD', image_url, false);
+    // https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AL/AL-04.svg
     http.send();
     return http.status != 404;
 }
@@ -469,7 +470,8 @@ function getSubdivisionSrc(country, subdivision) {
 
     for (var i = 0; i < fileExtensions.length; i++) {
         //construct subdivision src URL
-        srcURL = iso3166_2_flag_url + '/' + countryCodes[country] + '/' + subdivision + fileExtensions[i]; 
+
+        srcURL = iso3166_2_flag_url + countryCodes[country] + '/' + subdivision + fileExtensions[i]; 
         
         //if image found, break from loop
         if (imageExists(srcURL)) {
