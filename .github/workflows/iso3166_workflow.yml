@@ -73,7 +73,7 @@ jobs:
         
     #generate coverage report
     - name: Generate Report
-      run: pytest --cov .
+      run: pytest --cov scripts/
 
     #upload to Code Coverage
     - name: Upload Coverage Report to Codecov
