@@ -85,26 +85,6 @@ python3 generateJSON.py --countryFolder="" --jsonFileName="" --iso3166Type=""
 ```bash
 python3 generateReadme.py --country
 ```
-def createReadMe(country, code, url, outputFolder):
-    """
-    Create custom README for each countrys subdivision folder in the output folder. The
-    README will list all of the country's subdivisions, their filename on the repo and 
-    links to download them on the repo.
-
-    Parameters
-    ----------
-    :country : string 
-      country name.
-    :code : string 
-        2 letter ISO code of country.
-    :url : string
-        source url for where subdivisions were pulled from.
-    :outputFolder : string
-        filepath to output folder to write README
-    Returns
-    -------
-    None 
-    """  
 
 Tests
 -----

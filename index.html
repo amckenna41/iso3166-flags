@@ -433,7 +433,7 @@ function getImgSrc(country) {
     var srcURL = "";
 
     //possible file extensions of flags, majority are of svg type
-    var fileExtensions = ['.svg', '.png', '.jpg', '.gif']
+    var fileExtensions = ['.svg', '.png', '.jpg', '.jpeg', '.gif']
 
     for (var i = 0; i < fileExtensions.length; i++) {
         //construct image src URL
@@ -465,12 +465,12 @@ function getSubdivisionSrc(country, subdivision) {
     var srcURL = "";
 
     //possible file extensions of flags, majority are of svg type
-    var fileExtensions = ['.svg', '.png', '.jpg', '.gif']
+    var fileExtensions = ['.svg', '.png', '.jpg', '.jpeg', '.gif']
     
 
     for (var i = 0; i < fileExtensions.length; i++) {
         //construct subdivision src URL
-
+        
         srcURL = iso3166_2_flag_url + countryCodes[country] + '/' + subdivision + fileExtensions[i]; 
         
         //if image found, break from loop
@@ -479,6 +479,11 @@ function getSubdivisionSrc(country, subdivision) {
         }
 
     }
+    console.log("country", country)
+    console.log("subdivision", subdivision)
+
+    console.log("iso3166_2_flag_url", iso3166_2_flag_url)
+    console.log("srcURL", srcURL);
 
     //set src of img element
     imgDiv.attr('src', srcURL);
@@ -489,14 +494,16 @@ function getSubdivisionSrc(country, subdivision) {
     subdivisionInfoDiv.innerHTML = rest_countries_json.subdivisions[lookupSubdivision] + " (" +lookupSubdivision + ")";
 }
 
-function restCountries(country) {
+function restCountries(country, code) {
      /**
      * Get country info from restcountries api (https://restcountries.com/v3.1/name/).
      * 
      * @param country {string} - country name.
      */
+    console.log("country", country); 
     //validate if valid country type and value input
-    if (typeof country !== 'string' || country == "" || country.toLowerCase() == "all countries" || country == undefined) {
+    if (typeof country !== 'string' || country == "" || country.toLowerCase() == "all countries" 
+        || country == undefined || country.toLowerCase() == "ceuta, melilla") {
         rest_countries_json = {};
     } else {
         $.ajax({
@@ -506,8 +513,14 @@ function restCountries(country) {
             async: false,
             cache: false,
             success: function success(data) {
-                rest_countries_json = data[0]; //set rest_countries_json object
-                // var subdivisionNames = {};
+                    // if length of data > 1, iterate over data, get 2 letter country code/country name 
+                    // get matching entry in data object 
+                    for (var i=0; i<data.length; i++) {
+                        if (data[i].cca2 == code) {
+                            rest_countries_json = data[i];
+                        }
+                    }
+                    console.log("data", data)
                 //iterate over all variables in json and add subdivision names and codes
                 for (var i=0; i<iso3166_2_json.length; i++) {
                     if (iso3166_2_json[i].Code == rest_countries_json.cca2) {
@@ -674,6 +687,7 @@ function drawMap(country="") {
         $('#flagImg').hide();
         $('#subdivisionImg').hide();
         $('#countryTable').hide();
+        $('#loader').hide();
     }
     
     //get position of country on map if it is small enough 
@@ -796,6 +810,8 @@ function drawSubdivisionsDropdown() {
         closeOnSelect: true
     });
 
+    console.log("rest_countries_json", rest_countries_json);
+
     //check if ISO3166-2 object has subdivisions key, else hide dropdown
     if (Object.hasOwn(rest_countries_json, 'subdivisions')) {
         //get list of subdivisions of country
@@ -825,14 +841,15 @@ $("#countrySelect").on("select2:select", function (event) {
     lookupCountry = $(this).val();
     $('#flagImg').hide();
     $('#subdivisionImg').hide();
+    $('#subdivisionInfo').hide();
     $('#countryTable').hide();
     drawMap(lookupCountry);
     $('#loader').show();
-    restCountries(lookupCountry);
+    restCountries(lookupCountry, countryCodes[lookupCountry]);
     drawSubdivisionsDropdown();
     getImgSrc(lookupCountry);
     drawCountryTable(rest_countries_json);
-    $('#subdivisionInfo').show();
+    // $('#subdivisionInfo').show();
     $('#countryTable').show();
     $('#loader').hide();
 

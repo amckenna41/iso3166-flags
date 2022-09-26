@@ -38,4 +38,7 @@
 - [ ] - Add note that ISO 3166-2 jsons dont neccesarrily include all subdivisions just 
 ones with flags in the repo.
 - [ ] Replace '.svg.png' with '.png'
+- [ ] Remove 'Ceuta, Melilla' from restcountries call in index.html.
+- [ ] China countrys all wrong.
+- [ ] Cambodia subdivisions incorrect order in dropdown.
 <!-- https://flagmeister.github.io/?#repoanalyzer -->

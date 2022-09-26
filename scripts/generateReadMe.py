@@ -50,7 +50,7 @@ def createReadMe(country, code, url, outputFolder):
 
     #append subdivision name, flag emoji and source url to readme
     outputStr = ""
-    outputStr+= "# {} Subdivisions {}\n\n".format(country, flag.flag(code))
+    outputStr+= "# {} Subdivisions {}\n\n".format(country, flag.flag(code)) #flag doesnt work on Windows 10
     outputStr+= "Source: {}\n\n".format(url)
 
     subdName = ""
