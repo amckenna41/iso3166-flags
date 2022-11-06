@@ -93,7 +93,7 @@ def createReadMe(country, code, url, outputFolder):
     #print list of country's subdivisions that dont have any associated flags
     if len(missingSubdivisions) != 0:
         outputStr += f'\n{country} ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:{code}):\n'
-        for subd in missingSubdivisions:
+        for subd in sorted(missingSubdivisions):
             for subdiv in pycountry.subdivisions.get(country_code=code):
                 if (subdiv.code.lower() == subd):
                     outputStr += "\n* {}: {} ({})".format(subd.upper(), subdiv.name, subdiv.type)

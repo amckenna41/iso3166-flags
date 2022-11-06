@@ -5,7 +5,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:MY
 * MY-01 (Johor) -> [MY-01.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-01.svg)
 * MY-02 (Kedah) -> [MY-02.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-02.svg)
 * MY-03 (Kelantan) -> [MY-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-03.svg)
-* MY-04 (Melaka) -> [MY-04.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-04.png)
+* MY-04 (Melaka) -> [MY-04.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-04.svg)
 * MY-05 (Negeri Sembilan) -> [MY-05.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-05.svg)
 * MY-06 (Pahang) -> [MY-06.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-06.svg)
 * MY-07 (Pulau Pinang) -> [MY-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MY/MY-07.svg)

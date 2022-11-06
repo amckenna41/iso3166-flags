@@ -3,15 +3,12 @@
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:TN
 
 * TN-73 (Kébili) -> [TN-73.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TN/TN-73.jpeg)
-* TN-81 (Gabès) -> [TN-81.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TN/TN-81.png)
+* TN-81 (Gabès) -> [TN-81.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TN/TN-81.svg)
 
-Tunisia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TN):
+Tunisia ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TN):
 
-* TN-72: Tozeur (Governorate)
 * TN-11: Tunis (Governorate)
-* TN-82: Médenine (Governorate)
 * TN-12: L'Ariana (Governorate)
-* TN-83: Tataouine (Governorate)
 * TN-13: Ben Arous (Governorate)
 * TN-14: La Manouba (Governorate)
 * TN-21: Nabeul (Governorate)
@@ -29,3 +26,6 @@ Tunisia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org
 * TN-53: Mahdia (Governorate)
 * TN-61: Sfax (Governorate)
 * TN-71: Gafsa (Governorate)
+* TN-72: Tozeur (Governorate)
+* TN-82: Médenine (Governorate)
+* TN-83: Tataouine (Governorate)

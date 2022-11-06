@@ -4,9 +4,8 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:LY
 
 * LY-BA (Banghāzī) -> [LY-BA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LY/LY-BA.png)
 
-Libya ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:LY):
+Libya ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:LY):
 
-* LY-ZA: Az Zāwiyah (Popularate)
 * LY-BU: Al Buţnān (Popularate)
 * LY-DR: Darnah (Popularate)
 * LY-GT: Ghāt (Popularate)
@@ -27,3 +26,4 @@ Libya ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/w
 * LY-WA: Al Wāḩāt (Popularate)
 * LY-WD: Wādī al Ḩayāt (Popularate)
 * LY-WS: Wādī ash Shāţi’ (Popularate)
+* LY-ZA: Az Zāwiyah (Popularate)

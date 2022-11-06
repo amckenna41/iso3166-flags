@@ -15,5 +15,5 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:MM
 * MM-14 (Chin) -> [MM-14.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MM/MM-14.svg)
 * MM-15 (Mon) -> [MM-15.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MM/MM-15.svg)
 * MM-16 (Rakhine) -> [MM-16.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MM/MM-16.svg)
-* MM-17 (Shan) -> [MM-17.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MM/MM-17.png)
+* MM-17 (Shan) -> [MM-17.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MM/MM-17.svg)
 * MM-18 (Nay Pyi Taw) -> [MM-18.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MM/MM-18.svg)

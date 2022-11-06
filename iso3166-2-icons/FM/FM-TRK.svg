@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="256">
+	<rect width="512" height="256" fill="#08298c"/>
+	<g id="half">
+		<polygon id="star" points="269.131,30.962 268.146,38.841 273.565,33.043 280.757,36.406 276.92,29.46 282.349,23.667 274.551,25.166 270.716,18.217 269.732,26.097 261.937,27.597" fill="#fff"/>
+		<use xlink:href="#star" transform="rotate(9.473684 256,128)"/>
+		<use xlink:href="#star" transform="rotate(18.947368 256,128)"/>
+		<use xlink:href="#star" transform="rotate(28.421053 256,128)"/>
+		<use xlink:href="#star" transform="rotate(37.894737 256,128)"/>
+		<use xlink:href="#star" transform="rotate(47.368421 256,128)"/>
+		<use xlink:href="#star" transform="rotate(56.842105 256,128)"/>
+		<use xlink:href="#star" transform="rotate(66.315789 256,128)"/>
+		<use xlink:href="#star" transform="rotate(75.789474 256,128)"/>
+		<use xlink:href="#star" transform="rotate(85.263158 256,128)"/>
+		<use xlink:href="#star" transform="rotate(94.736842 256,128)"/>
+		<use xlink:href="#star" transform="rotate(104.210526 256,128)"/>
+		<use xlink:href="#star" transform="rotate(113.684211 256,128)"/>
+		<use xlink:href="#star" transform="rotate(123.157895 256,128)"/>
+		<use xlink:href="#star" transform="rotate(132.631579 256,128)"/>
+		<use xlink:href="#star" transform="rotate(142.105263 256,128)"/>
+		<use xlink:href="#star" transform="rotate(151.578947 256,128)"/>
+		<use xlink:href="#star" transform="rotate(161.052632 256,128)"/>
+		<use xlink:href="#star" transform="rotate(170.526316 256,128)"/>
+	</g>
+	<use xlink:href="#half" transform="rotate(180 256,128)"/>
+	<path d="M 257.125,161 c -5.312,-5.313 -10.08,-13.369 -13.099,-21.743 c -.186,.071 -.368,.151 -.56,.211 l -1.379,.415 l0.45,-1.368 c .218,-.664 .417,-1.289 .604,-1.897 c -2.18,-6.953 -3.087,-13.948 -2.017,-19.617 c 5.542,8.777 5.125,12.61 2.125,21.75 c 8.5,-2.557 11.583,-18.64 2.875,-25.5 c 11.625,2.944 18.917,7.777 22.375,17.75 c 4.334,-11.056 -8.416,-23.89 -15.375,-24.5 c 6.792,-6.473 18.875,-4.14 23.875,3.25 c 1.584,-8.64 -17,-16.223 -24,-10.75 c 1,-11.973 8.583,-18.973 15.75,-18.25 c -8.916,-5.806 -20.667,2.61 -25.375,14.75 c 0,-12.64 -10.208,-27.223 -21.125,-27 c 5.639,5.639 6.833,9.944 12.5,29.5 c -9,-9.14 -27.083,-5.306 -29.75,-1.125 c 9.75,-.598 19.25,2.152 24.875,6.75 c -13.083,-1.5 -24.875,14.402 -20,21.125 c 3.042,-10.556 14.042,-15.14 25.75,-11.375 c -8.167,5.61 -12.125,18.902 -10.375,24.75 c 4,-4.098 8.75,-12.098 13.75-19.875 c -3.833,20.693 8.098,44.096 18.75,54.75 c 5.93,5.931 13.955,12.368 19.75,15 H 306 C 283.5,180.193 269.389,173.264 257.125,161 z" fill="#fff"/>
+</svg>

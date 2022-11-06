@@ -1,17 +1,17 @@
 #!/bin/bash
 
 ############################## SVG Compress ##############################
-'
-SVG files can be quite large in size but a lot of its data can be 
-redundant or unncessary information so I created this script to help
-maximise the storage of the files, especially since the output folder may
-contain thousands of files. The script utilises the scour Python library 
-to compress the output SVG files if they meet a specific threshold of 
-file size. These files are then copied to the output folder. If file size 
-threshold is not met or the file is not an SVG then the original file is 
-copied to the output. Any other image file types such as png, jpg or gif
-are copied to the output folder.
-'
+
+# SVG files can be quite large in size but a lot of its data can be 
+# redundant or unncessary information so I created this script to help
+# maximise the storage of the files, especially since the output folder may
+# contain thousands of files. The script utilises the scour Python library 
+# to compress the output SVG files if they meet a specific threshold of 
+# file size. These files are then copied to the output folder. If file size 
+# threshold is not met or the file is not an SVG then the original file is 
+# copied to the output. Any other image file types such as png, jpg or gif
+# are copied to the output folder.
+
 ##########################################################################
 
 ### check current version of pip and update, if neccessry ###
@@ -81,6 +81,20 @@ if [ -z "$FILESIZE_THRESHOLD" ]; then
   FILESIZE_THRESHOLD=50
 fi
 
+#verifying that both input and output args are folders
+length=${#INPUT}
+((length--))
+if [ "${INPUT:$length:1}" != "/" ]; then
+  INPUT="${INPUT}/"
+fi
+
+length=${#OUTPUT}
+((length--))
+if [ "${OUTPUT:$length:1}" != "/" ]; then
+  OUTPUT="${OUTPUT}/"
+fi
+
+
 #check if input and output dirs exist
 [ ! -d "$INPUT" ] && echo "Input directory path does not exist." && exit 1
 [ ! -d "$OUTPUT" ] && mkdir $OUTPUT
@@ -125,34 +139,43 @@ for dir in $INPUT*; do
     #get basename and extension of file
     bname="$(basename -- "$file")"
     extension="${bname##*.}"
+    filename_no_extension="${file%.*}"
 
     #output filepath for compressed file
     outputPath="$OUTPUT$countryFolder$bname"
 
     #if output file already exists then skip to next file
-    if [ -f "$OUTPUT$countryFolder$bname" ]; then
-      echo "Output file "$OUTPUT$countryFolder$bname" already exists."
+    if [ -f "$outputPath" ]; then
+      echo "Output File "$outputPath" already exists."
+      continue
+    fi
+
+    #if input file is gif, convert to png
+    if [[ "$extension" == "gif" ]]; then
+      convert "$file" "$filename_no_extension".png 
+      cp "$filename_no_extension".png "$OUTPUT$countryFolder"
       continue
     fi
 
     #if file type != .svg (is png or jpg) then continue but still copy file to outputs
     if [[ "$extension" != "svg" ]]; then
-      cp "$file" "$OUTPUT$countryFolder$bname"
+      cp "$file" "$outputPath"
       continue
     fi
     
     #get file size in bytes
     filesize=$(wc -c "$file" | awk '{print $1}')
+    
     #get file size in KB
     filesize=$(expr $filesize / 1024)
 
     #if file size > threshold, compress SVG using scour library
     if (("$filesize" > "$FILESIZE_THRESHOLD")); then
-        scour -i "$file" -o "$OUTPUT$countryFolder$bname" --enable-viewboxing --enable-id-stripping \
+        scour -i "$file" -o "$outputPath" --enable-viewboxing --enable-id-stripping \
         --enable-comment-stripping --shorten-ids --indent=none
     else
         #copy files less than threshold to outputs folder
-        cp "$file" "$OUTPUT$countryFolder$bname"
+        cp "$file" "$outputPath"
     fi  
       
     done
@@ -164,7 +187,9 @@ end=`date +%s`
 #calculate total runtime
 runtime=$((end-start))
 
-#validating correct num files is the same in INPUT and OUTPUT folders
+#validating correct num files is the same in INPUT and OUTPUT folders,
+#ensures all files are compressed and or copied over 
+
 totalInputFolders=0
 totalInputFiles=0
 totalOutputFolders=0
@@ -193,6 +218,8 @@ for dir in $OUTPUT*; do
   done
   
 done
+
+echo ""
 
 #all files and subfolders successfully copied or not
 if [ $totalInputFolders -eq $totalOutputFolders ] &&  [ $totalInputFiles -eq $totalOutputFiles ]; then

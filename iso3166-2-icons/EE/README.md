@@ -9,7 +9,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:EE
 * EE-191 (Haljala) -> [EE-191.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-191.svg)
 * EE-198 (Harku) -> [EE-198.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-198.svg)
 * EE-205 (Hiiumaa) -> [EE-205.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-205.png)
-* EE-205 (Hiiumaa) -> [EE-205.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-205.svg)
 * EE-214 (Häädemeeste) -> [EE-214.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-214.svg)
 * EE-245 (Jõelähtme) -> [EE-245.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-245.svg)
 * EE-247 (Jõgeva) -> [EE-247.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-247.svg)
@@ -96,10 +95,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:EE
 * EE-917 (Võru) -> [EE-917.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-917.svg)
 * EE-919 (Võru) -> [EE-919.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-919.svg)
 * EE-928 (Väike-Maarja) -> [EE-928.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-928.svg)
-* ESTONIA (Väike-Maarja) -> [ESTONIA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/ESTONIA.svg)
-* ET-HARJU MAAKOND (Väike-Maarja) -> [ET-HARJU_MAAKOND.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/ET-HARJU_MAAKOND.svg)
-* PETSERIMAA (Väike-Maarja) -> [PETSERIMAA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/PETSERIMAA.svg)
 
-Estonia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:EE):
+Estonia ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:EE):
 
 * EE-141: Anija (Rural municipality)

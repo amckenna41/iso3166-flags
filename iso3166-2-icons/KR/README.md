@@ -5,7 +5,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:KR
 * KR-11 (Seoul-Teukbyeolsi) -> [KR-11.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-11.svg)
 * KR-26 (Busan-Gwangyeoksi) -> [KR-26.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-26.svg)
 * KR-27 (Daegu-Gwangyeoksi) -> [KR-27.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-27.svg)
-* KR-28 (Incheon-Gwangyeoksi) -> [KR-28.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-28.png)
+* KR-28 (Incheon-Gwangyeoksi) -> [KR-28.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-28.svg)
 * KR-29 (Gwangju-Gwangyeoksi) -> [KR-29.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-29.svg)
 * KR-30 (Daejeon-Gwangyeoksi) -> [KR-30.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-30.svg)
 * KR-31 (Ulsan-Gwangyeoksi) -> [KR-31.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KR/KR-31.svg)

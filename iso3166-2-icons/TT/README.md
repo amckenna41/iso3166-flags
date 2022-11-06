@@ -10,13 +10,13 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:TT
 * TT-PRT (Princes Town) -> [TT-PRT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TT/TT-PRT.png)
 * TT-TUP (Tunapuna-Piarco) -> [TT-TUP.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TT/TT-TUP.jpeg)
 
-Trinidad and Tobago ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TT):
+Trinidad and Tobago ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:TT):
 
 * TT-PED: Penal-Debe (Region)
-* TT-SIP: Siparia (Region)
 * TT-POS: Port of Spain (City)
-* TT-SJL: San Juan-Laventille (Region)
-* TT-TOB: Tobago (Ward)
 * TT-PTF: Point Fortin (Borough)
 * TT-SFO: San Fernando (City)
 * TT-SGE: Sangre Grande (Region)
+* TT-SIP: Siparia (Region)
+* TT-SJL: San Juan-Laventille (Region)
+* TT-TOB: Tobago (Ward)

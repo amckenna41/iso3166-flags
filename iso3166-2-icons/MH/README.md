@@ -12,14 +12,11 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:MH
 * MH-UTI (Utrik) -> [MH-UTI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MH/MH-UTI.png)
 * MH-WTH (Wotho) -> [MH-WTH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MH/MH-WTH.svg)
 
-Marshall Islands ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MH):
+Marshall Islands ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MH):
 
-* MH-RON: Rongelap (Municipality)
-* MH-T: Ratak chain (Chain (of islands))
 * MH-ALL: Ailinglaplap (Municipality)
 * MH-ARN: Arno (Municipality)
 * MH-AUR: Aur (Municipality)
-* MH-WTJ: Wotje (Municipality)
 * MH-ENI: Enewetak & Ujelang (Municipality)
 * MH-JAB: Jabat (Municipality)
 * MH-JAL: Jaluit (Municipality)
@@ -31,3 +28,6 @@ Marshall Islands ISO3166-2 subdivisions with no available flags (https://en.wiki
 * MH-MEJ: Mejit (Municipality)
 * MH-MIL: Mili (Municipality)
 * MH-NMU: Namu (Municipality)
+* MH-RON: Rongelap (Municipality)
+* MH-T: Ratak chain (Chain (of islands))
+* MH-WTJ: Wotje (Municipality)

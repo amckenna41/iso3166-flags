@@ -7,8 +7,12 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:YE
 * YE-HD (Ḩaḑramawt) -> [YE-HD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/YE/YE-HD.svg)
 * YE-LA (Laḩij) -> [YE-LA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/YE/YE-LA.svg)
 
-Yemen ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:YE):
+Yemen ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:YE):
 
+* YE-AB: Abyan (Governorate)
+* YE-AM: ‘Amrān (Governorate)
+* YE-BA: Al Bayḑā’ (Governorate)
+* YE-DA: Aḑ Ḑāli‘ (Governorate)
 * YE-HJ: Ḩajjah (Governorate)
 * YE-HU: Al Ḩudaydah (Governorate)
 * YE-IB: Ibb (Governorate)
@@ -23,7 +27,3 @@ Yemen ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/w
 * YE-SN: Şanʻā’ (Governorate)
 * YE-SU: Arkhabīl Suquţrá (Governorate)
 * YE-TA: Tāʻizz (Governorate)
-* YE-AB: Abyan (Governorate)
-* YE-AM: ‘Amrān (Governorate)
-* YE-BA: Al Bayḑā’ (Governorate)
-* YE-DA: Aḑ Ḑāli‘ (Governorate)

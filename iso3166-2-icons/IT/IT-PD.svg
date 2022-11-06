@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 25 15"
+   width="800"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Flag_of_England.svg">
+  <title
+     id="title2993">Bandiera del Comune di Bologna</title>
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bandiera del Comune di Bologna</dc:title>
+        <dc:date>02-MAY-2014</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>https://commons.wikimedia.org/wiki/User:GJo</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>it, en</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Bandiera</rdf:li>
+            <rdf:li>Flag</rdf:li>
+            <rdf:li>Bologna</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Bandiera del Comune di Bologna</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.4475"
+     inkscape:cx="-33.519553"
+     inkscape:cy="240"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     width="25"
+     height="15"
+     fill="#FFF"
+     id="rect4" />
+  <g
+     fill="#CE1124"
+     id="g6"
+     style="fill:#d40000">
+    <rect
+       width="3"
+       height="15"
+       x="11"
+       id="rect8"
+       style="fill:#d40000" />
+    <rect
+       width="25"
+       height="3"
+       y="6"
+       id="rect10"
+       style="fill:#d40000" />
+  </g>
+</svg>

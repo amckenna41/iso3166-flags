@@ -91,12 +91,14 @@ Tests
 Several Python test scripts were created using (unittest)[https://docs.python.org/3/library/unittest.html] framework. These tests test the full pipeline from getting the flags via web-scraping to exporting the flag & country info to json. 
 To run all tests, from the <i>scripts</i> repo folder run:
 ```
-python3 -m unittest discover
+python3 -m unittest discover -v
 ```
 
 To run tests for specific module, from the main <i>scripts</i> repo folder run:
 ```
 python -m unittest tests.MODULE_NAME -v
+-v : verbose output
+
 ```
 
 <!-- 3511 seconds total-->

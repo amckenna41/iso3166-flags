@@ -10,15 +10,12 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:NP
 * NP-P6 (Karnali) -> [NP-P6.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NP/NP-P6.png)
 * NP-P7 (Sudūr Pashchim) -> [NP-P7.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NP/NP-P7.png)
 
-Nepal ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:NP):
+Nepal ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:NP):
 
 * NP-1: Central (Development region)
 * NP-2: Mid Western (Development region)
-* NP-RA: Rapti (Zone)
 * NP-3: Western (Development region)
-* NP-SA: Sagarmatha (Zone)
 * NP-4: Eastern (Development region)
-* NP-SE: Seti (Zone)
 * NP-5: Far Western (Development region)
 * NP-BA: Bagmati (Zone)
 * NP-BH: Bheri (Zone)
@@ -31,3 +28,6 @@ Nepal ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/w
 * NP-MA: Mahakali (Zone)
 * NP-ME: Mechi (Zone)
 * NP-NA: Narayani (Zone)
+* NP-RA: Rapti (Zone)
+* NP-SA: Sagarmatha (Zone)
+* NP-SE: Seti (Zone)

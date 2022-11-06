@@ -14,7 +14,6 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/BrowserFS/2.0.0/browserfs.min.js" integrity="sha512-mz0EI+Ay1uIJP7rZEX8C/JlTAcHRIQ8Sny4vxmmj8MSzDJgG9NxxY2pUmOGv1lO7imFIFMyjjCzEXEywNgaUdQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="scripts/jquery-jvectormap-2.0.5.min.js"></script>
 <script src="https://jvectormap.com/js/jquery-jvectormap-world-mill.js"></script>
 <script src="scripts/mapMarkers.js"></script>
@@ -257,6 +256,68 @@ table td {
   }
 }
 
+.dnbtn {
+  border: 2px solid #0ff;
+  border-radius: 50px;
+  position: absolute;
+  color: #0ff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 25px 0 0 0;
+  width: 50px;
+  height: 25px;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.dnbtn:before {
+  font-family: 'ionicons';
+  content: '\f2dd';
+  font-size: 26px;
+  color: #0ff;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  transition: .3s;
+}
+
+.dnbtn:hover:before {
+  display: none;
+}
+
+.dnbtn:hover:after {
+  font-family: Prompt;
+  content: 'DOWNLOAD';
+  color: #0ff;
+  font-size: 18px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  transition: .3s;
+  animation: fadein .3s;
+}
+
+.dnbtn:hover {
+  width: 160px;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
 </style>
 
 <!-- Header info and buttons -->
@@ -266,7 +327,7 @@ table td {
     <!-- <a class="headerBtn" href="https://github.com/amckenna41/iso3166-flag-icons"></a> -->
     <button class="mainBtns" id="githubBtn" onclick="location.href='https://github.com/amckenna41/iso3166-flag-icons'" type="button">
         <i class="fa fa-github fa-2x"></i> Github Repository
-    </button class="mainBtns" onclick="location.href='https://github.com/amckenna41/flag-icons/archive/main.zip'" type="button">
+    </button class="mainBtns" onclick="location.href='https://github.com/amckenna41/iso3166-flag-icons/archive/main.zip'" type="button">
     <div class="downloadBtn">
     <a href="https://github.com/amckenna41/flag-icons/tree/main/iso3166-downloads/" class="mainBtns">
         <i class="fa fa-download"></i> Download ISO3166-1 icons
@@ -274,6 +335,7 @@ table td {
     <a href="https://github.com/amckenna41/flag-icons/tree/main/iso3166-downloads/" class="mainBtns">
         <i class="fa fa-download"></i> Download ISO3166-2 icons
     </a>
+    </div>
 </div>
 
 <!-- country and subdivision dropdown -->
@@ -289,6 +351,17 @@ table td {
     <img id="subdivisionImg" width="26%" height="26%" src="" style="display: none;"></img>
     <div id="countryTable">
     </div>
+
+    <!-- download flag buttons -->
+    <div>
+        <!-- <a id="downloadFlagBtn" class="dnbtn" href="" download=""></a> -->
+        <!-- <a id="downloadSubdivFlagBtn" class="dnbtn" href="" download="">Download</a> -->
+    </div>
+</div>
+
+<!-- <link href='https://fonts.googleapis.com/css?family=Prompt' rel='stylesheet'/> -->
+<div align="center">
+  <a href="#" class="dnbtn"></a>
 </div>
 
 <!-- CSS loader -->
@@ -380,6 +453,14 @@ function getJSON(url="",) {
                     countryCodes[iso3166_1_json[i]['Country']] = iso3166_1_json[i]['Code']
                     countryCodesColours[iso3166_1_json[i]['Code']] = mapColour;
                 }
+                
+                //manually encoding Taiwan into countryCodes object
+                // if (countryCodes['Taiwan, Province of China'] != undefined) {
+                //     delete countryCodes['Taiwan, Province of China'];
+                //     countryCodes['Taiwan'] = "TW";
+                // }
+
+                //sort list of country
                 countryList.sort();
                 countryList.unshift("All Countries");
                 
@@ -446,6 +527,10 @@ function getImgSrc(country) {
 
     }
 
+    //set flag download button src and filename
+    $('#downloadFlagBtn').attr('href', srcURL); 
+    $('#downloadFlagBtn').attr('download', /[^/]*$/.exec(srcURL)[0]);
+
     //set src of img element
     imgDiv.attr('src', srcURL);
     imgDiv.show();
@@ -461,33 +546,41 @@ function getSubdivisionSrc(country, subdivision) {
      */
 
     //initialise imgDiv element
-    var imgDiv = $('#subdivisionImg');
+    var subdivisionImgDiv = $('#subdivisionImg');
+    var flagImgDiv = $('#flagImg');
     var srcURL = "";
 
     //possible file extensions of flags, majority are of svg type
     var fileExtensions = ['.svg', '.png', '.jpg', '.jpeg', '.gif']
-    
 
     for (var i = 0; i < fileExtensions.length; i++) {
         //construct subdivision src URL
         
         srcURL = iso3166_2_flag_url + countryCodes[country] + '/' + subdivision + fileExtensions[i]; 
-        
+        console.log("srcURL", srcURL)
+        console.log("country", country)
+
         //if image found, break from loop
         if (imageExists(srcURL)) {
             break;
         }
 
     }
-    console.log("country", country)
-    console.log("subdivision", subdivision)
-
-    console.log("iso3166_2_flag_url", iso3166_2_flag_url)
-    console.log("srcURL", srcURL);
 
     //set src of img element
-    imgDiv.attr('src', srcURL);
-    imgDiv.show();
+    subdivisionImgDiv.attr('src', srcURL);
+
+    //set flag download button src and filename
+    $('#downloadSubdivFlagBtn').attr('href', srcURL); 
+    $('#downloadSubdivFlagBtn').attr('download', /[^/]*$/.exec(srcURL)[0]);
+    
+    //resize vertical subdivision flags to fit the screen (e.g Liechtenstein)
+    if (subdivisionImgDiv.height() > flagImgDiv.height()) {
+        subdivisionImgDiv.attr("height", flagImgDiv.height() * 1.5);
+    }
+
+    //display subdivision img
+    subdivisionImgDiv.show();
 
     //get full name of subdivision and set the subdivision name div to it
     var subdivisionInfoDiv = document.querySelector("#subdivisionInfo > h3:nth-child(1)");
@@ -500,7 +593,11 @@ function restCountries(country, code) {
      * 
      * @param country {string} - country name.
      */
-    console.log("country", country); 
+     //taiwan is returned in the China API call to restcountries
+     if (code == "TW")  {
+        country = "China";
+    }
+
     //validate if valid country type and value input
     if (typeof country !== 'string' || country == "" || country.toLowerCase() == "all countries" 
         || country == undefined || country.toLowerCase() == "ceuta, melilla") {
@@ -535,6 +632,7 @@ function restCountries(country, code) {
             },
             error: function error() {
                 console.log('Error getting country info from URL: ', "https://restcountries.com/v3.1/name/" + country);
+                rest_countries_json = {};
             return;
             },
             statusCode: {
@@ -790,7 +888,7 @@ function drawCountryDropdown() {
     });
 
 }
-
+var b; 
 function drawSubdivisionsDropdown() {
     /**
      * Draw select2 dropdown with list of a country's subdivisions.
@@ -817,7 +915,8 @@ function drawSubdivisionsDropdown() {
         //get list of subdivisions of country
         var subdivisionList = (Object.keys(rest_countries_json.subdivisions));
         subdivisionList.unshift("All Subdivisions");
-
+        console.log(subdivisionList)
+        b = subdivisionList
         //append list of countries to dropdown
         $.each(subdivisionList, function (i, p) {
             $('#subdivisionSelect').append($('<option></option>').val(p).html(p));
@@ -846,6 +945,7 @@ $("#countrySelect").on("select2:select", function (event) {
     drawMap(lookupCountry);
     $('#loader').show();
     restCountries(lookupCountry, countryCodes[lookupCountry]);
+    console.log('Not getting here', rest_countries_json)
     drawSubdivisionsDropdown();
     getImgSrc(lookupCountry);
     drawCountryTable(rest_countries_json);

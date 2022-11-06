@@ -28,7 +28,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:SC
 * SC-26 (Ile Perseverance I) -> [SC-26.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SC/SC-26.jpeg)
 * SC-27 (Ile Perseverance Ii) -> [SC-27.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SC/SC-27.jpeg)
 
-Seychelles ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:SC):
+Seychelles ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:SC):
 
 * SC-15: La Digue (District)
 * SC-16: English River (District)

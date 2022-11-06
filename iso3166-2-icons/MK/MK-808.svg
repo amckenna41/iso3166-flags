@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"/>
+<style type="text/css"/>
+<style type="text/css"/>
+<style type="text/css"/>
+<style type="text/css">.str1 {stroke:#1F1A17;stroke-width:0.0762}
+    .str2 {stroke:#1F1A17;stroke-width:0.1016}
+    .str0 {stroke:#1F1A17;stroke-width:0.2032}
+    .fil1 {fill:none}
+    .fil6 {fill:#1F1A17}
+    .fil9 {fill:#28166F}
+    .fil4 {fill:#44916C}
+    .fil3 {fill:#838281}
+    .fil0 {fill:#AAA9A9}
+    .fil7 {fill:#C2C1C1}
+    .fil2 {fill:#DA251D}
+    .fil5 {fill:#FFF500}
+    .fil8 {fill:white}</style>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g transform="translate(-74.853 -278.04)">
+<rect x="34.818" y="247.11" width="885.38" height="564.48" ry="1.5543e-14" fill="#ffec00" fill-rule="evenodd" stroke="#ffec00" stroke-linecap="square" stroke-width="17.9"/>
+<g transform="matrix(.58582 0 0 .58466 315.64 339.12)">
+<g transform="translate(-74.853 -109.35)">
+<text transform="matrix(.99904 -.043778 .043778 .99904 0 0)" x="-465.41611" y="431.83804" fill="#ffffff" font-family="Sans" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"/>
+<text x="-1073.1312" y="920.034" fill="#000000" font-family="Sans" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="-1073.1312" y="920.034" font-family="Macedonian Church" font-size="12px" font-weight="bold"/></text>
+<text transform="scale(1.0461 .95597)" x="-645.47919" y="236.69702" fill="#000000" font-family="Sans" font-size="30.844px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="-645.47919" y="236.69702" font-size="15.422px"/></text>
+<text x="306.59778" y="2711.9487" fill="#000000" font-family="Sans" font-size="48px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="306.59778" y="2711.9487" font-size="28px"/></text>
+<text x="98.778969" y="2006.5857" fill="#000000" font-family="Sans" font-size="48px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan font-size="28px"/></text>
+<text x="100.53518" y="2025.0259" fill="#000000" font-family="Sans" font-size="48px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan font-size="28px"/></text>
+<text x="-614.47717" y="2540.376" fill="#000000" font-family="Sans" font-size="48px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="-614.47717" y="2540.376" font-size="28px"/></text>
+<text x="-822.2959" y="1835.0129" fill="#000000" font-family="Sans" font-size="48px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan font-size="28px"/></text>
+<text x="-820.53979" y="1853.453" fill="#000000" font-family="Sans" font-size="48px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan font-size="28px"/></text>
+<text x="-1030.8101" y="494.6257" fill="#000000" font-family="Segoe UI" font-size="48px" font-weight="bold" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="-1030.8101" y="494.6257" font-family="Verdana" font-weight="normal"/></text>
+<g>
+<path d="m356.52 772.15c-46.364-21.378-95.771-54.107-135.64-89.855-17.58-15.762-46.641-46.895-59.68-63.934-38.514-50.328-65.868-110.75-76.667-169.35-6.5107-35.328-6.3-29.434-6.7553-189.01l-0.4219-147.88h288.39 288.39l-0.4219 147.88c-0.45918 160.95-0.19008 153.84-7.2296 191.06-8.8366 46.727-27.329 92.982-53.961 134.97-15.995 25.217-28.754 41.644-50.345 64.817-32.71 35.107-65.592 62.169-108.98 89.688-12.03 7.6307-60.809 33.566-65.728 34.946-1.2976 0.36418-6.0888-1.0968-10.955-3.3404z" fill="#000080" stroke="#000080" stroke-width="5"/>
+<path transform="matrix(1.0725 0 0 1.0815 676.98 108.4)" d="m-244.85 164.67-29.952-28.665-9.2607 40.411-11.607-39.801-28.225 30.367 9.8484-40.272-39.627 12.186 28.665-29.952-40.411-9.2607 39.801-11.607-30.367-28.225 40.272 9.8484-12.186-39.627 29.952 28.665 9.2607-40.411 11.607 39.801 28.225-30.367-9.8484 40.272 39.627-12.186-28.665 29.952 40.411 9.2607-39.801 11.607 30.367 28.225-40.272-9.8484z" fill="#ffec00" fill-rule="evenodd"/>
+<path transform="translate(74.853 109.35)" d="m27.846 408.61c-17.825-45.751-26.443-82.752-25.936-145.65 0.073153-9.0776-0.31349-18.69-0.32523-28.948l-0.024456-21.365 289.09-0.5052c159.28-0.27835 289.21-0.38648 289.52-0.16036-4.6e-4 4.4426-0.0977 8.8876-0.0541 13.329 0.0815 8.301-0.11123 16.585-0.0694 24.817 0.0423 8.3121-0.11718 16.506-0.15098 24.656-0.0308 7.4187-0.26557 14.483-0.59671 21.676-0.33365 34.534-15.89 96.405-27.209 117.51l-2.2225 4.4508-258.86 0.20291-259.06-0.10145z" color="#000000" fill="#ffec00" stroke="#ffec00" stroke-width="2"/>
+<g transform="translate(973.06 -27.632)" fill="#fff" fill-rule="evenodd">
+<rect x="-827.59" y="481.55" width="64.011" height="58.718" ry="0"/>
+<rect x="-699.55" y="481.55" width="64.011" height="58.718" ry="0"/>
+<rect x="-571.51" y="481.55" width="64.011" height="58.718" ry="0"/>
+<rect x="-443.49" y="481.55" width="64.011" height="58.718" ry="0"/>
+<rect x="-763.57" y="422.83" width="64.011" height="58.718" ry="0"/>
+<rect x="-635.53" y="422.83" width="64.011" height="58.718" ry="0"/>
+<rect x="-507.5" y="422.83" width="64.011" height="58.718" ry="0"/>
+<rect x="-699.57" y="364.1" width="64.011" height="58.718" ry="0"/>
+<rect x="-571.52" y="364.15" width="64.011" height="58.718" ry="0"/>
+</g>
+<path d="m203.09 626.47c-15.767-2.412-23.175-4.1471-46.098-11.104-20.455-27.367-27.025-40.963-31.234-48.349 4.4988 1.1478 8.5954 2.1081 13.835 3.6185 11.289 3.2542 25.632 7.3752 31.881 9.1587 33.41 9.5402 61.147 10.537 93.003 3.3439 10.132-2.2873 28.639-7.3462 41.133-11.242 31.274-9.7528 46.003-12.23 69.372-11.666 21.759 0.51843 32.537 2.7321 72.441 14.839 57.2 17.354 82.677 17.174 141.88-1.0058 7.1854-2.5112 13.359-4.4656 15.548-5.3445-10.662 19.177-19.823 32.448-33.302 50.451-24.835 7.0329-45.421 10.023-61.867 8.989-18.349-1.1537-32.783-4.2481-66.312-14.214-33.749-10.032-47.269-12.85-66.879-13.942-19.43-1.0825-41.428 2.5113-72.719 11.882-32.767 9.8119-49.972 13.99-63.861 15.506-14.995 1.6382-21.038 1.4858-36.82-0.92282z" fill="#ffec00" stroke="#ffec00" stroke-width="1.944"/>
+<path d="m231.06 693.28c13.263 0.0379 25.648-1.3016 39.672-4.4682 10.132-2.2879 28.639-7.3462 41.133-11.242 31.274-9.7528 46.003-12.23 69.372-11.666 21.759 0.51843 32.537 2.7323 72.441 14.839 18.383 5.5774 33.786 9.6394 47.788 11.579-5.7522 5.0804-22.02 18.736-39.726 30.963-3.6585-1.0458-7.9018-2.4127-12.119-3.666-33.749-10.031-47.269-12.85-66.879-13.942-19.43-1.0825-41.427 2.5122-72.719 11.882-14.277 4.2752-25.24 7.2409-34.621 9.6227-31.434-22.351-16.339-11.042-44.341-33.902z" fill="#ffec00" stroke="#ffec00" stroke-linecap="round" stroke-width="1.9442"/>
+</g>
+</g>
+</g>
+<path d="m469.39 723.96c-22.09-11.164-45.393-26.613-64.759-42.931-8.7973-7.4128-30.6-29.638-37.768-38.502-21.965-27.158-38.335-59.911-46.529-93.1-5.3611-21.714-5.4327-22.721-6.1516-86.557-0.36336-32.264-0.69223-73.337-0.73082-91.274l-0.0702-32.613h172.08 172.08l-0.54807 85.531c-0.30144 47.042-0.92327 89.696-1.3819 94.785-3.2008 35.525-16.772 72.537-38.429 104.81-11.436 17.04-16.514 23.054-34.663 41.046-17.388 17.238-27.919 25.951-45.941 38.009-17.436 11.666-47.33 27.993-51.256 27.993-0.9299 0-8.0982-3.2384-15.929-7.1963zm21.438 2.7483c8.9164-4.1204 32.508-17.44 42.028-23.729 19.551-12.915 33.774-24.725 51.679-42.91 13.69-13.904 20.547-22.132 29.648-35.575 19.632-28.999 31.062-57.043 37.28-91.475 2.4988-13.835 3.265-42.769 3.2968-124.5l0.0261-67.071h-169.6-169.6l0.55232 84.301c0.30377 46.365 0.93277 88.546 1.3978 93.736 3.6429 40.654 22.572 85.885 50.508 120.69 8.6591 10.788 30.169 32.588 40.637 41.184 11.537 9.4752 26.22 19.974 38.913 27.824 11.834 7.3188 35.336 19.522 37.572 19.509 0.7674-6e-3 3.3142-0.89479 5.6595-1.9786z" color="#000000" fill="#4d4d4d" stroke="#4d4d4d" stroke-width="1.1795"/>
+</g>
+</svg>

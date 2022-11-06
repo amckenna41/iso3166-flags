@@ -23,10 +23,10 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:VE
 * VE-U (Yaracuy) -> [VE-U.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-U.svg)
 * VE-V (Zulia) -> [VE-V.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-V.svg)
 * VE-W (Dependencias Federales) -> [VE-W.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-W.svg)
-* VE-X (La Guaira) -> [VE-X.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-X.png)
+* VE-X (La Guaira) -> [VE-X.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-X.svg)
 * VE-Y (Delta Amacuro) -> [VE-Y.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-Y.svg)
-* VE-Z (Amazonas) -> [VE-Z.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-Z.png)
+* VE-Z (Amazonas) -> [VE-Z.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/VE/VE-Z.svg)
 
-Venezuela ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:VE):
+Venezuela ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:VE):
 
 * VE-A: Distrito Capital (Capital district)

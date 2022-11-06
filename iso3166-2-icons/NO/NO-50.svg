@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="985">
+<rect width="800" height="985" fill="#fff"/>
+<g fill="#fbdf40">
+<path id="leg" d="M330,0C350,40 365,100 365,160V400H435V160C435,100 450,40 470,0z"/>
+<use xlink:href="#leg" transform="rotate(-90,400,400)"/>
+<use xlink:href="#leg" transform="rotate(90,400,400)"/>
+<path d="M365,400V825C365,885 350,945 330,985H470C450,950 435,885 435,825V400z"/>
+</g>
+</svg>

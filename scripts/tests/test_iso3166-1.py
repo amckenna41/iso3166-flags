@@ -3,7 +3,9 @@ import json
 import os
 
 class ISO3166_1Tests(unittest.TestCase):
+    """
     
+    """
     def setUp(self) -> None:      
         """ Import ISO3166-1 json. """
         self.iso3166_1_dir = os.path.join("..", "iso3166-1-icons")
@@ -14,11 +16,11 @@ class ISO3166_1Tests(unittest.TestCase):
     def test_iso3166_1_length(self):
         """ Test number of flag icons. """
         iso3166_1_files_total = len([i for i in os.listdir(self.iso3166_1_dir) if os.path.isfile(os.path.join(self.iso3166_1_dir, i))])
-        self.assertEqual(iso3166_1_files_total, 265, "There should be 265 flag icons in the ISO3166-1 folder, got {iso3166_1_files_total}.")
+        self.assertEqual(iso3166_1_files_total, 266, "There should be 266 flag icons in the ISO3166-1 folder, got {iso3166_1_files_total}.")
 
     def test_iso3166_1_file_extensions(self):
         """ Test file extensions for all flags. """
-        iso3166_1_files = [i for i in os.listdir(self.iso3166_1_dir) if i != "README.md"]
+        iso3166_1_files = [i for i in os.listdir(self.iso3166_1_dir) if i != "README.md" and i != ".DS_Store"]
         for file in iso3166_1_files:
             self.assertTrue(os.path.splitext(file)[1] == ".svg", "All ISO3166-1 flag icons should be in the svg format.")
 
@@ -26,8 +28,9 @@ class ISO3166_1Tests(unittest.TestCase):
         """ Testing correct file naming conventions  """
         #get list of all filenames, exclude UK, ES provincial flags and readme
         iso3166_1_files = [i for i in os.listdir(self.iso3166_1_dir) \
-            if (i != "README.md" and i != "gb-sct.svg" and i != "gb-nir.svg" and i != "gb-eng.svg" \
-                and i != "gb-wls.svg" and i != "es-ct.svg" and i != "es-ga.svg")]
+            if (i != "README.md" and i != ".DS_Store" and i != "gb-sct.svg" \
+                and i != "gb-nir.svg" and i != "gb-eng.svg" and i != "gb-wls.svg" \
+                    and i != "es-ct.svg" and i != "es-ga.svg")]
 
         for file in iso3166_1_files:
             self.assertTrue(len(os.path.splitext(file)[0]) == 2, "All ISO3166-1 flag icon filenames should be 2 letters.")

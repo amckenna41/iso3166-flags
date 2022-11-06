@@ -8,7 +8,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:EG
 * EG-BA (Al Baḩr Al Aḩmar) -> [EG-BA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BA.png)
 * EG-BH (Al Buḩayrah) -> [EG-BH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BH.svg)
 * EG-BNS (Banī Suwayf) -> [EG-BNS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BNS.svg)
-* EG-C (Al Qāhirah) -> [EG-C.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-C.png)
+* EG-C (Al Qāhirah) -> [EG-C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-C.svg)
 * EG-DK (Ad Daqahlīyah) -> [EG-DK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-DK.svg)
 * EG-DT (Dumyāţ) -> [EG-DT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-DT.svg)
 * EG-FYM (Al Fayyūm) -> [EG-FYM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-FYM.png)

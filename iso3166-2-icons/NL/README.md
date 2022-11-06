@@ -20,6 +20,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:NL
 * NL-ZE (Zeeland) -> [NL-ZE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NL/NL-ZE.svg)
 * NL-ZH (Zuid-Holland) -> [NL-ZH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NL/NL-ZH.svg)
 
-Netherlands ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:NL):
+Netherlands ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:NL):
 
 * NL-LI: Limburg (Province)

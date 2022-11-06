@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="600"
+   height="660"
+   id="svg2"
+   style="display:inline">
+  <desc
+     id="desc4">Blason Vide 3D</desc>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         id="stop2895"
+         style="stop-color:#ffffff;stop-opacity:0.3137255"
+         offset="0" />
+      <stop
+         id="stop2897"
+         style="stop-color:#ffffff;stop-opacity:0.25098041"
+         offset="0.19" />
+      <stop
+         id="stop2901"
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902"
+         offset="0.60000002" />
+      <stop
+         id="stop2899"
+         style="stop-color:#000000;stop-opacity:0.1254902"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="221.44487"
+       cy="226.33101"
+       r="300"
+       fx="221.44487"
+       fy="226.33101"
+       id="radialGradient3163"
+       xlink:href="#linearGradient2893"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.353218,0,0,1.348928,-77.62935,-85.74693)" />
+  </defs>
+  <g
+     id="layer3"
+     style="display:inline">
+    <path
+       d="M 300,658.5 C 300,658.5 598.50001,546.17969 598.50001,260.72817 C 598.50001,-24.723354 598.50001,2.1764765 598.50001,2.1764765 L 1.5,2.1764765 L 1.5,260.72817 C 1.5,546.17969 300,658.5 300,658.5 z"
+       id="path2855"
+       style="fill:#e20909;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer93"
+     style="display:inline">
+    <path
+       d="M 240,420.5 C 240,461.5 212.8,495.5 180,495.5 C 192,522.5 215.2,538.5 240,538.5 C 264.8,538.5 288,521.5 300,495.5 C 312,522.5 335.2,538.5 360,538.5 C 384.8,538.5 408,521.5 420,495.5 C 387.2,495.5 360,461.5 360,420.5 L 360,360 L 420.5,360 C 461.5,360 495.5,387.2 495.5,420 C 521.5,408 538.5,384.8 538.5,360 C 538.5,335.2 522.5,312 495.5,300 C 521.5,288 538.5,264.8 538.5,240 C 538.5,215.2 522.5,192 495.5,180 C 495.5,212.8 461.5,240 420.5,240 L 360,240 L 360,179.5 C 360,138.5 387.2,104.5 420,104.5 C 408,78.5 384.8,61.5 360,61.5 C 335.2,61.5 312,77.5 300,104.5 C 288,78.5 264.8,61.5 240,61.5 C 215.2,61.5 192,77.5 180,104.5 C 212.8,104.5 240,138.5 240,179.5 L 240,240 L 179.5,240 C 138.5,240 104.5,212.8 104.5,180 C 77.5,192 61.5,215.2 61.5,240 C 61.5,264.8 78.5,288 104.5,300 C 77.5,312 61.5,335.2 61.5,360 C 61.5,384.8 78.5,408 104.5,420 C 104.5,387.2 138.5,360 179.5,360 L 240,360 L 240,420.5"
+       id="croix_ancrée"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <path
+       d="M 300.00001,658.5 C 300.00001,658.5 598.50001,546.17969 598.50001,260.72817 C 598.50001,-24.723334 598.50001,2.1764865 598.50001,2.1764865 L 1.5,2.1764865 L 1.5,260.72817 C 1.5,546.17969 300.00001,658.5 300.00001,658.5 z"
+       id="path2875"
+       style="opacity:1;fill:url(#radialGradient3163);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer1"
+     style="display:inline">
+    <path
+       d="M 299.99999,658.50028 C 299.99999,658.50028 1.5,546.17992 1.5,260.72828 C 1.5,-24.723336 1.5,2.1764957 1.5,2.1764957 L 598.49999,2.1764957 L 598.49999,260.72828 C 598.49999,546.17992 299.99999,658.50028 299.99999,658.50028 z"
+       id="path1411"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

@@ -15,4 +15,3 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:BE
 * BE-WLG (Liège) -> [BE-WLG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BE/BE-WLG.svg)
 * BE-WLX (Luxembourg) -> [BE-WLX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BE/BE-WLX.svg)
 * BE-WNA (Namur) -> [BE-WNA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BE/BE-WNA.svg)
-* ID-BE (Namur) -> [ID-BE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BE/ID-BE.png)

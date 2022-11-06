@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 1e3 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <linearGradient id="a">
 <stop stop-color="#174520" offset="0"/>
 <stop stop-color="#65b345" offset="1"/>
@@ -403,7 +403,7 @@
 <radialGradient id="bx" cx="459.81" cy="265.3" r="69.022" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
 <path transform="scale(1.0079)" d="m0-1e-3h992.13v496.06h-992.13z" fill="#012169" stroke-width="1pt"/>
 <path transform="translate(-181.7 -285.15)" d="m181.7 285.15h500v250h-500z" fill="#012169" fill-rule="evenodd"/>
-<g transform="scale(8.3333 8.3333)">
+<g transform="scale(8.3333)">
 <path d="m0 0v3.354l53.292 26.646h6.708v-3.354l-53.292-26.646zm60 0v3.354l-53.292 26.646h-6.708v-3.354l53.292-26.646z" fill="#fff"/>
 <path d="m25 0v30h10v-30zm-25 10v10h60v-10z" fill="#fff"/>
 <path d="m0 12v6h60v-6zm27-12v30h6v-30zm-27 30 20-10h4.472l-20 10zm0-30 20 10h-4.472l-15.528-7.764zm35.528 10 20-10h4.472l-20 10zm24.472 20-20-10h4.472l15.528 7.764z" fill="#c8102e"/>

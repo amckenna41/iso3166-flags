@@ -35,15 +35,15 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:DO
 * DO-31 (San José De Ocoa) -> [DO-31.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-31.png)
 * DO-32 (Santo Domingo) -> [DO-32.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-32.png)
 
-Dominican Republic ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:DO):
+Dominican Republic ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:DO):
 
-* DO-39: Higuamo (Region)
-* DO-40: Ozama (Region)
-* DO-41: Valdesia (Region)
-* DO-42: Yuma (Region)
 * DO-33: Cibao Nordeste (Region)
 * DO-34: Cibao Noroeste (Region)
 * DO-35: Cibao Norte (Region)
 * DO-36: Cibao Sur (Region)
 * DO-37: El Valle (Region)
 * DO-38: Enriquillo (Region)
+* DO-39: Higuamo (Region)
+* DO-40: Ozama (Region)
+* DO-41: Valdesia (Region)
+* DO-42: Yuma (Region)

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="450" height="300" 
+ viewBox="0 0 450 300"
+ >
+  <rect x="0" y="0" width="450" height="100" fill="#FF0000" stroke="no"/>  
+  <rect x="0" y="100" width="450" height="100" fill="#fedf00" stroke="no"/>
+  <rect x="0" y="200" width="450" height="100" fill="#FF0000" stroke="no"/>    
+  <path fill="#FFFFFF"
+		stroke="no"
+		d="M 0,0 L 161,0 161,25 136,25 136,75 161,75 161,125 136,125 136,175 161,175 161,225 136,225 136,275 161,275 161,300 0,300 z"/>
+</svg>

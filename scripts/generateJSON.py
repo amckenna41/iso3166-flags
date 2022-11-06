@@ -28,7 +28,7 @@ USER_AGENT_HEADER = {'User-Agent': 'iso3166-flag-icons/{} ({}; {})'.format(__ver
                                        'https://github.com/amckenna41/iso3166-flag-icons', getpass.getuser())}
 
 
-def createISO3166_1_Json(countryInputFolder="../iso3166-1-icons", jsonFileName="test-1.json"):
+def createISO3166_1_Json(countryInputFolder="../iso3166-1-icons"):
     """
     Create JSON file for all ISO3166-1 flag icons, JSON will include the countrys full name,
     2 letter ISO code and full path to its URL in repo. JSON used for importing and displaying
@@ -38,15 +38,13 @@ def createISO3166_1_Json(countryInputFolder="../iso3166-1-icons", jsonFileName="
     ----------
     : countryInputFolder : str (default="../iso3166-1-icons")
         filepath to folder containing all ISO3166-1 icons.
-    : jsonFileName : str (default="iso3166-1.json")
-        output JSON filename, stored in main repo dir by default. 
 
     Returns
     -------
     None
     """
     #path to json file will be in the main repo dir by default
-    json_filepath = os.path.join("../", jsonFileName)
+    json_filepath = os.path.join("../", "iso3166-1.json")
 
     #object for storing all json output data
     json_data = []
@@ -75,7 +73,7 @@ def createISO3166_1_Json(countryInputFolder="../iso3166-1-icons", jsonFileName="
         json.dump(json_data, f, ensure_ascii=False, indent=4)
         
 
-def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons", jsonFileName="iso3166-2.json"):
+def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons"):
     """
     Create JSON file for all ISO3166-2 flag icons. The min JSON file will include the countrys full name,
     2 letter ISO code, list of subdivision code and path to each respective flag. The other JSON
@@ -86,8 +84,6 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons", jsonFileName="
     ----------
     : countryInputFolder : str (default="../iso3166-2-icons")
         filepath to folder containing all ISO3166-2 subdivisions.
-    : jsonFileName : str (default="iso3166-2.json")
-        output JSON filename, stored in main repo dir by default. 
 
     Returns
     -------
@@ -98,8 +94,8 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons", jsonFileName="
     json_min_data = []
 
     #path to json file will be in the main repo dir by default
-    json_filepath = os.path.join("../", jsonFileName)
-    json_min_filepath = os.path.join("../", os.path.splitext(jsonFileName)[0] + '_min' + os.path.splitext(jsonFileName)[1])
+    json_filepath = os.path.join("../", "iso3166-2.json")
+    json_min_filepath = os.path.join("../", os.path.splitext("iso3166-2.json")[0] + '-min' + os.path.splitext("iso3166-2.json")[1])
 
     #get sorted list of all ISO3166-2 subfolders
     allFolders = sorted([f for f in os.listdir(countryInputFolder) if os.path.isdir(os.path.join(countryInputFolder, f))])
@@ -111,13 +107,15 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons", jsonFileName="
         #get sorted list of files in country's folder
         allFiles = sorted([f for f in os.listdir(os.path.join(countryInputFolder, folder)) if os.path.isfile(os.path.join(countryInputFolder, folder, f))])
         
+        country_url = "https://restcountries.com/v3.1/alpha/" + folder
+
         #get country info from restcountries api
-        restCountriesResponse = requests.get("https://restcountries.com/v3.1/alpha/" + folder, stream=True, headers=USER_AGENT_HEADER)
+        restCountriesResponse = requests.get(country_url, stream=True, headers=USER_AGENT_HEADER)
         #raise error if invalid status code returned 
         try: 
             restCountriesResponse.raise_for_status()
         except:  
-            raise requests.exceptions.HTTPError(f'Error retrieving URL {url}; Status Code {restCountriesResponse.status_code}')
+            raise requests.exceptions.HTTPError(f'Error retrieving URL {country_url}; Status Code {restCountriesResponse.status_code}')
 
         #skip Kosovo (XK) as has no listed subdivision, was throwing error
         if (folder == "XK"):
@@ -129,11 +127,17 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons", jsonFileName="
 
         subdivisions = []
         subdivisionNames = []
-        
+
+            #not working here -> AT-1 change to AT-01
         #iterate over all files, appending subdivision names and codes to arrays
         for file in allFiles:
-            if (file.lower() != "readme.md" and file.lower() != ".ds_store"):            
-                subdivisions.append(os.path.splitext(file)[0])
+            if (file.lower() != "readme.md" and file.lower() != ".ds_store"):     
+                if ((isinstance(os.path.splitext(file)[0].split('-')[1], int)) \
+                    and os.path.splitext(file)[0].split('-')[1] (len(os.path.splitext(file)[0].split('-')[1]) == 1) \
+                    and (1 >= os.path.splitext(file)[0].split('-')[1] <= 9)):
+                    subdivisions.append(os.path.splitext(file)[0].split('-')[0] + '-' + '0' + os.path.splitext(file)[0].split('-')[1])
+                else:
+                    subdivisions.append(os.path.splitext(file)[0]) 
                 for subd in allSubdivisions:
                     if (os.path.splitext(file)[0] == subd.code):    
                         subdivisionNames.append(subd.name)
@@ -161,14 +165,12 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-1-icons", help='Input folder of ISO3166 countrys, ../iso3166-1-icons by default.')
-    parser.add_argument('-jsonFileName', '--jsonFileName', type=str, required=False, default="iso3166-1.json", help='Filename of JSON, iso3166-1-icons.json by default.')
-    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-1", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
+    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-2-icons", help='Input folder of ISO3166 countrys, ../iso3166-1-icons by default.')
+    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
 
     #parse input args
     args = parser.parse_args()
     countryInputFolder = args.countryInputFolder
-    jsonFileName = args.jsonFileName
     iso3166Type = args.iso3166Type
 
     #invalid country folder input
@@ -177,6 +179,6 @@ if __name__ == '__main__':
 
     #create JSON file for either ISO3166-1 or ISO3166-2
     if (iso3166Type == "iso3166-1"):
-        createISO3166_1_Json(countryInputFolder=countryInputFolder, jsonFileName=jsonFileName)
+        createISO3166_1_Json(countryInputFolder=countryInputFolder)
     else:
-        createISO3166_2_Json(countryInputFolder=countryInputFolder, jsonFileName=jsonFileName)
+        createISO3166_2_Json(countryInputFolder=countryInputFolder)

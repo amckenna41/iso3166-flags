@@ -1,0 +1,19 @@
+<svg width="650" height="390" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="650" height="390"/>
+<rect width="325" height="390" fill="#FFC627"/>
+<g transform="rotate(-59.04,325,195)">
+<rect x="250" y="-185" width="150" height="760" fill="#FFF"/>
+<g id="motif3">
+<g id="motif">
+<circle cx="325" cy="-153.41" r="4.5"/>
+<circle cx="315.75" cy="-137.44" r="4.5"/>
+<circle cx="334.25" cy="-137.44" r="4.5"/>
+<path d="M325-137.93 311.22-92.06l8.53.23 5.24 13.82 5.26-13.83 8.53-.22L325-137.93Z"/>
+</g>
+<use xlink:href="#motif" x="-37.75" y="113.78"/>
+<use xlink:href="#motif" x="37.75" y="113.78"/>
+</g>
+<use xlink:href="#motif3" y="227.57"/>
+<use xlink:href="#motif3" y="455.14"/>
+</g>
+</svg>

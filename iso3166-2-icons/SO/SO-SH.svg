@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2822" inkscape:version="0.48.1 " sodipodi:docname="AJAX.svg" sodipodi:version="0.32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 900 600"
+	 style="enable-background:new 0 0 900 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00953B;}
+	.st1{fill:#3B8EDF;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#E1261C;}
+</style>
+<rect id="rect2820" x="0" class="st0" width="900" height="600"/>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" height="600px" id="base" inkscape:current-layer="layer1" inkscape:cx="346.1876" inkscape:cy="81.534507" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1004" inkscape:window-maximized="1" inkscape:window-width="1280" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.52428246" objecttolerance="10" pagecolor="#ffffff" showgrid="false" width="900px">
+	</sodipodi:namedview>
+<polygon id="background" class="st1" points="0,0 900,0 0,600 "/>
+<g>
+	<g>
+		<polygon id="star" class="st2" points="626.1,370.2 633.4,392.6 657,392.6 637.9,406.5 645.2,428.9 626.1,415 607.1,428.9 
+			614.4,406.5 595.3,392.6 618.9,392.6 		"/>
+		<polygon id="polygon2790" class="st2" points="773.9,370.2 781.1,392.6 804.7,392.6 785.6,406.5 792.9,428.9 773.9,415 
+			754.8,428.9 762.1,406.5 743,392.6 766.6,392.6 		"/>
+	</g>
+	<g>
+		<polygon id="polygon2792" class="st2" points="626.1,452.2 633.4,474.6 657,474.6 637.9,488.4 645.2,510.8 626.1,497 607.1,510.8 
+			614.4,488.4 595.3,474.6 618.9,474.6 		"/>
+		<polygon id="polygon2794" class="st2" points="773.9,452.2 781.1,474.6 804.7,474.6 785.6,488.4 792.9,510.8 773.9,497 
+			754.8,510.8 762.1,488.4 743,474.6 766.6,474.6 		"/>
+	</g>
+	<polygon id="polygon2788" class="st2" points="700,329.3 707.3,351.7 730.9,351.7 711.8,365.6 719.1,388 700,374.2 680.9,388 
+		688.2,365.6 669.1,351.7 692.7,351.7 	"/>
+	<polygon id="polygon2796" class="st2" points="700,492 707.3,514.4 730.9,514.4 711.8,528.3 719.1,550.7 700,536.8 680.9,550.7 
+		688.2,528.3 669.1,514.4 692.7,514.4 	"/>
+</g>
+<polygon id="polygon2788_1_" class="st2" points="160,61.5 182,129.1 253,129.1 195.5,170.9 217.5,238.5 160,196.7 102.5,238.5 
+	124.5,170.9 67,129.1 138,129.1 "/>
+<polygon class="st3" points="900,122.1 900,0 722.4,0 0,479.9 0,600 180.7,600 "/>
+</svg>

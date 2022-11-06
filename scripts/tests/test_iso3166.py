@@ -2,7 +2,9 @@ import iso3166_
 import unittest
 
 class ISO3166_Tests(unittest.TestCase):
-    """ Testing ISO3166 module. """
+    """ 
+    
+    """
     
     def setUp(self) -> None:        
         return super().setUp()

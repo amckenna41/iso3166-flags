@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="300">
+<g fill="#0182cc"><path id="b" d="M2,2 V175 a123 123 0 0 0 246 0 V2 Z"/></g>
+<clipPath id="b1"><use xlink:href="#b"/></clipPath>
+<g clip-path="url(#b1)">
+<g id="e"><g fill="#fbca25"><polygon id="e1" points="0,215 140,75 140,90.86 300,-69.14 300,-55 130,115 130,99.14 0,229.14"/></g>
+<g fill="#ffeb99">
+<polygon points="0,215 140,75 137,82.24 0,219.24"/>
+<polygon points="140,90.86 300,-69.14 300,-64.9 137,98.1"/>
+<polygon points="133,91.9 133,107.76 130,115 130,99.14"/></g>
+<g fill="#c47c08">
+<polygon points="0,224.9 133,91.9 130,99.14 0,229.14"/>
+<polygon points="133,107.76 300,-59.24 300,-55 130,115"/>
+<polygon points="140,75 140,90.86 137,98.1 137,82.24"/></g>
+<use xlink:href="#e1" fill="none" stroke="#6d4306" stroke-width="2"/></g>
+<use xlink:href="#e" x="-15" y="45"/>
+<use xlink:href="#e" x="-30" y="90"/></g>
+<g id="s">
+<g fill="#c47c08"><polygon id="s1" points="65,22 71.89,45.37 93.28,33.72 81.63,55.11 105,62 81.63,68.89 93.28,90.28 71.89,78.63 65,102 58.11,78.63 36.72,90.28 48.38,68.89 25,62 48.37,55.11 36.72,33.72 58.11,45.37"/></g>
+<g fill="#fbca25">
+<polygon points="65,62 58.11,45.37 65,22"/>
+<polygon points="65,62 71.89,45.37 93.28,33.72"/>
+<polygon points="65,62 81.63,55.11 105,62"/>
+<polygon points="65,62 93.28,90.28 71.89,78.63"/>
+<polygon points="65,62 65,102 58.11,78.63"/>
+<polygon points="65,62 36.72,90.28 48.38,68.89"/>
+<polygon points="65,62 25,62 48.37,55.11 36.72,33.72"/></g>
+<polygon id="s2" points="65,22 66,62 65,102 64,62" fill="#ffeb99"/>
+<use xlink:href="#s2" transform="rotate(45 65 62)"/>
+<use xlink:href="#s2" transform="rotate(90 65 62)"/>
+<use xlink:href="#s2" transform="rotate(135 65 62)"/>
+<use xlink:href="#s1" fill="none" stroke="#6d4306" stroke-width="2"/></g>
+<use xlink:href="#s" x="120" y="140"/>
+<path d="M0,0 V175 a125 125 0 0 0 250 0 V0 Z M245,5 V175 a120 120 0 0 1 -240 0 V5 Z" fill-rule="nonzero"/>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="540"
+   height="360"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="Flag_of_the_Republic_of_Ancona_(c._1177-1532).svg"
+   inkscape:version="0.48.5 r10040">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview28"
+     showgrid="true"
+     inkscape:zoom="0.8040066"
+     inkscape:cx="354.27195"
+     inkscape:cy="196.32209"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid35"
+       spacingx="0.5"
+       spacingy="0.5" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="new"
+     style="display:inline;opacity:1">
+    <rect
+       y="0"
+       x="0"
+       style="fill:#ba0e09;fill-opacity:1"
+       width="540"
+       height="360"
+       id="rect22" />
+    <rect
+       style="fill:#ffbf00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.36491776000000100;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect84"
+       width="540"
+       height="75"
+       x="0"
+       y="140" />
+    <rect
+       style="fill:#ffbf00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21.67948341000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect86"
+       width="70.5"
+       height="360"
+       x="236"
+       y="0" />
+  </g>
+</svg>

@@ -1,5 +1,7 @@
 old/
 node_modules/
+iso3166-2-icons-test/
+iso3166-2-icons-test-2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -2,7 +2,7 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:RO
 
-* RO-AB (Alba) -> [RO-AB.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AB.jpg)
+* RO-AB (Alba) -> [RO-AB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AB.svg)
 * RO-AG (Argeș) -> [RO-AG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AG.png)
 * RO-AR (Arad) -> [RO-AR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AR.svg)
 * RO-B (București) -> [RO-B.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-B.svg)

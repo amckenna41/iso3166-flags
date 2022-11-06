@@ -15,7 +15,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:CH
 * CH-JU (Jura) -> [CH-JU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-JU.svg)
 * CH-LU (Luzern) -> [CH-LU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-LU.svg)
 * CH-NE (Neuchâtel) -> [CH-NE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-NE.svg)
-* CH-NW (Nidwalden) -> [CH-NW.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-NW.png)
+* CH-NW (Nidwalden) -> [CH-NW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-NW.svg)
 * CH-OW (Obwalden) -> [CH-OW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-OW.svg)
 * CH-SG (Sankt Gallen) -> [CH-SG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-SG.svg)
 * CH-SH (Schaffhausen) -> [CH-SH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CH/CH-SH.svg)

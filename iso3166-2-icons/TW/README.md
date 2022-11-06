@@ -5,7 +5,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:TW
 * TW-CHA (Changhua) -> [TW-CHA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-CHA.svg)
 * TW-CYI (Chiayi) -> [TW-CYI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-CYI.svg)
 * TW-CYQ (Chiayi) -> [TW-CYQ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-CYQ.svg)
-* TW-HSQ (Hsinchu) -> [TW-HSQ.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-HSQ.png)
+* TW-HSQ (Hsinchu) -> [TW-HSQ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-HSQ.svg)
 * TW-HSZ (Hsinchu) -> [TW-HSZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-HSZ.svg)
 * TW-HUA (Hualien) -> [TW-HUA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-HUA.svg)
 * TW-ILA (Yilan) -> [TW-ILA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TW/TW-ILA.svg)

@@ -26,7 +26,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:KH
 * KH-8 (Kandaal) -> [KH-8.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KH/KH-8.png)
 * KH-9 (Kaoh Kong) -> [KH-9.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KH/KH-9.png)
 
-Cambodia ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:KH):
+Cambodia ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:KH):
 
 * KH-18: Preah Sihanouk (Province)
 * KH-23: Kaeb (Province)

@@ -2,7 +2,6 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:PW
 
-* PALAU -> [PALAU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PW/PALAU.svg)
 * PW-002 (Aimeliik) -> [PW-002.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PW/PW-002.svg)
 * PW-004 (Airai) -> [PW-004.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PW/PW-004.png)
 * PW-010 (Angaur) -> [PW-010.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PW/PW-010.svg)

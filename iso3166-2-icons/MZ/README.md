@@ -2,19 +2,17 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:MZ
 
-* MP-L -> [MP-L.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MP-L.png)
-* MP-MPM -> [MP-MPM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MP-MPM.png)
+* MZ-I (Inhambane) -> [MZ-I.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MZ-I.png)
+* MZ-L (Maputo) -> [MZ-L.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MZ-L.png)
+* MZ-MPM (Maputo) -> [MZ-MPM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MZ-MPM.png)
+* MZ-N (Nampula) -> [MZ-N.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MZ-N.png)
+* MZ-P (Cabo Delgado) -> [MZ-P.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MZ-P.png)
+* MZ-S (Sofala) -> [MZ-S.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MZ-S.png)
+* MZ-T (Tete) -> [MZ-T.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MZ/MZ-T.png)
 
-Mozambique ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MZ):
+Mozambique ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MZ):
 
-* MZ-MPM: Maputo (City)
 * MZ-A: Niassa (Province)
-* MZ-N: Nampula (Province)
 * MZ-B: Manica (Province)
-* MZ-P: Cabo Delgado (Province)
 * MZ-G: Gaza (Province)
 * MZ-Q: Zambézia (Province)
-* MZ-I: Inhambane (Province)
-* MZ-S: Sofala (Province)
-* MZ-L: Maputo (Province)
-* MZ-T: Tete (Province)

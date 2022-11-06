@@ -269,7 +269,7 @@
             },
             "ces": {
                 "official": "Spojené arabské emiráty",
-                "common": "Spojené arabské emiráty"
+                "common": "Arabské emiráty"
             },
             "cym": {
                 "official": "United Arab Emirates",
@@ -293,7 +293,7 @@
             },
             "hrv": {
                 "official": "Ujedinjeni Arapski Emirati",
-                "common": "Ujedinjeni Arapski Emirati"
+                "common": "Arapski Emirati"
             },
             "hun": {
                 "official": "Egyesült Arab Emírségek",
@@ -321,7 +321,7 @@
             },
             "pol": {
                 "official": "Zjednoczone Emiraty Arabskie",
-                "common": "Zjednoczone Emiraty Arabskie"
+                "common": "Emiraty Arabskie"
             },
             "por": {
                 "official": "Emirados Árabes Unidos",
@@ -333,7 +333,7 @@
             },
             "slk": {
                 "official": "Spojené arabské emiráty",
-                "common": "Spojené arabské emiráty"
+                "common": "Arabské emiráty"
             },
             "spa": {
                 "official": "Emiratos Árabes Unidos",
@@ -417,9 +417,10 @@
             "AE-AJ": "‘Ajmān",
             "AE-AZ": "Abū Z̧aby",
             "AE-DU": "Dubayy",
-            "AE-FU.svg": "Ra’s al Khaymah",
-            "AE-RK": "Ash Shāriqah",
-            "AE-SH": "Umm al Qaywayn"
+            "AE-FU": "Al Fujayrah",
+            "AE-RK": "Ra’s al Khaymah",
+            "AE-SH": "Ash Shāriqah",
+            "AE-UQ": "Umm al Qaywayn"
         }
     },
     {
@@ -4834,8 +4835,24 @@
             ]
         },
         "Subdivisions": {
+            "CD-BC": "Kongo Central",
+            "CD-BU": "Bas-Uélé",
+            "CD-HK": "Haut-Katanga",
+            "CD-HU": "Haut-Uélé",
+            "CD-IT": "Ituri",
+            "CD-KC": "Kasaï Central",
+            "CD-KE": "Kasaï Oriental",
+            "CD-KL": "Kwilu",
             "CD-KN": "Kinshasa",
-            "CD-SA": "Sankuru"
+            "CD-KS": "Kasaï",
+            "CD-LU": "Lualaba",
+            "CD-MA": "Maniema",
+            "CD-MN": "Mai-Ndombe",
+            "CD-NK": "Nord-Kivu",
+            "CD-SA": "Sankuru",
+            "CD-SK": "Sud-Kivu",
+            "CD-T0": "Tanganyika",
+            "CD-TA": "Tshuapa"
         }
     },
     {
@@ -6632,8 +6649,21 @@
         },
         "Subdivisions": {
             "CU-01": "Pinar del Río",
+            "CU-03": "La Habana",
+            "CU-04": "Matanzas",
             "CU-05": "Villa Clara",
-            "CU-06": "Cienfuegos"
+            "CU-06": "Cienfuegos",
+            "CU-07": "Sancti Spíritus",
+            "CU-08": "Ciego de Ávila",
+            "CU-09": "Camagüey",
+            "CU-10": "Las Tunas",
+            "CU-11": "Holguín",
+            "CU-12": "Granma",
+            "CU-13": "Santiago de Cuba",
+            "CU-14": "Guantánamo",
+            "CU-15": "Artemisa",
+            "CU-16": "Mayabeque",
+            "CU-99": "Isla de la Juventud"
         }
     },
     {
@@ -9702,217 +9732,6 @@
     },
     {
         "name": {
-            "common": "Fiji",
-            "official": "Republic of Fiji",
-            "nativeName": {
-                "eng": {
-                    "official": "Republic of Fiji",
-                    "common": "Fiji"
-                },
-                "fij": {
-                    "official": "Matanitu Tugalala o Viti",
-                    "common": "Viti"
-                },
-                "hif": {
-                    "official": "रिपब्लिक ऑफ फीजी",
-                    "common": "फिजी"
-                }
-            }
-        },
-        "tld": [
-            ".fj"
-        ],
-        "cca2": "FJ",
-        "ccn3": "242",
-        "cca3": "FJI",
-        "cioc": "FIJ",
-        "independent": true,
-        "status": "officially-assigned",
-        "unMember": true,
-        "currencies": {
-            "FJD": {
-                "name": "Fijian dollar",
-                "symbol": "$"
-            }
-        },
-        "idd": {
-            "root": "+6",
-            "suffixes": [
-                "79"
-            ]
-        },
-        "capital": [
-            "Suva"
-        ],
-        "altSpellings": [
-            "FJ",
-            "Viti",
-            "Republic of Fiji",
-            "Matanitu ko Viti",
-            "Fijī Gaṇarājya"
-        ],
-        "region": "Oceania",
-        "subregion": "Melanesia",
-        "languages": {
-            "eng": "English",
-            "fij": "Fijian",
-            "hif": "Fiji Hindi"
-        },
-        "translations": {
-            "ara": {
-                "official": "جمهورية جزر فيجي",
-                "common": "فيجي"
-            },
-            "bre": {
-                "official": "Republik Fidji",
-                "common": "Fidji"
-            },
-            "ces": {
-                "official": "Republika Fidžijských ostrovů",
-                "common": "Fidži"
-            },
-            "cym": {
-                "official": "Republic of Fiji",
-                "common": "Fiji"
-            },
-            "deu": {
-                "official": "Republik Fidschi",
-                "common": "Fidschi"
-            },
-            "est": {
-                "official": "Fidži Vabariik",
-                "common": "Fidži"
-            },
-            "fin": {
-                "official": "Fidžin tasavalta",
-                "common": "Fidži"
-            },
-            "fra": {
-                "official": "République des Fidji",
-                "common": "Fidji"
-            },
-            "hrv": {
-                "official": "Republika Fidži",
-                "common": "Fiđi"
-            },
-            "hun": {
-                "official": "Fidzsi-szigeteki Köztársaság",
-                "common": "Fidzsi-szigetek"
-            },
-            "ita": {
-                "official": "Repubblica di Figi",
-                "common": "Figi"
-            },
-            "jpn": {
-                "official": "フィジー共和国",
-                "common": "フィジー"
-            },
-            "kor": {
-                "official": "피지 공화국",
-                "common": "피지"
-            },
-            "nld": {
-                "official": "Republiek Fiji",
-                "common": "Fiji"
-            },
-            "per": {
-                "official": "جمهوری جزایر فیجی",
-                "common": "فیجی"
-            },
-            "pol": {
-                "official": "Republika Fidżi",
-                "common": "Fidżi"
-            },
-            "por": {
-                "official": "República de Fiji",
-                "common": "Fiji"
-            },
-            "rus": {
-                "official": "Республика Фиджи",
-                "common": "Фиджи"
-            },
-            "slk": {
-                "official": "Fiǆijská republika",
-                "common": "Fiǆi"
-            },
-            "spa": {
-                "official": "República de Fiji",
-                "common": "Fiyi"
-            },
-            "swe": {
-                "official": "Republiken Fiji",
-                "common": "Fiji"
-            },
-            "tur": {
-                "official": "Fiji Cumhuriyeti",
-                "common": "Fiji"
-            },
-            "urd": {
-                "official": "جمہوریہ فجی",
-                "common": "فجی"
-            },
-            "zho": {
-                "official": "斐济共和国",
-                "common": "斐济"
-            }
-        },
-        "latlng": [
-            -18.0,
-            175.0
-        ],
-        "landlocked": false,
-        "area": 18272.0,
-        "demonyms": {
-            "eng": {
-                "f": "Fijian",
-                "m": "Fijian"
-            },
-            "fra": {
-                "f": "Fidjienne",
-                "m": "Fidjien"
-            }
-        },
-        "flag": "🇫🇯",
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/571747"
-        },
-        "population": 896444,
-        "gini": {
-            "2013": 36.7
-        },
-        "fifa": "FIJ",
-        "car": {
-            "signs": [
-                "FJI"
-            ],
-            "side": "left"
-        },
-        "timezones": [
-            "UTC+12:00"
-        ],
-        "continents": [
-            "Oceania"
-        ],
-        "flags": {
-            "png": "https://flagcdn.com/w320/fj.png",
-            "svg": "https://flagcdn.com/fj.svg"
-        },
-        "coatOfArms": {
-            "png": "https://mainfacts.com/media/images/coats_of_arms/fj.png",
-            "svg": "https://mainfacts.com/media/images/coats_of_arms/fj.svg"
-        },
-        "startOfWeek": "monday",
-        "capitalInfo": {
-            "latlng": [
-                -18.13,
-                178.42
-            ]
-        },
-        "Subdivisions": {}
-    },
-    {
-        "name": {
             "common": "Micronesia",
             "official": "Federated States of Micronesia",
             "nativeName": {
@@ -10115,7 +9934,355 @@
         "Subdivisions": {
             "FM-KSA": "Kosrae",
             "FM-PNI": "Pohnpei",
-            "FM-TRK.svg": "Yap"
+            "FM-TRK": "Chuuk",
+            "FM-YAP": "Yap"
+        }
+    },
+    {
+        "name": {
+            "common": "France",
+            "official": "French Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République française",
+                    "common": "France"
+                }
+            }
+        },
+        "tld": [
+            ".fr"
+        ],
+        "cca2": "FR",
+        "ccn3": "250",
+        "cca3": "FRA",
+        "cioc": "FRA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "3"
+            ]
+        },
+        "capital": [
+            "Paris"
+        ],
+        "altSpellings": [
+            "FR",
+            "French Republic",
+            "République française"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "languages": {
+            "fra": "French"
+        },
+        "translations": {
+            "ara": {
+                "official": "الجمهورية الفرنسية",
+                "common": "فرنسا"
+            },
+            "bre": {
+                "official": "Republik Frañs",
+                "common": "Frañs"
+            },
+            "ces": {
+                "official": "Francouzská republika",
+                "common": "Francie"
+            },
+            "cym": {
+                "official": "French Republic",
+                "common": "France"
+            },
+            "deu": {
+                "official": "Französische Republik",
+                "common": "Frankreich"
+            },
+            "est": {
+                "official": "Prantsuse Vabariik",
+                "common": "Prantsusmaa"
+            },
+            "fin": {
+                "official": "Ranskan tasavalta",
+                "common": "Ranska"
+            },
+            "fra": {
+                "official": "République française",
+                "common": "France"
+            },
+            "hrv": {
+                "official": "Francuska Republika",
+                "common": "Francuska"
+            },
+            "hun": {
+                "official": "Francia Köztársaság",
+                "common": "Franciaország"
+            },
+            "ita": {
+                "official": "Repubblica francese",
+                "common": "Francia"
+            },
+            "jpn": {
+                "official": "フランス共和国",
+                "common": "フランス"
+            },
+            "kor": {
+                "official": "프랑스 공화국",
+                "common": "프랑스"
+            },
+            "nld": {
+                "official": "Franse Republiek",
+                "common": "Frankrijk"
+            },
+            "per": {
+                "official": "جمهوری فرانسه",
+                "common": "فرانسه"
+            },
+            "pol": {
+                "official": "Republika Francuska",
+                "common": "Francja"
+            },
+            "por": {
+                "official": "República Francesa",
+                "common": "França"
+            },
+            "rus": {
+                "official": "Французская Республика",
+                "common": "Франция"
+            },
+            "slk": {
+                "official": "Francúzska republika",
+                "common": "Francúzsko"
+            },
+            "spa": {
+                "official": "República francés",
+                "common": "Francia"
+            },
+            "swe": {
+                "official": "Republiken Frankrike",
+                "common": "Frankrike"
+            },
+            "tur": {
+                "official": "Fransa Cumhuriyeti",
+                "common": "Fransa"
+            },
+            "urd": {
+                "official": "جمہوریہ فرانس",
+                "common": "فرانس"
+            },
+            "zho": {
+                "official": "法兰西共和国",
+                "common": "法国"
+            }
+        },
+        "latlng": [
+            46.0,
+            2.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "AND",
+            "BEL",
+            "DEU",
+            "ITA",
+            "LUX",
+            "MCO",
+            "ESP",
+            "CHE"
+        ],
+        "area": 551695.0,
+        "demonyms": {
+            "eng": {
+                "f": "French",
+                "m": "French"
+            },
+            "fra": {
+                "f": "Française",
+                "m": "Français"
+            }
+        },
+        "flag": "🇫🇷",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
+        },
+        "population": 67391582,
+        "gini": {
+            "2018": 32.4
+        },
+        "fifa": "FRA",
+        "car": {
+            "signs": [
+                "F"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+05:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/fr.png",
+            "svg": "https://flagcdn.com/fr.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/fr.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/fr.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                48.87,
+                2.33
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        },
+        "Subdivisions": {
+            "FR-01": "Ain",
+            "FR-02": "Aisne",
+            "FR-03": "Allier",
+            "FR-04": "Alpes-de-Haute-Provence",
+            "FR-05": "Hautes-Alpes",
+            "FR-06": "Alpes-Maritimes",
+            "FR-07": "Ardèche",
+            "FR-08": "Ardennes",
+            "FR-09": "Ariège",
+            "FR-10": "Aube",
+            "FR-11": "Aude",
+            "FR-12": "Aveyron",
+            "FR-13": "Bouches-du-Rhône",
+            "FR-14": "Calvados",
+            "FR-15": "Cantal",
+            "FR-16": "Charente",
+            "FR-17": "Charente-Maritime",
+            "FR-18": "Cher",
+            "FR-19": "Corrèze",
+            "FR-20R": "Corse",
+            "FR-21": "Côte-d'Or",
+            "FR-22": "Côtes-d'Armor",
+            "FR-23": "Creuse",
+            "FR-24": "Dordogne",
+            "FR-25": "Doubs",
+            "FR-26": "Drôme",
+            "FR-27": "Eure",
+            "FR-28": "Eure-et-Loir",
+            "FR-29": "Finistère",
+            "FR-2A": "Corse-du-Sud",
+            "FR-2B": "Haute-Corse",
+            "FR-30": "Gard",
+            "FR-32": "Gers",
+            "FR-33": "Gironde",
+            "FR-34": "Hérault",
+            "FR-35": "Ille-et-Vilaine",
+            "FR-36": "Indre",
+            "FR-37": "Indre-et-Loire",
+            "FR-38": "Isère",
+            "FR-39": "Jura",
+            "FR-40": "Landes",
+            "FR-41": "Loir-et-Cher",
+            "FR-42": "Loire",
+            "FR-43": "Haute-Loire",
+            "FR-44": "Loire-Atlantique",
+            "FR-45": "Loiret",
+            "FR-46": "Lot",
+            "FR-47": "Lot-et-Garonne",
+            "FR-48": "Lozère",
+            "FR-49": "Maine-et-Loire",
+            "FR-50": "Manche",
+            "FR-51": "Marne",
+            "FR-52": "Haute-Marne",
+            "FR-53": "Mayenne",
+            "FR-54": "Meurthe-et-Moselle",
+            "FR-55": "Meuse",
+            "FR-56": "Morbihan",
+            "FR-57": "Moselle",
+            "FR-58": "Nièvre",
+            "FR-59": "Nord",
+            "FR-60": "Oise",
+            "FR-61": "Orne",
+            "FR-62": "Pas-de-Calais",
+            "FR-63": "Puy-de-Dôme",
+            "FR-64": "Pyrénées-Atlantiques",
+            "FR-65": "Hautes-Pyrénées",
+            "FR-66": "Pyrénées-Orientales",
+            "FR-67": "Bas-Rhin",
+            "FR-68": "Haut-Rhin",
+            "FR-69": "Rhône",
+            "FR-6AE": "Haute-Saône",
+            "FR-70": "Saône-et-Loire",
+            "FR-71": "Sarthe",
+            "FR-72": "Savoie",
+            "FR-73": "Haute-Savoie",
+            "FR-74": "Seine-Maritime",
+            "FR-75C": "Seine-et-Marne",
+            "FR-76": "Yvelines",
+            "FR-77": "Deux-Sèvres",
+            "FR-78": "Somme",
+            "FR-79": "Tarn",
+            "FR-80": "Tarn-et-Garonne",
+            "FR-81": "Var",
+            "FR-82": "Vaucluse",
+            "FR-83": "Vendée",
+            "FR-84": "Vienne",
+            "FR-85": "Haute-Vienne",
+            "FR-86": "Vosges",
+            "FR-87": "Yonne",
+            "FR-88": "Territoire de Belfort",
+            "FR-89": "Essonne",
+            "FR-90": "Hauts-de-Seine",
+            "FR-91": "Seine-Saint-Denis",
+            "FR-92": "Val-de-Marne",
+            "FR-93": "Val-d'Oise",
+            "FR-94": "Guadeloupe",
+            "FR-95": "Martinique",
+            "FR-971": "Guyane (française)",
+            "FR-972": "La Réunion",
+            "FR-973": "Mayotte",
+            "FR-974": "Auvergne-Rhône-Alpes",
+            "FR-976": "Bourgogne-Franche-Comté",
+            "FR-ARA": "Saint-Barthélemy",
+            "FR-BFC": "Bretagne",
+            "FR-BL": "Clipperton",
+            "FR-BRE": "Centre-Val de Loire",
+            "FR-CP": "Grand-Est",
+            "FR-CVL": "Hauts-de-France",
+            "FR-GES": "Île-de-France",
+            "FR-HDF": "Saint-Martin",
+            "FR-IDF": "Nouvelle-Aquitaine",
+            "FR-MF": "Nouvelle-Calédonie",
+            "FR-NAQ": "Normandie",
+            "FR-NC": "Occitanie",
+            "FR-NOR": "Provence-Alpes-Côte-d’Azur",
+            "FR-OCC": "Pays-de-la-Loire",
+            "FR-PAC": "Polynésie française",
+            "FR-PDL": "Saint-Pierre-et-Miquelon",
+            "FR-PF": "Terres australes françaises",
+            "FR-PM": "Wallis-et-Futuna"
         }
     },
     {
@@ -10285,8 +10452,8 @@
         },
         "flag": "🇬🇦",
         "maps": {
-            "googleMaps": "https://www.openstreetmap.org/relation/192793",
-            "openStreetMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6"
+            "googleMaps": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192793"
         },
         "population": 2225728,
         "gini": {
@@ -10329,6 +10496,405 @@
             "GA-7": "Ogooué-Lolo",
             "GA-8": "Ogooué-Maritime",
             "GA-9": "Woleu-Ntem"
+        }
+    },
+    {
+        "name": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "United Kingdom of Great Britain and Northern Ireland",
+                    "common": "United Kingdom"
+                }
+            }
+        },
+        "tld": [
+            ".uk"
+        ],
+        "cca2": "GB",
+        "ccn3": "826",
+        "cca3": "GBR",
+        "cioc": "GBR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "London"
+        ],
+        "altSpellings": [
+            "GB",
+            "UK",
+            "Great Britain"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": {
+                "official": "المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية",
+                "common": "المملكة المتحدة"
+            },
+            "bre": {
+                "official": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
+                "common": "Rouantelezh-Unanet"
+            },
+            "ces": {
+                "official": "Spojené království Velké Británie a Severního Irska",
+                "common": "Spojené království"
+            },
+            "cym": {
+                "official": "United Kingdom of Great Britain and Northern Ireland",
+                "common": "United Kingdom"
+            },
+            "deu": {
+                "official": "Vereinigtes Königreich Großbritannien und Nordirland",
+                "common": "Vereinigtes Königreich"
+            },
+            "est": {
+                "official": "Suurbritannia ja Põhja-Iiri Ühendkuningriik",
+                "common": "Suurbritannia"
+            },
+            "fin": {
+                "official": "Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta",
+                "common": "Yhdistynyt kuningaskunta"
+            },
+            "fra": {
+                "official": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+                "common": "Royaume-Uni"
+            },
+            "hrv": {
+                "official": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+                "common": "Ujedinjeno Kraljevstvo"
+            },
+            "hun": {
+                "official": "Nagy-Britannia és Észak-Írország Egyesült Királysága",
+                "common": "Egyesült Királyság"
+            },
+            "ita": {
+                "official": "Regno Unito di Gran Bretagna e Irlanda del Nord",
+                "common": "Regno Unito"
+            },
+            "jpn": {
+                "official": "グレート·ブリテンおよび北アイルランド連合王国",
+                "common": "イギリス"
+            },
+            "kor": {
+                "official": "그레이트브리튼 북아일랜드 연합 왕국",
+                "common": "영국"
+            },
+            "nld": {
+                "official": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
+                "common": "Verenigd Koninkrijk"
+            },
+            "per": {
+                "official": "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی",
+                "common": "انگلیس"
+            },
+            "pol": {
+                "official": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+                "common": "Zjednoczone Królestwo"
+            },
+            "por": {
+                "official": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+                "common": "Reino Unido"
+            },
+            "rus": {
+                "official": "Соединенное Королевство Великобритании и Северной Ирландии",
+                "common": "Великобритания"
+            },
+            "slk": {
+                "official": "Spojené kráľovstvo Veľkej Británie a SevernéhoÌrska",
+                "common": "Veľká Británia (Spojené kráľovstvo)"
+            },
+            "spa": {
+                "official": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+                "common": "Reino Unido"
+            },
+            "swe": {
+                "official": "Förenade konungariket Storbritannien och Nordirland",
+                "common": "Storbritannien"
+            },
+            "tur": {
+                "official": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
+                "common": "Birleşik Krallık"
+            },
+            "urd": {
+                "official": "مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ",
+                "common": "مملکتِ متحدہ"
+            },
+            "zho": {
+                "official": "大不列颠及北爱尔兰联合王国",
+                "common": "英国"
+            }
+        },
+        "latlng": [
+            54.0,
+            -2.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "IRL"
+        ],
+        "area": 242900.0,
+        "demonyms": {
+            "eng": {
+                "f": "British",
+                "m": "British"
+            },
+            "fra": {
+                "f": "Britannique",
+                "m": "Britannique"
+            }
+        },
+        "flag": "🇬🇧",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+        },
+        "population": 67215293,
+        "gini": {
+            "2017": 35.1
+        },
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gb.png",
+            "svg": "https://flagcdn.com/gb.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gb.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gb.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                51.5,
+                -0.08
+            ]
+        },
+        "postalCode": {
+            "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+            "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+        },
+        "Subdivisions": {
+            "GB-ABE": "Aberdeen City",
+            "GB-AGB": "Argyll and Bute",
+            "GB-AGY": "Isle of Anglesey [Sir Ynys Môn GB-YNM]",
+            "GB-ANS": "Angus",
+            "GB-BBD": "Blackburn with Darwen",
+            "GB-BDF": "Bedford",
+            "GB-BDG": "Barking and Dagenham",
+            "GB-BEN": "Brent",
+            "GB-BEX": "Bexley",
+            "GB-BFS": "Belfast City",
+            "GB-BGE": "Bridgend [Pen-y-bont ar Ogwr GB-POG]",
+            "GB-BGW": "Blaenau Gwent",
+            "GB-BIR": "Birmingham",
+            "GB-BKM": "Buckinghamshire",
+            "GB-BNE": "Barnet",
+            "GB-BNH": "Brighton and Hove",
+            "GB-BNS": "Barnsley",
+            "GB-BOL": "Bolton",
+            "GB-BPL": "Blackpool",
+            "GB-BRD": "Bradford",
+            "GB-BRY": "Bromley",
+            "GB-BST": "Bristol, City of",
+            "GB-BUR": "Bury",
+            "GB-CAM": "Cambridgeshire",
+            "GB-CAY": "Caerphilly [Caerffili GB-CAF]",
+            "GB-CBF": "Central Bedfordshire",
+            "GB-CGN": "Ceredigion [Sir Ceredigion]",
+            "GB-CHE": "Cheshire East",
+            "GB-CHW": "Cheshire West and Chester",
+            "GB-CLD": "Calderdale",
+            "GB-CLK": "Clackmannanshire",
+            "GB-CMA": "Cumbria",
+            "GB-CMD": "Camden",
+            "GB-CMN": "Carmarthenshire [Sir Gaerfyrddin GB-GFY]",
+            "GB-CON": "Cornwall",
+            "GB-COV": "Coventry",
+            "GB-CRF": "Cardiff [Caerdydd GB-CRD]",
+            "GB-CRY": "Croydon",
+            "GB-DAL": "Darlington",
+            "GB-DBY": "Derbyshire",
+            "GB-DEN": "Denbighshire [Sir Ddinbych GB-DDB]",
+            "GB-DEV": "Devon",
+            "GB-DGY": "Dumfries and Galloway",
+            "GB-DNC": "Doncaster",
+            "GB-DND": "Dundee City",
+            "GB-DOR": "Dorset",
+            "GB-DUD": "Dudley",
+            "GB-DUR": "Durham, County",
+            "GB-EAL": "Ealing",
+            "GB-EAY": "East Ayrshire",
+            "GB-EDH": "Edinburgh, City of",
+            "GB-EDU": "East Dunbartonshire",
+            "GB-ELN": "East Lothian",
+            "GB-ENF": "Enfield",
+            "GB-ENG": "East Renfrewshire",
+            "GB-ERW": "East Riding of Yorkshire",
+            "GB-ERY": "Essex",
+            "GB-ESS": "East Sussex",
+            "GB-ESX": "Falkirk",
+            "GB-FAL": "Fife",
+            "GB-FIF": "Flintshire [Sir y Fflint GB-FFL]",
+            "GB-FLN": "Gateshead",
+            "GB-GAT": "Glasgow City",
+            "GB-GLG": "Gloucestershire",
+            "GB-GLS": "Greenwich",
+            "GB-GRE": "Gwynedd",
+            "GB-GWN": "Hampshire",
+            "GB-HAM": "Havering",
+            "GB-HAV": "Hackney",
+            "GB-HCK": "Herefordshire",
+            "GB-HEF": "Hillingdon",
+            "GB-HIL": "Highland",
+            "GB-HLD": "Hammersmith and Fulham",
+            "GB-HMF": "Hounslow",
+            "GB-HNS": "Hartlepool",
+            "GB-HPL": "Hertfordshire",
+            "GB-HRT": "Harrow",
+            "GB-HRW": "Haringey",
+            "GB-HRY": "Isles of Scilly",
+            "GB-IOS": "Isle of Wight",
+            "GB-IOW": "Islington",
+            "GB-ISL": "Inverclyde",
+            "GB-IVC": "Kensington and Chelsea",
+            "GB-KEC": "Kent",
+            "GB-KEN": "Kingston upon Hull",
+            "GB-KHL": "Kirklees",
+            "GB-KIR": "Kingston upon Thames",
+            "GB-KTT": "Knowsley",
+            "GB-KWL": "Lancashire",
+            "GB-LAN": "Lisburn and Castlereagh",
+            "GB-LBC": "Lambeth",
+            "GB-LBH": "Leicester",
+            "GB-LCE": "Leeds",
+            "GB-LDS": "Leicestershire",
+            "GB-LEC": "Lewisham",
+            "GB-LEW": "Lincolnshire",
+            "GB-LIN": "Liverpool",
+            "GB-LIV": "London, City of",
+            "GB-LND": "Manchester",
+            "GB-MAN": "Middlesbrough",
+            "GB-MDB": "Medway",
+            "GB-MDW": "Midlothian",
+            "GB-MLN": "Monmouthshire [Sir Fynwy GB-FYN]",
+            "GB-MON": "Merton",
+            "GB-MRT": "Moray",
+            "GB-MRY": "Merthyr Tydfil [Merthyr Tudful GB-MTU]",
+            "GB-MTY": "North Ayrshire",
+            "GB-NAY": "Northumberland",
+            "GB-NBL": "North East Lincolnshire",
+            "GB-NEL": "Newcastle upon Tyne",
+            "GB-NET": "Norfolk",
+            "GB-NFK": "Nottingham",
+            "GB-NGM": "North Lanarkshire",
+            "GB-NIR": "North Somerset",
+            "GB-NLK": "Northamptonshire",
+            "GB-NSM": "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]",
+            "GB-NTH": "Nottinghamshire",
+            "GB-NTL": "North Tyneside",
+            "GB-NTT": "Newham",
+            "GB-NTY": "Newport [Casnewydd GB-CNW]",
+            "GB-NWM": "North Yorkshire",
+            "GB-NWP": "Oldham",
+            "GB-NYK": "Orkney Islands",
+            "GB-OLD": "Oxfordshire",
+            "GB-ORK": "Pembrokeshire [Sir Benfro GB-BNF]",
+            "GB-OXF": "Perth and Kinross",
+            "GB-PEM": "Plymouth",
+            "GB-PKN": "Portsmouth",
+            "GB-PLY": "Powys",
+            "GB-POR": "Redcar and Cleveland",
+            "GB-POW": "Rochdale",
+            "GB-RCC": "Rhondda Cynon Taff [Rhondda CynonTaf]",
+            "GB-RCH": "Redbridge",
+            "GB-RCT": "Reading",
+            "GB-RDB": "Renfrewshire",
+            "GB-RDG": "Richmond upon Thames",
+            "GB-RFW": "Rotherham",
+            "GB-RIC": "Rutland",
+            "GB-ROT": "Sandwell",
+            "GB-RUT": "South Ayrshire",
+            "GB-SAW": "Scottish Borders",
+            "GB-SAY": "Suffolk",
+            "GB-SCB": "Sheffield",
+            "GB-SCT": "St. Helens",
+            "GB-SFK": "Shropshire",
+            "GB-SHF": "Stockport",
+            "GB-SHN": "Salford",
+            "GB-SHR": "South Lanarkshire",
+            "GB-SKP": "Sunderland",
+            "GB-SLF": "Solihull",
+            "GB-SLK": "Somerset",
+            "GB-SND": "Southend-on-Sea",
+            "GB-SOL": "Surrey",
+            "GB-SOM": "Stoke-on-Trent",
+            "GB-SOS": "Stirling",
+            "GB-SRY": "Southampton",
+            "GB-STE": "Sutton",
+            "GB-STG": "Staffordshire",
+            "GB-STH": "Stockton-on-Tees",
+            "GB-STN": "South Tyneside",
+            "GB-STS": "Swansea [Abertawe GB-ATA]",
+            "GB-STT": "Southwark",
+            "GB-STY": "Tameside",
+            "GB-SWA": "Torbay",
+            "GB-SWK": "Torfaen [Tor-faen]",
+            "GB-TAM": "Trafford",
+            "GB-TOB": "Tower Hamlets",
+            "GB-TOF": "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]",
+            "GB-TRF": "Warwickshire",
+            "GB-TWH": "West Berkshire",
+            "GB-VGL": "West Dunbartonshire",
+            "GB-WAR": "Waltham Forest",
+            "GB-WBK": "Wigan",
+            "GB-WDU": "Wiltshire",
+            "GB-WFT": "Wakefield",
+            "GB-WGN": "West Lothian",
+            "GB-WIL": "Wolverhampton",
+            "GB-WKF": "Wandsworth",
+            "GB-WLN": "Windsor and Maidenhead",
+            "GB-WLS": "Worcestershire",
+            "GB-WLV": "Wirral",
+            "GB-WND": "Westminster",
+            "GB-WNM": "West Sussex",
+            "GB-WOR": "York",
+            "GB-WRL": "Shetland Islands"
         }
     },
     {
@@ -10513,7 +11079,7 @@
             "side": "right"
         },
         "timezones": [
-            "UTC-04:00"
+            "UTC+04:00"
         ],
         "continents": [
             "Asia"
@@ -11374,7 +11940,14 @@
         },
         "Subdivisions": {
             "GQ-AN": "Annobon",
-            "GQ-DJ": "Djibloho"
+            "GQ-BN": "Bioko Nord",
+            "GQ-BS": "Bioko Sud",
+            "GQ-C": "Região Continental",
+            "GQ-CS": "Centro Sud",
+            "GQ-DJ": "Djibloho",
+            "GQ-KN": "Kié-Ntem",
+            "GQ-LI": "Litoral",
+            "GQ-WN": "Wele-Nzas"
         }
     },
     {
@@ -11796,17 +12369,7 @@
             "format": "#####",
             "regex": "^(\\d{5})$"
         },
-        "Subdivisions": {
-            "GT-01": "Baja Verapaz",
-            "GT-02": "Escuintla",
-            "GT-03": "Guatemala",
-            "GT-04": "Jutiapa",
-            "GT-05": "Retalhuleu",
-            "GT-06": "Sololá",
-            "GT-07": "Santa Rosa",
-            "GT-08": "Suchitepéquez",
-            "GT-09": "Zacapa"
-        }
+        "Subdivisions": {}
     },
     {
         "name": {
@@ -13182,31 +13745,32 @@
             "IE-CE": "Clare",
             "IE-CN": "Cavan",
             "IE-CO": "Cork",
-            "IE-CW.svg": "Dublin",
-            "IE-D": "Donegal",
-            "IE-DL": "Galway",
-            "IE-G": "Kildare",
-            "IE-KE": "Kilkenny",
-            "IE-KK": "Kerry",
-            "IE-KY": "Leinster",
-            "IE-L": "Longford",
-            "IE-LD": "Louth",
-            "IE-LH": "Limerick",
-            "IE-LK": "Leitrim",
-            "IE-LM": "Laois",
-            "IE-LS": "Munster",
-            "IE-M": "Meath",
-            "IE-MH": "Monaghan",
-            "IE-MN": "Mayo",
-            "IE-MO": "Offaly",
-            "IE-OY": "Roscommon",
-            "IE-RN": "Sligo",
-            "IE-SO": "Tipperary",
-            "IE-TA": "Ulster",
-            "IE-U": "Waterford",
-            "IE-WD": "Westmeath",
-            "IE-WH": "Wicklow",
-            "IE-WW": "Wexford"
+            "IE-CW": "Carlow",
+            "IE-D": "Dublin",
+            "IE-DL": "Donegal",
+            "IE-G": "Galway",
+            "IE-KE": "Kildare",
+            "IE-KK": "Kilkenny",
+            "IE-KY": "Kerry",
+            "IE-L": "Leinster",
+            "IE-LD": "Longford",
+            "IE-LH": "Louth",
+            "IE-LK": "Limerick",
+            "IE-LM": "Leitrim",
+            "IE-LS": "Laois",
+            "IE-M": "Munster",
+            "IE-MH": "Meath",
+            "IE-MN": "Monaghan",
+            "IE-MO": "Mayo",
+            "IE-OY": "Offaly",
+            "IE-RN": "Roscommon",
+            "IE-SO": "Sligo",
+            "IE-TA": "Tipperary",
+            "IE-U": "Ulster",
+            "IE-WD": "Waterford",
+            "IE-WH": "Westmeath",
+            "IE-WW": "Wicklow",
+            "IE-WX": "Wexford"
         }
     },
     {
@@ -13917,13 +14481,14 @@
             "IQ-DQ": "Dhī Qār",
             "IQ-KA": "Karbalā’",
             "IQ-KI": "Kirkūk",
-            "IQ-KR": "Al Muthanná",
-            "IQ-MA": "An Najaf",
-            "IQ-MU": "Nīnawá",
-            "IQ-NA": "Al Qādisīyah",
-            "IQ-NI": "Şalāḩ ad Dīn",
-            "IQ-QA": "As Sulaymānīyah",
-            "IQ-SD": "Wāsiţ"
+            "IQ-KR": "Maysān",
+            "IQ-MA": "Al Muthanná",
+            "IQ-MU": "An Najaf",
+            "IQ-NA": "Nīnawá",
+            "IQ-NI": "Al Qādisīyah",
+            "IQ-QA": "Şalāḩ ad Dīn",
+            "IQ-SD": "As Sulaymānīyah",
+            "IQ-SU": "Wāsiţ"
         }
     },
     {
@@ -14174,6 +14739,341 @@
             "IS-TAL": "Tálknafjarðarhreppur",
             "IS-THG": "Þingeyjarsveit",
             "IS-VER": "Vesturbyggð"
+        }
+    },
+    {
+        "name": {
+            "common": "Italy",
+            "official": "Italian Republic",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica italiana",
+                    "common": "Italia"
+                }
+            }
+        },
+        "tld": [
+            ".it"
+        ],
+        "cca2": "IT",
+        "ccn3": "380",
+        "cca3": "ITA",
+        "cioc": "ITA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "9"
+            ]
+        },
+        "capital": [
+            "Rome"
+        ],
+        "altSpellings": [
+            "IT",
+            "Italian Republic",
+            "Repubblica italiana"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "ita": "Italian"
+        },
+        "translations": {
+            "ara": {
+                "official": "الجمهورية الإيطالية",
+                "common": "إيطاليا"
+            },
+            "bre": {
+                "official": "Republik Italia",
+                "common": "Italia"
+            },
+            "ces": {
+                "official": "Italská republika",
+                "common": "Itálie"
+            },
+            "cym": {
+                "official": "Italian Republic",
+                "common": "Italy"
+            },
+            "deu": {
+                "official": "Italienische Republik",
+                "common": "Italien"
+            },
+            "est": {
+                "official": "Itaalia Vabariik",
+                "common": "Itaalia"
+            },
+            "fin": {
+                "official": "Italian tasavalta",
+                "common": "Italia"
+            },
+            "fra": {
+                "official": "République italienne",
+                "common": "Italie"
+            },
+            "hrv": {
+                "official": "talijanska Republika",
+                "common": "Italija"
+            },
+            "hun": {
+                "official": "Olasz Köztársaság",
+                "common": "Olaszország"
+            },
+            "ita": {
+                "official": "Repubblica italiana",
+                "common": "Italia"
+            },
+            "jpn": {
+                "official": "イタリア共和国",
+                "common": "イタリア"
+            },
+            "kor": {
+                "official": "이탈리아 공화국",
+                "common": "이탈리아"
+            },
+            "nld": {
+                "official": "Italiaanse Republiek",
+                "common": "Italië"
+            },
+            "per": {
+                "official": "جمهوری ایتالیا",
+                "common": "ایتالیا"
+            },
+            "pol": {
+                "official": "Republika Włoska",
+                "common": "Włochy"
+            },
+            "por": {
+                "official": "República Italiana",
+                "common": "Itália"
+            },
+            "rus": {
+                "official": "итальянская Республика",
+                "common": "Италия"
+            },
+            "slk": {
+                "official": "Talianska republika",
+                "common": "Taliansko"
+            },
+            "spa": {
+                "official": "República Italiana",
+                "common": "Italia"
+            },
+            "swe": {
+                "official": "Republiken Italien",
+                "common": "Italien"
+            },
+            "tur": {
+                "official": "İtalyan Cumhuriyeti",
+                "common": "İtalya"
+            },
+            "urd": {
+                "official": "جمہوریہ اطالیہ",
+                "common": "اطالیہ"
+            },
+            "zho": {
+                "official": "意大利共和国",
+                "common": "意大利"
+            }
+        },
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ],
+        "landlocked": false,
+        "borders": [
+            "AUT",
+            "FRA",
+            "SMR",
+            "SVN",
+            "CHE",
+            "VAT"
+        ],
+        "area": 301336.0,
+        "demonyms": {
+            "eng": {
+                "f": "Italian",
+                "m": "Italian"
+            },
+            "fra": {
+                "f": "Italienne",
+                "m": "Italien"
+            }
+        },
+        "flag": "🇮🇹",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+        },
+        "population": 59554023,
+        "gini": {
+            "2017": 35.9
+        },
+        "fifa": "ITA",
+        "car": {
+            "signs": [
+                "I"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/it.png",
+            "svg": "https://flagcdn.com/it.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/it.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/it.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                41.9,
+                12.48
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        },
+        "Subdivisions": {
+            "IT-21": "Piemonte",
+            "IT-23": "Val d'Aoste",
+            "IT-25": "Lombardia",
+            "IT-32": "Trentino-Alto Adige",
+            "IT-34": "Veneto",
+            "IT-36": "Friuli Venezia Giulia",
+            "IT-42": "Liguria",
+            "IT-45": "Emilia-Romagna",
+            "IT-52": "Toscana",
+            "IT-55": "Umbria",
+            "IT-57": "Marche",
+            "IT-62": "Lazio",
+            "IT-65": "Abruzzo",
+            "IT-67": "Molise",
+            "IT-72": "Campania",
+            "IT-75": "Puglia",
+            "IT-77": "Basilicata",
+            "IT-78": "Calabria",
+            "IT-82": "Sicilia",
+            "IT-88": "Sardegna",
+            "IT-AG": "Agrigento",
+            "IT-AL": "Alessandria",
+            "IT-AN": "Ancona",
+            "IT-AP": "Ascoli Piceno",
+            "IT-AQ": "L'Aquila",
+            "IT-AR": "Arezzo",
+            "IT-AT": "Asti",
+            "IT-AV": "Avellino",
+            "IT-BA": "Bari",
+            "IT-BG": "Bergamo",
+            "IT-BI": "Biella",
+            "IT-BL": "Belluno",
+            "IT-BN": "Benevento",
+            "IT-BO": "Bologna",
+            "IT-BR": "Brindisi",
+            "IT-BS": "Brescia",
+            "IT-BT": "Barletta-Andria-Trani",
+            "IT-BZ": "Bolzano",
+            "IT-CA": "Cagliari",
+            "IT-CB": "Campobasso",
+            "IT-CE": "Caserta",
+            "IT-CH": "Chieti",
+            "IT-CL": "Caltanissetta",
+            "IT-CN": "Cuneo",
+            "IT-CO": "Como",
+            "IT-CR": "Cremona",
+            "IT-CT": "Catania",
+            "IT-CZ": "Catanzaro",
+            "IT-EN": "Enna",
+            "IT-FC": "Forlì-Cesena",
+            "IT-FE": "Ferrara",
+            "IT-FG": "Foggia",
+            "IT-FI": "Firenze",
+            "IT-FM": "Fermo",
+            "IT-FR": "Frosinone",
+            "IT-GE": "Genova",
+            "IT-GO": "Gorizia",
+            "IT-GR": "Grosseto",
+            "IT-IM": "Imperia",
+            "IT-IS": "Isernia",
+            "IT-KR": "Crotone",
+            "IT-LC": "Lecco",
+            "IT-LE": "Lecce",
+            "IT-LI": "Livorno",
+            "IT-LO": "Lodi",
+            "IT-LT": "Latina",
+            "IT-LU": "Lucca",
+            "IT-MB": "Monza e Brianza",
+            "IT-MC": "Macerata",
+            "IT-ME": "Messina",
+            "IT-MI": "Milano",
+            "IT-MN": "Mantova",
+            "IT-MO": "Modena",
+            "IT-MS": "Massa-Carrara",
+            "IT-MT": "Matera",
+            "IT-NA": "Napoli",
+            "IT-NO": "Novara",
+            "IT-OR": "Oristano",
+            "IT-PA": "Palermo",
+            "IT-PC": "Piacenza",
+            "IT-PD": "Padova",
+            "IT-PE": "Pescara",
+            "IT-PG": "Perugia",
+            "IT-PI": "Pisa",
+            "IT-PN": "Pordenone",
+            "IT-PO": "Prato",
+            "IT-PR": "Parma",
+            "IT-PT": "Pistoia",
+            "IT-PU": "Pesaro e Urbino",
+            "IT-PV": "Pavia",
+            "IT-PZ": "Potenza",
+            "IT-RA": "Ravenna",
+            "IT-RC": "Reggio Calabria",
+            "IT-RE": "Reggio Emilia",
+            "IT-RG": "Ragusa",
+            "IT-RI": "Rieti",
+            "IT-RM": "Roma",
+            "IT-RN": "Rimini",
+            "IT-RO": "Rovigo",
+            "IT-SA": "Salerno",
+            "IT-SI": "Siena",
+            "IT-SO": "Sondrio",
+            "IT-SP": "La Spezia",
+            "IT-SR": "Siracusa",
+            "IT-SS": "Sassari",
+            "IT-SV": "Savona",
+            "IT-TA": "Taranto",
+            "IT-TE": "Teramo",
+            "IT-TN": "Trento",
+            "IT-TO": "Torino",
+            "IT-TP": "Trapani",
+            "IT-TR": "Terni",
+            "IT-TS": "Trieste",
+            "IT-TV": "Treviso",
+            "IT-UD": "Udine",
+            "IT-VA": "Varese",
+            "IT-VB": "Verbano-Cusio-Ossola",
+            "IT-VC": "Vercelli",
+            "IT-VE": "Venezia",
+            "IT-VI": "Vicenza",
+            "IT-VR": "Verona",
+            "IT-VT": "Viterbo",
+            "IT-VV": "Vibo Valentia"
         }
     },
     {
@@ -14644,32 +15544,44 @@
         "Subdivisions": {
             "KE-01": "Baringo",
             "KE-02": "Bomet",
+            "KE-03": "Bungoma",
             "KE-04": "Busia",
             "KE-05": "Elgeyo/Marakwet",
             "KE-06": "Embu",
+            "KE-07": "Garissa",
             "KE-08": "Homa Bay",
+            "KE-09": "Isiolo",
             "KE-10": "Kajiado",
+            "KE-11": "Kakamega",
             "KE-12": "Kericho",
             "KE-13": "Kiambu",
             "KE-14": "Kilifi",
             "KE-15": "Kirinyaga",
+            "KE-16": "Kisii",
             "KE-17": "Kisumu",
             "KE-18": "Kitui",
             "KE-19": "Kwale",
             "KE-20": "Laikipia",
+            "KE-21": "Lamu",
             "KE-22": "Machakos",
             "KE-23": "Makueni",
             "KE-24": "Mandera",
             "KE-25": "Marsabit",
             "KE-26": "Meru",
+            "KE-27": "Migori",
             "KE-28": "Mombasa",
             "KE-29": "Murang'a",
             "KE-30": "Nairobi City",
+            "KE-31": "Nakuru",
             "KE-32": "Nandi",
+            "KE-33": "Narok",
+            "KE-34": "Nyamira",
             "KE-35": "Nyandarua",
+            "KE-36": "Nyeri",
             "KE-37": "Samburu",
             "KE-38": "Siaya",
             "KE-39": "Taita/Taveta",
+            "KE-40": "Tana River",
             "KE-41": "Tharaka-Nithi",
             "KE-42": "Trans Nzoia",
             "KE-43": "Turkana",
@@ -15675,7 +16587,7 @@
             },
             "slk": {
                 "official": "Kórejská ľudovodemokratická republika",
-                "common": "Kórejská ľudovodemokratická republika (KĽR, Severná Kórea)"
+                "common": "Severná Kórea"
             },
             "spa": {
                 "official": "República Popular Democrática de Corea",
@@ -17391,17 +18303,18 @@
             "regex": "^(\\d{4})$"
         },
         "Subdivisions": {
-            "LU-CA.svg": "Clerf",
-            "LU-CL": "Diekirch",
-            "LU-DI": "Echternach",
-            "LU-EC": "Esch an der Alzette",
-            "LU-ES": "Grevenmacher",
-            "LU-GR": "Luxembourg",
-            "LU-LU": "Mersch",
-            "LU-ME": "Redange",
-            "LU-RD": "Remich",
-            "LU-RM": "Veianen",
-            "LU-VD": "Wiltz"
+            "LU-CA": "Capellen",
+            "LU-CL": "Clerf",
+            "LU-DI": "Diekirch",
+            "LU-EC": "Echternach",
+            "LU-ES": "Esch an der Alzette",
+            "LU-GR": "Grevenmacher",
+            "LU-LU": "Luxembourg",
+            "LU-ME": "Mersch",
+            "LU-RD": "Redange",
+            "LU-RM": "Remich",
+            "LU-VD": "Veianen",
+            "LU-WI": "Wiltz"
         }
     },
     {
@@ -17623,9 +18536,12 @@
             "LV-041": "Jelgavas novads",
             "LV-042": "Jēkabpils novads",
             "LV-047": "Krāslavas novads",
+            "LV-050": "Kuldīgas novads",
             "LV-052": "Ķekavas novads",
+            "LV-054": "Limbažu novads",
             "LV-056": "Līvānu novads",
             "LV-058": "Ludzas novads",
+            "LV-059": "Madonas novads",
             "LV-062": "Mārupes novads",
             "LV-067": "Ogres novads",
             "LV-068": "Olaines novads",
@@ -17643,12 +18559,12 @@
             "LV-102": "Varakļānu novads",
             "LV-106": "Ventspils novads",
             "LV-112": "Daugavpils",
-            "LV-50": "Jelgava",
-            "LV-54": "Jūrmala",
-            "LV-DGV": "Liepāja",
-            "LV-JEL": "Rēzekne",
-            "LV-JUR": "Rīga",
-            "LV-LPX": "Ventspils"
+            "LV-113": "Jelgava",
+            "LV-DGV": "Jūrmala",
+            "LV-JEL": "Liepāja",
+            "LV-JUR": "Rēzekne",
+            "LV-LPX": "Rīga",
+            "LV-REZ": "Ventspils"
         }
     },
     {
@@ -18079,6 +18995,7 @@
             "MA-10": "Guelmim-Oued Noun (EH-partial)",
             "MA-12": "Dakhla-Oued Ed-Dahab (EH)",
             "MA-BOD": "Boujdour (EH)",
+            "MA-BOM": "Boulemane",
             "MA-CAS": "Casablanca",
             "MA-ESI": "Essaouira",
             "MA-FES": "Fès",
@@ -18785,6 +19702,299 @@
     },
     {
         "name": {
+            "common": "North Macedonia",
+            "official": "Republic of North Macedonia",
+            "nativeName": {
+                "mkd": {
+                    "official": "Република Северна Македонија",
+                    "common": "Македонија"
+                }
+            }
+        },
+        "tld": [
+            ".mk"
+        ],
+        "cca2": "MK",
+        "ccn3": "807",
+        "cca3": "MKD",
+        "cioc": "MKD",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "MKD": {
+                "name": "denar",
+                "symbol": "den"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "89"
+            ]
+        },
+        "capital": [
+            "Skopje"
+        ],
+        "altSpellings": [
+            "MK",
+            "The former Yugoslav Republic of Macedonia",
+            "Republic of North Macedonia",
+            "Macedonia, The Former Yugoslav Republic of",
+            "Република Северна Македонија"
+        ],
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "languages": {
+            "mkd": "Macedonian"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية شمال مقدونيا",
+                "common": "شمال مقدونيا"
+            },
+            "bre": {
+                "official": "Republik Makedonia an Norzh",
+                "common": "Makedonia an Norzh"
+            },
+            "ces": {
+                "official": "Republika Severní Makedonie",
+                "common": "Severní Makedonie"
+            },
+            "cym": {
+                "official": "Republic of North Macedonia",
+                "common": "North Macedonia"
+            },
+            "deu": {
+                "official": "Republik Nordmazedonien",
+                "common": "Nordmazedonien"
+            },
+            "est": {
+                "official": "Põhja-Makedoonia Vabariik",
+                "common": "Põhja-Makedoonia"
+            },
+            "fin": {
+                "official": "Pohjois-Makedonian tasavalta",
+                "common": "Pohjois-Makedonia"
+            },
+            "fra": {
+                "official": "République de Macédoine du Nord",
+                "common": "Macédoine du Nord"
+            },
+            "hrv": {
+                "official": "Republika Sjeverna Makedonija",
+                "common": "Sjeverna Makedonija"
+            },
+            "hun": {
+                "official": "Észak-macedón Köztársaság",
+                "common": "Észak-Macedónia"
+            },
+            "ita": {
+                "official": "Repubblica di Macedonia del Nord",
+                "common": "Macedonia del Nord"
+            },
+            "jpn": {
+                "official": "北マケドニア共和国",
+                "common": "北マケドニア "
+            },
+            "kor": {
+                "official": "북마케도니아 공화국",
+                "common": "북마케도니아"
+            },
+            "nld": {
+                "official": "Republiek Noord-Macedonië",
+                "common": "Noord-Macedonië"
+            },
+            "per": {
+                "official": "جمهوری مقدونیه شمالی",
+                "common": "مقدونیه شمالی"
+            },
+            "pol": {
+                "official": "Republika Macedonii Północnej",
+                "common": "Macedonia Północna"
+            },
+            "por": {
+                "official": "República da Macedônia do Norte",
+                "common": "Macedónia do Norte"
+            },
+            "rus": {
+                "official": "Республика Северная Македония",
+                "common": "Северная Македония"
+            },
+            "slk": {
+                "official": "Severomacedónska republika",
+                "common": "Severné Macedónsko"
+            },
+            "spa": {
+                "official": "República de Macedonia del Norte",
+                "common": "Macedonia del Norte"
+            },
+            "swe": {
+                "official": "Republiken Nordmakedonien",
+                "common": "Nordmakedonien"
+            },
+            "tur": {
+                "official": "Kuzey Makedonya Cumhuriyeti",
+                "common": "Kuzey Makedonya"
+            },
+            "urd": {
+                "official": "جمہوریہ مقدونیہ",
+                "common": "شمالی مقدونیہ"
+            },
+            "zho": {
+                "official": "北馬其頓共和國",
+                "common": "北馬其頓"
+            }
+        },
+        "latlng": [
+            41.83333333,
+            22.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "ALB",
+            "BGR",
+            "GRC",
+            "UNK",
+            "SRB"
+        ],
+        "area": 25713.0,
+        "demonyms": {
+            "eng": {
+                "f": "Macedonian",
+                "m": "Macedonian"
+            },
+            "fra": {
+                "f": "Macédonienne",
+                "m": "Macédonien"
+            }
+        },
+        "flag": "🇲🇰",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+        },
+        "population": 2077132,
+        "gini": {
+            "2018": 33.0
+        },
+        "fifa": "MKD",
+        "car": {
+            "signs": [
+                "MK"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/mk.png",
+            "svg": "https://flagcdn.com/mk.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/mk.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/mk.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                42.0,
+                21.43
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        },
+        "Subdivisions": {
+            "MK-101": "Veles",
+            "MK-102": "Gradsko",
+            "MK-103": "Demir Kapija",
+            "MK-104": "Kavadarci",
+            "MK-105": "Lozovo",
+            "MK-106": "Negotino",
+            "MK-107": "Rosoman",
+            "MK-108": "Sveti Nikole",
+            "MK-109": "Čaška",
+            "MK-201": "Berovo",
+            "MK-202": "Vinica",
+            "MK-203": "Delčevo",
+            "MK-204": "Zrnovci",
+            "MK-205": "Karbinci",
+            "MK-206": "Kočani",
+            "MK-207": "Makedonska Kamenica",
+            "MK-208": "Pehčevo",
+            "MK-209": "Probištip",
+            "MK-210": "Češinovo-Obleševo",
+            "MK-211": "Štip",
+            "MK-301": "Vevčani",
+            "MK-303": "Debar",
+            "MK-304": "Debrca",
+            "MK-307": "Kičevo",
+            "MK-308": "Makedonski Brod",
+            "MK-310": "Ohrid",
+            "MK-311": "Plasnica",
+            "MK-312": "Struga",
+            "MK-313": "Centar Župa",
+            "MK-401": "Bogdanci",
+            "MK-402": "Bosilovo",
+            "MK-403": "Valandovo",
+            "MK-404": "Vasilevo",
+            "MK-405": "Gevgelija",
+            "MK-406": "Dojran",
+            "MK-407": "Konče",
+            "MK-408": "Novo Selo",
+            "MK-409": "Radoviš",
+            "MK-410": "Strumica",
+            "MK-501": "Bitola",
+            "MK-502": "Demir Hisar",
+            "MK-503": "Dolneni",
+            "MK-504": "Krivogaštani",
+            "MK-505": "Kruševo",
+            "MK-506": "Mogila",
+            "MK-507": "Novaci",
+            "MK-508": "Prilep",
+            "MK-509": "Resen",
+            "MK-601": "Bogovinje",
+            "MK-602": "Brvenica",
+            "MK-603": "Vrapčište",
+            "MK-604": "Gostivar",
+            "MK-605": "Želino",
+            "MK-606": "Jegunovce",
+            "MK-607": "Mavrovo i Rostuše",
+            "MK-608": "Tearce",
+            "MK-609": "Tetovo",
+            "MK-701": "Kratovo",
+            "MK-702": "Kriva Palanka",
+            "MK-703": "Kumanovo",
+            "MK-704": "Lipkovo",
+            "MK-705": "Rankovce",
+            "MK-706": "Staro Nagoričane",
+            "MK-801": "Aerodrom †",
+            "MK-802": "Aračinovo",
+            "MK-803": "Butel †",
+            "MK-804": "Gazi Baba †",
+            "MK-805": "Gjorče Petrov †",
+            "MK-806": "Zelenikovo",
+            "MK-807": "Ilinden",
+            "MK-808": "Karpoš †",
+            "MK-809": "Kisela Voda †",
+            "MK-810": "Petrovec",
+            "MK-811": "Saraj †",
+            "MK-812": "Sopište",
+            "MK-813": "Studeničani",
+            "MK-814": "Centar †",
+            "MK-815": "Čair †",
+            "MK-816": "Čučer-Sandevo",
+            "MK-817": "Šuto Orizari †"
+        }
+    },
+    {
+        "name": {
             "common": "Mali",
             "official": "Republic of Mali",
             "nativeName": {
@@ -19447,6 +20657,283 @@
             "MN-071": "Bayan-Ölgiy",
             "MN-073": "Arhangay",
             "MN-1": "Ulaanbaatar"
+        }
+    },
+    {
+        "name": {
+            "common": "Malta",
+            "official": "Republic of Malta",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Malta",
+                    "common": "Malta"
+                },
+                "mlt": {
+                    "official": "Repubblika ta ' Malta",
+                    "common": "Malta"
+                }
+            }
+        },
+        "tld": [
+            ".mt"
+        ],
+        "cca2": "MT",
+        "ccn3": "470",
+        "cca3": "MLT",
+        "cioc": "MLT",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "56"
+            ]
+        },
+        "capital": [
+            "Valletta"
+        ],
+        "altSpellings": [
+            "MT",
+            "Republic of Malta",
+            "Repubblika ta' Malta"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "languages": {
+            "eng": "English",
+            "mlt": "Maltese"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية مالطا",
+                "common": "مالطا"
+            },
+            "bre": {
+                "official": "Republik Malta",
+                "common": "Malta"
+            },
+            "ces": {
+                "official": "Maltská republika",
+                "common": "Malta"
+            },
+            "cym": {
+                "official": "Republic of Malta",
+                "common": "Malta"
+            },
+            "deu": {
+                "official": "Republik Malta",
+                "common": "Malta"
+            },
+            "est": {
+                "official": "Malta Vabariik",
+                "common": "Malta"
+            },
+            "fin": {
+                "official": "Maltan tasavalta",
+                "common": "Malta"
+            },
+            "fra": {
+                "official": "République de Malte",
+                "common": "Malte"
+            },
+            "hrv": {
+                "official": "Republika Malta",
+                "common": "Malta"
+            },
+            "hun": {
+                "official": "Máltai Köztársaság",
+                "common": "Málta"
+            },
+            "ita": {
+                "official": "Repubblica di Malta",
+                "common": "Malta"
+            },
+            "jpn": {
+                "official": "マルタ共和国",
+                "common": "マルタ"
+            },
+            "kor": {
+                "official": "몰타 공화국",
+                "common": "몰타"
+            },
+            "nld": {
+                "official": "Republiek Malta",
+                "common": "Malta"
+            },
+            "per": {
+                "official": "جمهوری مالت",
+                "common": "مالت"
+            },
+            "pol": {
+                "official": "Republika Malty",
+                "common": "Malta"
+            },
+            "por": {
+                "official": "República de Malta",
+                "common": "Malta"
+            },
+            "rus": {
+                "official": "Республика Мальта",
+                "common": "Мальта"
+            },
+            "slk": {
+                "official": "Maltská republika",
+                "common": "Malta"
+            },
+            "spa": {
+                "official": "República de Malta",
+                "common": "Malta"
+            },
+            "swe": {
+                "official": "Republiken Malta",
+                "common": "Malta"
+            },
+            "tur": {
+                "official": "Malta Cumhuriyeti",
+                "common": "Malta"
+            },
+            "urd": {
+                "official": "جمہوریہ مالٹا",
+                "common": "مالٹا"
+            },
+            "zho": {
+                "official": "马耳他共和国",
+                "common": "马耳他"
+            }
+        },
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ],
+        "landlocked": false,
+        "area": 316.0,
+        "demonyms": {
+            "eng": {
+                "f": "Maltese",
+                "m": "Maltese"
+            },
+            "fra": {
+                "f": "Maltaise",
+                "m": "Maltais"
+            }
+        },
+        "flag": "🇲🇹",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
+        },
+        "population": 525285,
+        "gini": {
+            "2018": 28.7
+        },
+        "fifa": "MLT",
+        "car": {
+            "signs": [
+                "M"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/mt.png",
+            "svg": "https://flagcdn.com/mt.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/mt.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/mt.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                35.88,
+                14.5
+            ]
+        },
+        "postalCode": {
+            "format": "@@@ ###|@@@ ##",
+            "regex": "^([A-Z]{3}\\d{2}\\d?)$"
+        },
+        "Subdivisions": {
+            "MT-01": "Attard",
+            "MT-02": "Balzan",
+            "MT-03": "Birgu",
+            "MT-04": "Birkirkara",
+            "MT-05": "Birżebbuġa",
+            "MT-06": "Bormla",
+            "MT-07": "Dingli",
+            "MT-08": "Fgura",
+            "MT-09": "Floriana",
+            "MT-10": "Fontana",
+            "MT-11": "Gudja",
+            "MT-12": "Gżira",
+            "MT-13": "Għajnsielem",
+            "MT-14": "Għarb",
+            "MT-15": "Għargħur",
+            "MT-16": "Għasri",
+            "MT-17": "Għaxaq",
+            "MT-18": "Ħamrun",
+            "MT-19": "Iklin",
+            "MT-20": "Isla",
+            "MT-21": "Kalkara",
+            "MT-22": "Kerċem",
+            "MT-23": "Kirkop",
+            "MT-24": "Lija",
+            "MT-25": "Luqa",
+            "MT-26": "Marsa",
+            "MT-27": "Marsaskala",
+            "MT-28": "Marsaxlokk",
+            "MT-29": "Mdina",
+            "MT-30": "Mellieħa",
+            "MT-31": "Mġarr",
+            "MT-32": "Mosta",
+            "MT-33": "Mqabba",
+            "MT-34": "Msida",
+            "MT-35": "Mtarfa",
+            "MT-36": "Munxar",
+            "MT-37": "Nadur",
+            "MT-38": "Naxxar",
+            "MT-39": "Paola",
+            "MT-40": "Pembroke",
+            "MT-41": "Pietà",
+            "MT-42": "Qala",
+            "MT-43": "Qormi",
+            "MT-44": "Qrendi",
+            "MT-45": "Rabat Gozo",
+            "MT-46": "Rabat Malta",
+            "MT-47": "Safi",
+            "MT-48": "Saint Julian's",
+            "MT-49": "Saint John",
+            "MT-50": "Saint Lawrence",
+            "MT-51": "Saint Paul's Bay",
+            "MT-52": "Sannat",
+            "MT-53": "Saint Lucia's",
+            "MT-54": "Santa Venera",
+            "MT-55": "Siġġiewi",
+            "MT-56": "Sliema",
+            "MT-57": "Swieqi",
+            "MT-58": "Ta' Xbiex",
+            "MT-59": "Tarxien",
+            "MT-60": "Valletta",
+            "MT-61": "Xagħra",
+            "MT-62": "Xewkija",
+            "MT-63": "Xgħajra",
+            "MT-64": "Żabbar",
+            "MT-65": "Żebbuġ Gozo",
+            "MT-66": "Żebbuġ Malta",
+            "MT-67": "Żejtun",
+            "MT-68": "Żurrieq"
         }
     },
     {
@@ -20342,7 +21829,15 @@
             "format": "####",
             "regex": "^(\\d{4})$"
         },
-        "Subdivisions": {}
+        "Subdivisions": {
+            "MZ-I": "Inhambane",
+            "MZ-L": "Maputo",
+            "MZ-MPM": "Maputo",
+            "MZ-N": "Nampula",
+            "MZ-P": "Cabo Delgado",
+            "MZ-S": "Sofala",
+            "MZ-T": "Tete"
+        }
     },
     {
         "name": {
@@ -22627,88 +24122,89 @@
             "regex": "^(\\d{4})$"
         },
         "Subdivisions": {
-            "PH-14.svg": "Cordillera Administrative Region (CAR)",
-            "PH-15": "Abra",
-            "PH-ABR": "Agusan del Norte",
-            "PH-AGN": "Agusan del Sur",
-            "PH-AGS": "Aklan",
-            "PH-AKL": "Albay",
-            "PH-ALB": "Antique",
-            "PH-ANT": "Apayao",
-            "PH-APA": "Aurora",
-            "PH-AUR": "Bataan",
-            "PH-BAN": "Basilan",
-            "PH-BAS": "Benguet",
-            "PH-BEN": "Biliran",
-            "PH-BIL": "Bohol",
-            "PH-BOH": "Batangas",
-            "PH-BTG": "Batanes",
-            "PH-BTN": "Bukidnon",
-            "PH-BUK": "Bulacan",
-            "PH-BUL": "Cagayan",
-            "PH-CAG": "Camiguin",
-            "PH-CAM": "Camarines Norte",
-            "PH-CAN": "Capiz",
-            "PH-CAP": "Camarines Sur",
-            "PH-CAS": "Catanduanes",
-            "PH-CAT": "Cavite",
-            "PH-CAV": "Cebu",
-            "PH-CEB": "Davao de Oro",
-            "PH-COM": "Davao Oriental",
-            "PH-DAO": "Davao del Sur",
-            "PH-DAS": "Davao del Norte",
-            "PH-DAV": "Dinagat Islands",
-            "PH-DIN": "Davao Occidental",
-            "PH-DVO": "Eastern Samar",
-            "PH-EAS": "Guimaras",
-            "PH-GUI": "Ifugao",
-            "PH-IFU": "Iloilo",
-            "PH-ILI": "Ilocos Norte",
-            "PH-ILN": "Ilocos Sur",
-            "PH-ILS": "Isabela",
-            "PH-ISA": "Kalinga",
-            "PH-KAL": "Laguna",
-            "PH-LAG": "Lanao del Norte",
-            "PH-LAN": "Lanao del Sur",
-            "PH-LAS": "Leyte",
-            "PH-LEY": "La Union",
-            "PH-LUN": "Marinduque",
-            "PH-MAD": "Maguindanao",
-            "PH-MAG": "Masbate",
-            "PH-MAS": "Mindoro Occidental",
-            "PH-MDC": "Mindoro Oriental",
-            "PH-MDR": "Mountain Province",
-            "PH-MOU": "Misamis Occidental",
-            "PH-MSC": "Misamis Oriental",
-            "PH-MSR": "Cotabato",
-            "PH-NCO": "Negros Occidental",
-            "PH-NEC": "Negros Oriental",
-            "PH-NER": "Northern Samar",
-            "PH-NSA": "Nueva Ecija",
-            "PH-NUE": "Nueva Vizcaya",
-            "PH-NUV": "Pampanga",
-            "PH-PAM": "Pangasinan",
-            "PH-PAN": "Palawan",
-            "PH-PLW": "Quezon",
-            "PH-QUE": "Quirino",
-            "PH-QUI": "Rizal",
-            "PH-RIZ": "Romblon",
-            "PH-ROM": "Sarangani",
-            "PH-SAR": "South Cotabato",
-            "PH-SCO": "Siquijor",
-            "PH-SIG": "Southern Leyte",
-            "PH-SLE": "Sulu",
-            "PH-SLU": "Sorsogon",
-            "PH-SOR": "Sultan Kudarat",
-            "PH-SUK": "Surigao del Norte",
-            "PH-SUN": "Surigao del Sur",
-            "PH-SUR": "Tarlac",
-            "PH-TAR": "Tawi-Tawi",
-            "PH-TAW": "Samar",
-            "PH-WSA": "Zamboanga del Norte",
-            "PH-ZAN": "Zamboanga del Sur",
-            "PH-ZAS": "Zambales",
-            "PH-ZMB": "Zamboanga Sibugay"
+            "PH-14": "Autonomous Region in Muslim Mindanao (ARMM)",
+            "PH-15": "Cordillera Administrative Region (CAR)",
+            "PH-ABR": "Abra",
+            "PH-AGN": "Agusan del Norte",
+            "PH-AGS": "Agusan del Sur",
+            "PH-AKL": "Aklan",
+            "PH-ALB": "Albay",
+            "PH-ANT": "Antique",
+            "PH-APA": "Apayao",
+            "PH-AUR": "Aurora",
+            "PH-BAN": "Bataan",
+            "PH-BAS": "Basilan",
+            "PH-BEN": "Benguet",
+            "PH-BIL": "Biliran",
+            "PH-BOH": "Bohol",
+            "PH-BTG": "Batangas",
+            "PH-BTN": "Batanes",
+            "PH-BUK": "Bukidnon",
+            "PH-BUL": "Bulacan",
+            "PH-CAG": "Cagayan",
+            "PH-CAM": "Camiguin",
+            "PH-CAN": "Camarines Norte",
+            "PH-CAP": "Capiz",
+            "PH-CAS": "Camarines Sur",
+            "PH-CAT": "Catanduanes",
+            "PH-CAV": "Cavite",
+            "PH-CEB": "Cebu",
+            "PH-COM": "Davao de Oro",
+            "PH-DAO": "Davao Oriental",
+            "PH-DAS": "Davao del Sur",
+            "PH-DAV": "Davao del Norte",
+            "PH-DIN": "Dinagat Islands",
+            "PH-DVO": "Davao Occidental",
+            "PH-EAS": "Eastern Samar",
+            "PH-GUI": "Guimaras",
+            "PH-IFU": "Ifugao",
+            "PH-ILI": "Iloilo",
+            "PH-ILN": "Ilocos Norte",
+            "PH-ILS": "Ilocos Sur",
+            "PH-ISA": "Isabela",
+            "PH-KAL": "Kalinga",
+            "PH-LAG": "Laguna",
+            "PH-LAN": "Lanao del Norte",
+            "PH-LAS": "Lanao del Sur",
+            "PH-LEY": "Leyte",
+            "PH-LUN": "La Union",
+            "PH-MAD": "Marinduque",
+            "PH-MAG": "Maguindanao",
+            "PH-MAS": "Masbate",
+            "PH-MDC": "Mindoro Occidental",
+            "PH-MDR": "Mindoro Oriental",
+            "PH-MOU": "Mountain Province",
+            "PH-MSC": "Misamis Occidental",
+            "PH-MSR": "Misamis Oriental",
+            "PH-NCO": "Cotabato",
+            "PH-NEC": "Negros Occidental",
+            "PH-NER": "Negros Oriental",
+            "PH-NSA": "Northern Samar",
+            "PH-NUE": "Nueva Ecija",
+            "PH-NUV": "Nueva Vizcaya",
+            "PH-PAM": "Pampanga",
+            "PH-PAN": "Pangasinan",
+            "PH-PLW": "Palawan",
+            "PH-QUE": "Quezon",
+            "PH-QUI": "Quirino",
+            "PH-RIZ": "Rizal",
+            "PH-ROM": "Romblon",
+            "PH-SAR": "Sarangani",
+            "PH-SCO": "South Cotabato",
+            "PH-SIG": "Siquijor",
+            "PH-SLE": "Southern Leyte",
+            "PH-SLU": "Sulu",
+            "PH-SOR": "Sorsogon",
+            "PH-SUK": "Sultan Kudarat",
+            "PH-SUN": "Surigao del Norte",
+            "PH-SUR": "Surigao del Sur",
+            "PH-TAR": "Tarlac",
+            "PH-TAW": "Tawi-Tawi",
+            "PH-WSA": "Samar",
+            "PH-ZAN": "Zamboanga del Norte",
+            "PH-ZAS": "Zamboanga del Sur",
+            "PH-ZMB": "Zambales",
+            "PH-ZSI": "Zamboanga Sibugay"
         }
     },
     {
@@ -23161,200 +24657,6 @@
             "PL-30": "Wielkopolskie",
             "PL-32": "Zachodniopomorskie"
         }
-    },
-    {
-        "name": {
-            "common": "Saint Pierre and Miquelon",
-            "official": "Saint Pierre and Miquelon",
-            "nativeName": {
-                "fra": {
-                    "official": "Collectivité territoriale de Saint-Pierre-et-Miquelon",
-                    "common": "Saint-Pierre-et-Miquelon"
-                }
-            }
-        },
-        "tld": [
-            ".pm"
-        ],
-        "cca2": "PM",
-        "ccn3": "666",
-        "cca3": "SPM",
-        "independent": false,
-        "status": "officially-assigned",
-        "unMember": false,
-        "currencies": {
-            "EUR": {
-                "name": "Euro",
-                "symbol": "€"
-            }
-        },
-        "idd": {
-            "root": "+5",
-            "suffixes": [
-                "08"
-            ]
-        },
-        "capital": [
-            "Saint-Pierre"
-        ],
-        "altSpellings": [
-            "PM",
-            "Collectivité territoriale de Saint-Pierre-et-Miquelon"
-        ],
-        "region": "Americas",
-        "subregion": "North America",
-        "languages": {
-            "fra": "French"
-        },
-        "translations": {
-            "ara": {
-                "official": "سان بيير وميكلون",
-                "common": "سان بيير وميكلون"
-            },
-            "bre": {
-                "official": "Sant-Pêr-ha-Mikelon",
-                "common": "Sant-Pêr-ha-Mikelon"
-            },
-            "ces": {
-                "official": "Saint-Pierre a Miquelon",
-                "common": "Saint-Pierre a Miquelon"
-            },
-            "cym": {
-                "official": "Saint Pierre and Miquelon",
-                "common": "Saint Pierre and Miquelon"
-            },
-            "deu": {
-                "official": "St. Pierre und Miquelon",
-                "common": "St. Pierre und Miquelon"
-            },
-            "est": {
-                "official": "Saint-Pierre’i ja Miqueloni territoriaalühendus",
-                "common": "Saint-Pierre ja Miquelon"
-            },
-            "fin": {
-                "official": "Saint-Pierre ja Miquelon",
-                "common": "Saint-Pierre ja Miquelon"
-            },
-            "fra": {
-                "official": "Saint-Pierre-et-Miquelon",
-                "common": "Saint-Pierre-et-Miquelon"
-            },
-            "hrv": {
-                "official": "Saint Pierre i Miquelon",
-                "common": "Sveti Petar i Mikelon"
-            },
-            "hun": {
-                "official": "Saint-Pierre és Miquelon",
-                "common": "Saint-Pierre és Miquelon"
-            },
-            "ita": {
-                "official": "Saint Pierre e Miquelon",
-                "common": "Saint-Pierre e Miquelon"
-            },
-            "jpn": {
-                "official": "サンピエール島·ミクロン島",
-                "common": "サンピエール島・ミクロン島"
-            },
-            "kor": {
-                "official": "생피에르 미클롱",
-                "common": "생피에르 미클롱"
-            },
-            "nld": {
-                "official": "Saint-Pierre en Miquelon",
-                "common": "Saint Pierre en Miquelon"
-            },
-            "per": {
-                "official": "سن-پیر-ا-میکلون",
-                "common": "سن-پیِر و میکلُن"
-            },
-            "pol": {
-                "official": "Saint-Pierre i Miquelon",
-                "common": "Saint-Pierre i Miquelon"
-            },
-            "por": {
-                "official": "Saint Pierre e Miquelon",
-                "common": "Saint-Pierre e Miquelon"
-            },
-            "rus": {
-                "official": "Сен-Пьер и Микелон",
-                "common": "Сен-Пьер и Микелон"
-            },
-            "slk": {
-                "official": "Ostrovy Saint Pierre a Miquelon",
-                "common": "Saint Pierre a Miquelon"
-            },
-            "spa": {
-                "official": "San Pedro y Miquelón",
-                "common": "San Pedro y Miquelón"
-            },
-            "swe": {
-                "official": "Saint-Pierre och Miquelon",
-                "common": "Saint-Pierre och Miquelon"
-            },
-            "tur": {
-                "official": "Saint Pierre ve Miquelon",
-                "common": "Saint Pierre ve Miquelon"
-            },
-            "urd": {
-                "official": "سینٹ پیئر و میکیلون",
-                "common": "سینٹ پیئر و میکیلون"
-            },
-            "zho": {
-                "official": "圣皮埃尔和密克隆",
-                "common": "圣皮埃尔和密克隆"
-            }
-        },
-        "latlng": [
-            46.83333333,
-            -56.33333333
-        ],
-        "landlocked": false,
-        "area": 242.0,
-        "demonyms": {
-            "eng": {
-                "f": "Saint-Pierrais, Miquelonnais",
-                "m": "Saint-Pierrais, Miquelonnais"
-            },
-            "fra": {
-                "f": "Saint-Pierraise, Miquelonaise",
-                "m": "Saint-Pierrais, Miquelonais"
-            }
-        },
-        "flag": "🇵🇲",
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/3406826"
-        },
-        "population": 6069,
-        "car": {
-            "signs": [
-                "F"
-            ],
-            "side": "right"
-        },
-        "timezones": [
-            "UTC-03:00"
-        ],
-        "continents": [
-            "North America"
-        ],
-        "flags": {
-            "png": "https://flagcdn.com/w320/pm.png",
-            "svg": "https://flagcdn.com/pm.svg"
-        },
-        "coatOfArms": {},
-        "startOfWeek": "monday",
-        "capitalInfo": {
-            "latlng": [
-                46.77,
-                -56.18
-            ]
-        },
-        "postalCode": {
-            "format": "#####",
-            "regex": "^(97500)$"
-        },
-        "Subdivisions": {}
     },
     {
         "name": {
@@ -26360,6 +27662,428 @@
     },
     {
         "name": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia",
+            "nativeName": {
+                "slv": {
+                    "official": "Republika Slovenija",
+                    "common": "Slovenija"
+                }
+            }
+        },
+        "tld": [
+            ".si"
+        ],
+        "cca2": "SI",
+        "ccn3": "705",
+        "cca3": "SVN",
+        "cioc": "SLO",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "€"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "86"
+            ]
+        },
+        "capital": [
+            "Ljubljana"
+        ],
+        "altSpellings": [
+            "SI",
+            "Republic of Slovenia",
+            "Republika Slovenija"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "languages": {
+            "slv": "Slovene"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية سلوفينيا",
+                "common": "سلوفينيا"
+            },
+            "bre": {
+                "official": "Republik Slovenia",
+                "common": "Slovenia"
+            },
+            "ces": {
+                "official": "Slovinská republika",
+                "common": "Slovinsko"
+            },
+            "cym": {
+                "official": "Republic of Slovenia",
+                "common": "Slovenia"
+            },
+            "deu": {
+                "official": "Republik Slowenien",
+                "common": "Slowenien"
+            },
+            "est": {
+                "official": "Sloveenia Vabariik",
+                "common": "Sloveenia"
+            },
+            "fin": {
+                "official": "Slovenian tasavalta",
+                "common": "Slovenia"
+            },
+            "fra": {
+                "official": "République de Slovénie",
+                "common": "Slovénie"
+            },
+            "hrv": {
+                "official": "Republika Slovenija",
+                "common": "Slovenija"
+            },
+            "hun": {
+                "official": "Szlovén Köztársaság",
+                "common": "Szlovénia"
+            },
+            "ita": {
+                "official": "Repubblica di Slovenia",
+                "common": "Slovenia"
+            },
+            "jpn": {
+                "official": "スロベニア共和国",
+                "common": "スロベニア"
+            },
+            "kor": {
+                "official": "슬로베니아 공화국",
+                "common": "슬로베니아"
+            },
+            "nld": {
+                "official": "Republiek Slovenië",
+                "common": "Slovenië"
+            },
+            "per": {
+                "official": "جمهوری اسلوونی",
+                "common": "اسلوونی"
+            },
+            "pol": {
+                "official": "Republika Słowenii",
+                "common": "Słowenia"
+            },
+            "por": {
+                "official": "República da Eslovénia",
+                "common": "Eslovénia"
+            },
+            "rus": {
+                "official": "Республика Словения",
+                "common": "Словения"
+            },
+            "slk": {
+                "official": "Slovinská republika",
+                "common": "Slovinsko"
+            },
+            "spa": {
+                "official": "República de Eslovenia",
+                "common": "Eslovenia"
+            },
+            "swe": {
+                "official": "Republiken Slovenien",
+                "common": "Slovenien"
+            },
+            "tur": {
+                "official": "Slovenya Cumhuriyeti",
+                "common": "Slovenya"
+            },
+            "urd": {
+                "official": "جمہوریہ سلووینیا",
+                "common": "سلووینیا"
+            },
+            "zho": {
+                "official": "斯洛文尼亚共和国",
+                "common": "斯洛文尼亚"
+            }
+        },
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ],
+        "landlocked": false,
+        "borders": [
+            "AUT",
+            "HRV",
+            "ITA",
+            "HUN"
+        ],
+        "area": 20273.0,
+        "demonyms": {
+            "eng": {
+                "f": "Slovene",
+                "m": "Slovene"
+            },
+            "fra": {
+                "f": "Slovène",
+                "m": "Slovène"
+            }
+        },
+        "flag": "🇸🇮",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
+        },
+        "population": 2100126,
+        "gini": {
+            "2018": 24.6
+        },
+        "fifa": "SVN",
+        "car": {
+            "signs": [
+                "SLO"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/si.png",
+            "svg": "https://flagcdn.com/si.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/si.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/si.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                46.05,
+                14.52
+            ]
+        },
+        "postalCode": {
+            "format": "SI- ####",
+            "regex": "^(?:SI)*(\\d{4})$"
+        },
+        "Subdivisions": {
+            "SI-001": "Ajdovščina",
+            "SI-002": "Beltinci",
+            "SI-003": "Bled",
+            "SI-004": "Bohinj",
+            "SI-005": "Borovnica",
+            "SI-006": "Bovec",
+            "SI-007": "Brda",
+            "SI-008": "Brezovica",
+            "SI-009": "Brežice",
+            "SI-010": "Tišina",
+            "SI-011": "Celje",
+            "SI-012": "Cerklje na Gorenjskem",
+            "SI-013": "Cerknica",
+            "SI-014": "Cerkno",
+            "SI-015": "Črenšovci",
+            "SI-016": "Črna na Koroškem",
+            "SI-017": "Črnomelj",
+            "SI-018": "Destrnik",
+            "SI-019": "Divača",
+            "SI-020": "Dobrepolje",
+            "SI-021": "Dobrova-Polhov Gradec",
+            "SI-022": "Dol pri Ljubljani",
+            "SI-023": "Domžale",
+            "SI-024": "Dornava",
+            "SI-025": "Dravograd",
+            "SI-026": "Duplek",
+            "SI-027": "Gorenja vas-Poljane",
+            "SI-028": "Gorišnica",
+            "SI-029": "Gornja Radgona",
+            "SI-030": "Gornji Grad",
+            "SI-031": "Gornji Petrovci",
+            "SI-032": "Grosuplje",
+            "SI-033": "Šalovci",
+            "SI-034": "Hrastnik",
+            "SI-035": "Hrpelje-Kozina",
+            "SI-036": "Idrija",
+            "SI-037": "Ig",
+            "SI-038": "Ilirska Bistrica",
+            "SI-039": "Ivančna Gorica",
+            "SI-040": "Izola",
+            "SI-041": "Jesenice",
+            "SI-042": "Juršinci",
+            "SI-043": "Kamnik",
+            "SI-044": "Kanal",
+            "SI-045": "Kidričevo",
+            "SI-046": "Kobarid",
+            "SI-047": "Kobilje",
+            "SI-048": "Kočevje",
+            "SI-049": "Komen",
+            "SI-050": "Koper",
+            "SI-051": "Kozje",
+            "SI-052": "Kranj",
+            "SI-053": "Kranjska Gora",
+            "SI-054": "Krško",
+            "SI-055": "Kungota",
+            "SI-056": "Kuzma",
+            "SI-057": "Laško",
+            "SI-058": "Lenart",
+            "SI-059": "Lendava",
+            "SI-060": "Litija",
+            "SI-061": "Ljubljana",
+            "SI-062": "Ljubno",
+            "SI-063": "Ljutomer",
+            "SI-064": "Logatec",
+            "SI-065": "Loška dolina",
+            "SI-066": "Loški Potok",
+            "SI-067": "Luče",
+            "SI-068": "Lukovica",
+            "SI-069": "Majšperk",
+            "SI-070": "Maribor",
+            "SI-071": "Medvode",
+            "SI-072": "Mengeš",
+            "SI-073": "Metlika",
+            "SI-074": "Mežica",
+            "SI-075": "Miren-Kostanjevica",
+            "SI-076": "Mislinja",
+            "SI-077": "Moravče",
+            "SI-078": "Moravske Toplice",
+            "SI-079": "Mozirje",
+            "SI-080": "Murska Sobota",
+            "SI-081": "Muta",
+            "SI-082": "Naklo",
+            "SI-083": "Nazarje",
+            "SI-084": "Nova Gorica",
+            "SI-085": "Novo Mesto",
+            "SI-086": "Odranci",
+            "SI-087": "Ormož",
+            "SI-088": "Osilnica",
+            "SI-089": "Pesnica",
+            "SI-090": "Piran",
+            "SI-091": "Pivka",
+            "SI-092": "Podčetrtek",
+            "SI-093": "Podvelka",
+            "SI-094": "Postojna",
+            "SI-095": "Preddvor",
+            "SI-096": "Ptuj",
+            "SI-097": "Puconci",
+            "SI-098": "Rače-Fram",
+            "SI-099": "Radeče",
+            "SI-100": "Radenci",
+            "SI-101": "Radlje ob Dravi",
+            "SI-102": "Radovljica",
+            "SI-103": "Ravne na Koroškem",
+            "SI-104": "Ribnica",
+            "SI-105": "Rogašovci",
+            "SI-106": "Rogaška Slatina",
+            "SI-107": "Rogatec",
+            "SI-108": "Ruše",
+            "SI-109": "Semič",
+            "SI-110": "Sevnica",
+            "SI-111": "Sežana",
+            "SI-112": "Slovenj Gradec",
+            "SI-113": "Slovenska Bistrica",
+            "SI-114": "Slovenske Konjice",
+            "SI-115": "Starše",
+            "SI-116": "Sveti Jurij ob Ščavnici",
+            "SI-117": "Šenčur",
+            "SI-118": "Šentilj",
+            "SI-119": "Šentjernej",
+            "SI-120": "Šentjur",
+            "SI-121": "Škocjan",
+            "SI-122": "Škofja Loka",
+            "SI-123": "Škofljica",
+            "SI-124": "Šmarje pri Jelšah",
+            "SI-125": "Šmartno ob Paki",
+            "SI-126": "Šoštanj",
+            "SI-127": "Štore",
+            "SI-128": "Tolmin",
+            "SI-129": "Trbovlje",
+            "SI-130": "Trebnje",
+            "SI-131": "Tržič",
+            "SI-132": "Turnišče",
+            "SI-133": "Velenje",
+            "SI-134": "Velike Lašče",
+            "SI-135": "Videm",
+            "SI-136": "Vipava",
+            "SI-137": "Vitanje",
+            "SI-138": "Vodice",
+            "SI-139": "Vojnik",
+            "SI-140": "Vrhnika",
+            "SI-141": "Vuzenica",
+            "SI-142": "Zagorje ob Savi",
+            "SI-143": "Zavrč",
+            "SI-144": "Zreče",
+            "SI-146": "Železniki",
+            "SI-147": "Žiri",
+            "SI-148": "Benedikt",
+            "SI-149": "Bistrica ob Sotli",
+            "SI-150": "Bloke",
+            "SI-151": "Braslovče",
+            "SI-152": "Cankova",
+            "SI-153": "Cerkvenjak",
+            "SI-154": "Dobje",
+            "SI-155": "Dobrna",
+            "SI-156": "Dobrovnik",
+            "SI-157": "Dolenjske Toplice",
+            "SI-158": "Grad",
+            "SI-159": "Hajdina",
+            "SI-160": "Hoče-Slivnica",
+            "SI-161": "Hodoš",
+            "SI-162": "Horjul",
+            "SI-163": "Jezersko",
+            "SI-164": "Komenda",
+            "SI-165": "Kostel",
+            "SI-166": "Križevci",
+            "SI-167": "Lovrenc na Pohorju",
+            "SI-168": "Markovci",
+            "SI-169": "Miklavž na Dravskem polju",
+            "SI-170": "Mirna Peč",
+            "SI-171": "Oplotnica",
+            "SI-172": "Podlehnik",
+            "SI-173": "Polzela",
+            "SI-174": "Prebold",
+            "SI-175": "Prevalje",
+            "SI-176": "Razkrižje",
+            "SI-177": "Ribnica na Pohorju",
+            "SI-178": "Selnica ob Dravi",
+            "SI-179": "Sodražica",
+            "SI-180": "Solčava",
+            "SI-181": "Sveta Ana",
+            "SI-182": "Sveti Andraž v Slovenskih goricah",
+            "SI-183": "Šempeter-Vrtojba",
+            "SI-184": "Tabor",
+            "SI-185": "Trnovska Vas",
+            "SI-186": "Trzin",
+            "SI-187": "Velika Polana",
+            "SI-188": "Veržej",
+            "SI-189": "Vransko",
+            "SI-190": "Žalec",
+            "SI-191": "Žetale",
+            "SI-192": "Žirovnica",
+            "SI-193": "Žužemberk",
+            "SI-194": "Šmartno pri Litiji",
+            "SI-195": "Apače",
+            "SI-196": "Cirkulane",
+            "SI-197": "Kosanjevica na Krki",
+            "SI-198": "Makole",
+            "SI-199": "Mokronog-Trebelno",
+            "SI-200": "Poljčane",
+            "SI-201": "Renče-Vogrsko",
+            "SI-202": "Središče ob Dravi",
+            "SI-203": "Straža",
+            "SI-204": "Sveta Trojica v Slovenskih goricah",
+            "SI-205": "Sveti Tomaž",
+            "SI-206": "Šmarješke Toplice",
+            "SI-207": "Gorje",
+            "SI-208": "Log-Dragomer",
+            "SI-209": "Rečica ob Savinji",
+            "SI-210": "Sveti Jurij v Slovenskih goricah",
+            "SI-211": "Šentrupert",
+            "SI-212": "Mirna",
+            "SI-213": "Ankaran"
+        }
+    },
+    {
+        "name": {
             "common": "Slovakia",
             "official": "Slovak Republic",
             "nativeName": {
@@ -27863,6 +29587,298 @@
             "SV-SV": "San Vicente",
             "SV-UN": "La Unión",
             "SV-US": "Usulután"
+        }
+    },
+    {
+        "name": {
+            "common": "Thailand",
+            "official": "Kingdom of Thailand",
+            "nativeName": {
+                "tha": {
+                    "official": "ราชอาณาจักรไทย",
+                    "common": "ประเทศไทย"
+                }
+            }
+        },
+        "tld": [
+            ".th",
+            ".ไทย"
+        ],
+        "cca2": "TH",
+        "ccn3": "764",
+        "cca3": "THA",
+        "cioc": "THA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "฿"
+            }
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "capital": [
+            "Bangkok"
+        ],
+        "altSpellings": [
+            "TH",
+            "Prathet",
+            "Thai",
+            "Kingdom of Thailand",
+            "ราชอาณาจักรไทย",
+            "Ratcha Anachak Thai"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "tha": "Thai"
+        },
+        "translations": {
+            "ara": {
+                "official": "مملكة تايلند",
+                "common": "تايلند"
+            },
+            "bre": {
+                "official": "Rouantelezh Thailand",
+                "common": "Thailand"
+            },
+            "ces": {
+                "official": "Thajské království",
+                "common": "Thajsko"
+            },
+            "cym": {
+                "official": "Kingdom of Thailand",
+                "common": "Thailand"
+            },
+            "deu": {
+                "official": "Königreich Thailand",
+                "common": "Thailand"
+            },
+            "est": {
+                "official": "Tai Kuningriik",
+                "common": "Tai"
+            },
+            "fin": {
+                "official": "Thaimaan kuningaskunta",
+                "common": "Thaimaa"
+            },
+            "fra": {
+                "official": "Royaume de Thaïlande",
+                "common": "Thaïlande"
+            },
+            "hrv": {
+                "official": "Kraljevina Tajland",
+                "common": "Tajland"
+            },
+            "hun": {
+                "official": "Thaiföldi Királyság",
+                "common": "Thaiföld"
+            },
+            "ita": {
+                "official": "Regno di Thailandia",
+                "common": "Tailandia"
+            },
+            "jpn": {
+                "official": "タイ王国",
+                "common": "タイ"
+            },
+            "kor": {
+                "official": "타이 왕국",
+                "common": "태국"
+            },
+            "nld": {
+                "official": "Koninkrijk Thailand",
+                "common": "Thailand"
+            },
+            "per": {
+                "official": "پادشاهی تایلند",
+                "common": "تایلند"
+            },
+            "pol": {
+                "official": "Królestwo Tajlandii",
+                "common": "Tajlandia"
+            },
+            "por": {
+                "official": "Reino da Tailândia",
+                "common": "Tailândia"
+            },
+            "rus": {
+                "official": "Королевство Таиланд",
+                "common": "Таиланд"
+            },
+            "slk": {
+                "official": "Thajské kráľovstvo",
+                "common": "Thajsko"
+            },
+            "spa": {
+                "official": "Reino de Tailandia",
+                "common": "Tailandia"
+            },
+            "swe": {
+                "official": "Konungariket Thailand",
+                "common": "Thailand"
+            },
+            "tur": {
+                "official": "Tayland Krallığı",
+                "common": "Tayland"
+            },
+            "urd": {
+                "official": "مملکتِ تھائی لینڈ",
+                "common": "تھائی لینڈ"
+            },
+            "zho": {
+                "official": "泰王国",
+                "common": "泰国"
+            }
+        },
+        "latlng": [
+            15.0,
+            100.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "MMR",
+            "KHM",
+            "LAO",
+            "MYS"
+        ],
+        "area": 513120.0,
+        "demonyms": {
+            "eng": {
+                "f": "Thai",
+                "m": "Thai"
+            },
+            "fra": {
+                "f": "Thaïlandaise",
+                "m": "Thaïlandais"
+            }
+        },
+        "flag": "🇹🇭",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
+        },
+        "population": 69799978,
+        "gini": {
+            "2019": 34.9
+        },
+        "fifa": "THA",
+        "car": {
+            "signs": [
+                "T"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/th.png",
+            "svg": "https://flagcdn.com/th.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/th.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/th.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                13.75,
+                100.52
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        },
+        "Subdivisions": {
+            "TH-10": "Krung Thep Maha Nakhon",
+            "TH-11": "Samut Prakan",
+            "TH-12": "Nonthaburi",
+            "TH-13": "Pathum Thani",
+            "TH-14": "Phra Nakhon Si Ayutthaya",
+            "TH-15": "Ang Thong",
+            "TH-16": "Lop Buri",
+            "TH-17": "Sing Buri",
+            "TH-18": "Chai Nat",
+            "TH-19": "Saraburi",
+            "TH-20": "Chon Buri",
+            "TH-21": "Rayong",
+            "TH-22": "Chanthaburi",
+            "TH-23": "Trat",
+            "TH-24": "Chachoengsao",
+            "TH-25": "Prachin Buri",
+            "TH-26": "Nakhon Nayok",
+            "TH-27": "Sa Kaeo",
+            "TH-30": "Nakhon Ratchasima",
+            "TH-31": "Buri Ram",
+            "TH-32": "Surin",
+            "TH-33": "Si Sa Ket",
+            "TH-34": "Ubon Ratchathani",
+            "TH-35": "Yasothon",
+            "TH-36": "Chaiyaphum",
+            "TH-37": "Amnat Charoen",
+            "TH-38": "Bueng Kan",
+            "TH-39": "Nong Bua Lam Phu",
+            "TH-40": "Khon Kaen",
+            "TH-41": "Udon Thani",
+            "TH-42": "Loei",
+            "TH-43": "Nong Khai",
+            "TH-44": "Maha Sarakham",
+            "TH-45": "Roi Et",
+            "TH-46": "Kalasin",
+            "TH-47": "Sakon Nakhon",
+            "TH-48": "Nakhon Phanom",
+            "TH-49": "Mukdahan",
+            "TH-50": "Chiang Mai",
+            "TH-51": "Lamphun",
+            "TH-52": "Lampang",
+            "TH-53": "Uttaradit",
+            "TH-54": "Phrae",
+            "TH-55": "Nan",
+            "TH-56": "Phayao",
+            "TH-57": "Chiang Rai",
+            "TH-58": "Mae Hong Son",
+            "TH-60": "Nakhon Sawan",
+            "TH-61": "Uthai Thani",
+            "TH-62": "Kamphaeng Phet",
+            "TH-63": "Tak",
+            "TH-64": "Sukhothai",
+            "TH-65": "Phitsanulok",
+            "TH-66": "Phichit",
+            "TH-67": "Phetchabun",
+            "TH-70": "Ratchaburi",
+            "TH-71": "Kanchanaburi",
+            "TH-72": "Suphan Buri",
+            "TH-73": "Nakhon Pathom",
+            "TH-74": "Samut Sakhon",
+            "TH-75": "Samut Songkhram",
+            "TH-76": "Phetchaburi",
+            "TH-77": "Prachuap Khiri Khan",
+            "TH-80": "Nakhon Si Thammarat",
+            "TH-81": "Krabi",
+            "TH-82": "Phangnga",
+            "TH-83": "Phuket",
+            "TH-84": "Surat Thani",
+            "TH-85": "Ranong",
+            "TH-86": "Chumphon",
+            "TH-90": "Songkhla",
+            "TH-91": "Satun",
+            "TH-92": "Trang",
+            "TH-93": "Phatthalung",
+            "TH-94": "Pattani",
+            "TH-95": "Yala",
+            "TH-96": "Narathiwat",
+            "TH-S": "Phatthaya"
         }
     },
     {
@@ -30344,51 +32360,52 @@
             "US-DC": "District of Columbia",
             "US-DE": "Delaware",
             "US-FL": "Florida",
-            "US-GA.svg": "Guam",
-            "US-GU": "Hawaii",
-            "US-HI": "Iowa",
-            "US-IA": "Idaho",
-            "US-ID": "Illinois",
-            "US-IL": "Indiana",
-            "US-IN": "Kansas",
-            "US-KS": "Kentucky",
-            "US-KY": "Louisiana",
-            "US-LA": "Massachusetts",
-            "US-MA": "Maryland",
-            "US-MD": "Maine",
-            "US-ME": "Michigan",
-            "US-MI": "Minnesota",
-            "US-MN": "Missouri",
-            "US-MO": "Northern Mariana Islands",
-            "US-MP": "Mississippi",
-            "US-MS": "Montana",
-            "US-MT": "North Carolina",
-            "US-NC": "North Dakota",
-            "US-ND": "Nebraska",
-            "US-NE": "New Hampshire",
-            "US-NH": "New Jersey",
-            "US-NJ": "New Mexico",
-            "US-NM": "Nevada",
-            "US-NV": "New York",
-            "US-NY": "Ohio",
-            "US-OH": "Oklahoma",
-            "US-OK": "Oregon",
-            "US-OR": "Pennsylvania",
-            "US-PA": "Puerto Rico",
-            "US-PR": "Rhode Island",
-            "US-RI": "South Carolina",
-            "US-SC": "South Dakota",
-            "US-SD": "Tennessee",
-            "US-TN": "Texas",
-            "US-TX": "United States Minor Outlying Islands",
-            "US-UM": "Utah",
-            "US-UT": "Virginia",
-            "US-VA": "Virgin Islands, U.S.",
-            "US-VI": "Vermont",
-            "US-VT": "Washington",
-            "US-WA": "Wisconsin",
-            "US-WI": "West Virginia",
-            "US-WV": "Wyoming"
+            "US-GA": "Georgia",
+            "US-GU": "Guam",
+            "US-HI": "Hawaii",
+            "US-IA": "Iowa",
+            "US-ID": "Idaho",
+            "US-IL": "Illinois",
+            "US-IN": "Indiana",
+            "US-KS": "Kansas",
+            "US-KY": "Kentucky",
+            "US-LA": "Louisiana",
+            "US-MA": "Massachusetts",
+            "US-MD": "Maryland",
+            "US-ME": "Maine",
+            "US-MI": "Michigan",
+            "US-MN": "Minnesota",
+            "US-MO": "Missouri",
+            "US-MP": "Northern Mariana Islands",
+            "US-MS": "Mississippi",
+            "US-MT": "Montana",
+            "US-NC": "North Carolina",
+            "US-ND": "North Dakota",
+            "US-NE": "Nebraska",
+            "US-NH": "New Hampshire",
+            "US-NJ": "New Jersey",
+            "US-NM": "New Mexico",
+            "US-NV": "Nevada",
+            "US-NY": "New York",
+            "US-OH": "Ohio",
+            "US-OK": "Oklahoma",
+            "US-OR": "Oregon",
+            "US-PA": "Pennsylvania",
+            "US-PR": "Puerto Rico",
+            "US-RI": "Rhode Island",
+            "US-SC": "South Carolina",
+            "US-SD": "South Dakota",
+            "US-TN": "Tennessee",
+            "US-TX": "Texas",
+            "US-UM": "United States Minor Outlying Islands",
+            "US-UT": "Utah",
+            "US-VA": "Virginia",
+            "US-VI": "Virgin Islands, U.S.",
+            "US-VT": "Vermont",
+            "US-WA": "Washington",
+            "US-WI": "Wisconsin",
+            "US-WV": "West Virginia",
+            "US-WY": "Wyoming"
         }
     },
     {
@@ -32036,7 +34053,7 @@
             },
             "hrv": {
                 "official": "Južnoafrička Republika",
-                "common": "Južnoafrička Republika"
+                "common": "Južna Afrika"
             },
             "hun": {
                 "official": "Dél-afrikai Köztársaság",
@@ -32072,15 +34089,15 @@
             },
             "rus": {
                 "official": "Южно-Африканская Республика",
-                "common": "Южно-Африканская Республика"
+                "common": "Южная Африка"
             },
             "slk": {
                 "official": "Juhoafrická republika",
-                "common": "Juhoafrická republika"
+                "common": "Južná Afrika"
             },
             "spa": {
                 "official": "República de Sudáfrica",
-                "common": "República de Sudáfrica"
+                "common": "Sudáfrica"
             },
             "swe": {
                 "official": "Republiken Sydafrika",

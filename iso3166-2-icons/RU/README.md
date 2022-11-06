@@ -15,7 +15,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:RU
 * RU-CE (Chechenskaya Respublika) -> [RU-CE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CE.svg)
 * RU-CHE (Chelyabinskaya Oblast') -> [RU-CHE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CHE.svg)
 * RU-CHU (Chukotskiy Avtonomnyy Okrug) -> [RU-CHU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CHU.svg)
-* RU-CU (Chuvashskaya Respublika) -> [RU-CU.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CU.png)
+* RU-CU (Chuvashskaya Respublika) -> [RU-CU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CU.svg)
 * RU-DA (Dagestan, Respublika) -> [RU-DA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-DA.svg)
 * RU-IN (Ingushetiya, Respublika) -> [RU-IN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IN.svg)
 * RU-IRK (Irkutskaja Oblast') -> [RU-IRK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IRK.svg)
@@ -59,7 +59,6 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:RU
 * RU-SA (Saha, Respublika) -> [RU-SA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SA.svg)
 * RU-SAK (Sahalinskaja Oblast') -> [RU-SAK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAK.svg)
 * RU-SAM (Samarskaja Oblast') -> [RU-SAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAM.svg)
-* RU-SAR (Saratovskaja Oblast') -> [RU-SAR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAR.png)
 * RU-SAR (Saratovskaja Oblast') -> [RU-SAR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAR.svg)
 * RU-SE (Severnaja Osetija, Respublika) -> [RU-SE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SE.svg)
 * RU-SMO (Smolenskaja Oblast') -> [RU-SMO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SMO.svg)
@@ -84,7 +83,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:RU
 * RU-YEV (Evrejskaja Avtonomnaja Oblast') -> [RU-YEV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-YEV.svg)
 * RU-ZAB (Zabajkal'Skij Kraj) -> [RU-ZAB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ZAB.svg)
 
-Russian Federation ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:RU):
+Russian Federation ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:RU):
 
 * RU-MOS: Moskovskaja oblast' (Administrative region)
 * RU-MOW: Moskva (Autonomous city)

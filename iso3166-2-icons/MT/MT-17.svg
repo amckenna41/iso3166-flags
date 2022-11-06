@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2585" height="1600" viewBox="0 0 2585 1600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #080;
+      }
+    </style>
+  </defs>
+  <rect id="Rectángulo_2" data-name="Rectángulo 2" class="cls-1" width="2585" height="1600"/>
+  <rect id="Rectángulo_1" data-name="Rectángulo 1" class="cls-2" y="719" width="2585" height="162"/>
+  <rect id="Rectángulo_1-2" data-name="Rectángulo 1" class="cls-2" y="1043" width="2585" height="162"/>
+  <rect id="Rectángulo_1-3" data-name="Rectángulo 1" class="cls-2" y="395" width="2585" height="162"/>
+</svg>

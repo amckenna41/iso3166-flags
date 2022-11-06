@@ -1,96 +1,97 @@
 ﻿Country,Code
 Afghanisatan,AF
+Algeria,DZ
+American Samoa,AS
 Anguilla,AI
 Antarctica,AQ
-American Samoa,AS
 Aruba,AW
 Barbados,BB
 Bangladesh,BD
 Burkina Faso,BF
 Burundi,BI
-Saint Barthelemy,BL
 Bermuda,BM
+British Indian Ocean Territory,IO
 Brunei Darussalam,BN
 Bahamas,BS
 Bhutan,BT
 Bouvet Island,BV
-Cocos (Keeling) Islands,CC
-Central African Republic,CF
-Cook Islands,CK
+Cayman Islands,KY
 Cameroon,CM
+Central African Republic,CF
 Christmas Island,CX
+Cocos (Keeling) Islands,CC
+Cook Islands,CK
 Dominica,DM
-Algeria,DZ
-Western Sahara,EH
 Eritrea,ER
+Eswatini,SZ
 Falkland Islands,FK
-Faroe Islands ,FO
-Grenada,GD
+Faroe Islands,FO
+Fiji,FJ
 French Guiana,GF
-Guernsey,GG
+French Polynesia,PF
+French Southern Territories,TF
 Gibraltar,GI
-Guinea,GN
+Grenada,GD
 Guadeloupe,GP
-South Georgia and the South Sandwich Islands,GS
+Guernsey,GG
+Guinea,GN
 Guam,GU
 Guyana,GY
-Hong Kong,HK
-Heard Island and McDonald Islands,HM
 Haiti,HT
-Isle of Man,IM
-British Indian Ocean Territory,IO
+Heard Island and McDonald Islands,HM
+Hong Kong,HK
 Iran,IR
-Jersey,JE
+Isle of Man,IM
 Jamaica,JM
+Jersey,JE
 Jordan,JO
 Kiribati,KI
+Kosovo,XK
 Kuwait,KW
-Cayman Islands,KY
 Laos,LA
 Lebanon,LB
-Saint Lucia,LC
 Lesotho,LS
 Libya,LY
-Saint Martin (French Part),MF
-Madagascar,MG
-Mali,ML
 Macao,MO
-Northern Mariana Islands,MP
+Madagascar,MG
+Malawi,MW
+Maldives,MV
+Mali,ML
 Martinique,MQ
 Mauritania,MR
-Maldives,MV
-Malawi,MW
+Mayotte,YT
 Namibia,NA
+Nauru,NR
 New Caledonia,NC
 Niger,NE
-Nauru,NR
+Northern Mariana Islands,MP
 Oman,OM
-French Polynesia,PF
-Saint Pieerre and Miquelon,PM
+Palestine,PS
 Pitcairn,PN
 Puerto Rico,PR
-Palestine,PS
 Reunion,RE
 Rwanda,RW
-Singapore,SG
-Svalbard,SJ
-Sierra Leone,SL
+Saint Barthelemy,BL
+Saint Lucia,LC
+Saint Martin (French Part),MF
+Saint Pieerre and Miquelon,PM
+Saint Vincent and the Grenadines,VC
+Samoa,WS
 Sao Tome and Principe,ST
+Sierra Leone,SL
+Singapore,SG
+South Georgia and the South Sandwich Islands,GS
+Svalbard,SJ
 Syrian Arab Republic,SY
-Eswatini,SZ
-Turks and Caicos Islands,TC
-French Southern Territories,TF
+Tanzania,TZ
 Togo,TG
 Tokelau,TK
-Turkmenistan,TM
 Tonga,TO
+Turkmenistan,TM
+Turks and Caicos Islands,TC
 Tuvalu,TV
-Tanzania,TZ
 Vatican City,VA
-Saint Vincent and the Grenadines,VC
 Virgin Islands (British),VG
 Virgin Islands (U.S.),VI
 Wallis and Futuna,WF
-Samoa,WS
-Kosovo,XK
-Mayotte,YT
+Western Sahara,EH

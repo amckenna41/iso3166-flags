@@ -2,8 +2,6 @@
 
 Source: https://en.wikipedia.org/wiki/ISO_3166-2:SS
 
-* JUBA -> [JUBA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SS/JUBA.png)
-* RUWENG -> [RUWENG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SS/RUWENG.png)
 * SS-BN (Northern Bahr El Ghazal) -> [SS-BN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SS/SS-BN.png)
 * SS-BW (Western Bahr El Ghazal) -> [SS-BW.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SS/SS-BW.png)
 * SS-EC (Central Equatoria) -> [SS-EC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SS/SS-EC.png)

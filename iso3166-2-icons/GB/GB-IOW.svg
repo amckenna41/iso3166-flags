@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="300">
+	<rect width="500" height="300" fill="#5881bb"/>
+	<path d="M 250,160 L 125,85 L 250,10 L 375,85 z" fill="#fff"/>
+	<path d="M 238,0 h 24 l -12,60 z" fill="#5881bb"/>
+	<g fill="#fff">
+		<path id="w" d="M -38.75,172.5 q 27.5,-20 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 t 52.5,0 V 300 H 0 z"/>
+	</g>
+	<use xlink:href="#w" y="21.25" fill="#012a87"/>
+	<use xlink:href="#w" y="42.5" fill="#fff"/>
+	<use xlink:href="#w" y="63.75" fill="#012a87"/>
+	<use xlink:href="#w" y="85" fill="#fff"/>
+	<use xlink:href="#w" y="106.25" fill="#012a87"/>
+</svg>

@@ -13,7 +13,7 @@
 <g transform="matrix(1 0 0 1.05 0 .0018538)" fill="#f95">
 <rect width="1500" height="1e3" fill="#f95"/>
 </g>
-<switch transform="matrix(1 0 0 1 496.37 232.02)">
+<switch transform="translate(496.37 232.02)">
 <foreignObject width="1" height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"/>
 <g>
 <polygon points="253.17 1.854 504.57 184.51 408.54 480.05 97.787 480.05 1.763 184.51" fill="#5087c6"/>

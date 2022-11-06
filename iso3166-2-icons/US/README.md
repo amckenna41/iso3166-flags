@@ -13,7 +13,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:US
 * US-DC (District Of Columbia) -> [US-DC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-DC.svg)
 * US-DE (Delaware) -> [US-DE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-DE.svg)
 * US-FL (Florida) -> [US-FL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-FL.svg)
-* US-GA.SVG (Florida) -> [US-GA.SVG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-GA.SVG.png)
+* US-GA (Georgia) -> [US-GA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-GA.svg)
 * US-GU (Guam) -> [US-GU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-GU.svg)
 * US-HI (Hawaii) -> [US-HI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-HI.svg)
 * US-IA (Iowa) -> [US-IA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-IA.svg)
@@ -50,7 +50,7 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:US
 * US-SD (South Dakota) -> [US-SD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-SD.svg)
 * US-TN (Tennessee) -> [US-TN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-TN.svg)
 * US-TX (Texas) -> [US-TX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-TX.svg)
-* US-UM (United States Minor Outlying Islands) -> [US-UM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-UM.png)
+* US-UM (United States Minor Outlying Islands) -> [US-UM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-UM.svg)
 * US-UT (Utah) -> [US-UT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-UT.svg)
 * US-VA (Virginia) -> [US-VA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VA.svg)
 * US-VI (Virgin Islands, U.S.) -> [US-VI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VI.svg)
@@ -59,7 +59,3 @@ Source: https://en.wikipedia.org/wiki/ISO_3166-2:US
 * US-WI (Wisconsin) -> [US-WI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WI.svg)
 * US-WV (West Virginia) -> [US-WV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WV.svg)
 * US-WY (Wyoming) -> [US-WY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WY.svg)
-
-USA ISO3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:US):
-
-* US-GA: Georgia (State)
