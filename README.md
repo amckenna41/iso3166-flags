@@ -1,6 +1,6 @@
 # Repository of all ISO3166-1 and ISO3166-2 Flags 
 
-[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing%20iso3166-flag-icons/badge.svg)](https://github.com/amckenna41/pySAR/actions?query=workflowBuilding%20and%20Testing%20iso3166-flag-icons)
+[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing%20iso3166-flag-icons/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions?query=workflowBuilding%20and%20Testing%20iso3166-flag-icons)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
