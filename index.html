@@ -173,6 +173,7 @@ table td {
     align-items: center;
     margin-top: 15px;
     margin-left: 5%;
+    margin-bottom: 2%;
 }
 
 .jvectormap-tip {
@@ -256,50 +257,6 @@ table td {
   }
 }
 
-.dnbtn {
-  border: 2px solid #0ff;
-  border-radius: 50px;
-  position: absolute;
-  color: #0ff;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  padding: 25px 0 0 0;
-  width: 50px;
-  height: 25px;
-  text-decoration: none;
-  transition: .3s;
-}
-
-.dnbtn:before {
-  font-family: 'ionicons';
-  content: '\f2dd';
-  font-size: 26px;
-  color: #0ff;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  transition: .3s;
-}
-
-.dnbtn:hover:before {
-  display: none;
-}
-
-.dnbtn:hover:after {
-  font-family: Prompt;
-  content: 'DOWNLOAD';
-  color: #0ff;
-  font-size: 18px;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  transition: .3s;
-  animation: fadein .3s;
-}
-
-.dnbtn:hover {
-  width: 160px;
-}
-
 @keyframes fadein {
   from {
     opacity: 0;
@@ -316,6 +273,22 @@ table td {
   to {
     opacity: 0;
   }
+}
+
+.dnbtn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 25px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 12px;
+  margin-right: 2em;
+}
+
+/* Darker background on mouse-over */
+.dnbtn:hover {
+  background-color: RoyalBlue;
 }
 
 </style>
@@ -360,10 +333,27 @@ table td {
 </div>
 
 <!-- <link href='https://fonts.googleapis.com/css?family=Prompt' rel='stylesheet'/> -->
-<div align="center">
-  <a href="#" class="dnbtn"></a>
-</div>
+<!-- <p> -->
+    <!-- <a class="dnbtn" id="dnbtn-flag" href="" download=""><i style="margin-right: 1%;" class="fa fa-download"></i>Download</a> -->
+    <!-- <button id="dnbtn-flag" class="dnbtn"><i class="fa fa-download"></i> Download Flag</button> -->
+<!-- </p> -->
 
+<!-- <p>
+    <a id="dnbtn-subdivision-link" href="" download=""></a>
+    <button class="dnbtn" id="dnbtn-subdivision"><i class="fa fa-download"></i> Download Subdivision Flag</button>
+</p> -->
+
+<div class="flagDownloadBtns" style="display:flex;">
+    <form action="#">
+        <input style="display: none;" type="url" placeholder="" required>
+        <button style="display: none;" class="dnbtn" id="dnbtn-flag"><i class="fa fa-download"></i> Download Country Flag</button>
+    </form>
+
+    <form action="#">
+        <input style="display: none;" type="url" placeholder="" required>
+        <button style="display: none;" class="dnbtn" id="dnbtn-subdivision"><i class="fa fa-download"></i> Download Subdivision Flag</button>
+    </form>
+</div>
 <!-- CSS loader -->
 <div id="loader"></div>
 
@@ -399,7 +389,7 @@ var countryColour = "#a4d446";
 
 //flag and json URL's in repo
 const iso3166_1_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1.json";
-const iso3166_2_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2_min.json";
+const iso3166_2_json_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-min.json";
 
 var iso3166_1_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-1-icons/";
 var iso3166_2_flag_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/";
@@ -509,7 +499,15 @@ function getImgSrc(country) {
      * @param country {string} - country name.
      */
 
-    //initialise imgDiv element
+     if (country.toLowerCase() == "all countries") {
+        $('#flagImg').hide();
+        $('#flagImg').hide();
+        $('#dnbtn-flag').hide();
+        // $('#subdivisionInfo').hide();
+        return;
+     }
+
+     //initialise imgDiv element
     var imgDiv = $('#flagImg');
     var srcURL = "";
 
@@ -518,7 +516,8 @@ function getImgSrc(country) {
 
     for (var i = 0; i < fileExtensions.length; i++) {
         //construct image src URL
-        srcURL = iso3166_1_flag_url + '/' + countryCodes[country].toLowerCase() + fileExtensions[i];
+        console.log(iso3166_1_flag_url)
+        srcURL = iso3166_1_flag_url + countryCodes[country].toLowerCase() + fileExtensions[i];
         
         //if image found, break from loop
         if (imageExists(srcURL)) {
@@ -528,8 +527,14 @@ function getImgSrc(country) {
     }
 
     //set flag download button src and filename
-    $('#downloadFlagBtn').attr('href', srcURL); 
-    $('#downloadFlagBtn').attr('download', /[^/]*$/.exec(srcURL)[0]);
+    // $('#dnbtn-flag').attr('href', srcURL); 
+    // console.log(srcURL)
+    // $('#dnbtn-flag').attr('download', /[^/]*$/.exec(srcURL)[0]);
+
+    document.querySelector("#dnbtn-flag").addEventListener("click", e => {
+        e.preventDefault();
+        downloadFile(srcURL);
+    });
 
     //set src of img element
     imgDiv.attr('src', srcURL);
@@ -544,7 +549,17 @@ function getSubdivisionSrc(country, subdivision) {
      * @param country {string} - country name.
      * @param subdivision {string} - subdivision code. 
      */
+     
+     if (subdivision.toLowerCase() == "all subdivisions") {
+        $('#subdivisionImg').hide();
+        $('#subdivisionInfo').hide();
+        $('#dnbtn-subdivision').hide();
+        return;
+     }
 
+     console.log("country", country)
+     console.log("subdivision", subdivision)
+    
     //initialise imgDiv element
     var subdivisionImgDiv = $('#subdivisionImg');
     var flagImgDiv = $('#flagImg');
@@ -558,7 +573,7 @@ function getSubdivisionSrc(country, subdivision) {
         
         srcURL = iso3166_2_flag_url + countryCodes[country] + '/' + subdivision + fileExtensions[i]; 
         console.log("srcURL", srcURL)
-        console.log("country", country)
+        console.log("country here...", country)
 
         //if image found, break from loop
         if (imageExists(srcURL)) {
@@ -571,9 +586,14 @@ function getSubdivisionSrc(country, subdivision) {
     subdivisionImgDiv.attr('src', srcURL);
 
     //set flag download button src and filename
-    $('#downloadSubdivFlagBtn').attr('href', srcURL); 
-    $('#downloadSubdivFlagBtn').attr('download', /[^/]*$/.exec(srcURL)[0]);
-    
+    // $('#dnbtn-subdivision-link').attr('href', srcURL); 
+    // $('#dnbtn-subdivision-link').attr('download', /[^/]*$/.exec(srcURL)[0]);
+
+    document.querySelector("#dnbtn-subdivision").addEventListener("click", e => {
+        e.preventDefault();
+        downloadFile(srcURL);
+    });
+
     //resize vertical subdivision flags to fit the screen (e.g Liechtenstein)
     if (subdivisionImgDiv.height() > flagImgDiv.height()) {
         subdivisionImgDiv.attr("height", flagImgDiv.height() * 1.5);
@@ -585,6 +605,29 @@ function getSubdivisionSrc(country, subdivision) {
     //get full name of subdivision and set the subdivision name div to it
     var subdivisionInfoDiv = document.querySelector("#subdivisionInfo > h3:nth-child(1)");
     subdivisionInfoDiv.innerHTML = rest_countries_json.subdivisions[lookupSubdivision] + " (" +lookupSubdivision + ")";
+}
+
+
+function downloadFile(url) {
+     /**
+     * 
+     * 
+     * @param url {string} - flag URL.
+     */
+    fetch(url).then(res => res.blob()).then(file => {
+        let tempUrl = URL.createObjectURL(file);
+        const aTag = document.createElement("a");
+        aTag.href = tempUrl;
+        aTag.download = url.replace(/^.*[\\\/]/, '');
+        document.body.appendChild(aTag);
+        aTag.click();
+        downloadBtn.innerText = "Download File";
+        URL.revokeObjectURL(tempUrl);
+        aTag.remove();
+    }).catch(() => {
+        // alert("Failed to download file!");
+        downloadBtn.innerText = "Download File";
+    });
 }
 
 function restCountries(country, code) {
@@ -671,10 +714,10 @@ function drawCountryTable(countryJson) {
     var tbl = "";
     tbl = '<table class="outputTable">';   
     tbl += '<tbody>';
-    tbl += '<tr><td>Full Name</td><td>' + countryJson.name.common + ' (' + countryJson.cca2 + '/' + countryJson.cca3 +')</td></tr>';
-    tbl += '<tr><td>Official Name</td><td>' + countryJson.name.official + '</td></tr>';
+    tbl += '<tr><td>📋 Full Name</td><td>' + countryJson.name.common + ' (' + countryJson.cca2 + '/' + countryJson.cca3 +')</td></tr>';
+    tbl += '<tr><td>📋 Official Name</td><td>' + countryJson.name.official + '</td></tr>';
     
-    tbl += '<td>Capital City</td><td>';
+    tbl += '<td>🌆 Capital City</td><td>';
     
     //validate object has capital city key
     if (Object.hasOwn(countryJson, 'capital') && countryJson["capital"] != undefined) {
@@ -684,7 +727,7 @@ function drawCountryTable(countryJson) {
     }
     tbl +=  '</td></tr>';;
     
-    tbl += '<td>Subdivisions</td><td>';
+    tbl += '<td>🥧 Subdivisions</td><td>';
 
     //validate object has subdivisions key
     if (Object.hasOwn(countryJson, 'subdivisions') && countryJson["subdivisions"] != undefined) {
@@ -705,10 +748,10 @@ function drawCountryTable(countryJson) {
         tbl += '<span>No available subdivisions</span>';;
     }
     
-    tbl += '<tr><td>Population</td><td>' + countryJson.population.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + '</td></tr>';
-    tbl += '<tr><td>Total Area</td><td>' + countryJson.area.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + ' km<sub>2</sub></td></tr>';
+    tbl += '<tr><td>👭 Population</td><td>' + countryJson.population.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + '</td></tr>';
+    tbl += '<tr><td>🧮 Total Area</td><td>' + countryJson.area.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + ' km<sub>2</sub></td></tr>';
     
-    tbl += '<tr><td>Languages</td><td>'
+    tbl += '<tr><td>🌎 Languages</td><td>'
 
     //validate object has languages key
     if (Object.hasOwn(countryJson, 'languages') && countryJson["languages"] != undefined) {
@@ -718,9 +761,9 @@ function drawCountryTable(countryJson) {
     }
     tbl += '</td></tr>';
 
-    tbl += '<tr><td>Timezones</td><td>' + countryJson.timezones.sort().toString().split(',').join(', ') + '</td></tr>';
+    tbl += '<tr><td>🕰️ Timezones</td><td>' + countryJson.timezones.sort().toString().split(',').join(', ') + '</td></tr>';
     
-    tbl += '<tr><td>Currencies</td><td>';
+    tbl += '<tr><td>💰 Currencies</td><td>';
 
     //validate object has currencies key
     if (Object.hasOwn(countryJson, 'currencies') && countryJson["currencies"] != undefined) {
@@ -730,7 +773,7 @@ function drawCountryTable(countryJson) {
     }
     tbl += '</td></tr>';
 
-    tbl += '<tr><td>Borders</td><td>';
+    tbl += '<tr><td>🗺️ Borders</td><td>';
 
     //validate object has borders key
     if (Object.hasOwn(countryJson, 'borders') && countryJson["borders"] != undefined) {
@@ -752,7 +795,11 @@ function drawCountryTable(countryJson) {
     for (var i = 0; i < subdBtns.length; i++) {
         subdBtns[i].addEventListener('click', function() {
             lookupSubdivision = this.innerHTML;
-            getSubdivisionSrc(countryJson.name.common, this.innerHTML);
+            $('#subdivisionSelect').val(lookupSubdivision);
+            $('#subdivisionSelect').trigger('change');
+            $('#subdivisionInfo').show();
+            // getSubdivisionSrc(countryJson.name.common, this.innerHTML);
+            getSubdivisionSrc(lookupCountry, this.innerHTML);
         }, false);
     }
 }
@@ -908,8 +955,6 @@ function drawSubdivisionsDropdown() {
         closeOnSelect: true
     });
 
-    console.log("rest_countries_json", rest_countries_json);
-
     //check if ISO3166-2 object has subdivisions key, else hide dropdown
     if (Object.hasOwn(rest_countries_json, 'subdivisions')) {
         //get list of subdivisions of country
@@ -942,17 +987,17 @@ $("#countrySelect").on("select2:select", function (event) {
     $('#subdivisionImg').hide();
     $('#subdivisionInfo').hide();
     $('#countryTable').hide();
+    $('#dnbtn-subdivision').hide();
     drawMap(lookupCountry);
     $('#loader').show();
     restCountries(lookupCountry, countryCodes[lookupCountry]);
-    console.log('Not getting here', rest_countries_json)
     drawSubdivisionsDropdown();
     getImgSrc(lookupCountry);
     drawCountryTable(rest_countries_json);
-    // $('#subdivisionInfo').show();
+    $('#subdivisionInfo').show();
     $('#countryTable').show();
     $('#loader').hide();
-
+    $('#dnbtn-flag').show();
 });
 
 //on deselection of country...
@@ -975,6 +1020,7 @@ $("#subdivisionSelect").on("select2:select", function (event) {
     // restCountries(lookupCountry);
     // //loader here
     // drawCountryTable(rest_countries_json)
+    $('#dnbtn-subdivision').show();
 });
 
 //on deselection of subdivision...

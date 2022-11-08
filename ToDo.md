@@ -1,6 +1,5 @@
 # To Do List for iso3166-flag-icons
 
-* - Compress all files.
 - [ ] - Add GitHub release of compressed images
 - [ ] - Add different branches - ISO3166-1 branch and ISO3166-2 branch. 
 - [X] - Add JSON files for each country https://github.com/hampusborgos/country-flags/blob/main/countries.json
@@ -71,6 +70,14 @@ ones with flags in the repo.
 - [ ] Add updates.md file which outlines changes to repo bw versions.
 - [X] Change iso3166-2_min -> iso3166-2-min.
 - [ ] Mention that iso3166-2 doesnt contain all country info just that of those that have flags in repo.
+- [ ] Add subdivision type to iso3166-2/min json, e.g: 
+        "Subdivisions": {
+            "AE-AJ": {
+                Name: "‘Ajmān",
+                Category: "Emirate"
+            },
+            ...
+        }
 
 <!-- AL-04 -> https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Stema_e_Qarkut_Fier.svg/1024px-Stema_e_Qarkut_Fier.svg.png
 Change to:

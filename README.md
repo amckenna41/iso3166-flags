@@ -1,13 +1,12 @@
-# Repository of all ISO 3166-1 and ISO 3166-2 Flags 
+# Repository of all ISO3166-1 and ISO3166-2 Flags 
 
+[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing%20iso3166-flag-icons/badge.svg)](https://github.com/amckenna41/pySAR/actions?query=workflowBuilding%20and%20Testing%20iso3166-flag-icons)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 [![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/iso3166-flag-icons)
 
-> A comprehensive library of ISO 3166-1 & ISO 3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
-
-> ** In development - ISO 3166-2 flags in progress: GB, RS **
+> A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="400" width="700"/>
@@ -23,11 +22,6 @@ The <b>ISO 3166-1</b> icons are those of the names of countries and their subdiv
 The <b>ISO 3166-2</b> icons are those of the names of countries and their subdivisions – Part 2: Country subdivision code, defines codes for the names of the principal subdivisions (e.g., provinces, states, departments, regions) of all countries coded in ISO 3166-1 [[2]](#references). <br>
 
 The <b>ISO 3166-3</b> icons are those of countries and their subdivisions – Part 3: Code for formerly used names of countries, defines codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974.
-
-To Do
------
-* Try and convert any png/jpeg flag images into SVG format. 
-* Create npm release, create package.json.
 
 Table of Contents
 -----------------
@@ -50,7 +44,7 @@ After searching around, it was fairly straightforward to find a repo with ISO 31
 
 Installation
 ------------
-<em><strong>A zipped folder of all ISO 3166-1 OR ISO 3166-2 flag icons are available to download in the /downloads folder of the repo.</em></strong>
+<strong>A zipped folder of all ISO 3166-1 OR ISO 3166-2 flag icons are available to download in the /downloads folder of the repo.</strong>
 
 The whole project can be cloned from git:
 ```
@@ -97,7 +91,7 @@ Folders and files
 * `index.html` - front-end demo for iso3166-flag-icons repo.
 * `iso3166-1.json` - json containing all ISO 3166-1 country names, 2 letter codes and relative path to flag icon in repo.
 * `iso3166-2.json` - json containing all ISO 3166-2 country names, 2 letter codes, all subdivision codes and common names as well as all info pulled per country via the restcountries api (https://restcountries.com/). 
-* `iso3166-2_min.json` - minmised json containing all ISO 3166-2 country names, 2 letter codes and all subdivision codes and common names.
+* `iso3166-2-min.json` - minimised json containing all ISO 3166-2 country names, 2 letter codes and all subdivision codes and common names.
 
 Issues
 ------

@@ -16,7 +16,7 @@ class ISO3166_1Tests(unittest.TestCase):
     def test_iso3166_1_length(self):
         """ Test number of flag icons. """
         iso3166_1_files_total = len([i for i in os.listdir(self.iso3166_1_dir) if os.path.isfile(os.path.join(self.iso3166_1_dir, i))])
-        self.assertEqual(iso3166_1_files_total, 266, "There should be 266 flag icons in the ISO3166-1 folder, got {iso3166_1_files_total}.")
+        self.assertEqual(iso3166_1_files_total, 265, "There should be 265 flag icons in the ISO3166-1 folder, got {iso3166_1_files_total}.")
 
     def test_iso3166_1_file_extensions(self):
         """ Test file extensions for all flags. """

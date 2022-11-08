@@ -1,6 +1,6 @@
 # Scripts for downloading all ISO3166-2 country subdivision flags
 
-[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/iso3166_workflow/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions/workflows/iso3166_workflow.yml)
+[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing%20iso3166-flag-icons/badge.svg)](https://github.com/amckenna41/pySAR/actions?query=workflowBuilding%20and%20Testing%20iso3166-flag-icons)
 [![Platforms](https://img.shields.io/badge/platforms-linux%2C%20macOS%2C%20Windows-green)](https://pypi.org/project/pySAR/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Build](https://img.shields.io/github/workflow/status/amckenna41/pySAR/Deploy%20to%20PyPI%20%F0%9F%93%A6)](https://github.com/amckenna41/pySAR/actions)
@@ -102,3 +102,14 @@ python -m unittest tests.MODULE_NAME -v
 ```
 
 <!-- 3511 seconds total-->
+[python]: https://www.python.org/downloads/release/python-360/
+[pandas]: https://pandas.pydata.org/
+[tqdm]: https://tqdm.github.io/
+[requests]: https://requests.readthedocs.io/
+[beautifulsoup4]: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+[scour]: https://github.com/scour-project/scour
+[pyWikiCommons]: https://github.com/amckenna41/pyWikiCommons
+[flag-icons-repo]: https://github.com/lipis/flag-icons
+[pycountry]: https://github.com/flyingcircusio/pycountry
+[emoji-country-flag]: https://pypi.org/project/emoji-country-flag/
+[fuzzywuzzy]: https://pypi.org/project/fuzzywuzzy/
