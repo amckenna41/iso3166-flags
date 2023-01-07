@@ -18,6 +18,7 @@ import getpass
 from urllib.parse import unquote
 import pycountry
 import iso3166_
+import re
 
 #initialise logging library 
 __version__ = "1.0.1"
@@ -96,11 +97,15 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons"):
     #path to json file will be in the main repo dir by default
     json_filepath = os.path.join("../", "iso3166-2.json")
     json_min_filepath = os.path.join("../", os.path.splitext("iso3166-2.json")[0] + '-min' + os.path.splitext("iso3166-2.json")[1])
-
+    
+    json_filepath = os.path.join("../", "test-iso3166-2.json")
+    json_min_filepath = os.path.join("../", os.path.splitext("test-iso3166-2.json")[0] + '-min' + os.path.splitext("iso3166-2.json")[1])
+    
     #get sorted list of all ISO3166-2 subfolders
     allFolders = sorted([f for f in os.listdir(countryInputFolder) if os.path.isdir(os.path.join(countryInputFolder, f))])
     countryIndex = 0
 
+    print(allFolders)
     #iterate over all subdivision folders, getting country and subdivision info, append to json's
     for folder in allFolders:
 
@@ -117,10 +122,6 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons"):
         except:  
             raise requests.exceptions.HTTPError(f'Error retrieving URL {country_url}; Status Code {restCountriesResponse.status_code}')
 
-        #skip Kosovo (XK) as has no listed subdivision, was throwing error
-        if (folder == "XK"):
-            continue
-
         #get country name and list of its subdivisions
         countryName = pycountry.countries.get(alpha_2=folder).name
         allSubdivisions = list(pycountry.subdivisions.get(country_code=folder))
@@ -128,7 +129,6 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons"):
         subdivisions = []
         subdivisionNames = []
 
-            #not working here -> AT-1 change to AT-01
         #iterate over all files, appending subdivision names and codes to arrays
         for file in allFiles:
             if (file.lower() != "readme.md" and file.lower() != ".ds_store"):     
@@ -144,11 +144,37 @@ def createISO3166_2_Json(countryInputFolder="../iso3166-2-icons"):
         
         #create dict of subdivison codes and their names           
         subds = dict(zip(subdivisions, subdivisionNames))   
+        subds_sorted = {}
+        
+        #sort subdivision codes/keys in non-natural order
+        #e.g: without this sorting for Estonia, some codes were ordered as EE-353, EE-37, EE-39, EE-424
+        def atoi(text):
+            return int(text) if text.isdigit() else text
+
+        def natural_keys(text):
+            '''
+            alist.sort(key=natural_keys) sorts in human order
+            http://nedbatchelder.com/blog/200712/human_sorting.html
+            (See Toothy's implementation in the comments)
+            '''
+            return [ atoi(c) for c in re.split(r'(\d+)', text) ]
+
+        # subdivisions.sort(key=natural_keys)
+# ['ET-AA', 'ET-AF', 'ET-AM', 'ET-BE', 'ET-DD', 'ET-GA', 'ET-HA', 'ET-OR', 'ET-SI', 'ET-SN', 'ET-SO', 'ET-TI']
+# ['Addis Ababa', 'Afar', 'Amara', 'Benshangul-Gumaz', 'Dire Dawa', 'Gambela Peoples', 'Harari People', 'Oromia', 'Southern Nations, Nationalities and Peoples', 'Somali', 'Tigrai']
+
+        print(subds)
+        print(subdivisions)
+        print(subdivisionNames)
+        #create new sorted dict of subdivision codes and names
+        for sub in subdivisions:
+
+            subds_sorted[sub] = subds[sub]
 
         #append all subdivision and country info to respective jsons  
         json_data.append(restCountriesResponse.json()[0])
-        json_data[countryIndex]["Subdivisions"] = subds
-        json_min_data.append({"Country": countryName, "Code": folder, "Subdivisions": subds})
+        json_data[countryIndex]["Subdivisions"] = subds_sorted
+        json_min_data.append({"Country": countryName, "Code": folder, "Subdivisions": subds_sorted})
 
         countryIndex+=1 #increment counter
 
@@ -165,8 +191,8 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-2-icons", help='Input folder of ISO3166 countrys, ../iso3166-1-icons by default.')
-    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-1 by default.')
+    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-2-icons", help='Input folder of ISO3166 flag icons, ../iso3166-2-icons by default.')
+    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 JSON file, ISO3166-2 by default.')
 
     #parse input args
     args = parser.parse_args()

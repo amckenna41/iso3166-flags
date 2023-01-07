@@ -333,7 +333,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Downloading all ISO3166-2 flags.')
 
     parser.add_argument('-output', '--output', type=str, required=False, default="../iso3166-2-icons-test-2", help='Output folder path for downloaded ISO3166-2 country SVGs.')
-    parser.add_argument('-countryInput', '--countryInput', type=str, required=False, default="", help='Country name')
+    parser.add_argument('-countryInput', '--countryInput', type=str, required=False, default="", help='Country name if downloading single country from URL.')
     parser.add_argument('-url_csv', '--url_csv', type=str, required=False, default="iso3166-2_urls.csv", help='CSV of countrys wiki URLs')
     parser.add_argument('-no_flags_csv', '--no_flags_csv', type=str, required=False, default="noISO3166-2Flags.csv", help='CSV of all countrys and their ISO codes that have no associated ISO3166-2 flags.')
 
@@ -343,8 +343,6 @@ if __name__ == '__main__':
     countryInput = args.countryInput
     url_csv = args.url_csv
     no_flags_csv = args.no_flags_csv
-
-    url_csv = "test_url.csv"
     
     #import csv of countrys and their wiki urls
     if (os.path.isfile(url_csv)):

@@ -1,12 +1,13 @@
-# Repository of all ISO3166-1 and ISO3166-2 Flags 
+# Repository of all ISO3166-1 and ISO3166-2 flags 
 
-[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing%20iso3166-flag-icons/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions?query=workflowBuilding%20and%20Testing%20iso3166-flag-icons)
+[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions?query=workflowBuilding%20and%20Testing)
+[![npm version](https://badge.fury.io/js/iso3166-flags.svg)](https://badge.fury.io/js/iso3166-flags)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 [![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/iso3166-flag-icons)
 
-> A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
+> A comprehensive library of all <em>ISO3166-1</em> & <em>ISO3166-2</em> country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/) ([repo](https://github.com/amckenna41/iso3166-flag-icons-website)).
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="400" width="700"/>
@@ -41,6 +42,10 @@ Motivation
 The main motivation behind this project was to integrate additional flag icons into my custom-built web-app <b>Flagle</b> (https://flagle.vercel.app/). This daily worldle-inspired game generates a new flag from around the world each day, consisting of flags of countries, territories and everywhere in between. <br>
 
 After searching around, it was fairly straightforward to find a repo with ISO 3166-1 flags, an example being [here][flag-icons-repo] but there didn't seem to be any single repo/dataset of all ISO 3166-2 subdivision flags, hence I decided to make one from scratch. <br>
+
+Updates
+-------
+ISO3166 codes and names sometimes change due to various geopolitical reasons so it was important for the naming conventions and flags to reflect these changes. To do this, I created an API/Python software package called [iso3166-updates](iso3166-updates) which pulls the latest updates for all ISO3166-2 countrys/subdivisions, exporting these to a JSON. An API
 
 Installation
 ------------
@@ -119,6 +124,7 @@ References
 \[4\]: https://github.com/amckenna41/flagle <br>
 \[5\]: https://en.wikipedia.org/wiki/ISO_3166-1  <br>
 
+<a href="https://www.buymeacoffee.com/amckenna41" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 [Back to top](#TOP)
 
@@ -133,4 +139,4 @@ References
 [pycountry]: https://github.com/flyingcircusio/pycountry
 [emoji-country-flag]: https://pypi.org/project/emoji-country-flag/
 [fuzzywuzzy]: https://pypi.org/project/fuzzywuzzy/
-
+[iso3166-updates]: https://github.com/amckenna41/iso3166-updates

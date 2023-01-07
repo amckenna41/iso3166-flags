@@ -1,22 +1,15 @@
 # Scripts for downloading all ISO3166-2 country subdivision flags
 
-[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing%20iso3166-flag-icons/badge.svg)](https://github.com/amckenna41/pySAR/actions?query=workflowBuilding%20and%20Testing%20iso3166-flag-icons)
+[![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions?query=workflowBuilding%20and%20Testing)
 [![Platforms](https://img.shields.io/badge/platforms-linux%2C%20macOS%2C%20Windows-green)](https://pypi.org/project/pySAR/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-[![Build](https://img.shields.io/github/workflow/status/amckenna41/pySAR/Deploy%20to%20PyPI%20%F0%9F%93%A6)](https://github.com/amckenna41/pySAR/actions)
 <!-- [![CircleCI](https://circleci.com/gh/amckenna41/pySAR.svg?style=svg&circle-token=d860bb64668be19d44f106841b80eb47a8b7e7e8)](https://app.circleci.com/pipelines/github/amckenna41/pySAR) -->
 [![codecov](https://codecov.io/gh/amckenna41/iso3166-flag-icons/branch/master/graph/badge.svg?token="")](https://codecov.io/gh/amckenna41/iso3166-flag-icons)
-[![Issues](https://img.shields.io/github/issues/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons/issues)
-[![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
-[![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 
-
-Purpose
--------
-After browsing through the likes of GitHub and Kaggle I found out that there wasn't any solid and reliable dataset for ISO3166-2 icons. There existed several repos and datasets for the ISO3166-1 flags, mainly due to their being a much smaller amount (~270) compared to the X that are available in the ISO3166-2 folder of this repo. 
-Several scripts were required to automate the collection, downloading and cleaning of the thousands of ISO3166-2 flag images, generating a pipeline that starts with a web-scraping function and ends with the creation of the custom CSS and JSON files also present in the repo.
-
-Note the `jquery-jvectormap-2.0.5.js` and `jquery-jvectormap-2.0.5.css` files are only required for the interactive map demo of the repo found [here](https://amckenna41.github.io/iso3166-flag-icons-website/).
+Motivation
+----------
+After browsing through the likes of GitHub and Kaggle I found that there wasn't any solid and reliable dataset for ISO3166-2 icons. There existed several repos and datasets for the ISO3166-1 flags, mainly due to there being a much smaller amount (~270) compared to the >3100 that are available in the ISO3166-2 folder of this repo. 
+Several scripts were required to automate the collection, downloading, processing and cleaning of the thousands of ISO3166-2 flag images, generating a pipeline that starts with a web-scraping function and ends with the creation of the custom CSS and JSON files also present in the repo.
 
 The exact purpose of each script can be seen below, as well as in the comments of each file:
 * `getAllSubdivisionFlags.py` - downloading all ISO3166-2 subdivision flags from the main subdivisions wiki (https://en.wikipedia.org/wiki/Flags_of_country_subdivisions) as well as using country's respective wiki URL's. 
@@ -24,9 +17,6 @@ The exact purpose of each script can be seen below, as well as in the comments o
 * `generateCSS.py` - create CSS files with respective CSS selectors/classes for both ISO3166-2 and ISO3166-2 flag icons.
 * `generateJSON.py` - create JSON files of flag files, their name and ISO code for both ISO3166-1 and ISO3166-2 folders. 
 * `iso3166_.py` - list of all ISO3166 country names, alpha2 and alpha3 codes.
-* `mapMarkers.js` - script for adding smaller countries/jurisdictions as markers to the jsVectorMaps.
-* `jquery-jvectormap-2.0.5.css` - styling for jvectormap interactive maps.
-* `jquery-jvectormap-2.0.5.js` - jvectormap library source code to built interactive maps.
 * `svgCompress.sh` - script for compressing folder of image flags in SVG format.
 
 Requirements
@@ -66,18 +56,21 @@ python3 getAllSubdivisionFlags.py --output="../iso3166-2-icons"
 --filesize_threshold: all SVG files above this threshold will go through the compression algorithm. 
 ```
 
-<strong>After execution of the ./svgCompress.sh script, the iso3166-2-icons dir was compressed from XMB -> YMB.</strong>
-
 ## Create CSS files for both ISO3166-1 and ISO3166-2 icons
 
 ```bash
 python3 generateCSS.py --countryFolder="../iso3166-1-icons" --cssFileName="iso3166-1-icons.css" --iso3166Type="iso3166-1"
+
+--countryFolder: input folder of flag files to create CSS tags and references to
+--cssFileName: output filename of CSS
+--iso3166Type: create ISO3166-1 or ISO3166-2 CSS file
 ```
 
 ## Create ISO3166-1 or ISO3166-2 JSON files containing all flag and subdivision info per country/jurisdiction
 
 ```bash
-python3 generateJSON.py --countryFolder="" --jsonFileName="" --iso3166Type=""
+python3 generateJSON.py --countryFolder="../iso3166-2-icons" --jsonFileName="iso3166" --iso3166Type=""
+
 ```
 
 ## Create README files for each ISO3166-2 country in iso3166-2-icons dir, listing contents of dir and subdivision info
@@ -88,7 +81,7 @@ python3 generateReadme.py --country
 
 Tests
 -----
-Several Python test scripts were created using (unittest)[https://docs.python.org/3/library/unittest.html] framework. These tests test the full pipeline from getting the flags via web-scraping to exporting the flag & country info to json. 
+Several Python test scripts were created using [unittest][unittest] framework. These tests test the full pipeline from getting the flags via web-scraping to exporting the flag & country info to json. 
 To run all tests, from the <i>scripts</i> repo folder run:
 ```
 python3 -m unittest discover -v
@@ -98,7 +91,6 @@ To run tests for specific module, from the main <i>scripts</i> repo folder run:
 ```
 python -m unittest tests.MODULE_NAME -v
 -v : verbose output
-
 ```
 
 <!-- 3511 seconds total-->
@@ -113,3 +105,4 @@ python -m unittest tests.MODULE_NAME -v
 [pycountry]: https://github.com/flyingcircusio/pycountry
 [emoji-country-flag]: https://pypi.org/project/emoji-country-flag/
 [fuzzywuzzy]: https://pypi.org/project/fuzzywuzzy/
+[unittest]: https://docs.python.org/3/library/unittest.html

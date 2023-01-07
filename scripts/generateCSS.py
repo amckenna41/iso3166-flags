@@ -6,7 +6,7 @@ CSS file.
 import os 
 import argparse
 
-def createISO3166_1_css(countryInputFolder="../iso3166-1-icons", cssFileName="iso3166-1-icons.css"):
+def createISO3166_1_css(countryInputFolder="../iso3166-1-icons"):
     """
     Create custom CSS file for all ISO 3166-1 flag icons. By default the CSS files will be stored
     in the "CSS" dir in the main repo dir. Each flag will have its own custom CSS selector 
@@ -17,15 +17,13 @@ def createISO3166_1_css(countryInputFolder="../iso3166-1-icons", cssFileName="is
     ----------
     :countryInputFolder : string (default="../iso3166-1-icons")
         filename of folder for where ISO 3166-1 flags are stored.
-    :cssFileName : string (default="iso3166-1-icons.css")
-        filename for CSS file.
 
     Returns
     -------
     None
     """
     #path to CSS file will be in the CSS folder in the main repo dir by default
-    css_filepath = os.path.join("../", "css", cssFileName)
+    css_filepath = os.path.join("../", "css", "iso3166-1-icons.css")
 
     cssOutputStr = ""
 
@@ -49,7 +47,7 @@ def createISO3166_1_css(countryInputFolder="../iso3166-1-icons", cssFileName="is
     with open(css_filepath, "a") as css_file:
         css_file.write(cssOutputStr)
 
-def createISO3166_2_css(countryInputFolder="../iso3166-2-icons", cssFileName="iso3166-2-icons.css"):
+def createISO3166_2_css(countryInputFolder="../iso3166-2-icons"):
     """
     Create custom CSS file for all ISO 3166-2 flag icons. By default the CSS files will be stored
     in the "CSS" dir in the main repo dir. Each subdivision flag will have its own custom CSS selector 
@@ -60,15 +58,13 @@ def createISO3166_2_css(countryInputFolder="../iso3166-2-icons", cssFileName="is
     ----------
     :countryInputFolder : string (default="../iso3166-2-icons")
         filename of folder for where ISO 3166-2 flags are stored.
-    :cssFileName : string (default="iso3166-2-icons.css")
-        filename for CSS file.
 
     Returns
     -------
     None
     """
     #path to CSS file will be in the CSS folder in the main repo dir by default
-    css_filepath = os.path.join("../", "css", cssFileName)
+    css_filepath = os.path.join("../", "css", "iso3166-2-icons.css")
 
     cssOutputStr = ""
 
@@ -103,14 +99,12 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-2-icons", help='Output folder of ISO 3166 countrys, ../iso3166-1-icons by default.')
-    parser.add_argument('-cssFileName', '--cssFileName', type=str, required=False, default="iso3166-2-icons.css", help='Filename of CSS, iso3166-1-icons.css by default.')
-    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO 3166-1 or ISO 3166-2 CSS file, ISO 3166-1 by default.')
+    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-2-icons", help='Input folder of ISO3166-1/2 flag icons, ../iso3166-2-icons by default.')
+    parser.add_argument('-iso3166Type', '--iso3166Type', type=str, required=False, default="iso3166-2", help='Create ISO3166-1 or ISO3166-2 CSS file, ISO3166-2 by default.')
 
     #parse input args
     args = parser.parse_args()
     countryInputFolder = args.countryInputFolder
-    cssFileName = args.cssFileName
     iso3166Type = args.iso3166Type
 
     #invalid country folder input
@@ -119,6 +113,6 @@ if __name__ == '__main__':
 
     #create CSS file for either ISO 3166-1 or ISO 3166-2
     if (iso3166Type == "iso3166-1"):
-        createISO3166_1_css(countryInputFolder=countryInputFolder, cssFileName=cssFileName)
+        createISO3166_1_css(countryInputFolder=countryInputFolder)
     else:
-        createISO3166_2_css(countryInputFolder=countryInputFolder, cssFileName=cssFileName)
+        createISO3166_2_css(countryInputFolder=countryInputFolder)

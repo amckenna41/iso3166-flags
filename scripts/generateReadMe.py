@@ -110,7 +110,7 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-2-icons", help='Input folder of ISO3166-2 countrys, ../iso3166-2-icons by default.')
+    parser.add_argument('-countryInputFolder', '--countryInputFolder', type=str, required=False, default="../iso3166-2-icons", help='Input folder of ISO3166-2 flag icons, ../iso3166-2-icons by default.')
 
     #parse input args
     args = parser.parse_args()

@@ -3,6 +3,10 @@ node_modules/
 iso3166-2-icons-test/
 iso3166-2-icons-test-2/
 
+# npm meta files
+.npmignore
+.npmrc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

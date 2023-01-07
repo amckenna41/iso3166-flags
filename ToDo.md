@@ -1,13 +1,11 @@
 # To Do List for iso3166-flag-icons
 
 - [ ] - Add GitHub release of compressed images
-- [ ] - Add different branches - ISO3166-1 branch and ISO3166-2 branch. 
+- [X] - Add different branches - ISO3166-1 branch and ISO3166-2 branch. 
 - [X] - Add JSON files for each country https://github.com/hampusborgos/country-flags/blob/main/countries.json
-- [ ] - Add sources JSOn
 - [X] - Create automatically generated readme for each country folder.
-- [X] - Add demo showing how it works like: https://flagicons.lipis.dev/
-- [ ] - Create NPM of package: https://www.npmjs.com/package/flag-icons
-- [ ] - add yarn.lock
+- [X] - Add demo showing how it works.
+- [X] - Create NPM of package: https://www.npmjs.com/package/flag-icons
 - [X] - Add json of country info (https://en.wikipedia.org/wiki/ISO_3166-1#Naming_and_disputes, https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 - [X] - Swap normal brackets for square brackets when saving files, for CSS capability OR remove brackets entirely from filename
 - [X] - Skip historical states in getAllSubdivisionFlags.py 
@@ -22,35 +20,32 @@
 - [X] - On main repo, have iso3166-2-icons.json & iso3166-2-icons-min.json (a minimmised version of flags without restcountries data)
 - [X] - Add actual names of 2 letter subdivision codes, maybe using pycountry...
 - [X] - Add play flagle to repo.
-- [ ] - Add python badges to scripts dir.
+- [X] - Add python badges to scripts dir.
 - [X] - Remove "canton" etc from country name...
-- [ ] - Get list of subdivison types using pycountry, remove from filenames or add to object. 
-- [ ] - Try and convert all png's to svg's.
+- [X] - Get list of subdivison types using pycountry, remove from filenames or add to object. 
+- [X] - Try and convert all png's to svg's.
 - [ ] - Upload bandit, package safety check etc to GCP bucket 
 - [X] - Move requirements section from main readme to scripts dir.
 - [X] - Add download link to downloads/ folder for iso3166-2-icons, stored on AWS or GCP
 - [X] - Add getAllSubdiv and getISO3166... files into one.
-- [ ] - Use noISO3166-2Flags.csv file to not download from any countries that don't have flags in getAllSubdivisionFlags.py
-- [ ] - Add space b/w ISO 3166-1 and ISO 3166-2.
-- [ ] - Add note that ISO 3166-2 jsons dont neccesarrily include all subdivisions just 
-ones with flags in the repo.
-- [ ] Replace '.svg.png' with '.png'
+- [X] - Use noISO3166-2Flags.csv file to not download from any countries that don't have flags in getAllSubdivisionFlags.py
+- [X] Replace '.svg.png' with '.png'
 - [X] Remove 'Ceuta, Melilla' from restcountries call in index.html.
 - [X] China countrys all wrong.
 - [ ] Create CDN 
 - [ ] Import CSS flags on index.html using css.
 - [ ] Upload dataset to Kaggle.
 - [X] Fix LI vertical flags.
-- [ ] Fix Taiwan.
-- [ ] PM, GQ, icons not in correct format.
+- [X] Fix Taiwan flags.
+- [X] PM, GQ, icons not in correct format.
 - [X] Sort noISO3166-2Flags.csv in alphabetical order.
-- [ ] Fix char_to_replace dict in getAllSubdivisionFlags.
+- [X] Fix char_to_replace dict in getAllSubdivisionFlags.
 - [X] Check all folders dont contain any files not in form XX-YY etc.
 - [X] MD file showing list of countrys/subdivisions with outstanding files with no current svg.
-- [ ] Complete /scripts/README
+- [X] Complete /scripts/README
 - [ ] Create API for accessing subdivision imgs, similar to restcountries.
-- [ ] Add download button for img on front-end.
-- [ ] Add shading to subdivision info table.
+- [X] Add download button for img on front-end.
+- [X] Add shading to subdivision info table.
 - [ ] Read the docs (.readthedocs.yml)
 - [ ] Create CSS for bootstrap package (https://github.com/lipis/bootstrap-social).
 - [ ] Add emojis to subdivision info table, similar to https://bondok-world-data.herokuapp.com/
@@ -65,11 +60,28 @@ ones with flags in the repo.
 - [ ] Some sort of workflow that polls original /flag-icons repo to see if any updates to iso3166-1 flags.
 - [ ] Check variable naming conventions.
 - [ ] Check output of bandit and flake8 check.
-- [ ] Have multiple urls to download from in getAllSubdivisionFlags.py
+- [X] Have multiple urls to download from in getAllSubdivisionFlags.py
 - [X] Convert all gifs to pngs using convert lib: convert SI-038.gif/jpg SI-038.png - split into its own function in bash script. 
 - [ ] Add updates.md file which outlines changes to repo bw versions.
 - [X] Change iso3166-2_min -> iso3166-2-min.
+- [X] Add npm package badge to repo.
 - [ ] Mention that iso3166-2 doesnt contain all country info just that of those that have flags in repo.
+- [ ] Confirm if iso3166-1 flags are 1x1 or 4x3 from original flag-icons repo.
+- [X] Remove all front-end files from this repo, move to front-end demo repo, reflect this in README's.
+- [ ] Allow for recreation of JSON/CSS files with only desired countries set by user, remove all others.
+- [X] Remove filename arg in generateCSS, make CSS filenames static for the 2 functions - reflect this in ./scripts/README.md
+- [ ] Add .coveralls.yml file to repo.
+- [ ] Selecting All Countries after country previously selected, Download Button & subdivision info remains up and then selecting another country from dropdown doesnt work.
+- [ ] Maybe considering removing Map all together from front-end.
+- [ ] Add 'X' to country and subdivision dropdowns to remove selected country/subd and go back to default.
+- [ ] List of subdivisions in wrong order in dropdown and in table: e.g for EE -> EE-511, 514, 52, 528, 557, 56. Due to original iso3166-2 json, which is due to how files are originally saved in folder iso3166-2-icons/EE , need to add reorder code to getAllSubdivisionFlags.py, and css file as well, or not as EE in correct order - can't reorder files on github due to the natural ordering of it.
+- [ ] Look into restyling download buttons.
+- [ ] Change position of subdivision name after being selected.
+- [ ] Make all download btns on page the same.
+- [ ] Update npm package to include iso3166-2 flags, upload in chunks as publishing is timeing out each time.
+- [ ] Switching bw countrys after subdivision selected, subdivisionInfo remains.
+- [ ] RS Flags.
+- [X] Add link to front-end repo on main repo.
 - [ ] Add subdivision type to iso3166-2/min json, e.g: 
         "Subdivisions": {
             "AE-AJ": {
@@ -78,9 +90,21 @@ ones with flags in the repo.
             },
             ...
         }
-
-<!-- AL-04 -> https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Stema_e_Qarkut_Fier.svg/1024px-Stema_e_Qarkut_Fier.svg.png
-Change to:
-https://upload.wikimedia.org/wikipedia/commons/2/29/Stema_e_Qarkut_Fier.svg -->
+- [ ] Reach out to worldle guy
+- [ ] Add some info about a country after selection in table.
+- [X] Check in generateJSON - do I need line if (folder == "XK"): continue
+- [ ] ET-TI missing in json & CSS - in folder and pycountry, missing Sidama (ET-SI - missing in pycountry)
+- [X] Go over help messages in argparse.
+- [ ] Add Contributing section to readme (https://github.com/arc298/instagram-scraper).
+- [ ] Fork pycountry repo to ensure correct subdivisions/codes in them, package is not fully up-to-date.
+- [ ] Add "Last Updated" to readme, based on latest pull from iso3166-updates api.
+- [ ] Mention iso3166-updates repo in readme.
+- [ ] Add npm install section to header in demo, similar to jsVectorMapMarkers demo.
+- [ ] Add 'Made By' section at bottom of demo page.
+- [ ] Add green MIT logo to Readme (https://shields.io/category/license).
+- [ ] Create select2 dropdown with iso3166-1 and iso3166-2 countrys (https://codepen.io/HatScripts/pen/yPejNm).
+- [ ] Mention number of flags available in repo at top of readme and in repo description.
+- [ ] Update workflows similar to iso3166-updates.
+- [ ] Add path-ignore keywords to GitHub Action.
 
 <!-- https://flagmeister.github.io/?#repoanalyzer -->

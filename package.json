@@ -1,38 +1,38 @@
 {
     "name": "iso3166-flag-icons",
-    "version": "0.0.1",
+    "version": "1.0.2",
     "description": "A comprehensive library of ISO3166-1 & ISO3166-2 country/subdivision codes and their corresponding flag icons in SVG format.",
     "main": "css/iso3166-flag-icons.css",
     "author": {
-      "name": "AJ McKenna",
-      "email": "amckenna41@qub.ac.uk"
+        "name": "AJ McKenna",
+        "email": "amckenna41@qub.ac.uk"
     },
     "keywords": [
-      "flags",
-      "javascript",
-      "iso3166",
-      "iso3166-1",
-      "iso3166-2",
-      "world",
-      "vector",
-      "map",
-      "svg"
+        "flags",
+        "javascript",
+        "iso3166",
+        "iso3166-1",
+        "iso3166-2",
+        "world",
+        "vector",
+        "map",
+        "svg"
     ],
     "files": [
-      "css",
-      "iso3166-1-icons",
-      "iso3166-2-icons",
-      "iso3166-1.json",
-      "iso3166-2.json",
-      "iso3166-2_min.json"
+        "css",
+        "iso3166-1-icons",
+        "iso3166-2-icons",
+        "iso3166-1.json",
+        "iso3166-2.json",
+        "iso3166-2_min.json"
     ],
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/amckenna41/iso3166-flag-icons.git"
+        "type": "git",
+        "url": "git+https://github.com/amckenna41/iso3166-flag-icons.git"
     },
     "bugs": {
-      "url": "https://github.com/amckenna41/iso3166-flag-icons/issues"
+        "url": "https://github.com/amckenna41/iso3166-flag-icons/issues"
     },
     "homepage": "https://amckenna41.github.io/iso3166-flag-icons-website/",
     "license": "MIT"
-  }
+}
