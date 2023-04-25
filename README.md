@@ -13,7 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="400" width="700"/>
 </p>
 
-iso3166-flag-icons is a comprehensive repository of all ISO 3166-1 and ISO 3166-2 flag icons according to the International Organisation for Standard that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions [[1]](#references). The repo contains <em>266</em> ISO3166-1 alpha-2 flag icons and over <em>3200</em> ISO3166-2 flags. <br> 
+iso3166-flag-icons is a comprehensive repository of all ISO 3166-1 and ISO 3166-2 flag icons according to the International Organisation for Standards that define codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions [[1]](#references). The repo contains <em>266</em> ISO3166-1 alpha-2 flag icons and over <em>3200</em> ISO3166-2 flags. <br> 
 
 The <b>ISO 3166-1</b> icons are those of the names of countries and their subdivisions that can be broken into three sets of country codes:
 * ISO 3166-1 alpha-2 – two-letter country codes which are the most widely used of the three, and used most prominently for the Internet's country code top-level domains (with a few exceptions).

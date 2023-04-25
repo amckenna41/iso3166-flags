@@ -106,5 +106,10 @@
 - [ ] Mention number of flags available in repo at top of readme and in repo description.
 - [ ] Update workflows similar to iso3166-updates.
 - [ ] Add path-ignore keywords to GitHub Action.
-
+- [ ] Redeploy npm package if changes made to flags - could use paths-filter github action.
+- [ ] Ensure other branches are correct.
+- [ ] Swap usage of pycountry to more up-to-date iso3166-2 package. 
+- [ ] Add release logo ![release](https://img.shields.io/github/v/release/dr5hn/countries-states-cities-database?style=flat-square)
+- [ ] Remove all camel casing function names/vars, change to underscores and lowercase (https://peps.python.org/pep-0008/#function-and-variable-names).
+- [ ] Swap pycountry to iso3166-2 package.
 <!-- https://flagmeister.github.io/?#repoanalyzer -->
