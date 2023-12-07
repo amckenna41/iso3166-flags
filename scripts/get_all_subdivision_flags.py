@@ -24,7 +24,7 @@ from tqdm import tqdm
 import argparse
 import time
 from bs4 import BeautifulSoup as bs
-from urllib.parse import urljoin, urlparse, unquote
+from urllib.parse import urlparse, unquote
 import unicodedata
 import logging 
 import getpass
@@ -215,7 +215,7 @@ def download(url, pathname, country, folder="../countries", decode=True):
 
     #progress bar, changing the unit to bytes instead of iteration (default by tqdm)
     progress = tqdm(response.iter_content(1024), f"{country} ({pathname}): Downloading {os.path.basename(filename)} to filepath {filename}", \
-    total=file_size, unit="B", unit_scale=True, unit_divisor=1024)
+                total=file_size, unit="B", unit_scale=True, unit_divisor=1024)
 
     #write country img data to the file
     with open(filename, "wb") as f:

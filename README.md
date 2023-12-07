@@ -1,4 +1,4 @@
-# Repository of all ISO3166-1 and ISO3166-2 flags 
+# Repository of all ISO 3166-1 and ISO 3166-2 flags 
 
 [![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions?query=workflowBuilding%20and%20Testing)
 [![npm version](https://badge.fury.io/js/iso3166-flags.svg)](https://badge.fury.io/js/iso3166-flags)
@@ -7,13 +7,13 @@
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flag-icons)](https://github.com/amckenna41/iso3166-flag-icons)
 [![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flag-icons)](https://github.com/iso3166-flag-icons)
 
-> A comprehensive library of all <em>ISO3166-1</em> & <em>ISO3166-2</em> country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/) ([repo](https://github.com/amckenna41/iso3166-flag-icons-website)).
+> A comprehensive library of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country/subdivision codes and their corresponding flag icons in SVG format. View demo [here](https://amckenna41.github.io/iso3166-flag-icons-website/) ([repo](https://github.com/amckenna41/iso3166-flag-icons-website)).
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="400" width="700"/>
 </p>
 
-iso3166-flag-icons is a comprehensive repository of all ISO 3166-1 and ISO 3166-2 flag icons according to the International Organisation for Standards that define codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions [[1]](#references). The repo contains <em>266</em> ISO3166-1 alpha-2 flag icons and over <em>3200</em> ISO3166-2 flags. <br> 
+iso3166-flag-icons is a comprehensive repository of all ISO 3166-1 and ISO 3166-2 flag icons according to the International Organisation for Standards that define codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions [[1]](#references). The repo contains <em>266</em> ISO 3166-1 alpha-2 flag icons and over <em>3200</em> ISO 3166-2 flags. <br> 
 
 The <b>ISO 3166-1</b> icons are those of the names of countries and their subdivisions that can be broken into three sets of country codes:
 * ISO 3166-1 alpha-2 – two-letter country codes which are the most widely used of the three, and used most prominently for the Internet's country code top-level domains (with a few exceptions).
@@ -45,7 +45,7 @@ After searching around, it was fairly straightforward to find a repo with ISO 31
 
 Updates
 -------
-ISO3166 codes and names sometimes change due to various geopolitical reasons so it was important for the naming conventions and flags to reflect these changes. To do this, I created an API/Python software package called [iso3166-updates](iso3166-updates) which pulls the latest updates for all ISO3166-2 countrys/subdivisions, exporting these to a JSON. An API
+ISO 3166 codes and names sometimes change due to various geopolitical reasons so it was important for the naming conventions and flags to reflect these changes. To do this, I created an API/Python software package called [`iso3166-updates`](https://github.com/amckenna41/iso3166-updates) which pulls the latest updates for all ISO 3166-2 countrys/subdivisions, exporting these to a JSON. An API
 
 Installation
 ------------
@@ -100,8 +100,8 @@ Folders and files
 
 Issues
 ------
-Due to the nature of the methodology for getting the ISO 3166-2 subdivision flags, as well as the verbosity of flags included, there may exist several outstanding issues with the existing flag icons. A list of countrys that have no recognised subdivisions and hence no flags in iso3166-2 is listed in the file scripts/iso3166-files/noISO3166-2Flags.csv. 
-Another outstanding issue is some ISO3166-2 flags not having an existing or easily accessible SVG version of their flag hence some flags are in png/jpg/gif format. Please feel free to do a PR if SVG versions of these flags become available.
+Due to the nature of the methodology for getting the ISO 3166-2 subdivision flags, as well as the verbosity of flags included, there may exist several outstanding issues with the existing flag icons. A list of countrys that have no recognised subdivisions and hence no flags in iso3166-2 is listed in the file scripts/iso3166-files/no-iso3166-2-flags.csv. 
+Another outstanding issue is some ISO 3166-2 flags not having an existing or easily accessible SVG version of their flag hence some flags are in png/jpg/gif format. Please feel free to do a PR if SVG versions of these flags become available.
 
 Please feel free to raise an Issue in the [Issues](https://github.com/amckenna41/iso3166-2-flag-icons/issues) tab if any incorrect/missing subdivision flags as well as any errors/bugs are found 
 

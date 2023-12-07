@@ -96,7 +96,6 @@
 - [ ] ET-TI missing in json & CSS - in folder and pycountry, missing Sidama (ET-SI - missing in pycountry)
 - [X] Go over help messages in argparse.
 - [ ] Add Contributing section to readme (https://github.com/arc298/instagram-scraper).
-- [ ] Fork pycountry repo to ensure correct subdivisions/codes in them, package is not fully up-to-date.
 - [ ] Add "Last Updated" to readme, based on latest pull from iso3166-updates api.
 - [ ] Mention iso3166-updates repo in readme.
 - [ ] Add npm install section to header in demo, similar to jsVectorMapMarkers demo.
@@ -112,4 +111,24 @@
 - [ ] Add release logo ![release](https://img.shields.io/github/v/release/dr5hn/countries-states-cities-database?style=flat-square)
 - [ ] Remove all camel casing function names/vars, change to underscores and lowercase (https://peps.python.org/pep-0008/#function-and-variable-names).
 - [ ] Swap pycountry to iso3166-2 package.
+- [X] When mentioning any repo secrets relating to GCP, prefix with GCP_
+- [ ] Change all comment underlining from "------" to "=======".
+- [ ] Add coatofarms? https://mainfacts.com/coat-of-arms-countries-world?sP=2
+- [ ] Change module names to all lowercase with underscores (PEP 8 module naming conventions).
+- [ ] Any references of other softwares, put in `` and add link to it.
+- [ ] Create Frontend/demo - host on vercel - add vercel badge to repo - store in seperate repo (https://github.com/amckenna41/iso3166-flag-icons-demo).
+- [ ] Add link to medium article.
+- [X] update iso3166-1 flags with latest ones on src repo.
+- [ ] Change all instances of ISO3166 -> ISO 3166.
+- [ ] As of 29 November 2022 there are 5,043 codes defined in ISO 3166-2.
+- [ ] Read over main readme again.
+- [ ] ISO 3166-2 flags are v6.11.1 from flag-icons.
+- [ ] 249 of the flags are those officially assigned by the ISO. The remaining 9, of the 263, are those listed as user-assigned and exceptional reservations: AC (Ascension Island), CP (Clipperton Island), DG (Diego Garcia), EU (European Union), IC (Canary Islands), TA (Tristan da Cunha), UN (United Nations), XX (unknown states, other entities or organisations) and the remaining 4 are the constituent nations of GB: GB-ENG (England), GB-NIR (Northern Ireland), GB-SCT (Scotland), GB-WLS (Wales).
+- [ ] Go over 2021 & 2022 ISO 3166 updates and add neccessary flags.
+- [ ] Create a template for creating/amending an existing flag providing: subdivision code, name, flag, source and reason for change (if applicable).
+- [ ] Ensure all subdivision flags are the official flags and not just coat of arms/emblems/ensignias etc.
+- [ ] Validate correcrtness of files names using iso3166-2 software.
+- [ ] Test for duplicate img filenames (with different extensions).
+- [ ] Remove space bw colon and parameters in comments.
+
 <!-- https://flagmeister.github.io/?#repoanalyzer -->
