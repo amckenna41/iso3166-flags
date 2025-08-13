@@ -169,3 +169,20 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+#various test files generated from the scripts
+flag_sources.csv
+iso3166-2-icons-extras/
+iso3166-2-icons-original/
+image_file_formats.json
+flag_icon_conversion_archive/
+subdivision_flag_metadata.csv
+/tests
+ToDo.md
+/scripts/check_for_updates.py
+/scripts/git_status_logs_edit_this_one.csv
+/scripts/git_status_logs_master.csv
+iso3166_2_flag_list_check.csv
+iso3166_1_flag_metadata.csv
+iso3166_2_flag_metadata.csv
+missing_subdivision_flags.csv
+repo_metadata.json

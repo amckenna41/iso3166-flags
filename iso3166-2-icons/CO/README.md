@@ -1,37 +1,42 @@
-# Colombia Subdivisions 🇨🇴
+# Colombia Subdivisions ![](https://flagcdn.com/h40/co.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:CO
+- **ISO Code**: CO
+- **Number of subdivisions**: 33
+- **Subdivision Type**: Capital district, Department
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CO
 
-* CO-AMA (Amazonas) -> [CO-AMA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-AMA.svg)
-* CO-ANT (Antioquia) -> [CO-ANT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-ANT.svg)
-* CO-ARA (Arauca) -> [CO-ARA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-ARA.svg)
-* CO-ATL (Atlántico) -> [CO-ATL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-ATL.svg)
-* CO-BOL (Bolívar) -> [CO-BOL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-BOL.svg)
-* CO-BOY (Boyacá) -> [CO-BOY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-BOY.svg)
-* CO-CAL (Caldas) -> [CO-CAL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAL.svg)
-* CO-CAQ (Caquetá) -> [CO-CAQ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAQ.svg)
-* CO-CAS (Casanare) -> [CO-CAS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAS.svg)
-* CO-CAU (Cauca) -> [CO-CAU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAU.svg)
-* CO-CES (Cesar) -> [CO-CES.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CES.svg)
-* CO-CHO (Chocó) -> [CO-CHO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CHO.svg)
-* CO-COR (Córdoba) -> [CO-COR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-COR.svg)
-* CO-CUN (Cundinamarca) -> [CO-CUN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CUN.svg)
-* CO-DC (Distrito Capital De Bogotá) -> [CO-DC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-DC.svg)
-* CO-GUA (Guainía) -> [CO-GUA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-GUA.svg)
-* CO-GUV (Guaviare) -> [CO-GUV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-GUV.svg)
-* CO-HUI (Huila) -> [CO-HUI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-HUI.svg)
-* CO-LAG (La Guajira) -> [CO-LAG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-LAG.svg)
-* CO-MAG (Magdalena) -> [CO-MAG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-MAG.svg)
-* CO-MET (Meta) -> [CO-MET.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-MET.svg)
-* CO-NAR (Nariño) -> [CO-NAR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-NAR.svg)
-* CO-NSA (Norte De Santander) -> [CO-NSA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-NSA.svg)
-* CO-PUT (Putumayo) -> [CO-PUT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-PUT.svg)
-* CO-QUI (Quindío) -> [CO-QUI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-QUI.svg)
-* CO-RIS (Risaralda) -> [CO-RIS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-RIS.svg)
-* CO-SAN (Santander) -> [CO-SAN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-SAN.svg)
-* CO-SAP (San Andrés, Providencia Y Santa Catalina) -> [CO-SAP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-SAP.svg)
-* CO-SUC (Sucre) -> [CO-SUC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-SUC.svg)
-* CO-TOL (Tolima) -> [CO-TOL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-TOL.svg)
-* CO-VAC (Valle Del Cauca) -> [CO-VAC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-VAC.svg)
-* CO-VAU (Vaupés) -> [CO-VAU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-VAU.svg)
-* CO-VID (Vichada) -> [CO-VID.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-VID.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| CO-AMA | Amazonas | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-AMA.svg' height='80'> | [CO-AMA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-AMA.svg) |
+| CO-ANT | Antioquia | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-ANT.svg' height='80'> | [CO-ANT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-ANT.svg) |
+| CO-ARA | Arauca | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-ARA.svg' height='80'> | [CO-ARA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-ARA.svg) |
+| CO-ATL | Atlántico | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-ATL.svg' height='80'> | [CO-ATL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-ATL.svg) |
+| CO-BOL | Bolívar | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-BOL.svg' height='80'> | [CO-BOL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-BOL.svg) |
+| CO-BOY | Boyacá | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-BOY.svg' height='80'> | [CO-BOY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-BOY.svg) |
+| CO-CAL | Caldas | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-CAL.svg' height='80'> | [CO-CAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAL.svg) |
+| CO-CAQ | Caquetá | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-CAQ.svg' height='80'> | [CO-CAQ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAQ.svg) |
+| CO-CAS | Casanare | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-CAS.svg' height='80'> | [CO-CAS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAS.svg) |
+| CO-CAU | Cauca | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-CAU.svg' height='80'> | [CO-CAU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CAU.svg) |
+| CO-CES | Cesar | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-CES.svg' height='80'> | [CO-CES](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CES.svg) |
+| CO-CHO | Chocó | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-CHO.svg' height='80'> | [CO-CHO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CHO.svg) |
+| CO-COR | Córdoba | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-COR.svg' height='80'> | [CO-COR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-COR.svg) |
+| CO-CUN | Cundinamarca | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-CUN.svg' height='80'> | [CO-CUN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-CUN.svg) |
+| CO-DC | Distrito Capital de Bogotá | Capital district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-DC.svg' height='80'> | [CO-DC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-DC.svg) |
+| CO-GUA | Guainía | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-GUA.svg' height='80'> | [CO-GUA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-GUA.svg) |
+| CO-GUV | Guaviare | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-GUV.svg' height='80'> | [CO-GUV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-GUV.svg) |
+| CO-HUI | Huila | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-HUI.svg' height='80'> | [CO-HUI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-HUI.svg) |
+| CO-LAG | La Guajira | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-LAG.svg' height='80'> | [CO-LAG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-LAG.svg) |
+| CO-MAG | Magdalena | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-MAG.svg' height='80'> | [CO-MAG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-MAG.svg) |
+| CO-MET | Meta | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-MET.svg' height='80'> | [CO-MET](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-MET.svg) |
+| CO-NAR | Nariño | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-NAR.svg' height='80'> | [CO-NAR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-NAR.svg) |
+| CO-NSA | Norte de Santander | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-NSA.svg' height='80'> | [CO-NSA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-NSA.svg) |
+| CO-PUT | Putumayo | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-PUT.svg' height='80'> | [CO-PUT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-PUT.svg) |
+| CO-QUI | Quindío | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-QUI.svg' height='80'> | [CO-QUI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-QUI.svg) |
+| CO-RIS | Risaralda | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-RIS.svg' height='80'> | [CO-RIS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-RIS.svg) |
+| CO-SAN | Santander | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-SAN.svg' height='80'> | [CO-SAN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-SAN.svg) |
+| CO-SAP | San Andrés, Providencia y Santa Catalina | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-SAP.svg' height='80'> | [CO-SAP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-SAP.svg) |
+| CO-SUC | Sucre | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-SUC.svg' height='80'> | [CO-SUC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-SUC.svg) |
+| CO-TOL | Tolima | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-TOL.svg' height='80'> | [CO-TOL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-TOL.svg) |
+| CO-VAC | Valle del Cauca | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-VAC.svg' height='80'> | [CO-VAC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-VAC.svg) |
+| CO-VAU | Vaupés | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-VAU.svg' height='80'> | [CO-VAU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-VAU.svg) |
+| CO-VID | Vichada | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CO/CO-VID.svg' height='80'> | [CO-VID](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CO/CO-VID.svg) |

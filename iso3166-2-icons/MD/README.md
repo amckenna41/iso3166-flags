@@ -1,44 +1,46 @@
-# Moldova Subdivisions 🇲🇩
+# Moldova, Republic of Subdivisions ![](https://flagcdn.com/h40/md.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:MD
+- **ISO Code**: MD
+- **Number of subdivisions**: 37
+- **Subdivision Type**: Autonomous territorial unit, City, District, Territorial unit
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MD
 
-* MD-AN (Anenii Noi) -> [MD-AN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-AN.png)
-* MD-BA (Bălți) -> [MD-BA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-BA.png)
-* MD-BD (Bender [Tighina]) -> [MD-BD.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-BD.jpeg)
-* MD-BS (Basarabeasca) -> [MD-BS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-BS.png)
-* MD-CA (Cahul) -> [MD-CA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CA.svg)
-* MD-CL (Călărași) -> [MD-CL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CL.png)
-* MD-CM (Cimișlia) -> [MD-CM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CM.png)
-* MD-CR (Criuleni) -> [MD-CR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CR.png)
-* MD-CS (Căușeni) -> [MD-CS.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CS.jpg)
-* MD-CU (Chișinău) -> [MD-CU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CU.svg)
-* MD-DO (Dondușeni) -> [MD-DO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-DO.png)
-* MD-DR (Drochia) -> [MD-DR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-DR.png)
-* MD-DU (Dubăsari) -> [MD-DU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-DU.svg)
-* MD-ED (Edineț) -> [MD-ED.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-ED.svg)
-* MD-FA (Fălești) -> [MD-FA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-FA.png)
-* MD-FL (Florești) -> [MD-FL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-FL.png)
-* MD-GA (Găgăuzia, Unitatea Teritorială Autonomă (Utag)) -> [MD-GA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-GA.svg)
-* MD-GL (Glodeni) -> [MD-GL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-GL.png)
-* MD-HI (Hîncești) -> [MD-HI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-HI.png)
-* MD-IA (Ialoveni) -> [MD-IA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-IA.png)
-* MD-LE (Leova) -> [MD-LE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-LE.png)
-* MD-NI (Nisporeni) -> [MD-NI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-NI.png)
-* MD-OC (Ocnița) -> [MD-OC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-OC.png)
-* MD-OR (Orhei) -> [MD-OR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-OR.png)
-* MD-RE (Rezina) -> [MD-RE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-RE.svg)
-* MD-RI (Rîșcani) -> [MD-RI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-RI.png)
-* MD-SD (Șoldănești) -> [MD-SD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SD.png)
-* MD-SI (Sîngerei) -> [MD-SI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SI.png)
-* MD-SN (Stînga Nistrului, Unitatea Teritorială Din) -> [MD-SN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SN.svg)
-* MD-SO (Soroca) -> [MD-SO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SO.svg)
-* MD-ST (Strășeni) -> [MD-ST.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-ST.png)
-* MD-SV (Ștefan Vodă) -> [MD-SV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SV.png)
-* MD-TA (Taraclia) -> [MD-TA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-TA.png)
-* MD-TE (Telenești) -> [MD-TE.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-TE.jpg)
-* MD-UN (Ungheni) -> [MD-UN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-UN.svg)
-
-Moldova ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MD):
-
-* MD-BR: Briceni (District)
-* MD-CT: Cantemir (District)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| MD-AN | Anenii Noi | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-AN.png' height='80'> | [MD-AN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-AN.png) |
+| MD-BA | Bălți | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-BA.png' height='80'> | [MD-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-BA.png) |
+| MD-BD | Bender [Tighina] | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-BD.jpeg' height='80'> | [MD-BD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-BD.jpeg) |
+| MD-BR | Briceni | District | <img src='None' height='80'> | [MD-BR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-BR.svg) |
+| MD-BS | Basarabeasca | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-BS.png' height='80'> | [MD-BS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-BS.png) |
+| MD-CA | Cahul | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-CA.svg' height='80'> | [MD-CA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CA.svg) |
+| MD-CL | Călărași | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-CL.png' height='80'> | [MD-CL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CL.png) |
+| MD-CM | Cimișlia | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-CM.png' height='80'> | [MD-CM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CM.png) |
+| MD-CR | Criuleni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-CR.png' height='80'> | [MD-CR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CR.png) |
+| MD-CS | Căușeni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-CS.jpg' height='80'> | [MD-CS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CS.jpg) |
+| MD-CT | Cantemir | District | <img src='None' height='80'> | [MD-CT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CT.png) |
+| MD-CU | Chișinău | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-CU.svg' height='80'> | [MD-CU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-CU.svg) |
+| MD-DO | Dondușeni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-DO.png' height='80'> | [MD-DO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-DO.png) |
+| MD-DR | Drochia | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-DR.png' height='80'> | [MD-DR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-DR.png) |
+| MD-DU | Dubăsari | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-DU.svg' height='80'> | [MD-DU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-DU.svg) |
+| MD-ED | Edineț | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-ED.svg' height='80'> | [MD-ED](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-ED.svg) |
+| MD-FA | Fălești | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-FA.png' height='80'> | [MD-FA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-FA.png) |
+| MD-FL | Florești | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-FL.png' height='80'> | [MD-FL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-FL.png) |
+| MD-GA | Găgăuzia, Unitatea teritorială autonomă (UTAG) | Autonomous territorial unit | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-GA.svg' height='80'> | [MD-GA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-GA.svg) |
+| MD-GL | Glodeni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-GL.png' height='80'> | [MD-GL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-GL.png) |
+| MD-HI | Hîncești | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-HI.png' height='80'> | [MD-HI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-HI.png) |
+| MD-IA | Ialoveni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-IA.png' height='80'> | [MD-IA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-IA.png) |
+| MD-LE | Leova | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-LE.png' height='80'> | [MD-LE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-LE.png) |
+| MD-NI | Nisporeni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-NI.png' height='80'> | [MD-NI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-NI.png) |
+| MD-OC | Ocnița | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-OC.png' height='80'> | [MD-OC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-OC.png) |
+| MD-OR | Orhei | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-OR.png' height='80'> | [MD-OR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-OR.png) |
+| MD-RE | Rezina | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-RE.svg' height='80'> | [MD-RE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-RE.svg) |
+| MD-RI | Rîșcani | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-RI.png' height='80'> | [MD-RI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-RI.png) |
+| MD-SD | Șoldănești | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-SD.png' height='80'> | [MD-SD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SD.png) |
+| MD-SI | Sîngerei | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-SI.png' height='80'> | [MD-SI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SI.png) |
+| MD-SN | Stînga Nistrului, unitatea teritorială din | Territorial unit | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-SN.svg' height='80'> | [MD-SN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SN.svg) |
+| MD-SO | Soroca | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-SO.svg' height='80'> | [MD-SO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SO.svg) |
+| MD-ST | Strășeni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-ST.png' height='80'> | [MD-ST](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-ST.png) |
+| MD-SV | Ștefan Vodă | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-SV.png' height='80'> | [MD-SV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-SV.png) |
+| MD-TA | Taraclia | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-TA.png' height='80'> | [MD-TA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-TA.png) |
+| MD-TE | Telenești | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-TE.jpg' height='80'> | [MD-TE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-TE.jpg) |
+| MD-UN | Ungheni | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MD/MD-UN.svg' height='80'> | [MD-UN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MD/MD-UN.svg) |

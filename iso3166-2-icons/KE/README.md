@@ -1,51 +1,56 @@
-# Kenya Subdivisions 🇰🇪
+# Kenya Subdivisions ![](https://flagcdn.com/h40/ke.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:KE
+- **ISO Code**: KE
+- **Number of subdivisions**: 47
+- **Subdivision Type**: County
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KE
 
-* KE-01 (Baringo) -> [KE-01.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-01.png)
-* KE-02 (Bomet) -> [KE-02.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-02.png)
-* KE-03 (Bungoma) -> [KE-03.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-03.png)
-* KE-04 (Busia) -> [KE-04.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-04.png)
-* KE-05 (Elgeyo/Marakwet) -> [KE-05.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-05.png)
-* KE-06 (Embu) -> [KE-06.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-06.png)
-* KE-07 (Garissa) -> [KE-07.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-07.png)
-* KE-08 (Homa Bay) -> [KE-08.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-08.png)
-* KE-09 (Isiolo) -> [KE-09.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-09.png)
-* KE-10 (Kajiado) -> [KE-10.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-10.png)
-* KE-11 (Kakamega) -> [KE-11.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-11.png)
-* KE-12 (Kericho) -> [KE-12.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-12.png)
-* KE-13 (Kiambu) -> [KE-13.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-13.svg)
-* KE-14 (Kilifi) -> [KE-14.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-14.png)
-* KE-15 (Kirinyaga) -> [KE-15.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-15.png)
-* KE-16 (Kisii) -> [KE-16.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-16.png)
-* KE-17 (Kisumu) -> [KE-17.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-17.png)
-* KE-18 (Kitui) -> [KE-18.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-18.jpeg)
-* KE-19 (Kwale) -> [KE-19.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-19.svg)
-* KE-20 (Laikipia) -> [KE-20.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-20.png)
-* KE-21 (Lamu) -> [KE-21.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-21.png)
-* KE-22 (Machakos) -> [KE-22.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-22.png)
-* KE-23 (Makueni) -> [KE-23.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-23.jpeg)
-* KE-24 (Mandera) -> [KE-24.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-24.svg)
-* KE-25 (Marsabit) -> [KE-25.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-25.png)
-* KE-26 (Meru) -> [KE-26.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-26.png)
-* KE-27 (Migori) -> [KE-27.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-27.png)
-* KE-28 (Mombasa) -> [KE-28.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-28.png)
-* KE-29 (Murang'A) -> [KE-29.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-29.png)
-* KE-30 (Nairobi City) -> [KE-30.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-30.svg)
-* KE-31 (Nakuru) -> [KE-31.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-31.png)
-* KE-32 (Nandi) -> [KE-32.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-32.png)
-* KE-33 (Narok) -> [KE-33.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-33.png)
-* KE-34 (Nyamira) -> [KE-34.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-34.png)
-* KE-35 (Nyandarua) -> [KE-35.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-35.png)
-* KE-36 (Nyeri) -> [KE-36.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-36.png)
-* KE-37 (Samburu) -> [KE-37.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-37.png)
-* KE-38 (Siaya) -> [KE-38.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-38.png)
-* KE-39 (Taita/Taveta) -> [KE-39.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-39.png)
-* KE-40 (Tana River) -> [KE-40.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-40.png)
-* KE-41 (Tharaka-Nithi) -> [KE-41.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-41.png)
-* KE-42 (Trans Nzoia) -> [KE-42.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-42.png)
-* KE-43 (Turkana) -> [KE-43.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-43.png)
-* KE-44 (Uasin Gishu) -> [KE-44.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-44.png)
-* KE-45 (Vihiga) -> [KE-45.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-45.png)
-* KE-46 (Wajir) -> [KE-46.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-46.png)
-* KE-47 (West Pokot) -> [KE-47.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-47.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| KE-01 | Baringo | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-01.png' height='80'> | [KE-01](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-01.png) |
+| KE-02 | Bomet | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-02.png' height='80'> | [KE-02](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-02.png) |
+| KE-03 | Bungoma | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-03.png' height='80'> | [KE-03](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-03.png) |
+| KE-04 | Busia | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-04.png' height='80'> | [KE-04](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-04.svg) |
+| KE-05 | Elgeyo/Marakwet | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-05.png' height='80'> | [KE-05](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-05.png) |
+| KE-06 | Embu | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-06.png' height='80'> | [KE-06](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-06.png) |
+| KE-07 | Garissa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-07.png' height='80'> | [KE-07](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-07.png) |
+| KE-08 | Homa Bay | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-08.png' height='80'> | [KE-08](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-08.png) |
+| KE-09 | Isiolo | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-09.png' height='80'> | [KE-09](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-09.png) |
+| KE-10 | Kajiado | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-10.png' height='80'> | [KE-10](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-10.png) |
+| KE-11 | Kakamega | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-11.png' height='80'> | [KE-11](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-11.png) |
+| KE-12 | Kericho | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-12.png' height='80'> | [KE-12](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-12.png) |
+| KE-13 | Kiambu | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-13.svg' height='80'> | [KE-13](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-13.svg) |
+| KE-14 | Kilifi | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-14.png' height='80'> | [KE-14](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-14.png) |
+| KE-15 | Kirinyaga | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-15.png' height='80'> | [KE-15](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-15.png) |
+| KE-16 | Kisii | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-16.png' height='80'> | [KE-16](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-16.png) |
+| KE-17 | Kisumu | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-17.png' height='80'> | [KE-17](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-17.png) |
+| KE-18 | Kitui | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-18.jpeg' height='80'> | [KE-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-18.png) |
+| KE-19 | Kwale | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-19.svg' height='80'> | [KE-19](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-19.svg) |
+| KE-20 | Laikipia | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-20.png' height='80'> | [KE-20](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-20.png) |
+| KE-21 | Lamu | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-21.png' height='80'> | [KE-21](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-21.png) |
+| KE-22 | Machakos | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-22.png' height='80'> | [KE-22](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-22.png) |
+| KE-23 | Makueni | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-23.jpeg' height='80'> | [KE-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-23.png) |
+| KE-24 | Mandera | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-24.svg' height='80'> | [KE-24](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-24.svg) |
+| KE-25 | Marsabit | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-25.png' height='80'> | [KE-25](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-25.png) |
+| KE-26 | Meru | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-26.png' height='80'> | [KE-26](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-26.png) |
+| KE-27 | Migori | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-27.png' height='80'> | [KE-27](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-27.png) |
+| KE-28 | Mombasa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-28.png' height='80'> | [KE-28](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-28.svg) |
+| KE-29 | Murang'a | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-29.png' height='80'> | [KE-29](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-29.png) |
+| KE-30 | Nairobi City | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-30.svg' height='80'> | [KE-30](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-30.svg) |
+| KE-31 | Nakuru | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-31.png' height='80'> | [KE-31](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-31.png) |
+| KE-32 | Nandi | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-32.png' height='80'> | [KE-32](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-32.png) |
+| KE-33 | Narok | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-33.png' height='80'> | [KE-33](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-33.png) |
+| KE-34 | Nyamira | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-34.png' height='80'> | [KE-34](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-34.png) |
+| KE-35 | Nyandarua | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-35.png' height='80'> | [KE-35](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-35.png) |
+| KE-36 | Nyeri | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-36.png' height='80'> | [KE-36](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-36.png) |
+| KE-37 | Samburu | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-37.png' height='80'> | [KE-37](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-37.png) |
+| KE-38 | Siaya | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-38.png' height='80'> | [KE-38](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-38.png) |
+| KE-39 | Taita/Taveta | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-39.png' height='80'> | [KE-39](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-39.png) |
+| KE-40 | Tana River | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-40.png' height='80'> | [KE-40](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-40.png) |
+| KE-41 | Tharaka-Nithi | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-41.png' height='80'> | [KE-41](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-41.png) |
+| KE-42 | Trans Nzoia | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-42.png' height='80'> | [KE-42](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-42.png) |
+| KE-43 | Turkana | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-43.png' height='80'> | [KE-43](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-43.png) |
+| KE-44 | Uasin Gishu | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-44.png' height='80'> | [KE-44](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-44.png) |
+| KE-45 | Vihiga | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-45.png' height='80'> | [KE-45](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-45.svg) |
+| KE-46 | Wajir | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-46.png' height='80'> | [KE-46](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-46.svg) |
+| KE-47 | West Pokot | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/KE/KE-47.png' height='80'> | [KE-47](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/KE/KE-47.png) |

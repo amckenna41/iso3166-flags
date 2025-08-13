@@ -1,90 +1,92 @@
-# Russian Federation Subdivisions 🇷🇺
+# Russian Federation Subdivisions ![](https://flagcdn.com/h40/ru.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:RU
+- **ISO Code**: RU
+- **Number of subdivisions**: 83
+- **Subdivision Type**: Administrative region, Administrative territory, Autonomous city, Autonomous district, Autonomous region, Republic
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/RU
 
-* RU-AD (Adygeja, Respublika) -> [RU-AD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AD.svg)
-* RU-AL (Altaj, Respublika) -> [RU-AL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AL.svg)
-* RU-ALT (Altajskij Kraj) -> [RU-ALT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ALT.svg)
-* RU-AMU (Amurskaja Oblast') -> [RU-AMU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AMU.svg)
-* RU-ARK (Arhangel'Skaja Oblast') -> [RU-ARK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ARK.svg)
-* RU-AST (Astrahanskaja Oblast') -> [RU-AST.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AST.svg)
-* RU-BA (Bashkortostan, Respublika) -> [RU-BA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BA.svg)
-* RU-BEL (Belgorodskaja Oblast') -> [RU-BEL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BEL.svg)
-* RU-BRY (Brjanskaja Oblast') -> [RU-BRY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BRY.svg)
-* RU-BU (Burjatija, Respublika) -> [RU-BU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BU.svg)
-* RU-CE (Chechenskaya Respublika) -> [RU-CE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CE.svg)
-* RU-CHE (Chelyabinskaya Oblast') -> [RU-CHE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CHE.svg)
-* RU-CHU (Chukotskiy Avtonomnyy Okrug) -> [RU-CHU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CHU.svg)
-* RU-CU (Chuvashskaya Respublika) -> [RU-CU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CU.svg)
-* RU-DA (Dagestan, Respublika) -> [RU-DA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-DA.svg)
-* RU-IN (Ingushetiya, Respublika) -> [RU-IN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IN.svg)
-* RU-IRK (Irkutskaja Oblast') -> [RU-IRK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IRK.svg)
-* RU-IVA (Ivanovskaja Oblast') -> [RU-IVA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IVA.svg)
-* RU-KAM (Kamchatskiy Kray) -> [RU-KAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KAM.svg)
-* RU-KB (Kabardino-Balkarskaja Respublika) -> [RU-KB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KB.svg)
-* RU-KC (Karachayevo-Cherkesskaya Respublika) -> [RU-KC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KC.svg)
-* RU-KDA (Krasnodarskij Kraj) -> [RU-KDA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KDA.svg)
-* RU-KEM (Kemerovskaja Oblast') -> [RU-KEM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KEM.svg)
-* RU-KGD (Kaliningradskaja Oblast') -> [RU-KGD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KGD.svg)
-* RU-KGN (Kurganskaja Oblast') -> [RU-KGN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KGN.svg)
-* RU-KHA (Habarovskij Kraj) -> [RU-KHA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KHA.svg)
-* RU-KHM (Hanty-Mansijskij Avtonomnyj Okrug) -> [RU-KHM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KHM.svg)
-* RU-KIR (Kirovskaja Oblast') -> [RU-KIR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KIR.svg)
-* RU-KK (Hakasija, Respublika) -> [RU-KK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KK.svg)
-* RU-KL (Kalmykija, Respublika) -> [RU-KL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KL.svg)
-* RU-KLU (Kaluzhskaya Oblast') -> [RU-KLU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KLU.svg)
-* RU-KO (Komi, Respublika) -> [RU-KO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KO.svg)
-* RU-KOS (Kostromskaja Oblast') -> [RU-KOS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KOS.svg)
-* RU-KR (Karelija, Respublika) -> [RU-KR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KR.svg)
-* RU-KRS (Kurskaja Oblast') -> [RU-KRS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KRS.svg)
-* RU-KYA (Krasnojarskij Kraj) -> [RU-KYA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KYA.svg)
-* RU-LEN (Leningradskaja Oblast') -> [RU-LEN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-LEN.svg)
-* RU-LIP (Lipeckaja Oblast') -> [RU-LIP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-LIP.svg)
-* RU-MAG (Magadanskaja Oblast') -> [RU-MAG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MAG.svg)
-* RU-ME (Marij Èl, Respublika) -> [RU-ME.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ME.svg)
-* RU-MO (Mordovija, Respublika) -> [RU-MO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MO.svg)
-* RU-MUR (Murmanskaja Oblast') -> [RU-MUR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MUR.svg)
-* RU-NEN (Neneckij Avtonomnyj Okrug) -> [RU-NEN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NEN.svg)
-* RU-NGR (Novgorodskaja Oblast') -> [RU-NGR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NGR.svg)
-* RU-NIZ (Nizhegorodskaya Oblast') -> [RU-NIZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NIZ.svg)
-* RU-NVS (Novosibirskaja Oblast') -> [RU-NVS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NVS.svg)
-* RU-OMS (Omskaja Oblast') -> [RU-OMS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-OMS.svg)
-* RU-ORE (Orenburgskaja Oblast') -> [RU-ORE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ORE.svg)
-* RU-PER (Permskij Kraj) -> [RU-PER.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PER.svg)
-* RU-PNZ (Penzenskaja Oblast') -> [RU-PNZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PNZ.svg)
-* RU-PRI (Primorskij Kraj) -> [RU-PRI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PRI.svg)
-* RU-PSK (Pskovskaja Oblast') -> [RU-PSK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PSK.svg)
-* RU-ROS (Rostovskaja Oblast') -> [RU-ROS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ROS.svg)
-* RU-RYA (Rjazanskaja Oblast') -> [RU-RYA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-RYA.svg)
-* RU-SA (Saha, Respublika) -> [RU-SA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SA.svg)
-* RU-SAK (Sahalinskaja Oblast') -> [RU-SAK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAK.svg)
-* RU-SAM (Samarskaja Oblast') -> [RU-SAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAM.svg)
-* RU-SAR (Saratovskaja Oblast') -> [RU-SAR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAR.svg)
-* RU-SE (Severnaja Osetija, Respublika) -> [RU-SE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SE.svg)
-* RU-SMO (Smolenskaja Oblast') -> [RU-SMO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SMO.svg)
-* RU-SPE (Sankt-Peterburg) -> [RU-SPE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SPE.svg)
-* RU-STA (Stavropol'Skij Kraj) -> [RU-STA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-STA.svg)
-* RU-SVE (Sverdlovskaja Oblast') -> [RU-SVE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SVE.svg)
-* RU-TA (Tatarstan, Respublika) -> [RU-TA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TA.svg)
-* RU-TAM (Tambovskaja Oblast') -> [RU-TAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TAM.svg)
-* RU-TOM (Tomskaja Oblast') -> [RU-TOM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TOM.svg)
-* RU-TUL (Tul'Skaja Oblast') -> [RU-TUL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TUL.svg)
-* RU-TVE (Tverskaja Oblast') -> [RU-TVE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TVE.svg)
-* RU-TY (Tyva, Respublika) -> [RU-TY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TY.svg)
-* RU-TYU (Tjumenskaja Oblast') -> [RU-TYU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TYU.svg)
-* RU-UD (Udmurtskaja Respublika) -> [RU-UD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-UD.svg)
-* RU-ULY (Ul'Janovskaja Oblast') -> [RU-ULY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ULY.svg)
-* RU-VGG (Volgogradskaja Oblast') -> [RU-VGG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VGG.svg)
-* RU-VLA (Vladimirskaja Oblast') -> [RU-VLA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VLA.svg)
-* RU-VLG (Vologodskaja Oblast') -> [RU-VLG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VLG.svg)
-* RU-VOR (Voronezhskaya Oblast') -> [RU-VOR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VOR.svg)
-* RU-YAN (Jamalo-Neneckij Avtonomnyj Okrug) -> [RU-YAN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-YAN.svg)
-* RU-YAR (Jaroslavskaja Oblast') -> [RU-YAR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-YAR.svg)
-* RU-YEV (Evrejskaja Avtonomnaja Oblast') -> [RU-YEV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-YEV.svg)
-* RU-ZAB (Zabajkal'Skij Kraj) -> [RU-ZAB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ZAB.svg)
-
-Russian Federation ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:RU):
-
-* RU-MOS: Moskovskaja oblast' (Administrative region)
-* RU-MOW: Moskva (Autonomous city)
-* RU-ORL: Orlovskaja oblast' (Administrative region)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| RU-AD | Adygeja, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-AD.svg' height='80'> | [RU-AD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AD.svg) |
+| RU-AL | Altaj, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-AL.svg' height='80'> | [RU-AL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AL.svg) |
+| RU-ALT | Altajskij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-ALT.svg' height='80'> | [RU-ALT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ALT.svg) |
+| RU-AMU | Amurskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-AMU.svg' height='80'> | [RU-AMU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AMU.svg) |
+| RU-ARK | Arhangel'skaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-ARK.svg' height='80'> | [RU-ARK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ARK.svg) |
+| RU-AST | Astrahanskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-AST.svg' height='80'> | [RU-AST](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-AST.svg) |
+| RU-BA | Bashkortostan, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-BA.svg' height='80'> | [RU-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BA.svg) |
+| RU-BEL | Belgorodskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-BEL.svg' height='80'> | [RU-BEL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BEL.svg) |
+| RU-BRY | Brjanskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-BRY.svg' height='80'> | [RU-BRY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BRY.svg) |
+| RU-BU | Burjatija, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-BU.svg' height='80'> | [RU-BU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-BU.svg) |
+| RU-CE | Chechenskaya Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-CE.svg' height='80'> | [RU-CE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CE.svg) |
+| RU-CHE | Chelyabinskaya oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-CHE.svg' height='80'> | [RU-CHE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CHE.svg) |
+| RU-CHU | Chukotskiy avtonomnyy okrug | Autonomous district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-CHU.svg' height='80'> | [RU-CHU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CHU.svg) |
+| RU-CU | Chuvashskaya Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-CU.svg' height='80'> | [RU-CU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-CU.svg) |
+| RU-DA | Dagestan, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-DA.svg' height='80'> | [RU-DA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-DA.svg) |
+| RU-IN | Ingushetiya, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-IN.svg' height='80'> | [RU-IN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IN.svg) |
+| RU-IRK | Irkutskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-IRK.svg' height='80'> | [RU-IRK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IRK.svg) |
+| RU-IVA | Ivanovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-IVA.svg' height='80'> | [RU-IVA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-IVA.svg) |
+| RU-KAM | Kamchatskiy kray | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KAM.svg' height='80'> | [RU-KAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KAM.svg) |
+| RU-KB | Kabardino-Balkarskaja Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KB.svg' height='80'> | [RU-KB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KB.svg) |
+| RU-KC | Karachayevo-Cherkesskaya Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KC.svg' height='80'> | [RU-KC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KC.svg) |
+| RU-KDA | Krasnodarskij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KDA.svg' height='80'> | [RU-KDA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KDA.svg) |
+| RU-KEM | Kemerovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KEM.svg' height='80'> | [RU-KEM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KEM.svg) |
+| RU-KGD | Kaliningradskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KGD.svg' height='80'> | [RU-KGD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KGD.svg) |
+| RU-KGN | Kurganskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KGN.svg' height='80'> | [RU-KGN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KGN.svg) |
+| RU-KHA | Habarovskij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KHA.svg' height='80'> | [RU-KHA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KHA.svg) |
+| RU-KHM | Hanty-Mansijskij avtonomnyj okrug | Autonomous district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KHM.svg' height='80'> | [RU-KHM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KHM.svg) |
+| RU-KIR | Kirovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KIR.svg' height='80'> | [RU-KIR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KIR.svg) |
+| RU-KK | Hakasija, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KK.svg' height='80'> | [RU-KK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KK.svg) |
+| RU-KL | Kalmykija, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KL.svg' height='80'> | [RU-KL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KL.svg) |
+| RU-KLU | Kaluzhskaya oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KLU.svg' height='80'> | [RU-KLU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KLU.svg) |
+| RU-KO | Komi, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KO.svg' height='80'> | [RU-KO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KO.svg) |
+| RU-KOS | Kostromskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KOS.svg' height='80'> | [RU-KOS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KOS.svg) |
+| RU-KR | Karelija, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KR.svg' height='80'> | [RU-KR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KR.svg) |
+| RU-KRS | Kurskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KRS.svg' height='80'> | [RU-KRS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KRS.svg) |
+| RU-KYA | Krasnojarskij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-KYA.svg' height='80'> | [RU-KYA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-KYA.svg) |
+| RU-LEN | Leningradskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-LEN.svg' height='80'> | [RU-LEN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-LEN.svg) |
+| RU-LIP | Lipeckaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-LIP.svg' height='80'> | [RU-LIP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-LIP.svg) |
+| RU-MAG | Magadanskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-MAG.svg' height='80'> | [RU-MAG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MAG.svg) |
+| RU-ME | Marij Èl, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-ME.svg' height='80'> | [RU-ME](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ME.svg) |
+| RU-MO | Mordovija, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-MO.svg' height='80'> | [RU-MO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MO.svg) |
+| RU-MOS | Moskovskaja oblast' | Administrative region | <img src='None' height='80'> | [RU-MOS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MOS.svg) |
+| RU-MOW | Moskva | Autonomous city | <img src='None' height='80'> | [RU-MOW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MOW.svg) |
+| RU-MUR | Murmanskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-MUR.svg' height='80'> | [RU-MUR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-MUR.svg) |
+| RU-NEN | Neneckij avtonomnyj okrug | Autonomous district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-NEN.svg' height='80'> | [RU-NEN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NEN.svg) |
+| RU-NGR | Novgorodskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-NGR.svg' height='80'> | [RU-NGR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NGR.svg) |
+| RU-NIZ | Nizhegorodskaya oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-NIZ.svg' height='80'> | [RU-NIZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NIZ.svg) |
+| RU-NVS | Novosibirskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-NVS.svg' height='80'> | [RU-NVS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-NVS.svg) |
+| RU-OMS | Omskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-OMS.svg' height='80'> | [RU-OMS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-OMS.svg) |
+| RU-ORE | Orenburgskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-ORE.svg' height='80'> | [RU-ORE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ORE.svg) |
+| RU-ORL | Orlovskaja oblast' | Administrative region | <img src='None' height='80'> | [RU-ORL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ORL.svg) |
+| RU-PER | Permskij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-PER.svg' height='80'> | [RU-PER](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PER.svg) |
+| RU-PNZ | Penzenskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-PNZ.svg' height='80'> | [RU-PNZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PNZ.svg) |
+| RU-PRI | Primorskij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-PRI.svg' height='80'> | [RU-PRI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PRI.svg) |
+| RU-PSK | Pskovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-PSK.svg' height='80'> | [RU-PSK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-PSK.svg) |
+| RU-ROS | Rostovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-ROS.svg' height='80'> | [RU-ROS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ROS.svg) |
+| RU-RYA | Rjazanskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-RYA.svg' height='80'> | [RU-RYA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-RYA.svg) |
+| RU-SA | Saha, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SA.svg' height='80'> | [RU-SA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SA.svg) |
+| RU-SAK | Sahalinskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SAK.svg' height='80'> | [RU-SAK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAK.svg) |
+| RU-SAM | Samarskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SAM.svg' height='80'> | [RU-SAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAM.svg) |
+| RU-SAR | Saratovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SAR.svg' height='80'> | [RU-SAR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SAR.svg) |
+| RU-SE | Severnaja Osetija, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SE.svg' height='80'> | [RU-SE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SE.svg) |
+| RU-SMO | Smolenskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SMO.svg' height='80'> | [RU-SMO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SMO.svg) |
+| RU-SPE | Sankt-Peterburg | Autonomous city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SPE.svg' height='80'> | [RU-SPE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SPE.svg) |
+| RU-STA | Stavropol'skij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-STA.svg' height='80'> | [RU-STA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-STA.svg) |
+| RU-SVE | Sverdlovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-SVE.svg' height='80'> | [RU-SVE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-SVE.svg) |
+| RU-TA | Tatarstan, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-TA.svg' height='80'> | [RU-TA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TA.svg) |
+| RU-TAM | Tambovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-TAM.svg' height='80'> | [RU-TAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TAM.svg) |
+| RU-TOM | Tomskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-TOM.svg' height='80'> | [RU-TOM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TOM.svg) |
+| RU-TUL | Tul'skaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-TUL.svg' height='80'> | [RU-TUL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TUL.svg) |
+| RU-TVE | Tverskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-TVE.svg' height='80'> | [RU-TVE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TVE.svg) |
+| RU-TY | Tyva, Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-TY.svg' height='80'> | [RU-TY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TY.svg) |
+| RU-TYU | Tjumenskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-TYU.svg' height='80'> | [RU-TYU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-TYU.svg) |
+| RU-UD | Udmurtskaja Respublika | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-UD.svg' height='80'> | [RU-UD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-UD.svg) |
+| RU-ULY | Ul'janovskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-ULY.svg' height='80'> | [RU-ULY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ULY.svg) |
+| RU-VGG | Volgogradskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-VGG.svg' height='80'> | [RU-VGG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VGG.svg) |
+| RU-VLA | Vladimirskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-VLA.svg' height='80'> | [RU-VLA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VLA.svg) |
+| RU-VLG | Vologodskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-VLG.svg' height='80'> | [RU-VLG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VLG.svg) |
+| RU-VOR | Voronezhskaya oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-VOR.svg' height='80'> | [RU-VOR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-VOR.svg) |
+| RU-YAN | Jamalo-Neneckij avtonomnyj okrug | Autonomous district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-YAN.svg' height='80'> | [RU-YAN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-YAN.svg) |
+| RU-YAR | Jaroslavskaja oblast' | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-YAR.svg' height='80'> | [RU-YAR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-YAR.svg) |
+| RU-YEV | Evrejskaja avtonomnaja oblast' | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-YEV.svg' height='80'> | [RU-YEV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-YEV.svg) |
+| RU-ZAB | Zabajkal'skij kraj | Administrative territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RU/RU-ZAB.svg' height='80'> | [RU-ZAB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RU/RU-ZAB.svg) |

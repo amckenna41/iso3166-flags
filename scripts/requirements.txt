@@ -1,10 +1,7 @@
-requests
-pandas
-tqdm
-beautifulsoup4
-scour 
-pyWikiCommons
-emoji-country-flag
+#external Python packages for iso3166-flag-icons script
+PIL
+iso3166
 iso3166-2
-pycountry
-fuzzywuzzy
+cv2
+lxml
+pandas

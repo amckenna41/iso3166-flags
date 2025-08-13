@@ -1,14 +1,19 @@
-# Pakistan Subdivisions 🇵🇰
+# Pakistan Subdivisions ![](https://flagcdn.com/h40/pk.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:PK
+- **ISO Code**: PK
+- **Number of subdivisions**: 7
+- **Subdivision Type**: Federal capital territory, Pakistan administered area, Province
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PK
 
-* PK-BA (Balochistan) -> [PK-BA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-BA.svg)
-* PK-GB (Gilgit-Baltistan) -> [PK-GB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-GB.svg)
-* PK-JK (Azad Jammu And Kashmir) -> [PK-JK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-JK.svg)
-* PK-KP (Khyber Pakhtunkhwa) -> [PK-KP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-KP.svg)
-* PK-PB (Punjab) -> [PK-PB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-PB.svg)
-* PK-SD (Sindh) -> [PK-SD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-SD.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| PK-BA | Balochistan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PK/PK-BA.svg' height='80'> | [PK-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-BA.svg) |
+| PK-GB | Gilgit-Baltistan | Pakistan administered area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PK/PK-GB.svg' height='80'> | [PK-GB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-GB.svg) |
+| PK-JK | Azad Jammu and Kashmir | Pakistan administered area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PK/PK-JK.svg' height='80'> | [PK-JK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-JK.svg) |
+| PK-KP | Khyber Pakhtunkhwa | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PK/PK-KP.svg' height='80'> | [PK-KP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-KP.svg) |
+| PK-PB | Punjab | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PK/PK-PB.svg' height='80'> | [PK-PB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-PB.svg) |
+| PK-SD | Sindh | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PK/PK-SD.svg' height='80'> | [PK-SD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PK/PK-SD.svg) |
 
-Pakistan ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:PK):
+Pakistan ISO 3166-2 subdivisions with no available flags:
 
-* PK-IS: Islamabad (Federal capital territory)
+* **PK-IS: Islamabad (Federal capital territory)**

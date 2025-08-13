@@ -1,73 +1,81 @@
-# Spain Subdivisions 🇪🇸
+# Spain Subdivisions ![](https://flagcdn.com/h40/es.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:ES
+- **ISO Code**: ES
+- **Number of subdivisions**: 69
+- **Subdivision Type**: Autonomous city in north africa, Autonomous community, Province
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ES
 
-* ES-A (Alacant*) -> [ES-A.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-A.svg)
-* ES-AB (Albacete) -> [ES-AB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AB.svg)
-* ES-AL (Almería) -> [ES-AL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AL.svg)
-* ES-AN (Andalucía) -> [ES-AN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AN.svg)
-* ES-AR (Aragón) -> [ES-AR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AR.svg)
-* ES-AS (Asturias, Principado De) -> [ES-AS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AS.svg)
-* ES-AV (Ávila) -> [ES-AV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AV.svg)
-* ES-B (Barcelona [Barcelona]) -> [ES-B.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-B.svg)
-* ES-BA (Badajoz) -> [ES-BA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-BA.svg)
-* ES-BI (Bizkaia) -> [ES-BI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-BI.svg)
-* ES-BU (Burgos) -> [ES-BU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-BU.svg)
-* ES-C (A Coruña [La Coruña]) -> [ES-C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-C.svg)
-* ES-CA (Cádiz) -> [ES-CA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CA.svg)
-* ES-CB (Cantabria) -> [ES-CB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CB.svg)
-* ES-CC (Cáceres) -> [ES-CC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CC.svg)
-* ES-CE (Ceuta) -> [ES-CE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CE.svg)
-* ES-CL (Castilla Y León) -> [ES-CL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CL.svg)
-* ES-CM (Castilla-La Mancha) -> [ES-CM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CM.svg)
-* ES-CN (Canarias) -> [ES-CN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CN.svg)
-* ES-CO (Córdoba) -> [ES-CO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CO.svg)
-* ES-CR (Ciudad Real) -> [ES-CR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CR.svg)
-* ES-CS (Castelló*) -> [ES-CS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CS.svg)
-* ES-CT (Catalunya [Cataluña]) -> [ES-CT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CT.svg)
-* ES-CU (Cuenca) -> [ES-CU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CU.svg)
-* ES-EX (Extremadura) -> [ES-EX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-EX.svg)
-* ES-GA (Galicia [Galicia]) -> [ES-GA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GA.svg)
-* ES-GC (Las Palmas) -> [ES-GC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GC.svg)
-* ES-GI (Girona [Gerona]) -> [ES-GI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GI.svg)
-* ES-GR (Granada) -> [ES-GR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GR.svg)
-* ES-GU (Guadalajara) -> [ES-GU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GU.svg)
-* ES-H (Huelva) -> [ES-H.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-H.svg)
-* ES-HU (Huesca) -> [ES-HU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-HU.svg)
-* ES-IB (Illes Balears [Islas Baleares]) -> [ES-IB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-IB.svg)
-* ES-J (Jaén) -> [ES-J.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-J.svg)
-* ES-L (Lleida [Lérida]) -> [ES-L.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-L.svg)
-* ES-LE (León) -> [ES-LE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-LE.svg)
-* ES-LO (La Rioja) -> [ES-LO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-LO.svg)
-* ES-LU (Lugo [Lugo]) -> [ES-LU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-LU.svg)
-* ES-M (Madrid) -> [ES-M.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-M.svg)
-* ES-MA (Málaga) -> [ES-MA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MA.svg)
-* ES-MC (Murcia, Región De) -> [ES-MC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MC.svg)
-* ES-MD (Madrid, Comunidad De) -> [ES-MD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MD.svg)
-* ES-ML (Melilla) -> [ES-ML.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-ML.svg)
-* ES-MU (Murcia) -> [ES-MU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MU.svg)
-* ES-NA (Nafarroa*) -> [ES-NA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-NA.svg)
-* ES-NC (Nafarroako Foru Komunitatea*) -> [ES-NC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-NC.svg)
-* ES-O (Asturias) -> [ES-O.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-O.svg)
-* ES-OR (Ourense [Orense]) -> [ES-OR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-OR.svg)
-* ES-P (Palencia) -> [ES-P.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-P.svg)
-* ES-PM (Illes Balears [Islas Baleares]) -> [ES-PM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-PM.svg)
-* ES-PO (Pontevedra [Pontevedra]) -> [ES-PO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-PO.svg)
-* ES-PV (Euskal Herria) -> [ES-PV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-PV.svg)
-* ES-RI (La Rioja) -> [ES-RI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-RI.svg)
-* ES-S (Cantabria) -> [ES-S.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-S.svg)
-* ES-SA (Salamanca) -> [ES-SA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SA.svg)
-* ES-SE (Sevilla) -> [ES-SE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SE.svg)
-* ES-SG (Segovia) -> [ES-SG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SG.svg)
-* ES-SO (Soria) -> [ES-SO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SO.svg)
-* ES-SS (Gipuzkoa) -> [ES-SS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SS.svg)
-* ES-T (Tarragona [Tarragona]) -> [ES-T.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-T.svg)
-* ES-TE (Teruel) -> [ES-TE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-TE.svg)
-* ES-TF (Santa Cruz De Tenerife) -> [ES-TF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-TF.svg)
-* ES-TO (Toledo) -> [ES-TO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-TO.svg)
-* ES-V (Valencia) -> [ES-V.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-V.svg)
-* ES-VA (Valladolid) -> [ES-VA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-VA.svg)
-* ES-VC (Valenciana, Comunidad) -> [ES-VC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-VC.svg)
-* ES-VI (Araba*) -> [ES-VI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-VI.svg)
-* ES-Z (Zaragoza) -> [ES-Z.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-Z.svg)
-* ES-ZA (Zamora) -> [ES-ZA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-ZA.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| ES-AB | Albacete | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-AB.svg' height='80'> | [ES-AB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AB.svg) |
+| ES-AL | Almería | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-AL.svg' height='80'> | [ES-AL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AL.svg) |
+| ES-AN | Andalucía | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-AN.svg' height='80'> | [ES-AN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AN.svg) |
+| ES-AR | Aragón | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-AR.svg' height='80'> | [ES-AR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AR.svg) |
+| ES-AS | Asturias, Principado de | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-AS.svg' height='80'> | [ES-AS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AS.svg) |
+| ES-AV | Ávila | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-AV.svg' height='80'> | [ES-AV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-AV.svg) |
+| ES-B | Barcelona [Barcelona] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-B.svg' height='80'> | [ES-B](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-B.svg) |
+| ES-BA | Badajoz | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-BA.svg' height='80'> | [ES-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-BA.svg) |
+| ES-BI | Bizkaia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-BI.svg' height='80'> | [ES-BI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-BI.svg) |
+| ES-BU | Burgos | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-BU.svg' height='80'> | [ES-BU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-BU.svg) |
+| ES-CA | Cádiz | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CA.svg' height='80'> | [ES-CA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CA.svg) |
+| ES-CB | Cantabria | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CB.svg' height='80'> | [ES-CB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CB.svg) |
+| ES-CC | Cáceres | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CC.svg' height='80'> | [ES-CC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CC.svg) |
+| ES-CE | Ceuta | Autonomous city in north africa | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CE.svg' height='80'> | [ES-CE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CE.svg) |
+| ES-CL | Castilla y León | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CL.svg' height='80'> | [ES-CL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CL.svg) |
+| ES-CM | Castilla-La Mancha | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CM.svg' height='80'> | [ES-CM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CM.svg) |
+| ES-CN | Canarias | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CN.svg' height='80'> | [ES-CN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CN.svg) |
+| ES-CO | Córdoba | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CO.svg' height='80'> | [ES-CO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CO.svg) |
+| ES-CR | Ciudad Real | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CR.svg' height='80'> | [ES-CR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CR.svg) |
+| ES-CT | Catalunya [Cataluña] | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CT.svg' height='80'> | [ES-CT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CT.svg) |
+| ES-CU | Cuenca | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-CU.svg' height='80'> | [ES-CU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-CU.svg) |
+| ES-EX | Extremadura | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-EX.svg' height='80'> | [ES-EX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-EX.svg) |
+| ES-GA | Galicia [Galicia] | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-GA.svg' height='80'> | [ES-GA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GA.svg) |
+| ES-GC | Las Palmas | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-GC.svg' height='80'> | [ES-GC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GC.svg) |
+| ES-GI | Girona [Gerona] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-GI.svg' height='80'> | [ES-GI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GI.svg) |
+| ES-GR | Granada | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-GR.svg' height='80'> | [ES-GR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GR.svg) |
+| ES-GU | Guadalajara | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-GU.svg' height='80'> | [ES-GU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-GU.svg) |
+| ES-H | Huelva | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-H.svg' height='80'> | [ES-H](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-H.svg) |
+| ES-HU | Huesca | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-HU.svg' height='80'> | [ES-HU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-HU.svg) |
+| ES-IB | Illes Balears [Islas Baleares] | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-IB.svg' height='80'> | [ES-IB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-IB.svg) |
+| ES-J | Jaén | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-J.svg' height='80'> | [ES-J](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-J.svg) |
+| ES-L | Lleida [Lérida] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-L.svg' height='80'> | [ES-L](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-L.svg) |
+| ES-LE | León | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-LE.svg' height='80'> | [ES-LE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-LE.svg) |
+| ES-LO | La Rioja | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-LO.svg' height='80'> | [ES-LO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-LO.svg) |
+| ES-LU | Lugo [Lugo] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-LU.svg' height='80'> | [ES-LU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-LU.svg) |
+| ES-M | Madrid | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-M.svg' height='80'> | [ES-M](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-M.svg) |
+| ES-MA | Málaga | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-MA.svg' height='80'> | [ES-MA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MA.svg) |
+| ES-MC | Murcia, Región de | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-MC.svg' height='80'> | [ES-MC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MC.svg) |
+| ES-MD | Madrid, Comunidad de | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-MD.svg' height='80'> | [ES-MD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MD.svg) |
+| ES-ML | Melilla | Autonomous city in north africa | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-ML.svg' height='80'> | [ES-ML](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-ML.svg) |
+| ES-MU | Murcia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-MU.svg' height='80'> | [ES-MU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-MU.svg) |
+| ES-NA | Nafarroa | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-NA.svg' height='80'> | [ES-NA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-NA.svg) |
+| ES-NC | Nafarroako Foru Komunitatea* | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-NC.svg' height='80'> | [ES-NC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-NC.svg) |
+| ES-O | Asturias | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-O.svg' height='80'> | [ES-O](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-O.svg) |
+| ES-OR | Ourense [Orense] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-OR.svg' height='80'> | [ES-OR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-OR.svg) |
+| ES-P | Palencia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-P.svg' height='80'> | [ES-P](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-P.svg) |
+| ES-PM | Illes Balears [Islas Baleares] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-PM.svg' height='80'> | [ES-PM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-PM.svg) |
+| ES-PO | Pontevedra [Pontevedra] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-PO.svg' height='80'> | [ES-PO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-PO.svg) |
+| ES-PV | Euskal Herria | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-PV.svg' height='80'> | [ES-PV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-PV.svg) |
+| ES-RI | La Rioja | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-RI.svg' height='80'> | [ES-RI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-RI.svg) |
+| ES-S | Cantabria | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-S.svg' height='80'> | [ES-S](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-S.svg) |
+| ES-SA | Salamanca | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-SA.svg' height='80'> | [ES-SA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SA.svg) |
+| ES-SE | Sevilla | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-SE.svg' height='80'> | [ES-SE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SE.svg) |
+| ES-SG | Segovia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-SG.svg' height='80'> | [ES-SG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SG.svg) |
+| ES-SO | Soria | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-SO.svg' height='80'> | [ES-SO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SO.svg) |
+| ES-SS | Gipuzkoa | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-SS.svg' height='80'> | [ES-SS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-SS.svg) |
+| ES-T | Tarragona [Tarragona] | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-T.svg' height='80'> | [ES-T](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-T.svg) |
+| ES-TE | Teruel | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-TE.svg' height='80'> | [ES-TE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-TE.svg) |
+| ES-TF | Santa Cruz de Tenerife | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-TF.svg' height='80'> | [ES-TF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-TF.svg) |
+| ES-TO | Toledo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-TO.svg' height='80'> | [ES-TO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-TO.svg) |
+| ES-VA | Valladolid | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-VA.svg' height='80'> | [ES-VA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-VA.svg) |
+| ES-VC | Valenciana, Comunidad | Autonomous community | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-VC.svg' height='80'> | [ES-VC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-VC.svg) |
+| ES-VI | Araba | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-VI.svg' height='80'> | [ES-VI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-VI.svg) |
+| ES-Z | Zaragoza | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/ES/ES-Z.svg' height='80'> | [ES-Z](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/ES/ES-Z.svg) |
+
+Spain ISO 3166-2 subdivisions with no available flags:
+
+* **ES-A: Alacant (Province)**
+* **ES-C: A Coruña [La Coruña] (Province)**
+* **ES-CS: Castelló (Province)**
+* **ES-V: Valencia (Province)**
+* **ES-ZA: Zamora (Province)**

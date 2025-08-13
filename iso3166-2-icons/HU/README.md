@@ -1,47 +1,52 @@
-# Hungary Subdivisions 🇭🇺
+# Hungary Subdivisions ![](https://flagcdn.com/h40/hu.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:HU
+- **ISO Code**: HU
+- **Number of subdivisions**: 43
+- **Subdivision Type**: Capital city, City with county rights, County
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/HU
 
-* HU-BA (Baranya) -> [HU-BA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BA.svg)
-* HU-BC (Békéscsaba) -> [HU-BC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BC.svg)
-* HU-BE (Békés) -> [HU-BE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BE.svg)
-* HU-BK (Bács-Kiskun) -> [HU-BK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BK.svg)
-* HU-BU (Budapest) -> [HU-BU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BU.svg)
-* HU-BZ (Borsod-Abaúj-Zemplén) -> [HU-BZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BZ.svg)
-* HU-CS (Csongrád) -> [HU-CS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-CS.svg)
-* HU-DE (Debrecen) -> [HU-DE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-DE.svg)
-* HU-DU (Dunaújváros) -> [HU-DU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-DU.svg)
-* HU-EG (Eger) -> [HU-EG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-EG.svg)
-* HU-ER (Érd) -> [HU-ER.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ER.svg)
-* HU-FE (Fejér) -> [HU-FE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-FE.svg)
-* HU-GS (Győr-Moson-Sopron) -> [HU-GS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-GS.svg)
-* HU-GY (Győr) -> [HU-GY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-GY.svg)
-* HU-HB (Hajdú-Bihar) -> [HU-HB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-HB.svg)
-* HU-HE (Heves) -> [HU-HE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-HE.svg)
-* HU-HV (Hódmezővásárhely) -> [HU-HV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-HV.svg)
-* HU-JN (Jász-Nagykun-Szolnok) -> [HU-JN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-JN.svg)
-* HU-KE (Komárom-Esztergom) -> [HU-KE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-KE.svg)
-* HU-KM (Kecskemét) -> [HU-KM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-KM.svg)
-* HU-KV (Kaposvár) -> [HU-KV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-KV.svg)
-* HU-MI (Miskolc) -> [HU-MI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-MI.svg)
-* HU-NK (Nagykanizsa) -> [HU-NK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-NK.svg)
-* HU-NO (Nógrád) -> [HU-NO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-NO.svg)
-* HU-NY (Nyíregyháza) -> [HU-NY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-NY.svg)
-* HU-PE (Pest) -> [HU-PE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-PE.svg)
-* HU-PS (Pécs) -> [HU-PS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-PS.svg)
-* HU-SD (Szeged) -> [HU-SD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SD.svg)
-* HU-SF (Székesfehérvár) -> [HU-SF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SF.svg)
-* HU-SH (Szombathely) -> [HU-SH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SH.svg)
-* HU-SK (Szolnok) -> [HU-SK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SK.svg)
-* HU-SN (Sopron) -> [HU-SN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SN.svg)
-* HU-SO (Somogy) -> [HU-SO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SO.svg)
-* HU-SS (Szekszárd) -> [HU-SS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SS.svg)
-* HU-ST (Salgótarján) -> [HU-ST.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ST.svg)
-* HU-SZ (Szabolcs-Szatmár-Bereg) -> [HU-SZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SZ.svg)
-* HU-TB (Tatabánya) -> [HU-TB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-TB.svg)
-* HU-TO (Tolna) -> [HU-TO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-TO.svg)
-* HU-VA (Vas) -> [HU-VA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-VA.svg)
-* HU-VE (Veszprém) -> [HU-VE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-VE.svg)
-* HU-VM (Veszprém) -> [HU-VM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-VM.svg)
-* HU-ZA (Zala) -> [HU-ZA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ZA.svg)
-* HU-ZE (Zalaegerszeg) -> [HU-ZE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ZE.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| HU-BA | Baranya | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-BA.svg' height='80'> | [HU-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BA.svg) |
+| HU-BC | Békéscsaba | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-BC.svg' height='80'> | [HU-BC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BC.svg) |
+| HU-BE | Békés | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-BE.svg' height='80'> | [HU-BE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BE.svg) |
+| HU-BK | Bács-Kiskun | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-BK.svg' height='80'> | [HU-BK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BK.svg) |
+| HU-BU | Budapest | Capital city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-BU.svg' height='80'> | [HU-BU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BU.svg) |
+| HU-BZ | Borsod-Abaúj-Zemplén | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-BZ.svg' height='80'> | [HU-BZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-BZ.svg) |
+| HU-CS | Csongrád-Csanád | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-CS.svg' height='80'> | [HU-CS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-CS.svg) |
+| HU-DE | Debrecen | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-DE.svg' height='80'> | [HU-DE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-DE.svg) |
+| HU-DU | Dunaújváros | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-DU.svg' height='80'> | [HU-DU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-DU.svg) |
+| HU-EG | Eger | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-EG.svg' height='80'> | [HU-EG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-EG.svg) |
+| HU-ER | Érd | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-ER.svg' height='80'> | [HU-ER](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ER.svg) |
+| HU-FE | Fejér | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-FE.svg' height='80'> | [HU-FE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-FE.svg) |
+| HU-GS | Győr-Moson-Sopron | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-GS.svg' height='80'> | [HU-GS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-GS.svg) |
+| HU-GY | Győr | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-GY.svg' height='80'> | [HU-GY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-GY.svg) |
+| HU-HB | Hajdú-Bihar | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-HB.svg' height='80'> | [HU-HB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-HB.svg) |
+| HU-HE | Heves | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-HE.svg' height='80'> | [HU-HE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-HE.svg) |
+| HU-HV | Hódmezővásárhely | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-HV.svg' height='80'> | [HU-HV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-HV.svg) |
+| HU-JN | Jász-Nagykun-Szolnok | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-JN.svg' height='80'> | [HU-JN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-JN.svg) |
+| HU-KE | Komárom-Esztergom | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-KE.svg' height='80'> | [HU-KE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-KE.svg) |
+| HU-KM | Kecskemét | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-KM.svg' height='80'> | [HU-KM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-KM.svg) |
+| HU-KV | Kaposvár | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-KV.svg' height='80'> | [HU-KV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-KV.svg) |
+| HU-MI | Miskolc | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-MI.svg' height='80'> | [HU-MI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-MI.svg) |
+| HU-NK | Nagykanizsa | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-NK.svg' height='80'> | [HU-NK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-NK.svg) |
+| HU-NO | Nógrád | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-NO.svg' height='80'> | [HU-NO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-NO.svg) |
+| HU-NY | Nyíregyháza | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-NY.svg' height='80'> | [HU-NY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-NY.svg) |
+| HU-PE | Pest | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-PE.svg' height='80'> | [HU-PE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-PE.svg) |
+| HU-PS | Pécs | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-PS.svg' height='80'> | [HU-PS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-PS.svg) |
+| HU-SD | Szeged | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SD.svg' height='80'> | [HU-SD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SD.svg) |
+| HU-SF | Székesfehérvár | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SF.svg' height='80'> | [HU-SF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SF.svg) |
+| HU-SH | Szombathely | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SH.svg' height='80'> | [HU-SH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SH.svg) |
+| HU-SK | Szolnok | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SK.svg' height='80'> | [HU-SK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SK.svg) |
+| HU-SN | Sopron | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SN.svg' height='80'> | [HU-SN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SN.svg) |
+| HU-SO | Somogy | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SO.svg' height='80'> | [HU-SO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SO.svg) |
+| HU-SS | Szekszárd | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SS.svg' height='80'> | [HU-SS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SS.svg) |
+| HU-ST | Salgótarján | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-ST.svg' height='80'> | [HU-ST](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ST.svg) |
+| HU-SZ | Szabolcs-Szatmár-Bereg | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-SZ.svg' height='80'> | [HU-SZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-SZ.svg) |
+| HU-TB | Tatabánya | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-TB.svg' height='80'> | [HU-TB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-TB.svg) |
+| HU-TO | Tolna | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-TO.svg' height='80'> | [HU-TO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-TO.svg) |
+| HU-VA | Vas | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-VA.svg' height='80'> | [HU-VA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-VA.svg) |
+| HU-VE | Veszprém | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-VE.svg' height='80'> | [HU-VE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-VE.svg) |
+| HU-VM | Veszprém | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-VM.svg' height='80'> | [HU-VM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-VM.svg) |
+| HU-ZA | Zala | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-ZA.svg' height='80'> | [HU-ZA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ZA.svg) |
+| HU-ZE | Zalaegerszeg | City with county rights | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/HU/HU-ZE.svg' height='80'> | [HU-ZE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/HU/HU-ZE.svg) |

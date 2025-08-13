@@ -1,82 +1,90 @@
-# Thailand Subdivisions 🇹🇭
+# Thailand Subdivisions ![](https://flagcdn.com/h40/th.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:TH
+- **ISO Code**: TH
+- **Number of subdivisions**: 78
+- **Subdivision Type**: Metropolitan administration, Province, Special administrative city
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/TH
 
-* TH-10 (Krung Thep Maha Nakhon) -> [TH-10.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-10.svg)
-* TH-11 (Samut Prakan) -> [TH-11.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-11.png)
-* TH-12 (Nonthaburi) -> [TH-12.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-12.svg)
-* TH-13 (Pathum Thani) -> [TH-13.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-13.png)
-* TH-14 (Phra Nakhon Si Ayutthaya) -> [TH-14.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-14.svg)
-* TH-15 (Ang Thong) -> [TH-15.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-15.png)
-* TH-16 (Lop Buri) -> [TH-16.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-16.png)
-* TH-17 (Sing Buri) -> [TH-17.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-17.png)
-* TH-18 (Chai Nat) -> [TH-18.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-18.png)
-* TH-19 (Saraburi) -> [TH-19.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-19.png)
-* TH-20 (Chon Buri) -> [TH-20.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-20.png)
-* TH-21 (Rayong) -> [TH-21.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-21.png)
-* TH-22 (Chanthaburi) -> [TH-22.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-22.jpeg)
-* TH-23 (Trat) -> [TH-23.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-23.png)
-* TH-24 (Chachoengsao) -> [TH-24.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-24.png)
-* TH-25 (Prachin Buri) -> [TH-25.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-25.jpeg)
-* TH-26 (Nakhon Nayok) -> [TH-26.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-26.png)
-* TH-27 (Sa Kaeo) -> [TH-27.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-27.png)
-* TH-30 (Nakhon Ratchasima) -> [TH-30.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-30.png)
-* TH-31 (Buri Ram) -> [TH-31.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-31.png)
-* TH-32 (Surin) -> [TH-32.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-32.png)
-* TH-33 (Si Sa Ket) -> [TH-33.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-33.png)
-* TH-34 (Ubon Ratchathani) -> [TH-34.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-34.svg)
-* TH-35 (Yasothon) -> [TH-35.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-35.png)
-* TH-36 (Chaiyaphum) -> [TH-36.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-36.png)
-* TH-37 (Amnat Charoen) -> [TH-37.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-37.png)
-* TH-38 (Bueng Kan) -> [TH-38.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-38.png)
-* TH-39 (Nong Bua Lam Phu) -> [TH-39.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-39.png)
-* TH-40 (Khon Kaen) -> [TH-40.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-40.png)
-* TH-41 (Udon Thani) -> [TH-41.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-41.png)
-* TH-42 (Loei) -> [TH-42.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-42.png)
-* TH-43 (Nong Khai) -> [TH-43.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-43.png)
-* TH-44 (Maha Sarakham) -> [TH-44.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-44.png)
-* TH-45 (Roi Et) -> [TH-45.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-45.png)
-* TH-46 (Kalasin) -> [TH-46.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-46.png)
-* TH-47 (Sakon Nakhon) -> [TH-47.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-47.png)
-* TH-48 (Nakhon Phanom) -> [TH-48.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-48.svg)
-* TH-49 (Mukdahan) -> [TH-49.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-49.png)
-* TH-50 (Chiang Mai) -> [TH-50.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-50.png)
-* TH-51 (Lamphun) -> [TH-51.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-51.png)
-* TH-52 (Lampang) -> [TH-52.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-52.png)
-* TH-53 (Uttaradit) -> [TH-53.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-53.png)
-* TH-54 (Phrae) -> [TH-54.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-54.png)
-* TH-55 (Nan) -> [TH-55.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-55.svg)
-* TH-56 (Phayao) -> [TH-56.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-56.svg)
-* TH-57 (Chiang Rai) -> [TH-57.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-57.png)
-* TH-58 (Mae Hong Son) -> [TH-58.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-58.png)
-* TH-60 (Nakhon Sawan) -> [TH-60.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-60.png)
-* TH-61 (Uthai Thani) -> [TH-61.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-61.png)
-* TH-62 (Kamphaeng Phet) -> [TH-62.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-62.png)
-* TH-63 (Tak) -> [TH-63.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-63.png)
-* TH-64 (Sukhothai) -> [TH-64.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-64.svg)
-* TH-65 (Phitsanulok) -> [TH-65.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-65.svg)
-* TH-66 (Phichit) -> [TH-66.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-66.png)
-* TH-67 (Phetchabun) -> [TH-67.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-67.png)
-* TH-70 (Ratchaburi) -> [TH-70.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-70.png)
-* TH-71 (Kanchanaburi) -> [TH-71.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-71.png)
-* TH-72 (Suphan Buri) -> [TH-72.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-72.png)
-* TH-73 (Nakhon Pathom) -> [TH-73.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-73.png)
-* TH-74 (Samut Sakhon) -> [TH-74.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-74.png)
-* TH-75 (Samut Songkhram) -> [TH-75.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-75.png)
-* TH-76 (Phetchaburi) -> [TH-76.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-76.png)
-* TH-77 (Prachuap Khiri Khan) -> [TH-77.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-77.png)
-* TH-80 (Nakhon Si Thammarat) -> [TH-80.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-80.png)
-* TH-81 (Krabi) -> [TH-81.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-81.png)
-* TH-82 (Phangnga) -> [TH-82.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-82.png)
-* TH-83 (Phuket) -> [TH-83.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-83.png)
-* TH-84 (Surat Thani) -> [TH-84.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-84.png)
-* TH-85 (Ranong) -> [TH-85.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-85.png)
-* TH-86 (Chumphon) -> [TH-86.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-86.png)
-* TH-90 (Songkhla) -> [TH-90.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-90.png)
-* TH-91 (Satun) -> [TH-91.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-91.png)
-* TH-92 (Trang) -> [TH-92.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-92.png)
-* TH-93 (Phatthalung) -> [TH-93.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-93.png)
-* TH-94 (Pattani) -> [TH-94.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-94.png)
-* TH-95 (Yala) -> [TH-95.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-95.png)
-* TH-96 (Narathiwat) -> [TH-96.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-96.png)
-* TH-S (Phatthaya) -> [TH-S.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-S.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| TH-10 | Krung Thep Maha Nakhon | Metropolitan administration | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-10.svg' height='80'> | [TH-10](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-10.svg) |
+| TH-11 | Samut Prakan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-11.png' height='80'> | [TH-11](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-11.png) |
+| TH-12 | Nonthaburi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-12.svg' height='80'> | [TH-12](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-12.svg) |
+| TH-13 | Pathum Thani | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-13.png' height='80'> | [TH-13](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-13.png) |
+| TH-14 | Phra Nakhon Si Ayutthaya | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-14.svg' height='80'> | [TH-14](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-14.svg) |
+| TH-15 | Ang Thong | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-15.png' height='80'> | [TH-15](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-15.png) |
+| TH-16 | Lop Buri | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-16.png' height='80'> | [TH-16](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-16.png) |
+| TH-17 | Sing Buri | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-17.png' height='80'> | [TH-17](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-17.png) |
+| TH-18 | Chai Nat | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-18.png' height='80'> | [TH-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-18.png) |
+| TH-19 | Saraburi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-19.png' height='80'> | [TH-19](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-19.svg) |
+| TH-20 | Chon Buri | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-20.png' height='80'> | [TH-20](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-20.png) |
+| TH-21 | Rayong | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-21.png' height='80'> | [TH-21](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-21.png) |
+| TH-22 | Chanthaburi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-22.jpeg' height='80'> | [TH-22](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-22.png) |
+| TH-23 | Trat | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-23.png' height='80'> | [TH-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-23.png) |
+| TH-24 | Chachoengsao | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-24.png' height='80'> | [TH-24](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-24.png) |
+| TH-25 | Prachin Buri | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-25.jpeg' height='80'> | [TH-25](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-25.png) |
+| TH-26 | Nakhon Nayok | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-26.png' height='80'> | [TH-26](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-26.png) |
+| TH-27 | Sa Kaeo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-27.png' height='80'> | [TH-27](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-27.png) |
+| TH-30 | Nakhon Ratchasima | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-30.png' height='80'> | [TH-30](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-30.png) |
+| TH-31 | Buri Ram | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-31.png' height='80'> | [TH-31](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-31.png) |
+| TH-32 | Surin | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-32.png' height='80'> | [TH-32](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-32.png) |
+| TH-33 | Si Sa Ket | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-33.png' height='80'> | [TH-33](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-33.png) |
+| TH-34 | Ubon Ratchathani | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-34.svg' height='80'> | [TH-34](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-34.svg) |
+| TH-35 | Yasothon | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-35.png' height='80'> | [TH-35](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-35.png) |
+| TH-36 | Chaiyaphum | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-36.png' height='80'> | [TH-36](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-36.png) |
+| TH-37 | Amnat Charoen | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-37.png' height='80'> | [TH-37](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-37.png) |
+| TH-38 | Bueng Kan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-38.png' height='80'> | [TH-38](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-38.png) |
+| TH-39 | Nong Bua Lam Phu | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-39.png' height='80'> | [TH-39](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-39.png) |
+| TH-40 | Khon Kaen | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-40.png' height='80'> | [TH-40](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-40.png) |
+| TH-41 | Udon Thani | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-41.png' height='80'> | [TH-41](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-41.png) |
+| TH-42 | Loei | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-42.png' height='80'> | [TH-42](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-42.png) |
+| TH-43 | Nong Khai | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-43.png' height='80'> | [TH-43](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-43.png) |
+| TH-44 | Maha Sarakham | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-44.png' height='80'> | [TH-44](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-44.png) |
+| TH-45 | Roi Et | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-45.png' height='80'> | [TH-45](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-45.png) |
+| TH-46 | Kalasin | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-46.png' height='80'> | [TH-46](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-46.png) |
+| TH-47 | Sakon Nakhon | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-47.png' height='80'> | [TH-47](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-47.png) |
+| TH-48 | Nakhon Phanom | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-48.svg' height='80'> | [TH-48](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-48.svg) |
+| TH-49 | Mukdahan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-49.png' height='80'> | [TH-49](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-49.png) |
+| TH-50 | Chiang Mai | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-50.png' height='80'> | [TH-50](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-50.png) |
+| TH-51 | Lamphun | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-51.png' height='80'> | [TH-51](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-51.png) |
+| TH-52 | Lampang | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-52.png' height='80'> | [TH-52](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-52.png) |
+| TH-53 | Uttaradit | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-53.png' height='80'> | [TH-53](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-53.png) |
+| TH-54 | Phrae | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-54.png' height='80'> | [TH-54](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-54.svg) |
+| TH-55 | Nan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-55.svg' height='80'> | [TH-55](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-55.svg) |
+| TH-56 | Phayao | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-56.svg' height='80'> | [TH-56](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-56.svg) |
+| TH-57 | Chiang Rai | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-57.png' height='80'> | [TH-57](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-57.png) |
+| TH-58 | Mae Hong Son | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-58.png' height='80'> | [TH-58](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-58.png) |
+| TH-60 | Nakhon Sawan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-60.png' height='80'> | [TH-60](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-60.png) |
+| TH-61 | Uthai Thani | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-61.png' height='80'> | [TH-61](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-61.svg) |
+| TH-62 | Kamphaeng Phet | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-62.png' height='80'> | [TH-62](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-62.png) |
+| TH-63 | Tak | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-63.png' height='80'> | [TH-63](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-63.png) |
+| TH-64 | Sukhothai | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-64.svg' height='80'> | [TH-64](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-64.svg) |
+| TH-65 | Phitsanulok | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-65.svg' height='80'> | [TH-65](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-65.svg) |
+| TH-66 | Phichit | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-66.png' height='80'> | [TH-66](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-66.png) |
+| TH-67 | Phetchabun | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-67.png' height='80'> | [TH-67](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-67.png) |
+| TH-70 | Ratchaburi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-70.png' height='80'> | [TH-70](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-70.png) |
+| TH-71 | Kanchanaburi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-71.png' height='80'> | [TH-71](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-71.png) |
+| TH-72 | Suphan Buri | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-72.png' height='80'> | [TH-72](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-72.png) |
+| TH-73 | Nakhon Pathom | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-73.png' height='80'> | [TH-73](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-73.png) |
+| TH-74 | Samut Sakhon | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-74.png' height='80'> | [TH-74](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-74.png) |
+| TH-75 | Samut Songkhram | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-75.png' height='80'> | [TH-75](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-75.png) |
+| TH-76 | Phetchaburi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-76.png' height='80'> | [TH-76](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-76.png) |
+| TH-77 | Prachuap Khiri Khan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-77.png' height='80'> | [TH-77](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-77.png) |
+| TH-80 | Nakhon Si Thammarat | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-80.png' height='80'> | [TH-80](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-80.svg) |
+| TH-81 | Krabi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-81.png' height='80'> | [TH-81](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-81.svg) |
+| TH-82 | Phangnga | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-82.png' height='80'> | [TH-82](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-82.png) |
+| TH-83 | Phuket | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-83.png' height='80'> | [TH-83](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-83.png) |
+| TH-84 | Surat Thani | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-84.png' height='80'> | [TH-84](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-84.png) |
+| TH-85 | Ranong | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-85.png' height='80'> | [TH-85](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-85.png) |
+| TH-86 | Chumphon | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-86.png' height='80'> | [TH-86](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-86.png) |
+| TH-90 | Songkhla | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-90.png' height='80'> | [TH-90](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-90.png) |
+| TH-91 | Satun | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-91.png' height='80'> | [TH-91](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-91.png) |
+| TH-92 | Trang | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-92.png' height='80'> | [TH-92](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-92.png) |
+| TH-93 | Phatthalung | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-93.png' height='80'> | [TH-93](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-93.png) |
+| TH-94 | Pattani | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-94.png' height='80'> | [TH-94](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-94.png) |
+| TH-95 | Yala | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-95.png' height='80'> | [TH-95](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-95.png) |
+| TH-96 | Narathiwat | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TH/TH-96.png' height='80'> | [TH-96](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TH/TH-96.png) |
+
+Thailand ISO 3166-2 subdivisions with no available flags:
+
+* **TH-S: Phatthaya (Special administrative city)**

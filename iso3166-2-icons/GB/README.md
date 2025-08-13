@@ -1,229 +1,236 @@
-# UK Subdivisions 🇬🇧
+# United Kingdom of Great Britain and Northern Ireland Subdivisions ![](https://flagcdn.com/h40/gb.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:GB
+- **ISO Code**: GB
+- **Number of subdivisions**: 224
+- **Subdivision Type**: City corporation, Collecting of England and Wales, Collection of countries, Council area, Country, District, London borough, Metropolitan district, Province, Two-tier county, Unitary authority
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GB
 
-* GB-ABE (Aberdeen City) -> [GB-ABE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ABE.svg)
-* GB-AGB (Argyll And Bute) -> [GB-AGB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-AGB.svg)
-* GB-AGY (Isle Of Anglesey [Sir Ynys Môn Gb-Ynm]) -> [GB-AGY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-AGY.svg)
-* GB-ANS (Angus) -> [GB-ANS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ANS.png)
-* GB-BBD (Blackburn With Darwen) -> [GB-BBD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BBD.svg)
-* GB-BDF (Bedford) -> [GB-BDF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BDF.svg)
-* GB-BDG (Barking And Dagenham) -> [GB-BDG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BDG.svg)
-* GB-BEN (Brent) -> [GB-BEN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BEN.svg)
-* GB-BEX (Bexley) -> [GB-BEX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BEX.svg)
-* GB-BFS (Belfast City) -> [GB-BFS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BFS.png)
-* GB-BGE (Bridgend [Pen-Y-Bont Ar Ogwr Gb-Pog]) -> [GB-BGE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BGE.png)
-* GB-BGW (Blaenau Gwent) -> [GB-BGW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BGW.svg)
-* GB-BIR (Birmingham) -> [GB-BIR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BIR.svg)
-* GB-BKM (Buckinghamshire) -> [GB-BKM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BKM.svg)
-* GB-BNE (Barnet) -> [GB-BNE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BNE.svg)
-* GB-BNH (Brighton And Hove) -> [GB-BNH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BNH.png)
-* GB-BNS (Barnsley) -> [GB-BNS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BNS.svg)
-* GB-BOL (Bolton) -> [GB-BOL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BOL.png)
-* GB-BPL (Blackpool) -> [GB-BPL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BPL.png)
-* GB-BRD (Bradford) -> [GB-BRD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BRD.png)
-* GB-BRY (Bromley) -> [GB-BRY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BRY.svg)
-* GB-BST (Bristol, City Of) -> [GB-BST.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BST.svg)
-* GB-BUR (Bury) -> [GB-BUR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BUR.png)
-* GB-CAM (Cambridgeshire) -> [GB-CAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CAM.svg)
-* GB-CAY (Caerphilly [Caerffili Gb-Caf]) -> [GB-CAY.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CAY.png)
-* GB-CBF (Central Bedfordshire) -> [GB-CBF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CBF.svg)
-* GB-CGN (Ceredigion [Sir Ceredigion]) -> [GB-CGN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CGN.svg)
-* GB-CHE (Cheshire East) -> [GB-CHE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CHE.png)
-* GB-CHW (Cheshire West And Chester) -> [GB-CHW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CHW.svg)
-* GB-CLD (Calderdale) -> [GB-CLD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CLD.png)
-* GB-CLK (Clackmannanshire) -> [GB-CLK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CLK.svg)
-* GB-CMA (Cumbria) -> [GB-CMA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CMA.svg)
-* GB-CMD (Camden) -> [GB-CMD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CMD.svg)
-* GB-CMN (Carmarthenshire [Sir Gaerfyrddin Gb-Gfy]) -> [GB-CMN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CMN.svg)
-* GB-CON (Cornwall) -> [GB-CON.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CON.svg)
-* GB-COV (Coventry) -> [GB-COV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-COV.svg)
-* GB-CRF (Cardiff [Caerdydd Gb-Crd]) -> [GB-CRF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CRF.svg)
-* GB-CRY (Croydon) -> [GB-CRY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CRY.svg)
-* GB-DAL (Darlington) -> [GB-DAL.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DAL.jpeg)
-* GB-DBY (Derbyshire) -> [GB-DBY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DBY.svg)
-* GB-DEN (Denbighshire [Sir Ddinbych Gb-Ddb]) -> [GB-DEN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DEN.svg)
-* GB-DEV (Devon) -> [GB-DEV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DEV.svg)
-* GB-DGY (Dumfries And Galloway) -> [GB-DGY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DGY.svg)
-* GB-DNC (Doncaster) -> [GB-DNC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DNC.png)
-* GB-DND (Dundee City) -> [GB-DND.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DND.png)
-* GB-DOR (Dorset) -> [GB-DOR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DOR.svg)
-* GB-DUD (Dudley) -> [GB-DUD.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DUD.gif)
-* GB-DUD (Dudley) -> [GB-DUD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DUD.png)
-* GB-DUR (Durham, County) -> [GB-DUR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DUR.svg)
-* GB-EAL (Ealing) -> [GB-EAL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EAL.svg)
-* GB-EAY (East Ayrshire) -> [GB-EAY.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EAY.jpeg)
-* GB-EDH (Edinburgh, City Of) -> [GB-EDH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EDH.svg)
-* GB-EDU (East Dunbartonshire) -> [GB-EDU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EDU.svg)
-* GB-ELN (East Lothian) -> [GB-ELN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ELN.svg)
-* GB-ENF (Enfield) -> [GB-ENF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ENF.svg)
-* GB-ENG (Enfield) -> [GB-ENG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ENG.svg)
-* GB-ERW (East Renfrewshire) -> [GB-ERW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ERW.svg)
-* GB-ERY (East Riding Of Yorkshire) -> [GB-ERY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ERY.svg)
-* GB-ESS (Essex) -> [GB-ESS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ESS.svg)
-* GB-ESX (East Sussex) -> [GB-ESX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ESX.svg)
-* GB-FAL (Falkirk) -> [GB-FAL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-FAL.svg)
-* GB-FIF (Fife) -> [GB-FIF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-FIF.svg)
-* GB-FLN (Flintshire [Sir Y Fflint Gb-Ffl]) -> [GB-FLN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-FLN.svg)
-* GB-GAT (Gateshead) -> [GB-GAT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GAT.png)
-* GB-GLG (Glasgow City) -> [GB-GLG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GLG.svg)
-* GB-GLS (Gloucestershire) -> [GB-GLS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GLS.svg)
-* GB-GRE (Greenwich) -> [GB-GRE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GRE.png)
-* GB-GWN (Gwynedd) -> [GB-GWN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GWN.svg)
-* GB-HAM (Hampshire) -> [GB-HAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HAM.svg)
-* GB-HAV (Havering) -> [GB-HAV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HAV.svg)
-* GB-HCK (Hackney) -> [GB-HCK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HCK.svg)
-* GB-HEF (Herefordshire) -> [GB-HEF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HEF.svg)
-* GB-HIL (Hillingdon) -> [GB-HIL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HIL.svg)
-* GB-HLD (Highland) -> [GB-HLD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HLD.svg)
-* GB-HMF (Hammersmith And Fulham) -> [GB-HMF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HMF.svg)
-* GB-HNS (Hounslow) -> [GB-HNS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HNS.svg)
-* GB-HPL (Hartlepool) -> [GB-HPL.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HPL.jpeg)
-* GB-HRT (Hertfordshire) -> [GB-HRT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HRT.svg)
-* GB-HRW (Harrow) -> [GB-HRW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HRW.svg)
-* GB-HRY (Haringey) -> [GB-HRY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HRY.svg)
-* GB-IOS (Isles Of Scilly) -> [GB-IOS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-IOS.svg)
-* GB-IOW (Isle Of Wight) -> [GB-IOW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-IOW.svg)
-* GB-ISL (Islington) -> [GB-ISL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ISL.svg)
-* GB-IVC (Inverclyde) -> [GB-IVC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-IVC.svg)
-* GB-KEC (Kensington And Chelsea) -> [GB-KEC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KEC.svg)
-* GB-KEN (Kent) -> [GB-KEN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KEN.svg)
-* GB-KHL (Kingston Upon Hull) -> [GB-KHL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KHL.svg)
-* GB-KIR (Kirklees) -> [GB-KIR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KIR.png)
-* GB-KTT (Kingston Upon Thames) -> [GB-KTT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KTT.svg)
-* GB-KWL (Knowsley) -> [GB-KWL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KWL.png)
-* GB-LAN (Lancashire) -> [GB-LAN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LAN.svg)
-* GB-LBC (Lisburn And Castlereagh) -> [GB-LBC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LBC.png)
-* GB-LBH (Lambeth) -> [GB-LBH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LBH.svg)
-* GB-LCE (Leicester) -> [GB-LCE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LCE.png)
-* GB-LDS (Leeds) -> [GB-LDS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LDS.svg)
-* GB-LEC (Leicestershire) -> [GB-LEC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LEC.svg)
-* GB-LEW (Lewisham) -> [GB-LEW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LEW.svg)
-* GB-LIN (Lincolnshire) -> [GB-LIN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LIN.svg)
-* GB-LIV (Liverpool) -> [GB-LIV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LIV.svg)
-* GB-LND (London, City Of) -> [GB-LND.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LND.svg)
-* GB-MAN (Manchester) -> [GB-MAN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MAN.svg)
-* GB-MDB (Middlesbrough) -> [GB-MDB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MDB.svg)
-* GB-MDW (Medway) -> [GB-MDW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MDW.svg)
-* GB-MLN (Midlothian) -> [GB-MLN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MLN.svg)
-* GB-MON (Monmouthshire [Sir Fynwy Gb-Fyn]) -> [GB-MON.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MON.svg)
-* GB-MRT (Merton) -> [GB-MRT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MRT.svg)
-* GB-MRY (Moray) -> [GB-MRY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MRY.svg)
-* GB-MTY (Merthyr Tydfil [Merthyr Tudful Gb-Mtu]) -> [GB-MTY.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MTY.png)
-* GB-NAY (North Ayrshire) -> [GB-NAY.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NAY.jpeg)
-* GB-NBL (Northumberland) -> [GB-NBL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NBL.svg)
-* GB-NEL (North East Lincolnshire) -> [GB-NEL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NEL.svg)
-* GB-NET (Newcastle Upon Tyne) -> [GB-NET.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NET.svg)
-* GB-NFK (Norfolk) -> [GB-NFK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NFK.svg)
-* GB-NGM (Nottingham) -> [GB-NGM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NGM.svg)
-* GB-NIR (Nottingham) -> [GB-NIR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NIR.svg)
-* GB-NLK (North Lanarkshire) -> [GB-NLK.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NLK.jpeg)
-* GB-NSM (North Somerset) -> [GB-NSM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NSM.png)
-* GB-NTH (Northamptonshire) -> [GB-NTH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NTH.svg)
-* GB-NTL (Neath Port Talbot [Castell-Nedd Port Talbot Gb-Ctl]) -> [GB-NTL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NTL.png)
-* GB-NTT (Nottinghamshire) -> [GB-NTT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NTT.svg)
-* GB-NTY (North Tyneside) -> [GB-NTY.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NTY.png)
-* GB-NWM (Newham) -> [GB-NWM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NWM.svg)
-* GB-NWP (Newport [Casnewydd Gb-Cnw]) -> [GB-NWP.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NWP.jpeg)
-* GB-NYK (North Yorkshire) -> [GB-NYK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NYK.svg)
-* GB-OLD (Oldham) -> [GB-OLD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-OLD.png)
-* GB-ORK (Orkney Islands) -> [GB-ORK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ORK.svg)
-* GB-OXF (Oxfordshire) -> [GB-OXF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-OXF.svg)
-* GB-PEM (Pembrokeshire [Sir Benfro Gb-Bnf]) -> [GB-PEM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-PEM.svg)
-* GB-PKN (Perth And Kinross) -> [GB-PKN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-PKN.svg)
-* GB-PLY (Plymouth) -> [GB-PLY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-PLY.svg)
-* GB-POR (Portsmouth) -> [GB-POR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-POR.svg)
-* GB-POW (Powys) -> [GB-POW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-POW.svg)
-* GB-RCC (Redcar And Cleveland) -> [GB-RCC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RCC.svg)
-* GB-RCH (Rochdale) -> [GB-RCH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RCH.png)
-* GB-RCT (Rhondda Cynon Taff [Rhondda Cynontaf]) -> [GB-RCT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RCT.png)
-* GB-RDB (Redbridge) -> [GB-RDB.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RDB.jpeg)
-* GB-RDG (Reading) -> [GB-RDG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RDG.png)
-* GB-RFW (Renfrewshire) -> [GB-RFW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RFW.svg)
-* GB-RIC (Richmond Upon Thames) -> [GB-RIC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RIC.svg)
-* GB-ROT (Rotherham) -> [GB-ROT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ROT.png)
-* GB-RUT (Rutland) -> [GB-RUT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RUT.svg)
-* GB-SAW (Sandwell) -> [GB-SAW.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SAW.png)
-* GB-SAY (South Ayrshire) -> [GB-SAY.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SAY.png)
-* GB-SCB (Scottish Borders) -> [GB-SCB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SCB.svg)
-* GB-SCT (Scottish Borders) -> [GB-SCT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SCT.svg)
-* GB-SFK (Suffolk) -> [GB-SFK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SFK.svg)
-* GB-SHF (Sheffield) -> [GB-SHF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SHF.png)
-* GB-SHN (St. Helens) -> [GB-SHN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SHN.svg)
-* GB-SHR (Shropshire) -> [GB-SHR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SHR.svg)
-* GB-SKP (Stockport) -> [GB-SKP.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SKP.png)
-* GB-SLF (Salford) -> [GB-SLF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SLF.png)
-* GB-SLK (South Lanarkshire) -> [GB-SLK.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SLK.jpeg)
-* GB-SND (Sunderland) -> [GB-SND.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SND.svg)
-* GB-SOL (Solihull) -> [GB-SOL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SOL.png)
-* GB-SOM (Somerset) -> [GB-SOM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SOM.svg)
-* GB-SOS (Southend-On-Sea) -> [GB-SOS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SOS.png)
-* GB-SRY (Surrey) -> [GB-SRY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SRY.svg)
-* GB-STE (Stoke-On-Trent) -> [GB-STE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STE.png)
-* GB-STG (Stirling) -> [GB-STG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STG.png)
-* GB-STH (Southampton) -> [GB-STH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STH.png)
-* GB-STN (Sutton) -> [GB-STN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STN.svg)
-* GB-STS (Staffordshire) -> [GB-STS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STS.svg)
-* GB-STT (Stockton-On-Tees) -> [GB-STT.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STT.jpeg)
-* GB-STY (South Tyneside) -> [GB-STY.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STY.png)
-* GB-SWA (Swansea [Abertawe Gb-Ata]) -> [GB-SWA.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SWA.jpeg)
-* GB-SWK (Southwark) -> [GB-SWK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SWK.svg)
-* GB-TAM (Tameside) -> [GB-TAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TAM.svg)
-* GB-TOB (Torbay) -> [GB-TOB.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TOB.gif)
-* GB-TOB (Torbay) -> [GB-TOB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TOB.png)
-* GB-TOF (Torfaen [Tor-Faen]) -> [GB-TOF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TOF.svg)
-* GB-TRF (Trafford) -> [GB-TRF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TRF.png)
-* GB-TWH (Tower Hamlets) -> [GB-TWH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TWH.svg)
-* GB-VGL (Vale Of Glamorgan, The [Bro Morgannwg Gb-Bmg]) -> [GB-VGL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-VGL.png)
-* GB-WAR (Warwickshire) -> [GB-WAR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WAR.svg)
-* GB-WBK (West Berkshire) -> [GB-WBK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WBK.svg)
-* GB-WDU (West Dunbartonshire) -> [GB-WDU.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WDU.png)
-* GB-WFT (Waltham Forest) -> [GB-WFT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WFT.svg)
-* GB-WGN (Wigan) -> [GB-WGN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WGN.png)
-* GB-WIL (Wiltshire) -> [GB-WIL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WIL.svg)
-* GB-WKF (Wakefield) -> [GB-WKF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WKF.png)
-* GB-WLN (West Lothian) -> [GB-WLN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WLN.png)
-* GB-WLS (West Lothian) -> [GB-WLS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WLS.svg)
-* GB-WLV (Wolverhampton) -> [GB-WLV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WLV.svg)
-* GB-WND (Wandsworth) -> [GB-WND.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WND.svg)
-* GB-WNM (Windsor And Maidenhead) -> [GB-WNM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WNM.svg)
-* GB-WOR (Worcestershire) -> [GB-WOR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WOR.svg)
-* GB-WRL (Wirral) -> [GB-WRL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WRL.png)
-* GB-WSM (Westminster) -> [GB-WSM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WSM.svg)
-* GB-WSX (West Sussex) -> [GB-WSX.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WSX.png)
-* GB-YOR (York) -> [GB-YOR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-YOR.svg)
-* GB-ZET (Shetland Islands) -> [GB-ZET.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ZET.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| GB-ABD | Aberdeenshire | Council area | <img src='None' height='80'> | [GB-ABD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ABD.svg) |
+| GB-ABE | Aberdeen City | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ABE.svg' height='80'> | [GB-ABE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ABE.svg) |
+| GB-AGY | Isle of Anglesey [Sir Ynys Môn GB-YNM] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-AGY.svg' height='80'> | [GB-AGY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-AGY.svg) |
+| GB-AND | Ards and North Down | District | <img src='None' height='80'> | [GB-AND](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-AND.jpeg) |
+| GB-ANN | Antrim and Newtownabbey | District | <img src='None' height='80'> | [GB-ANN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ANN.jpeg) |
+| GB-ANS | Angus | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ANS.png' height='80'> | [GB-ANS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ANS.png) |
+| GB-BAS | Bath and North East Somerset | Unitary authority | <img src='None' height='80'> | [GB-BAS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BAS.svg) |
+| GB-BBD | Blackburn with Darwen | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BBD.svg' height='80'> | [GB-BBD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BBD.svg) |
+| GB-BCP | Bournemouth, Christchurch and Poole | Unitary authority | <img src='None' height='80'> | [GB-BCP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BCP.svg) |
+| GB-BDF | Bedford | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BDF.svg' height='80'> | [GB-BDF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BDF.svg) |
+| GB-BDG | Barking and Dagenham | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BDG.svg' height='80'> | [GB-BDG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BDG.svg) |
+| GB-BEN | Brent | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BEN.svg' height='80'> | [GB-BEN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BEN.svg) |
+| GB-BEX | Bexley | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BEX.svg' height='80'> | [GB-BEX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BEX.png) |
+| GB-BFS | Belfast City | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BFS.png' height='80'> | [GB-BFS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BFS.png) |
+| GB-BGE | Bridgend [Pen-y-bont ar Ogwr GB-POG] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BGE.png' height='80'> | [GB-BGE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BGE.png) |
+| GB-BGW | Blaenau Gwent | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BGW.svg' height='80'> | [GB-BGW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BGW.svg) |
+| GB-BIR | Birmingham | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BIR.svg' height='80'> | [GB-BIR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BIR.svg) |
+| GB-BKM | Buckinghamshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BKM.svg' height='80'> | [GB-BKM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BKM.svg) |
+| GB-BNE | Barnet | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BNE.svg' height='80'> | [GB-BNE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BNE.svg) |
+| GB-BNH | Brighton and Hove | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BNH.png' height='80'> | [GB-BNH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BNH.png) |
+| GB-BNS | Barnsley | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BNS.svg' height='80'> | [GB-BNS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BNS.svg) |
+| GB-BOL | Bolton | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BOL.png' height='80'> | [GB-BOL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BOL.png) |
+| GB-BPL | Blackpool | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BPL.png' height='80'> | [GB-BPL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BPL.png) |
+| GB-BRD | Bradford | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BRD.png' height='80'> | [GB-BRD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BRD.png) |
+| GB-BRY | Bromley | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BRY.svg' height='80'> | [GB-BRY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BRY.svg) |
+| GB-BST | Bristol, City of | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BST.svg' height='80'> | [GB-BST](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BST.jpg) |
+| GB-BUR | Bury | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-BUR.png' height='80'> | [GB-BUR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-BUR.png) |
+| GB-CAM | Cambridgeshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CAM.svg' height='80'> | [GB-CAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CAM.svg) |
+| GB-CAY | Caerphilly [Caerffili GB-CAF] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CAY.png' height='80'> | [GB-CAY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CAY.png) |
+| GB-CBF | Central Bedfordshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CBF.svg' height='80'> | [GB-CBF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CBF.svg) |
+| GB-CCG | Causeway Coast and Glens | District | <img src='None' height='80'> | [GB-CCG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CCG.jpeg) |
+| GB-CGN | Ceredigion [Sir Ceredigion] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CGN.svg' height='80'> | [GB-CGN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CGN.svg) |
+| GB-CHE | Cheshire East | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CHE.png' height='80'> | [GB-CHE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CHE.png) |
+| GB-CHW | Cheshire West and Chester | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CHW.svg' height='80'> | [GB-CHW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CHW.svg) |
+| GB-CLD | Calderdale | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CLD.png' height='80'> | [GB-CLD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CLD.png) |
+| GB-CLK | Clackmannanshire | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CLK.svg' height='80'> | [GB-CLK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CLK.svg) |
+| GB-CMA | Cumbria | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CMA.svg' height='80'> | [GB-CMA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CMA.svg) |
+| GB-CMD | Camden | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CMD.svg' height='80'> | [GB-CMD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CMD.svg) |
+| GB-CMN | Carmarthenshire [Sir Gaerfyrddin GB-GFY] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CMN.svg' height='80'> | [GB-CMN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CMN.svg) |
+| GB-CON | Cornwall | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CON.svg' height='80'> | [GB-CON](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CON.svg) |
+| GB-COV | Coventry | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-COV.svg' height='80'> | [GB-COV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-COV.svg) |
+| GB-CRF | Cardiff [Caerdydd GB-CRD] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CRF.svg' height='80'> | [GB-CRF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CRF.svg) |
+| GB-CRY | Croydon | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-CRY.svg' height='80'> | [GB-CRY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CRY.svg) |
+| GB-CWY | Conwy | Unitary authority | <img src='None' height='80'> | [GB-CWY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-CWY.png) |
+| GB-DAL | Darlington | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DAL.jpeg' height='80'> | [GB-DAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DAL.svg) |
+| GB-DBY | Derbyshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DBY.svg' height='80'> | [GB-DBY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DBY.svg) |
+| GB-DEN | Denbighshire [Sir Ddinbych GB-DDB] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DEN.svg' height='80'> | [GB-DEN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DEN.svg) |
+| GB-DER | Derby | Unitary authority | <img src='None' height='80'> | [GB-DER](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DER.png) |
+| GB-DEV | Devon | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DEV.svg' height='80'> | [GB-DEV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DEV.svg) |
+| GB-DGY | Dumfries and Galloway | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DGY.svg' height='80'> | [GB-DGY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DGY.svg) |
+| GB-DNC | Doncaster | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DNC.png' height='80'> | [GB-DNC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DNC.png) |
+| GB-DND | Dundee City | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DND.png' height='80'> | [GB-DND](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DND.png) |
+| GB-DOR | Dorset | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DOR.svg' height='80'> | [GB-DOR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DOR.svg) |
+| GB-DUD | Dudley | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DUD.png' height='80'> | [GB-DUD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DUD.png) |
+| GB-DUR | Durham, County | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-DUR.svg' height='80'> | [GB-DUR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-DUR.svg) |
+| GB-EAL | Ealing | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-EAL.svg' height='80'> | [GB-EAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EAL.png) |
+| GB-EAY | East Ayrshire | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-EAY.jpeg' height='80'> | [GB-EAY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EAY.jpg) |
+| GB-EDH | Edinburgh, City of | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-EDH.svg' height='80'> | [GB-EDH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EDH.svg) |
+| GB-EDU | East Dunbartonshire | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-EDU.svg' height='80'> | [GB-EDU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-EDU.svg) |
+| GB-ELN | East Lothian | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ELN.svg' height='80'> | [GB-ELN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ELN.svg) |
+| GB-ELS | Eilean Siar | Council area | <img src='None' height='80'> | [GB-ELS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ELS.svg) |
+| GB-ENF | Enfield | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ENF.svg' height='80'> | [GB-ENF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ENF.svg) |
+| GB-ENG | England | Country | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ENG.svg' height='80'> | [GB-ENG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ENG.svg) |
+| GB-ERW | East Renfrewshire | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ERW.svg' height='80'> | [GB-ERW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ERW.svg) |
+| GB-ERY | East Riding of Yorkshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ERY.svg' height='80'> | [GB-ERY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ERY.svg) |
+| GB-ESS | Essex | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ESS.svg' height='80'> | [GB-ESS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ESS.svg) |
+| GB-ESX | East Sussex | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ESX.svg' height='80'> | [GB-ESX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ESX.svg) |
+| GB-FAL | Falkirk | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-FAL.svg' height='80'> | [GB-FAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-FAL.svg) |
+| GB-FLN | Flintshire [Sir y Fflint GB-FFL] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-FLN.svg' height='80'> | [GB-FLN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-FLN.svg) |
+| GB-GAT | Gateshead | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-GAT.png' height='80'> | [GB-GAT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GAT.png) |
+| GB-GLG | Glasgow City | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-GLG.svg' height='80'> | [GB-GLG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GLG.svg) |
+| GB-GLS | Gloucestershire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-GLS.svg' height='80'> | [GB-GLS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GLS.svg) |
+| GB-GRE | Greenwich | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-GRE.png' height='80'> | [GB-GRE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GRE.png) |
+| GB-GWN | Gwynedd | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-GWN.svg' height='80'> | [GB-GWN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-GWN.svg) |
+| GB-HAL | Halton | Unitary authority | <img src='None' height='80'> | [GB-HAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HAL.svg) |
+| GB-HAM | Hampshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HAM.svg' height='80'> | [GB-HAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HAM.svg) |
+| GB-HAV | Havering | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HAV.svg' height='80'> | [GB-HAV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HAV.svg) |
+| GB-HCK | Hackney | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HCK.svg' height='80'> | [GB-HCK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HCK.svg) |
+| GB-HEF | Herefordshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HEF.svg' height='80'> | [GB-HEF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HEF.svg) |
+| GB-HIL | Hillingdon | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HIL.svg' height='80'> | [GB-HIL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HIL.svg) |
+| GB-HMF | Hammersmith and Fulham | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HMF.svg' height='80'> | [GB-HMF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HMF.svg) |
+| GB-HNS | Hounslow | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HNS.svg' height='80'> | [GB-HNS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HNS.svg) |
+| GB-HPL | Hartlepool | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HPL.jpeg' height='80'> | [GB-HPL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HPL.jpeg) |
+| GB-HRT | Hertfordshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HRT.svg' height='80'> | [GB-HRT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HRT.svg) |
+| GB-HRW | Harrow | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HRW.svg' height='80'> | [GB-HRW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HRW.svg) |
+| GB-HRY | Haringey | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-HRY.svg' height='80'> | [GB-HRY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-HRY.png) |
+| GB-IOS | Isles of Scilly | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-IOS.svg' height='80'> | [GB-IOS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-IOS.svg) |
+| GB-IOW | Isle of Wight | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-IOW.svg' height='80'> | [GB-IOW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-IOW.svg) |
+| GB-ISL | Islington | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ISL.svg' height='80'> | [GB-ISL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ISL.png) |
+| GB-KEC | Kensington and Chelsea | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-KEC.svg' height='80'> | [GB-KEC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KEC.svg) |
+| GB-KEN | Kent | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-KEN.svg' height='80'> | [GB-KEN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KEN.svg) |
+| GB-KHL | Kingston upon Hull | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-KHL.svg' height='80'> | [GB-KHL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KHL.png) |
+| GB-KIR | Kirklees | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-KIR.png' height='80'> | [GB-KIR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KIR.png) |
+| GB-KTT | Kingston upon Thames | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-KTT.svg' height='80'> | [GB-KTT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KTT.png) |
+| GB-KWL | Knowsley | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-KWL.png' height='80'> | [GB-KWL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-KWL.png) |
+| GB-LAN | Lancashire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LAN.svg' height='80'> | [GB-LAN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LAN.svg) |
+| GB-LBC | Lisburn and Castlereagh | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LBC.png' height='80'> | [GB-LBC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LBC.png) |
+| GB-LBH | Lambeth | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LBH.svg' height='80'> | [GB-LBH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LBH.svg) |
+| GB-LCE | Leicester | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LCE.png' height='80'> | [GB-LCE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LCE.png) |
+| GB-LDS | Leeds | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LDS.svg' height='80'> | [GB-LDS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LDS.png) |
+| GB-LEC | Leicestershire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LEC.svg' height='80'> | [GB-LEC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LEC.svg) |
+| GB-LEW | Lewisham | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LEW.svg' height='80'> | [GB-LEW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LEW.svg) |
+| GB-LIN | Lincolnshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LIN.svg' height='80'> | [GB-LIN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LIN.svg) |
+| GB-LIV | Liverpool | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LIV.svg' height='80'> | [GB-LIV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LIV.svg) |
+| GB-LND | London, City of | City corporation | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-LND.svg' height='80'> | [GB-LND](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LND.svg) |
+| GB-LUT | Luton | Unitary authority | <img src='None' height='80'> | [GB-LUT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-LUT.png) |
+| GB-MAN | Manchester | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-MAN.svg' height='80'> | [GB-MAN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MAN.png) |
+| GB-MDB | Middlesbrough | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-MDB.svg' height='80'> | [GB-MDB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MDB.svg) |
+| GB-MDW | Medway | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-MDW.svg' height='80'> | [GB-MDW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MDW.svg) |
+| GB-MEA | Mid and East Antrim | District | <img src='None' height='80'> | [GB-MEA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MEA.png) |
+| GB-MIK | Milton Keynes | Unitary authority | <img src='None' height='80'> | [GB-MIK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MIK.png) |
+| GB-MON | Monmouthshire [Sir Fynwy GB-FYN] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-MON.svg' height='80'> | [GB-MON](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MON.svg) |
+| GB-MRT | Merton | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-MRT.svg' height='80'> | [GB-MRT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MRT.svg) |
+| GB-MRY | Moray | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-MRY.svg' height='80'> | [GB-MRY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MRY.svg) |
+| GB-MTY | Merthyr Tydfil [Merthyr Tudful GB-MTU] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-MTY.png' height='80'> | [GB-MTY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MTY.jpg) |
+| GB-MUL | Mid-Ulster | District | <img src='None' height='80'> | [GB-MUL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-MUL.png) |
+| GB-NAY | North Ayrshire | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NAY.jpeg' height='80'> | [GB-NAY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NAY.jpeg) |
+| GB-NBL | Northumberland | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NBL.svg' height='80'> | [GB-NBL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NBL.svg) |
+| GB-NET | Newcastle upon Tyne | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NET.svg' height='80'> | [GB-NET](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NET.png) |
+| GB-NFK | Norfolk | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NFK.svg' height='80'> | [GB-NFK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NFK.svg) |
+| GB-NGM | Nottingham | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NGM.svg' height='80'> | [GB-NGM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NGM.png) |
+| GB-NIR | Northern Ireland | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NIR.svg' height='80'> | [GB-NIR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NIR.svg) |
+| GB-NLN | North Lincolnshire | Unitary authority | <img src='None' height='80'> | [GB-NLN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NLN.svg) |
+| GB-NMD | Newry, Mourne and Down | District | <img src='None' height='80'> | [GB-NMD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NMD.jpg) |
+| GB-NNH | North Northamptonshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NNH.svg' height='80'> | [GB-NNH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NNH.svg) |
+| GB-NSM | North Somerset | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NSM.png' height='80'> | [GB-NSM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NSM.png) |
+| GB-NTL | Neath Port Talbot [Castell-nedd Port Talbot GB-CTL] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NTL.png' height='80'> | [GB-NTL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NTL.png) |
+| GB-NTT | Nottinghamshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NTT.svg' height='80'> | [GB-NTT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NTT.svg) |
+| GB-NTY | North Tyneside | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NTY.png' height='80'> | [GB-NTY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NTY.png) |
+| GB-NWM | Newham | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NWM.svg' height='80'> | [GB-NWM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NWM.svg) |
+| GB-NWP | Newport [Casnewydd GB-CNW] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NWP.jpeg' height='80'> | [GB-NWP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NWP.jpeg) |
+| GB-NYK | North Yorkshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-NYK.svg' height='80'> | [GB-NYK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-NYK.svg) |
+| GB-OLD | Oldham | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-OLD.png' height='80'> | [GB-OLD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-OLD.png) |
+| GB-ORK | Orkney Islands | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ORK.svg' height='80'> | [GB-ORK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ORK.svg) |
+| GB-OXF | Oxfordshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-OXF.svg' height='80'> | [GB-OXF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-OXF.svg) |
+| GB-PEM | Pembrokeshire [Sir Benfro GB-BNF] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-PEM.svg' height='80'> | [GB-PEM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-PEM.svg) |
+| GB-PKN | Perth and Kinross | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-PKN.svg' height='80'> | [GB-PKN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-PKN.jpg) |
+| GB-PLY | Plymouth | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-PLY.svg' height='80'> | [GB-PLY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-PLY.svg) |
+| GB-POR | Portsmouth | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-POR.svg' height='80'> | [GB-POR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-POR.svg) |
+| GB-POW | Powys | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-POW.svg' height='80'> | [GB-POW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-POW.svg) |
+| GB-PTE | Peterborough | Unitary authority | <img src='None' height='80'> | [GB-PTE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-PTE.png) |
+| GB-RCH | Rochdale | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-RCH.png' height='80'> | [GB-RCH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RCH.png) |
+| GB-RCT | Rhondda Cynon Taff [Rhondda CynonTaf] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-RCT.png' height='80'> | [GB-RCT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RCT.svg) |
+| GB-RDB | Redbridge | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-RDB.jpeg' height='80'> | [GB-RDB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RDB.jpeg) |
+| GB-RDG | Reading | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-RDG.png' height='80'> | [GB-RDG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RDG.png) |
+| GB-RIC | Richmond upon Thames | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-RIC.svg' height='80'> | [GB-RIC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RIC.svg) |
+| GB-ROT | Rotherham | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ROT.png' height='80'> | [GB-ROT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ROT.png) |
+| GB-RUT | Rutland | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-RUT.svg' height='80'> | [GB-RUT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-RUT.svg) |
+| GB-SAW | Sandwell | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SAW.png' height='80'> | [GB-SAW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SAW.png) |
+| GB-SCT | Scotland | Country | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SCT.svg' height='80'> | [GB-SCT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SCT.svg) |
+| GB-SFK | Suffolk | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SFK.svg' height='80'> | [GB-SFK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SFK.svg) |
+| GB-SFT | Sefton | Metropolitan district | <img src='None' height='80'> | [GB-SFT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SFT.png) |
+| GB-SHF | Sheffield | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SHF.png' height='80'> | [GB-SHF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SHF.png) |
+| GB-SHR | Shropshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SHR.svg' height='80'> | [GB-SHR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SHR.svg) |
+| GB-SKP | Stockport | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SKP.png' height='80'> | [GB-SKP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SKP.png) |
+| GB-SLF | Salford | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SLF.png' height='80'> | [GB-SLF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SLF.png) |
+| GB-SLG | Slough | Unitary authority | <img src='None' height='80'> | [GB-SLG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SLG.svg) |
+| GB-SLK | South Lanarkshire | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SLK.jpeg' height='80'> | [GB-SLK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SLK.png) |
+| GB-SND | Sunderland | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SND.svg' height='80'> | [GB-SND](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SND.png) |
+| GB-SOL | Solihull | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SOL.png' height='80'> | [GB-SOL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SOL.png) |
+| GB-SOM | Somerset | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SOM.svg' height='80'> | [GB-SOM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SOM.svg) |
+| GB-SOS | Southend-on-Sea | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SOS.png' height='80'> | [GB-SOS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SOS.png) |
+| GB-SRY | Surrey | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SRY.svg' height='80'> | [GB-SRY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SRY.svg) |
+| GB-STE | Stoke-on-Trent | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-STE.png' height='80'> | [GB-STE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STE.png) |
+| GB-STG | Stirling | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-STG.png' height='80'> | [GB-STG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STG.svg) |
+| GB-STH | Southampton | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-STH.png' height='80'> | [GB-STH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STH.png) |
+| GB-STS | Staffordshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-STS.svg' height='80'> | [GB-STS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STS.svg) |
+| GB-STT | Stockton-on-Tees | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-STT.jpeg' height='80'> | [GB-STT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STT.jpg) |
+| GB-STY | South Tyneside | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-STY.png' height='80'> | [GB-STY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-STY.png) |
+| GB-SWA | Swansea [Abertawe GB-ATA] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SWA.jpeg' height='80'> | [GB-SWA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SWA.jpeg) |
+| GB-SWK | Southwark | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-SWK.svg' height='80'> | [GB-SWK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-SWK.svg) |
+| GB-TAM | Tameside | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-TAM.svg' height='80'> | [GB-TAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TAM.svg) |
+| GB-TFW | Telford and Wrekin | Unitary authority | <img src='None' height='80'> | [GB-TFW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TFW.png) |
+| GB-THR | Thurrock | Unitary authority | <img src='None' height='80'> | [GB-THR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-THR.jpg) |
+| GB-TOB | Torbay | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-TOB.png' height='80'> | [GB-TOB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TOB.png) |
+| GB-TOF | Torfaen [Tor-faen] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-TOF.svg' height='80'> | [GB-TOF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TOF.jpg) |
+| GB-TRF | Trafford | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-TRF.png' height='80'> | [GB-TRF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TRF.png) |
+| GB-TWH | Tower Hamlets | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-TWH.svg' height='80'> | [GB-TWH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-TWH.svg) |
+| GB-UKM | United Kingdom | Country | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-UKM.svg' height='80'> | [GB-UKM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-UKM.svg) |
+| GB-VGL | Vale of Glamorgan, The [Bro Morgannwg GB-BMG] | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-VGL.png' height='80'> | [GB-VGL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-VGL.svg) |
+| GB-WAR | Warwickshire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WAR.svg' height='80'> | [GB-WAR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WAR.svg) |
+| GB-WBK | West Berkshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WBK.svg' height='80'> | [GB-WBK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WBK.svg) |
+| GB-WFT | Waltham Forest | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WFT.svg' height='80'> | [GB-WFT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WFT.svg) |
+| GB-WGN | Wigan | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WGN.png' height='80'> | [GB-WGN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WGN.png) |
+| GB-WIL | Wiltshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WIL.svg' height='80'> | [GB-WIL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WIL.svg) |
+| GB-WKF | Wakefield | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WKF.png' height='80'> | [GB-WKF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WKF.png) |
+| GB-WLS | Wales [Cymru GB-CYM] | Country | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WLS.svg' height='80'> | [GB-WLS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WLS.svg) |
+| GB-WLV | Wolverhampton | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WLV.svg' height='80'> | [GB-WLV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WLV.png) |
+| GB-WND | Wandsworth | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WND.svg' height='80'> | [GB-WND](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WND.svg) |
+| GB-WNH | West Northamptonshire | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WNH.svg' height='80'> | [GB-WNH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WNH.svg) |
+| GB-WNM | Windsor and Maidenhead | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WNM.svg' height='80'> | [GB-WNM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WNM.svg) |
+| GB-WOK | Wokingham | Unitary authority | <img src='None' height='80'> | [GB-WOK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WOK.png) |
+| GB-WOR | Worcestershire | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WOR.svg' height='80'> | [GB-WOR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WOR.svg) |
+| GB-WRL | Wirral | Metropolitan district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WRL.png' height='80'> | [GB-WRL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WRL.png) |
+| GB-WRX | Wrexham [Wrecsam GB-WRC] | Unitary authority | <img src='None' height='80'> | [GB-WRX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WRX.png) |
+| GB-WSM | Westminster | London borough | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WSM.svg' height='80'> | [GB-WSM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WSM.png) |
+| GB-WSX | West Sussex | Two-tier county | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-WSX.png' height='80'> | [GB-WSX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-WSX.png) |
+| GB-YOR | York | Unitary authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-YOR.svg' height='80'> | [GB-YOR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-YOR.svg) |
+| GB-ZET | Shetland Islands | Council area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GB/GB-ZET.svg' height='80'> | [GB-ZET](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GB/GB-ZET.svg) |
 
-UK ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GB):
+United Kingdom of Great Britain and Northern Ireland ISO 3166-2 subdivisions with no available flags:
 
-* GB-ABC: Armagh City, Banbridge and Craigavon (District)
-* GB-ABD: Aberdeenshire (Council area)
-* GB-AND: Ards and North Down (District)
-* GB-ANN: Antrim and Newtownabbey (District)
-* GB-BAS: Bath and North East Somerset (Unitary authority)
-* GB-BCP: Bournemouth, Christchurch and Poole (Unitary authority)
-* GB-BRC: Bracknell Forest (Unitary authority)
-* GB-CCG: Causeway Coast and Glens (District)
-* GB-CWY: Conwy (Unitary authority)
-* GB-DER: Derby (Unitary authority)
-* GB-DRS: Derry and Strabane (District)
-* GB-ELS: Eilean Siar (Council area)
-* GB-FMO: Fermanagh and Omagh (District)
-* GB-HAL: Halton (Unitary authority)
-* GB-LUT: Luton (Unitary authority)
-* GB-MEA: Mid and East Antrim (District)
-* GB-MIK: Milton Keynes (Unitary authority)
-* GB-MUL: Mid-Ulster (District)
-* GB-NLN: North Lincolnshire (Unitary authority)
-* GB-NMD: Newry, Mourne and Down (District)
-* GB-PTE: Peterborough (Unitary authority)
-* GB-SFT: Sefton (Metropolitan district)
-* GB-SGC: South Gloucestershire (Unitary authority)
-* GB-SLG: Slough (Unitary authority)
-* GB-SWD: Swindon (Unitary authority)
-* GB-TFW: Telford and Wrekin (Unitary authority)
-* GB-THR: Thurrock (Unitary authority)
-* GB-WLL: Walsall (Metropolitan district)
-* GB-WOK: Wokingham (Unitary authority)
-* GB-WRT: Warrington (Unitary authority)
-* GB-WRX: Wrexham [Wrecsam GB-WRC] (Unitary authority)
+* **GB-ABC: Armagh City, Banbridge and Craigavon (District)**
+* **GB-AGB: Argyll and Bute (Council area)**
+* **GB-BRC: Bracknell Forest (Unitary authority)**
+* **GB-DRS: Derry and Strabane (District)**
+* **GB-EAW: England and Wales (Collecting of England and Wales)**
+* **GB-FIF: Fife (Council area)**
+* **GB-FMO: Fermanagh and Omagh (District)**
+* **GB-GBN: Great Britain (Collection of countries)**
+* **GB-HLD: Highland (Council area)**
+* **GB-IVC: Inverclyde (Council area)**
+* **GB-MLN: Midlothian (Council area)**
+* **GB-NEL: North East Lincolnshire (Unitary authority)**
+* **GB-NLK: North Lanarkshire (Council area)**
+* **GB-RCC: Redcar and Cleveland (Unitary authority)**
+* **GB-RFW: Renfrewshire (Council area)**
+* **GB-SAY: South Ayrshire (Council area)**
+* **GB-SCB: Scottish Borders (Council area)**
+* **GB-SGC: South Gloucestershire (Unitary authority)**
+* **GB-SHN: St. Helens (Metropolitan district)**
+* **GB-STN: Sutton (London borough)**
+* **GB-SWD: Swindon (Unitary authority)**
+* **GB-WDU: West Dunbartonshire (Council area)**
+* **GB-WLL: Walsall (Metropolitan district)**
+* **GB-WLN: West Lothian (Council area)**
+* **GB-WRT: Warrington (Unitary authority)**

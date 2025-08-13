@@ -1,31 +1,36 @@
-# Brazil Subdivisions 🇧🇷
+# Brazil Subdivisions ![](https://flagcdn.com/h40/br.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:BR
+- **ISO Code**: BR
+- **Number of subdivisions**: 27
+- **Subdivision Type**: Federal district, State
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BR
 
-* BR-AC (Acre) -> [BR-AC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AC.svg)
-* BR-AL (Alagoas) -> [BR-AL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AL.svg)
-* BR-AM (Amazonas) -> [BR-AM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AM.svg)
-* BR-AP (Amapá) -> [BR-AP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AP.svg)
-* BR-BA (Bahia) -> [BR-BA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-BA.svg)
-* BR-CE (Ceará) -> [BR-CE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-CE.svg)
-* BR-DF (Distrito Federal) -> [BR-DF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-DF.svg)
-* BR-ES (Espírito Santo) -> [BR-ES.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-ES.svg)
-* BR-GO (Goiás) -> [BR-GO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-GO.svg)
-* BR-MA (Maranhão) -> [BR-MA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MA.svg)
-* BR-MG (Minas Gerais) -> [BR-MG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MG.svg)
-* BR-MS (Mato Grosso Do Sul) -> [BR-MS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MS.svg)
-* BR-MT (Mato Grosso) -> [BR-MT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MT.svg)
-* BR-PA (Pará) -> [BR-PA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PA.svg)
-* BR-PB (Paraíba) -> [BR-PB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PB.svg)
-* BR-PE (Pernambuco) -> [BR-PE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PE.svg)
-* BR-PI (Piauí) -> [BR-PI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PI.svg)
-* BR-PR (Paraná) -> [BR-PR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PR.svg)
-* BR-RJ (Rio De Janeiro) -> [BR-RJ.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RJ.png)
-* BR-RN (Rio Grande Do Norte) -> [BR-RN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RN.svg)
-* BR-RO (Rondônia) -> [BR-RO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RO.svg)
-* BR-RR (Roraima) -> [BR-RR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RR.svg)
-* BR-RS (Rio Grande Do Sul) -> [BR-RS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RS.svg)
-* BR-SC (Santa Catarina) -> [BR-SC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-SC.svg)
-* BR-SE (Sergipe) -> [BR-SE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-SE.svg)
-* BR-SP (São Paulo) -> [BR-SP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-SP.svg)
-* BR-TO (Tocantins) -> [BR-TO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-TO.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| BR-AC | Acre | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-AC.svg' height='80'> | [BR-AC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AC.svg) |
+| BR-AL | Alagoas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-AL.svg' height='80'> | [BR-AL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AL.svg) |
+| BR-AM | Amazonas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-AM.svg' height='80'> | [BR-AM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AM.svg) |
+| BR-AP | Amapá | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-AP.svg' height='80'> | [BR-AP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-AP.svg) |
+| BR-BA | Bahia | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-BA.svg' height='80'> | [BR-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-BA.svg) |
+| BR-CE | Ceará | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-CE.svg' height='80'> | [BR-CE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-CE.svg) |
+| BR-DF | Distrito Federal | Federal district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-DF.svg' height='80'> | [BR-DF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-DF.svg) |
+| BR-ES | Espírito Santo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-ES.svg' height='80'> | [BR-ES](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-ES.svg) |
+| BR-GO | Goiás | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-GO.svg' height='80'> | [BR-GO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-GO.svg) |
+| BR-MA | Maranhão | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-MA.svg' height='80'> | [BR-MA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MA.svg) |
+| BR-MG | Minas Gerais | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-MG.svg' height='80'> | [BR-MG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MG.svg) |
+| BR-MS | Mato Grosso do Sul | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-MS.svg' height='80'> | [BR-MS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MS.svg) |
+| BR-MT | Mato Grosso | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-MT.svg' height='80'> | [BR-MT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-MT.svg) |
+| BR-PA | Pará | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-PA.svg' height='80'> | [BR-PA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PA.svg) |
+| BR-PB | Paraíba | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-PB.svg' height='80'> | [BR-PB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PB.svg) |
+| BR-PE | Pernambuco | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-PE.svg' height='80'> | [BR-PE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PE.svg) |
+| BR-PI | Piauí | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-PI.svg' height='80'> | [BR-PI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PI.svg) |
+| BR-PR | Paraná | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-PR.svg' height='80'> | [BR-PR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-PR.svg) |
+| BR-RJ | Rio de Janeiro | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-RJ.png' height='80'> | [BR-RJ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RJ.svg) |
+| BR-RN | Rio Grande do Norte | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-RN.svg' height='80'> | [BR-RN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RN.svg) |
+| BR-RO | Rondônia | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-RO.svg' height='80'> | [BR-RO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RO.svg) |
+| BR-RR | Roraima | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-RR.svg' height='80'> | [BR-RR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RR.svg) |
+| BR-RS | Rio Grande do Sul | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-RS.svg' height='80'> | [BR-RS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-RS.svg) |
+| BR-SC | Santa Catarina | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-SC.svg' height='80'> | [BR-SC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-SC.svg) |
+| BR-SE | Sergipe | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-SE.svg' height='80'> | [BR-SE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-SE.svg) |
+| BR-SP | São Paulo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-SP.svg' height='80'> | [BR-SP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-SP.svg) |
+| BR-TO | Tocantins | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BR/BR-TO.svg' height='80'> | [BR-TO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BR/BR-TO.svg) |

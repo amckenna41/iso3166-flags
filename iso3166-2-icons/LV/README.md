@@ -1,128 +1,55 @@
-# Latvia Subdivisions 🇱🇻
+# Latvia Subdivisions ![](https://flagcdn.com/h40/lv.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:LV
+- **ISO Code**: LV
+- **Number of subdivisions**: 43
+- **Subdivision Type**: Municipality, State city
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LV
 
-* LV-002 (Aizkraukles Novads) -> [LV-002.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-002.svg)
-* LV-007 (Alūksnes Novads) -> [LV-007.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-007.png)
-* LV-011 (Ādažu Novads) -> [LV-011.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-011.svg)
-* LV-015 (Balvu Novads) -> [LV-015.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-015.png)
-* LV-016 (Bauskas Novads) -> [LV-016.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-016.png)
-* LV-022 (Cēsu Novads) -> [LV-022.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-022.svg)
-* LV-026 (Dobeles Novads) -> [LV-026.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-026.png)
-* LV-033 (Gulbenes Novads) -> [LV-033.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-033.png)
-* LV-041 (Jelgavas Novads) -> [LV-041.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-041.png)
-* LV-042 (Jēkabpils Novads) -> [LV-042.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-042.svg)
-* LV-047 (Krāslavas Novads) -> [LV-047.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-047.png)
-* LV-050 (Kuldīgas Novads) -> [LV-050.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-050.png)
-* LV-052 (Ķekavas Novads) -> [LV-052.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-052.svg)
-* LV-054 (Limbažu Novads) -> [LV-054.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-054.png)
-* LV-056 (Līvānu Novads) -> [LV-056.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-056.png)
-* LV-058 (Ludzas Novads) -> [LV-058.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-058.png)
-* LV-059 (Madonas Novads) -> [LV-059.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-059.svg)
-* LV-062 (Mārupes Novads) -> [LV-062.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-062.png)
-* LV-067 (Ogres Novads) -> [LV-067.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-067.png)
-* LV-068 (Olaines Novads) -> [LV-068.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-068.png)
-* LV-073 (Preiļu Novads) -> [LV-073.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-073.png)
-* LV-077 (Rēzeknes Novads) -> [LV-077.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-077.svg)
-* LV-080 (Ropažu Novads) -> [LV-080.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-080.svg)
-* LV-087 (Salaspils Novads) -> [LV-087.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-087.jpg)
-* LV-088 (Saldus Novads) -> [LV-088.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-088.png)
-* LV-089 (Saulkrastu Novads) -> [LV-089.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-089.png)
-* LV-091 (Siguldas Novads) -> [LV-091.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-091.png)
-* LV-094 (Smiltenes Novads) -> [LV-094.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-094.png)
-* LV-097 (Talsu Novads) -> [LV-097.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-097.png)
-* LV-099 (Tukuma Novads) -> [LV-099.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-099.png)
-* LV-101 (Valkas Novads) -> [LV-101.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-101.png)
-* LV-102 (Varakļānu Novads) -> [LV-102.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-102.svg)
-* LV-106 (Ventspils Novads) -> [LV-106.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-106.svg)
-* LV-112 (Ventspils Novads) -> [LV-112.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-112.svg)
-* LV-113 (Ventspils Novads) -> [LV-113.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-113.svg)
-* LV-DGV (Daugavpils) -> [LV-DGV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-DGV.png)
-* LV-JEL (Jelgava) -> [LV-JEL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-JEL.svg)
-* LV-JUR (Jūrmala) -> [LV-JUR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-JUR.svg)
-* LV-LPX (Liepāja) -> [LV-LPX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-LPX.svg)
-* LV-REZ (Rēzekne) -> [LV-REZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-REZ.svg)
-* LV-RIX (Rīga) -> [LV-RIX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-RIX.svg)
-* LV-VEN (Ventspils) -> [LV-VEN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-VEN.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| LV-002 | Aizkraukles novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-002.svg' height='80'> | [LV-002](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-002.png) |
+| LV-007 | Alūksnes novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-007.png' height='80'> | [LV-007](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-007.png) |
+| LV-011 | Ādažu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-011.svg' height='80'> | [LV-011](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-011.svg) |
+| LV-015 | Balvu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-015.png' height='80'> | [LV-015](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-015.png) |
+| LV-016 | Bauskas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-016.png' height='80'> | [LV-016](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-016.png) |
+| LV-022 | Cēsu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-022.svg' height='80'> | [LV-022](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-022.svg) |
+| LV-026 | Dobeles novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-026.png' height='80'> | [LV-026](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-026.png) |
+| LV-033 | Gulbenes novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-033.png' height='80'> | [LV-033](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-033.png) |
+| LV-041 | Jelgavas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-041.png' height='80'> | [LV-041](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-041.svg) |
+| LV-042 | Jēkabpils novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-042.svg' height='80'> | [LV-042](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-042.svg) |
+| LV-047 | Krāslavas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-047.png' height='80'> | [LV-047](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-047.png) |
+| LV-050 | Kuldīgas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-050.png' height='80'> | [LV-050](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-050.svg) |
+| LV-052 | Ķekavas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-052.svg' height='80'> | [LV-052](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-052.svg) |
+| LV-054 | Limbažu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-054.png' height='80'> | [LV-054](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-054.png) |
+| LV-056 | Līvānu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-056.png' height='80'> | [LV-056](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-056.png) |
+| LV-058 | Ludzas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-058.png' height='80'> | [LV-058](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-058.png) |
+| LV-059 | Madonas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-059.svg' height='80'> | [LV-059](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-059.png) |
+| LV-062 | Mārupes novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-062.png' height='80'> | [LV-062](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-062.svg) |
+| LV-067 | Ogres novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-067.png' height='80'> | [LV-067](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-067.png) |
+| LV-068 | Olaines novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-068.png' height='80'> | [LV-068](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-068.png) |
+| LV-073 | Preiļu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-073.png' height='80'> | [LV-073](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-073.png) |
+| LV-077 | Rēzeknes novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-077.svg' height='80'> | [LV-077](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-077.svg) |
+| LV-080 | Ropažu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-080.svg' height='80'> | [LV-080](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-080.svg) |
+| LV-087 | Salaspils novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-087.jpg' height='80'> | [LV-087](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-087.jpg) |
+| LV-088 | Saldus novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-088.png' height='80'> | [LV-088](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-088.png) |
+| LV-089 | Saulkrastu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-089.png' height='80'> | [LV-089](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-089.png) |
+| LV-091 | Siguldas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-091.png' height='80'> | [LV-091](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-091.png) |
+| LV-094 | Smiltenes novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-094.png' height='80'> | [LV-094](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-094.png) |
+| LV-097 | Talsu novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-097.png' height='80'> | [LV-097](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-097.svg) |
+| LV-099 | Tukuma novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-099.png' height='80'> | [LV-099](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-099.png) |
+| LV-101 | Valkas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-101.png' height='80'> | [LV-101](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-101.png) |
+| LV-106 | Ventspils novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-106.svg' height='80'> | [LV-106](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-106.svg) |
+| LV-111 | Augšdaugavas novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-111.svg' height='80'> | [LV-111](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-111.svg) |
+| LV-112 | Dienvidkurzemes Novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-112.jpeg' height='80'> | [LV-112](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-112.jpeg) |
+| LV-113 | Valmieras Novads | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-113.svg' height='80'> | [LV-113](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-113.svg) |
+| LV-DGV | Daugavpils | State city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-DGV.png' height='80'> | [LV-DGV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-DGV.png) |
+| LV-JEL | Jelgava | State city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-JEL.svg' height='80'> | [LV-JEL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-JEL.svg) |
+| LV-JUR | Jūrmala | State city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-JUR.svg' height='80'> | [LV-JUR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-JUR.svg) |
+| LV-LPX | Liepāja | State city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-LPX.svg' height='80'> | [LV-LPX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-LPX.svg) |
+| LV-REZ | Rēzekne | State city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-REZ.svg' height='80'> | [LV-REZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-REZ.svg) |
+| LV-RIX | Rīga | State city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-RIX.svg' height='80'> | [LV-RIX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-RIX.svg) |
+| LV-VEN | Ventspils | State city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LV/LV-VEN.svg' height='80'> | [LV-VEN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LV/LV-VEN.svg) |
 
-Latvia ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:LV):
+Latvia ISO 3166-2 subdivisions with no available flags:
 
-* LV-001: Aglonas novads (Municipality)
-* LV-003: Aizputes novads (Municipality)
-* LV-004: Aknīstes novads (Municipality)
-* LV-005: Alojas novads (Municipality)
-* LV-006: Alsungas novads (Municipality)
-* LV-008: Amatas novads (Municipality)
-* LV-009: Apes novads (Municipality)
-* LV-010: Auces novads (Municipality)
-* LV-012: Babītes novads (Municipality)
-* LV-013: Baldones novads (Municipality)
-* LV-014: Baltinavas novads (Municipality)
-* LV-017: Beverīnas novads (Municipality)
-* LV-018: Brocēnu novads (Municipality)
-* LV-019: Burtnieku novads (Municipality)
-* LV-020: Carnikavas novads (Municipality)
-* LV-021: Cesvaines novads (Municipality)
-* LV-023: Ciblas novads (Municipality)
-* LV-024: Dagdas novads (Municipality)
-* LV-025: Daugavpils novads (Municipality)
-* LV-027: Dundagas novads (Municipality)
-* LV-028: Durbes novads (Municipality)
-* LV-029: Engures novads (Municipality)
-* LV-030: Ērgļu novads (Municipality)
-* LV-031: Garkalnes novads (Municipality)
-* LV-032: Grobiņas novads (Municipality)
-* LV-034: Iecavas novads (Municipality)
-* LV-035: Ikšķiles novads (Municipality)
-* LV-036: Ilūkstes novads (Municipality)
-* LV-037: Inčukalna novads (Municipality)
-* LV-038: Jaunjelgavas novads (Municipality)
-* LV-039: Jaunpiebalgas novads (Municipality)
-* LV-040: Jaunpils novads (Municipality)
-* LV-043: Kandavas novads (Municipality)
-* LV-044: Kārsavas novads (Municipality)
-* LV-045: Kocēnu novads (Municipality)
-* LV-046: Kokneses novads (Municipality)
-* LV-048: Krimuldas novads (Municipality)
-* LV-049: Krustpils novads (Municipality)
-* LV-051: Ķeguma novads (Municipality)
-* LV-053: Lielvārdes novads (Municipality)
-* LV-055: Līgatnes novads (Municipality)
-* LV-057: Lubānas novads (Municipality)
-* LV-060: Mazsalacas novads (Municipality)
-* LV-061: Mālpils novads (Municipality)
-* LV-063: Mērsraga novads (Municipality)
-* LV-064: Naukšēnu novads (Municipality)
-* LV-065: Neretas novads (Municipality)
-* LV-066: Nīcas novads (Municipality)
-* LV-069: Ozolnieku novads (Municipality)
-* LV-070: Pārgaujas novads (Municipality)
-* LV-071: Pāvilostas novads (Municipality)
-* LV-072: Pļaviņu novads (Municipality)
-* LV-074: Priekules novads (Municipality)
-* LV-075: Priekuļu novads (Municipality)
-* LV-076: Raunas novads (Municipality)
-* LV-078: Riebiņu novads (Municipality)
-* LV-079: Rojas novads (Municipality)
-* LV-081: Rucavas novads (Municipality)
-* LV-082: Rugāju novads (Municipality)
-* LV-083: Rundāles novads (Municipality)
-* LV-084: Rūjienas novads (Municipality)
-* LV-085: Salas novads (Municipality)
-* LV-086: Salacgrīvas novads (Municipality)
-* LV-090: Sējas novads (Municipality)
-* LV-092: Skrīveru novads (Municipality)
-* LV-093: Skrundas novads (Municipality)
-* LV-095: Stopiņu novads (Municipality)
-* LV-096: Strenču novads (Municipality)
-* LV-098: Tērvetes novads (Municipality)
-* LV-100: Vaiņodes novads (Municipality)
-* LV-103: Vārkavas novads (Municipality)
-* LV-104: Vecpiebalgas novads (Municipality)
-* LV-105: Vecumnieku novads (Municipality)
-* LV-107: Viesītes novads (Municipality)
-* LV-108: Viļakas novads (Municipality)
-* LV-109: Viļānu novads (Municipality)
-* LV-110: Zilupes novads (Municipality)
-* LV-JKB: Jēkabpils (Republican city)
-* LV-VMR: Valmiera (Republican city)
+* **LV-102: Varakļānu novads (Municipality)**

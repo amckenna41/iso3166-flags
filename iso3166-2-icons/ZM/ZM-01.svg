@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 150 100" fill="#ffffff">
+	<title>WesternFlagZM</title>
+	<path d="m0 0h150v100H0z"/>
+	<path fill="#ff0000" d="m0 50h150v50H0z"/>
+	<g transform="translate(25,2)">
+		<polygon fill="#ff0000" points="0,0 14.6214,45 -23.6579,17.1885 23.6579,17.1885 -14.6214,45"/>
+	</g>
+	<g transform="translate(125,2)">
+		<polygon fill="#ff0000" points="0,0 14.6214,45 -23.6579,17.1885 23.6579,17.1885 -14.6214,45"/>
+	</g>
+</svg>

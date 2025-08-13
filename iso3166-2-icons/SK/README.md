@@ -1,12 +1,17 @@
-# Slovakia Subdivisions 🇸🇰
+# Slovakia Subdivisions ![](https://flagcdn.com/h40/sk.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:SK
+- **ISO Code**: SK
+- **Number of subdivisions**: 8
+- **Subdivision Type**: Region
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SK
 
-* SK-BC (Banskobystrický Kraj) -> [SK-BC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-BC.svg)
-* SK-BL (Bratislavský Kraj) -> [SK-BL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-BL.svg)
-* SK-KI (Košický Kraj) -> [SK-KI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-KI.svg)
-* SK-NI (Nitriansky Kraj) -> [SK-NI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-NI.svg)
-* SK-PV (Prešovský Kraj) -> [SK-PV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-PV.svg)
-* SK-TA (Trnavský Kraj) -> [SK-TA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-TA.svg)
-* SK-TC (Trenčiansky Kraj) -> [SK-TC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-TC.svg)
-* SK-ZI (Žilinský Kraj) -> [SK-ZI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-ZI.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| SK-BC | Banskobystrický kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-BC.svg' height='80'> | [SK-BC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-BC.svg) |
+| SK-BL | Bratislavský kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-BL.svg' height='80'> | [SK-BL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-BL.svg) |
+| SK-KI | Košický kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-KI.svg' height='80'> | [SK-KI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-KI.svg) |
+| SK-NI | Nitriansky kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-NI.svg' height='80'> | [SK-NI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-NI.svg) |
+| SK-PV | Prešovský kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-PV.svg' height='80'> | [SK-PV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-PV.svg) |
+| SK-TA | Trnavský kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-TA.svg' height='80'> | [SK-TA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-TA.svg) |
+| SK-TC | Trenčiansky kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-TC.svg' height='80'> | [SK-TC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-TC.svg) |
+| SK-ZI | Žilinský kraj | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SK/SK-ZI.svg' height='80'> | [SK-ZI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SK/SK-ZI.svg) |

@@ -1,30 +1,35 @@
-# Peru Subdivisions 🇵🇪
+# Peru Subdivisions ![](https://flagcdn.com/h40/pe.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:PE
+- **ISO Code**: PE
+- **Number of subdivisions**: 26
+- **Subdivision Type**: Municipality, Region
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PE
 
-* PE-AMA (Amarumayu) -> [PE-AMA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-AMA.svg)
-* PE-ANC (Ancash) -> [PE-ANC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-ANC.svg)
-* PE-APU (Apurimaq) -> [PE-APU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-APU.svg)
-* PE-ARE (Arequipa) -> [PE-ARE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-ARE.svg)
-* PE-AYA (Ayacucho) -> [PE-AYA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-AYA.svg)
-* PE-CAJ (Cajamarca) -> [PE-CAJ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-CAJ.svg)
-* PE-CAL (El Callao) -> [PE-CAL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-CAL.svg)
-* PE-CUS (Cusco) -> [PE-CUS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-CUS.svg)
-* PE-HUC (Huánuco) -> [PE-HUC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-HUC.svg)
-* PE-HUV (Huancavelica) -> [PE-HUV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-HUV.svg)
-* PE-ICA (Ica) -> [PE-ICA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-ICA.svg)
-* PE-JUN (Hunin) -> [PE-JUN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-JUN.svg)
-* PE-LAL (La Libertad) -> [PE-LAL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LAL.svg)
-* PE-LAM (Lambayeque) -> [PE-LAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LAM.svg)
-* PE-LIM (Lima) -> [PE-LIM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LIM.svg)
-* PE-LMA (Lima Hatun Llaqta) -> [PE-LMA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LMA.svg)
-* PE-LOR (Loreto) -> [PE-LOR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LOR.svg)
-* PE-MDD (Madre De Dios) -> [PE-MDD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-MDD.svg)
-* PE-MOQ (Moquegua) -> [PE-MOQ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-MOQ.svg)
-* PE-PAS (Pasco) -> [PE-PAS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-PAS.svg)
-* PE-PIU (Piura) -> [PE-PIU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-PIU.svg)
-* PE-PUN (Puno) -> [PE-PUN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-PUN.svg)
-* PE-SAM (San Martin) -> [PE-SAM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-SAM.png)
-* PE-TAC (Tacna) -> [PE-TAC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-TAC.svg)
-* PE-TUM (Tumbes) -> [PE-TUM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-TUM.svg)
-* PE-UCA (Ucayali) -> [PE-UCA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-UCA.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| PE-AMA | Amazonas | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-AMA.svg' height='80'> | [PE-AMA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-AMA.svg) |
+| PE-ANC | Ancash | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-ANC.svg' height='80'> | [PE-ANC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-ANC.svg) |
+| PE-APU | Apurímac | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-APU.svg' height='80'> | [PE-APU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-APU.svg) |
+| PE-ARE | Arequipa | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-ARE.svg' height='80'> | [PE-ARE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-ARE.svg) |
+| PE-AYA | Ayacucho | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-AYA.svg' height='80'> | [PE-AYA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-AYA.svg) |
+| PE-CAJ | Cajamarca | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-CAJ.svg' height='80'> | [PE-CAJ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-CAJ.svg) |
+| PE-CAL | El Callao | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-CAL.svg' height='80'> | [PE-CAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-CAL.svg) |
+| PE-CUS | Cusco | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-CUS.svg' height='80'> | [PE-CUS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-CUS.svg) |
+| PE-HUC | Huánuco | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-HUC.svg' height='80'> | [PE-HUC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-HUC.svg) |
+| PE-HUV | Huancavelica | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-HUV.svg' height='80'> | [PE-HUV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-HUV.svg) |
+| PE-ICA | Ica | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-ICA.svg' height='80'> | [PE-ICA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-ICA.svg) |
+| PE-JUN | Junín | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-JUN.svg' height='80'> | [PE-JUN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-JUN.svg) |
+| PE-LAL | La Libertad | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-LAL.svg' height='80'> | [PE-LAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LAL.svg) |
+| PE-LAM | Lambayeque | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-LAM.svg' height='80'> | [PE-LAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LAM.svg) |
+| PE-LIM | Lima | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-LIM.svg' height='80'> | [PE-LIM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LIM.svg) |
+| PE-LMA | Lima hatun llaqta | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-LMA.svg' height='80'> | [PE-LMA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LMA.svg) |
+| PE-LOR | Loreto | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-LOR.svg' height='80'> | [PE-LOR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-LOR.svg) |
+| PE-MDD | Madre de Dios | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-MDD.svg' height='80'> | [PE-MDD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-MDD.svg) |
+| PE-MOQ | Moquegua | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-MOQ.svg' height='80'> | [PE-MOQ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-MOQ.svg) |
+| PE-PAS | Pasco | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-PAS.svg' height='80'> | [PE-PAS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-PAS.svg) |
+| PE-PIU | Piura | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-PIU.svg' height='80'> | [PE-PIU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-PIU.svg) |
+| PE-PUN | Puno | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-PUN.svg' height='80'> | [PE-PUN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-PUN.svg) |
+| PE-SAM | San Martín | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-SAM.png' height='80'> | [PE-SAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-SAM.png) |
+| PE-TAC | Tacna | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-TAC.svg' height='80'> | [PE-TAC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-TAC.svg) |
+| PE-TUM | Tumbes | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-TUM.svg' height='80'> | [PE-TUM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-TUM.svg) |
+| PE-UCA | Ucayali | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/PE/PE-UCA.svg' height='80'> | [PE-UCA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/PE/PE-UCA.svg) |

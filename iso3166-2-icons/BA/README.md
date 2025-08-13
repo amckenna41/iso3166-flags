@@ -1,10 +1,15 @@
-# Bosnia Herzegovina Subdivisions 🇧🇦
+# Bosnia and Herzegovina Subdivisions ![](https://flagcdn.com/h40/ba.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:BA
+- **ISO Code**: BA
+- **Number of subdivisions**: 3
+- **Subdivision Type**: District with special status, Entity
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BA
 
-* BA-BRC (Brčko Distrikt) -> [BA-BRC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BA/BA-BRC.svg)
-* BA-SRP (Republika Srpska) -> [BA-SRP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BA/BA-SRP.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| BA-BRC | Brčko distrikt | District with special status | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BA/BA-BRC.svg' height='80'> | [BA-BRC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BA/BA-BRC.svg) |
+| BA-SRP | Republika Srpska | Entity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/BA/BA-SRP.svg' height='80'> | [BA-SRP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/BA/BA-SRP.svg) |
 
-Bosnia Herzegovina ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:BA):
+Bosnia and Herzegovina ISO 3166-2 subdivisions with no available flags:
 
-* BA-BIH: Federacija Bosne i Hercegovine (Entity)
+* **BA-BIH: Federacija Bosne i Hercegovine (Entity)**

@@ -1,19 +1,24 @@
-# Mauritius Subdivisions 🇲🇺
+# Mauritius Subdivisions ![](https://flagcdn.com/h40/mu.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:MU
+- **ISO Code**: MU
+- **Number of subdivisions**: 12
+- **Subdivision Type**: Dependency, District
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MU
 
-* MU-PL (Port Louis) -> [MU-PL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MU/MU-PL.svg)
-* MU-RO (Rodrigues Island) -> [MU-RO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MU/MU-RO.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| MU-PL | Port Louis | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MU/MU-PL.svg' height='80'> | [MU-PL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MU/MU-PL.svg) |
+| MU-RO | Rodrigues Island | Dependency | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MU/MU-RO.png' height='80'> | [MU-RO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MU/MU-RO.png) |
 
-Mauritius ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:MU):
+Mauritius ISO 3166-2 subdivisions with no available flags:
 
-* MU-AG: Agalega Islands (Dependency)
-* MU-BL: Black River (District)
-* MU-CC: Cargados Carajos Shoals (Dependency)
-* MU-FL: Flacq (District)
-* MU-GP: Grand Port (District)
-* MU-MO: Moka (District)
-* MU-PA: Pamplemousses (District)
-* MU-PW: Plaines Wilhems (District)
-* MU-RR: Rivière du Rempart (District)
-* MU-SA: Savanne (District)
+* **MU-AG: Agalega Islands (Dependency)**
+* **MU-BL: Black River (District)**
+* **MU-CC: Cargados Carajos Shoals (Dependency)**
+* **MU-FL: Flacq (District)**
+* **MU-GP: Grand Port (District)**
+* **MU-MO: Moka (District)**
+* **MU-PA: Pamplemousses (District)**
+* **MU-PW: Plaines Wilhems (District)**
+* **MU-RR: Rivière du Rempart (District)**
+* **MU-SA: Savanne (District)**

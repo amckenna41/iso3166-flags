@@ -1,31 +1,36 @@
-# Ukraine Subdivisions 🇺🇦
+# Ukraine Subdivisions ![](https://flagcdn.com/h40/ua.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:UA
+- **ISO Code**: UA
+- **Number of subdivisions**: 27
+- **Subdivision Type**: City, Region, Republic
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/UA
 
-* UA-05 (Vinnytska Oblast) -> [UA-05.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-05.svg)
-* UA-07 (Volynska Oblast) -> [UA-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-07.svg)
-* UA-09 (Luhanska Oblast) -> [UA-09.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-09.svg)
-* UA-12 (Dnipropetrovska Oblast) -> [UA-12.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-12.svg)
-* UA-14 (Donetska Oblast) -> [UA-14.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-14.svg)
-* UA-18 (Zhytomyrska Oblast) -> [UA-18.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-18.svg)
-* UA-21 (Zakarpatska Oblast) -> [UA-21.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-21.svg)
-* UA-23 (Zaporizka Oblast) -> [UA-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-23.svg)
-* UA-26 (Ivano-Frankivska Oblast) -> [UA-26.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-26.svg)
-* UA-30 (Kyiv) -> [UA-30.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-30.svg)
-* UA-32 (Kyivska Oblast) -> [UA-32.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-32.svg)
-* UA-35 (Kirovohradska Oblast) -> [UA-35.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-35.svg)
-* UA-40 (Sevastopol) -> [UA-40.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-40.svg)
-* UA-43 (Avtonomna Respublika Krym) -> [UA-43.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-43.svg)
-* UA-46 (Lvivska Oblast) -> [UA-46.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-46.svg)
-* UA-48 (Mykolaivska Oblast) -> [UA-48.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-48.svg)
-* UA-51 (Odeska Oblast) -> [UA-51.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-51.svg)
-* UA-53 (Poltavska Oblast) -> [UA-53.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-53.svg)
-* UA-56 (Rivnenska Oblast) -> [UA-56.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-56.svg)
-* UA-59 (Sumska Oblast) -> [UA-59.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-59.svg)
-* UA-61 (Ternopilska Oblast) -> [UA-61.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-61.svg)
-* UA-63 (Kharkivska Oblast) -> [UA-63.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-63.svg)
-* UA-65 (Khersonska Oblast) -> [UA-65.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-65.svg)
-* UA-68 (Khmelnytska Oblast) -> [UA-68.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-68.svg)
-* UA-71 (Cherkaska Oblast) -> [UA-71.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-71.svg)
-* UA-74 (Chernihivska Oblast) -> [UA-74.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-74.svg)
-* UA-77 (Chernivetska Oblast) -> [UA-77.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-77.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| UA-05 | Vinnytska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-05.svg' height='80'> | [UA-05](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-05.svg) |
+| UA-07 | Volynska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-07.svg' height='80'> | [UA-07](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-07.svg) |
+| UA-09 | Luhanska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-09.svg' height='80'> | [UA-09](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-09.svg) |
+| UA-12 | Dnipropetrovska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-12.svg' height='80'> | [UA-12](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-12.svg) |
+| UA-14 | Donetska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-14.svg' height='80'> | [UA-14](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-14.svg) |
+| UA-18 | Zhytomyrska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-18.svg' height='80'> | [UA-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-18.svg) |
+| UA-21 | Zakarpatska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-21.svg' height='80'> | [UA-21](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-21.svg) |
+| UA-23 | Zaporizka oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-23.svg' height='80'> | [UA-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-23.svg) |
+| UA-26 | Ivano-Frankivska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-26.svg' height='80'> | [UA-26](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-26.svg) |
+| UA-30 | Kyiv | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-30.svg' height='80'> | [UA-30](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-30.svg) |
+| UA-32 | Kyivska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-32.svg' height='80'> | [UA-32](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-32.svg) |
+| UA-35 | Kirovohradska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-35.svg' height='80'> | [UA-35](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-35.svg) |
+| UA-40 | Sevastopol | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-40.svg' height='80'> | [UA-40](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-40.svg) |
+| UA-43 | Avtonomna Respublika Krym | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-43.svg' height='80'> | [UA-43](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-43.svg) |
+| UA-46 | Lvivska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-46.svg' height='80'> | [UA-46](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-46.svg) |
+| UA-48 | Mykolaivska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-48.svg' height='80'> | [UA-48](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-48.svg) |
+| UA-51 | Odeska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-51.svg' height='80'> | [UA-51](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-51.svg) |
+| UA-53 | Poltavska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-53.svg' height='80'> | [UA-53](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-53.svg) |
+| UA-56 | Rivnenska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-56.svg' height='80'> | [UA-56](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-56.svg) |
+| UA-59 | Sumska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-59.svg' height='80'> | [UA-59](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-59.svg) |
+| UA-61 | Ternopilska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-61.svg' height='80'> | [UA-61](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-61.svg) |
+| UA-63 | Kharkivska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-63.svg' height='80'> | [UA-63](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-63.svg) |
+| UA-65 | Khersonska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-65.svg' height='80'> | [UA-65](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-65.svg) |
+| UA-68 | Khmelnytska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-68.svg' height='80'> | [UA-68](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-68.svg) |
+| UA-71 | Cherkaska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-71.svg' height='80'> | [UA-71](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-71.svg) |
+| UA-74 | Chernihivska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-74.svg' height='80'> | [UA-74](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-74.svg) |
+| UA-77 | Chernivetska oblast | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/UA/UA-77.svg' height='80'> | [UA-77](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/UA/UA-77.svg) |

@@ -1,108 +1,119 @@
-# Scripts for downloading all ISO3166-2 country subdivision flags
+# Scripts used in iso3166-flag-icons 📜
 
 [![pytest](https://github.com/amckenna41/iso3166-flag-icons/workflows/Building%20and%20Testing/badge.svg)](https://github.com/amckenna41/iso3166-flag-icons/actions?query=workflowBuilding%20and%20Testing)
 [![Platforms](https://img.shields.io/badge/platforms-linux%2C%20macOS%2C%20Windows-green)](https://pypi.org/project/pySAR/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-<!-- [![CircleCI](https://circleci.com/gh/amckenna41/pySAR.svg?style=svg&circle-token=d860bb64668be19d44f106841b80eb47a8b7e7e8)](https://app.circleci.com/pipelines/github/amckenna41/pySAR) -->
-[![codecov](https://codecov.io/gh/amckenna41/iso3166-flag-icons/branch/master/graph/badge.svg?token="")](https://codecov.io/gh/amckenna41/iso3166-flag-icons)
+<!-- [![codecov](https://codecov.io/gh/amckenna41/iso3166-flag-icons/branch/master/graph/badge.svg?token="")](https://codecov.io/gh/amckenna41/iso3166-flag-icons) -->
+<!-- [![npm version](https://badge.fury.io/js/iso3166-flags.svg)](https://badge.fury.io/js/iso3166-flags) -->
 
-Motivation
-----------
-After browsing through the likes of GitHub and Kaggle I found that there wasn't any solid and reliable dataset for ISO3166-2 icons. There existed several repos and datasets for the ISO3166-1 flags, mainly due to there being a much smaller amount (~270) compared to the >3100 that are available in the ISO3166-2 folder of this repo. 
-Several scripts were required to automate the collection, downloading, processing and cleaning of the thousands of ISO3166-2 flag images, generating a pipeline that starts with a web-scraping function and ends with the creation of the custom CSS and JSON files also present in the repo.
+Scripts
+-------
+* [`generate_readme.py`](https://github.com/amckenna41/iso3166-flag-icons/scripts/generate_readme.py) - create README files for each ISO 3166-2 subfolder, displaying a plethora of useful data per subdivision including the subdivision codes, names, types, flag previews & link to the flag on the repo. 
+* [`generate_css.py`](https://github.com/amckenna41/iso3166-flag-icons/scripts/generate_css.py) - create CSS files with respective CSS selectors/classes for both ISO 3166-1 and ISO 3166-2 flag icons, stored in `/css` folder.
+* [`get_flag_metadata`](https://github.com/amckenna41/iso3166-flag-icons/scripts/get_flag_metadata.py) - export a plethora of useful and relevant metadata for the flag images including name, dimensions, file size, type & quality.
+* [`get_missing_flags.py`](https://github.com/amckenna41/iso3166-flag-icons/scripts/get_missing_flags.py) - script for exporting a list of subdivisions that have missing or no supported subdivision flags on the repo.
+* [`get_git_flag_logs.py`](https://github.com/amckenna41/iso3166-flag-icons/scripts/get_git_flag_logs.py) - small script that exports the list of flag additions, modifications and deletions to the repo, exported from the git status command. This is useful to track when a lot of changes have been made to the flags folder.
+* [`update_everything.py`](https://github.com/amckenna41/iso3166-flag-icons/scripts/update_everything.py) - script that ensures all the data files and metadata objects used throughout the iso3166-flag-icons project are kept up-to-date when any flags have been added, changed or deleted.
+* [`convert_images.py`](https://github.com/amckenna41/iso3166-flag-icons/scripts/convert_images.py) - script for converting all non-jpg/jpeg/png/svg images to the desired formats.
+* [`svg_compress.sh`](https://github.com/amckenna41/iso3166-flag-icons/scripts/svg_compress.sh) - script for compressing folder of image flags in SVG format, reducing the total size of the dataset.
 
-The exact purpose of each script can be seen below, as well as in the comments of each file:
-* `getAllSubdivisionFlags.py` - downloading all ISO3166-2 subdivision flags from the main subdivisions wiki (https://en.wikipedia.org/wiki/Flags_of_country_subdivisions) as well as using country's respective wiki URL's. 
-* `generateReadMe.py` - create README file for each ISO3166-2 subfolder, listing all the subdivisions per country.
-* `generateCSS.py` - create CSS files with respective CSS selectors/classes for both ISO3166-2 and ISO3166-2 flag icons.
-* `generateJSON.py` - create JSON files of flag files, their name and ISO code for both ISO3166-1 and ISO3166-2 folders. 
-* `iso3166_.py` - list of all ISO3166 country names, alpha2 and alpha3 codes.
-* `svgCompress.sh` - script for compressing folder of image flags in SVG format.
+<!-- * `get_all_subdivision_flags.py` - downloading all ISO3166-2 subdivision flags from the main subdivisions wiki (https://en.wikipedia.org/wiki/Flags_of_country_subdivisions) as well as using country's respective wiki URL's.  -->
+<!-- * `generate_json.py` - create JSON files of flag files, their name and ISO code for both ISO3166-1 and ISO3166-2 folders. 
+* `iso3166_.py` - list of all ISO3166 country names, alpha2 and alpha3 codes. -->
 
 Requirements
 ------------
 
-* [Python][python] >= 3.6
-* [requests][requests] >= 1.16.0
+* [python][python] >= 3.9
+* [iso3166-2][iso3166_2] >= 1.7.2
 * [pandas][pandas] >= 1.4.3
-* [tqdm][tqdm] >= 4.55.0
-* [beautifulsoup4][beautifulsoup4] >= 4.10.0
-* [scour][scour] >= 0.38.2
-* [pycountry][pycountry] >= 22.3.5
-* [emoji-country-flag][emoji-country-flag]>= 1.3.0
-* [fuzzywuzzy][fuzzywuzzy] >= 0.18.0
-* [pyWikiCommons][pyWikiCommons] >= 0.0.1
+* [iso3166][iso3166] >= 2.1.1
+* [pillow][pillow] >= 11.3.0
+* [opencv-python][opencv-python] >= 4.12.0.88
+* [lxml][lxml] >= 6.0.0
 
 Usage
 -----
+<i>The below examples should be called from the root dir of the repo.</i>
 
-## Download all ISO3166-2 subdivision flags
+### Create README files for each ISO 3166-2 subdivision flags in iso3166-2-icons dir:
 
 ```bash
-python3 getAllSubdivisionFlags.py --output="../iso3166-2-icons" 
+python3 scripts/generate_readme.py --flag_input_folder="../iso3166-2-icons"
 
---output: output folder to downloaded flag files
---url_csv: using default value of iso3166-2_urls.csv
---no_flags_csv: using default value of noISO3166-2Flags.csv
+--flag_input_folder: input folder of ISO 3166-2 flag icons to generate README for
+--country_subfolder: optional input parameter for a specific country subfolder to create markdown file for
+--output_readme_folder: optional output folder to store the generated markdown files, by default they will be stored within the countrys subfolder
 ```
 
-## Compress all SVG flag icon files in output folder
+### Create CSS files for both ISO 3166-1 and ISO 3166-2 flags:
 
 ```bash
-./svgCompress.sh --input="../iso3166-2-icons/" --output="../output/" --filesize=50
+python3 scripts/generate_css.py --iso3166_1_country_input_folder="../iso3166-1-icons" --iso3166_2_country_input_folder="../iso3166-2-icons" --export_iso3166_1_css_filepath="iso3166-1-icons.css"  --export_iso3166_1_css_filepath="iso3166-2-icons.css"
+
+--iso3166_1_country_input_folder: input folder of ISO 3166-1 flags
+--iso3166_2_country_input_folder: input folder of ISO 3166-2 flags
+--export_iso3166_1_css_filepath: export filename for ISO 3166-1 CSS
+--export_iso3166_2_css_filepath: export filename for ISO 3166-2 CSS
+--iso3166_type: create ISO3166-1 or ISO3166-2 CSS file, by default both will be created
+```
+
+### Export flag metadata for ISO 3166-1 and ISO 3166-2 flags:
+```bash
+python3 scripts/export_flag_metadata.py --flag_folder="../iso3166-1-icons" --flag_metadata_output="subdivision_flag_metadata.csv"
+
+--flag_folder: file path to folder of nested subdivision flags
+--flag_metadata_output: output file name for metadata csv
+```
+
+
+### Export list of all ISO 3166-2 subdivisions that have no supported flag in the repo:
+
+```bash
+python3 scripts/get_missing_flags.py --flag_icons_dir="iso3166-2-icons" --export_filename="missing_flags"
+
+--flag_icons_dir: input directory of subdivision flags to compare against list of ISO 3166-2 flags
+--export_filename: filename for exported list of missing subdivision flags
+```
+
+
+### Export all of the above data objects and matadata files in one script:
+
+```bash
+python3 scripts/update_everything.py
+```
+
+
+### Convert all GIF or WEBP images in the flag directory into png
+
+```bash
+python3 scripts/convert_images.py 
+
+--flag_folder: input folder of ISO 3166 flag icons to convert to specified format
+--archvive_folder: optional archive folder that maintains the original unconverted ISO 3166 flag icons
+--img_file_path: filepath to individual image to convert. The file will take precedence over a folder of images input
+--img_format: file format to convert the images into, accepted formats are png, jpg or jpeg (png by default)
+```
+
+### Compress all SVG flag icon files in output folder:
+
+```bash
+./scripts/svgCompress.sh --input="../iso3166-2-icons/" --output="../output/" --filesize=50
 
 --input: input folder of SVG files to compress
 --output: output folder to store compressed SVG files
 --filesize_threshold: all SVG files above this threshold will go through the compression algorithm. 
 ```
 
-## Create CSS files for both ISO3166-1 and ISO3166-2 icons
-
-```bash
-python3 generateCSS.py --countryFolder="../iso3166-1-icons" --cssFileName="iso3166-1-icons.css" --iso3166Type="iso3166-1"
-
---countryFolder: input folder of flag files to create CSS tags and references to
---cssFileName: output filename of CSS
---iso3166Type: create ISO3166-1 or ISO3166-2 CSS file
-```
-
-## Create ISO3166-1 or ISO3166-2 JSON files containing all flag and subdivision info per country/jurisdiction
-
-```bash
-python3 generateJSON.py --countryFolder="../iso3166-2-icons" --jsonFileName="iso3166" --iso3166Type=""
-
-```
-
-## Create README files for each ISO3166-2 country in iso3166-2-icons dir, listing contents of dir and subdivision info
-
-```bash
-python3 generateReadme.py --country
-```
-
-Tests
------
-Several Python test scripts were created using [unittest][unittest] framework. These tests test the full pipeline from getting the flags via web-scraping to exporting the flag & country info to json. 
-To run all tests, from the <i>scripts</i> repo folder run:
-```
-python3 -m unittest discover -v
-```
-
-To run tests for specific module, from the main <i>scripts</i> repo folder run:
-```
-python -m unittest tests.MODULE_NAME -v
--v : verbose output
-```
-
 <!-- 3511 seconds total-->
 [python]: https://www.python.org/downloads/release/python-360/
 [pandas]: https://pandas.pydata.org/
-[tqdm]: https://tqdm.github.io/
-[requests]: https://requests.readthedocs.io/
-[beautifulsoup4]: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-[scour]: https://github.com/scour-project/scour
-[pyWikiCommons]: https://github.com/amckenna41/pyWikiCommons
 [flag-icons-repo]: https://github.com/lipis/flag-icons
-[pycountry]: https://github.com/flyingcircusio/pycountry
-[emoji-country-flag]: https://pypi.org/project/emoji-country-flag/
-[fuzzywuzzy]: https://pypi.org/project/fuzzywuzzy/
+[iso3166_2]: https://github.com/amckenna41/iso3166-2
+[iso3166]: https://github.com/deactivated/python-iso3166
+[pillow]: https://pypi.org/project/pillow/
+[opencv-python]: https://pypi.org/project/opencv-python/
+[lxml]: https://pypi.org/project/lxml/
 [unittest]: https://docs.python.org/3/library/unittest.html
+
+[Back to top](#TOP)

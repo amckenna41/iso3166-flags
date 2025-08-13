@@ -1,46 +1,54 @@
-# Romania Subdivisions 🇷🇴
+# Romania Subdivisions ![](https://flagcdn.com/h40/ro.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:RO
+- **ISO Code**: RO
+- **Number of subdivisions**: 42
+- **Subdivision Type**: Department, Municipality
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/RO
 
-* RO-AB (Alba) -> [RO-AB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AB.svg)
-* RO-AG (Argeș) -> [RO-AG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AG.png)
-* RO-AR (Arad) -> [RO-AR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AR.svg)
-* RO-B (București) -> [RO-B.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-B.svg)
-* RO-BC (Bacău) -> [RO-BC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BC.svg)
-* RO-BH (Bihor) -> [RO-BH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BH.png)
-* RO-BN (Bistrița-Năsăud) -> [RO-BN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BN.svg)
-* RO-BR (Brăila) -> [RO-BR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BR.svg)
-* RO-BT (Botoșani) -> [RO-BT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BT.svg)
-* RO-BV (Brașov) -> [RO-BV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BV.png)
-* RO-BZ (Buzău) -> [RO-BZ.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BZ.png)
-* RO-CJ (Cluj) -> [RO-CJ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-CJ.svg)
-* RO-CL (Călărași) -> [RO-CL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-CL.svg)
-* RO-CS (Caraș-Severin) -> [RO-CS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-CS.png)
-* RO-CT (Constanța) -> [RO-CT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-CT.png)
-* RO-CV (Covasna) -> [RO-CV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-CV.svg)
-* RO-DB (Dâmbovița) -> [RO-DB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-DB.svg)
-* RO-DJ (Dolj) -> [RO-DJ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-DJ.svg)
-* RO-GJ (Gorj) -> [RO-GJ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-GJ.svg)
-* RO-GL (Galați) -> [RO-GL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-GL.svg)
-* RO-GR (Giurgiu) -> [RO-GR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-GR.svg)
-* RO-HD (Hunedoara) -> [RO-HD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-HD.png)
-* RO-HR (Harghita) -> [RO-HR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-HR.svg)
-* RO-IF (Ilfov) -> [RO-IF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-IF.png)
-* RO-IL (Ialomița) -> [RO-IL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-IL.svg)
-* RO-IS (Iași) -> [RO-IS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-IS.svg)
-* RO-MH (Mehedinți) -> [RO-MH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-MH.png)
-* RO-MM (Maramureș) -> [RO-MM.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-MM.jpg)
-* RO-MS (Mureș) -> [RO-MS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-MS.svg)
-* RO-NT (Neamț) -> [RO-NT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-NT.svg)
-* RO-OT (Olt) -> [RO-OT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-OT.png)
-* RO-PH (Prahova) -> [RO-PH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-PH.svg)
-* RO-SB (Sibiu) -> [RO-SB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-SB.png)
-* RO-SJ (Sălaj) -> [RO-SJ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-SJ.svg)
-* RO-SM (Satu Mare) -> [RO-SM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-SM.png)
-* RO-SV (Suceava) -> [RO-SV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-SV.png)
-* RO-TL (Tulcea) -> [RO-TL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-TL.svg)
-* RO-TM (Timiș) -> [RO-TM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-TM.png)
-* RO-TR (Teleorman) -> [RO-TR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-TR.svg)
-* RO-VL (Vâlcea) -> [RO-VL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-VL.svg)
-* RO-VN (Vrancea) -> [RO-VN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-VN.svg)
-* RO-VS (Vaslui) -> [RO-VS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-VS.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| RO-AB | Alba | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-AB.svg' height='80'> | [RO-AB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AB.svg) |
+| RO-AR | Arad | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-AR.svg' height='80'> | [RO-AR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-AR.svg) |
+| RO-B | București | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-B.svg' height='80'> | [RO-B](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-B.svg) |
+| RO-BH | Bihor | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-BH.png' height='80'> | [RO-BH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BH.png) |
+| RO-BV | Brașov | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-BV.png' height='80'> | [RO-BV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-BV.svg) |
+| RO-CS | Caraș-Severin | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-CS.png' height='80'> | [RO-CS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-CS.png) |
+| RO-CV | Covasna | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-CV.svg' height='80'> | [RO-CV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-CV.svg) |
+| RO-GR | Giurgiu | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-GR.svg' height='80'> | [RO-GR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-GR.svg) |
+| RO-IL | Ialomița | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-IL.svg' height='80'> | [RO-IL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-IL.svg) |
+| RO-IS | Iași | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-IS.svg' height='80'> | [RO-IS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-IS.png) |
+| RO-MM | Maramureș | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-MM.jpg' height='80'> | [RO-MM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-MM.jpg) |
+| RO-SM | Satu Mare | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/RO/RO-SM.png' height='80'> | [RO-SM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/RO/RO-SM.png) |
+
+Romania ISO 3166-2 subdivisions with no available flags:
+
+* **RO-AG: Argeș (Department)**
+* **RO-BC: Bacău (Department)**
+* **RO-BN: Bistrița-Năsăud (Department)**
+* **RO-BR: Brăila (Department)**
+* **RO-BT: Botoșani (Department)**
+* **RO-BZ: Buzău (Department)**
+* **RO-CJ: Cluj (Department)**
+* **RO-CL: Călărași (Department)**
+* **RO-CT: Constanța (Department)**
+* **RO-DB: Dâmbovița (Department)**
+* **RO-DJ: Dolj (Department)**
+* **RO-GJ: Gorj (Department)**
+* **RO-GL: Galați (Department)**
+* **RO-HD: Hunedoara (Department)**
+* **RO-HR: Harghita (Department)**
+* **RO-IF: Ilfov (Department)**
+* **RO-MH: Mehedinți (Department)**
+* **RO-MS: Mureș (Department)**
+* **RO-NT: Neamț (Department)**
+* **RO-OT: Olt (Department)**
+* **RO-PH: Prahova (Department)**
+* **RO-SB: Sibiu (Department)**
+* **RO-SJ: Sălaj (Department)**
+* **RO-SV: Suceava (Department)**
+* **RO-TL: Tulcea (Department)**
+* **RO-TM: Timiș (Department)**
+* **RO-TR: Teleorman (Department)**
+* **RO-VL: Vâlcea (Department)**
+* **RO-VN: Vrancea (Department)**
+* **RO-VS: Vaslui (Department)**

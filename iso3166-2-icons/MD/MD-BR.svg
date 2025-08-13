@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="300" version="1.1">
+
+<rect id="rect2989" style="fill: #f00;" width="450" height="300" />
+
+<rect id="rect2985" style="fill: #ff0;" x="0" y="200" width="225" height="100" />
+
+<use id="use2986" transform="translate(225 -100)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#rect2985" />
+
+<use id="use2991" transform="translate(0 -200)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#rect2985" />
+
+</svg>

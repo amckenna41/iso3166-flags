@@ -1,22 +1,30 @@
-# Sudan Subdivisions 🇸🇩
+# Sudan Subdivisions ![](https://flagcdn.com/h40/sd.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:SD
+- **ISO Code**: SD
+- **Number of subdivisions**: 18
+- **Subdivision Type**: State
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SD
 
-* SD-DC (Central Darfur) -> [SD-DC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DC.png)
-* SD-DE (East Darfur) -> [SD-DE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DE.png)
-* SD-DN (North Darfur) -> [SD-DN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DN.png)
-* SD-DS (South Darfur) -> [SD-DS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DS.png)
-* SD-DW (West Darfur) -> [SD-DW.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DW.png)
-* SD-GD (Gedaref) -> [SD-GD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-GD.png)
-* SD-GK (West Kordofan) -> [SD-GK.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-GK.png)
-* SD-GZ (Gezira) -> [SD-GZ.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-GZ.png)
-* SD-KA (Kassala) -> [SD-KA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-KA.png)
-* SD-KH (Khartoum) -> [SD-KH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-KH.png)
-* SD-KN (North Kordofan) -> [SD-KN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-KN.svg)
-* SD-KS (South Kordofan) -> [SD-KS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-KS.png)
-* SD-NB (Blue Nile) -> [SD-NB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-NB.png)
-* SD-NO (Northern) -> [SD-NO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-NO.png)
-* SD-NR (River Nile) -> [SD-NR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-NR.png)
-* SD-NW (White Nile) -> [SD-NW.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-NW.png)
-* SD-RS (Red Sea) -> [SD-RS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-RS.png)
-* SD-SI (Sennar) -> [SD-SI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-SI.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| SD-DC | Central Darfur | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-DC.png' height='80'> | [SD-DC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DC.png) |
+| SD-DN | North Darfur | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-DN.png' height='80'> | [SD-DN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DN.png) |
+| SD-DS | South Darfur | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-DS.png' height='80'> | [SD-DS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DS.png) |
+| SD-DW | West Darfur | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-DW.png' height='80'> | [SD-DW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-DW.png) |
+| SD-GD | Gedaref | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-GD.png' height='80'> | [SD-GD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-GD.png) |
+| SD-KA | Kassala | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-KA.png' height='80'> | [SD-KA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-KA.png) |
+| SD-KH | Khartoum | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-KH.png' height='80'> | [SD-KH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-KH.png) |
+| SD-NB | Blue Nile | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/SD/SD-NB.png' height='80'> | [SD-NB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/SD/SD-NB.png) |
+
+Sudan ISO 3166-2 subdivisions with no available flags:
+
+* **SD-DE: East Darfur (State)**
+* **SD-GK: West Kordofan (State)**
+* **SD-GZ: Gezira (State)**
+* **SD-KN: North Kordofan (State)**
+* **SD-KS: South Kordofan (State)**
+* **SD-NO: Northern (State)**
+* **SD-NR: River Nile (State)**
+* **SD-NW: White Nile (State)**
+* **SD-RS: Red Sea (State)**
+* **SD-SI: Sennar (State)**

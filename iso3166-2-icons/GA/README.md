@@ -1,16 +1,18 @@
-# Gabon Subdivisions 🇬🇦
+# Gabon Subdivisions ![](https://flagcdn.com/h40/ga.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:GA
+- **ISO Code**: GA
+- **Number of subdivisions**: 9
+- **Subdivision Type**: Province
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GA
 
-* GA-1 (Estuaire) -> [GA-1.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-1.svg)
-* GA-2 (Haut-Ogooué) -> [GA-2.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-2.svg)
-* GA-3 (Moyen-Ogooué) -> [GA-3.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-3.svg)
-* GA-4 (Ngounié) -> [GA-4.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-4.svg)
-* GA-6 (Ogooué-Ivindo) -> [GA-6.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-6.svg)
-* GA-7 (Ogooué-Lolo) -> [GA-7.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-7.svg)
-* GA-8 (Ogooué-Maritime) -> [GA-8.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-8.svg)
-* GA-9 (Woleu-Ntem) -> [GA-9.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-9.svg)
-
-Gabon ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:GA):
-
-* GA-5: Nyanga (Province)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| GA-1 | Estuaire | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-1.svg' height='80'> | [GA-1](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-1.svg) |
+| GA-2 | Haut-Ogooué | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-2.svg' height='80'> | [GA-2](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-2.svg) |
+| GA-3 | Moyen-Ogooué | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-3.svg' height='80'> | [GA-3](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-3.svg) |
+| GA-4 | Ngounié | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-4.svg' height='80'> | [GA-4](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-4.svg) |
+| GA-5 | Nyanga | Province | <img src='None' height='80'> | [GA-5](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-5.svg) |
+| GA-6 | Ogooué-Ivindo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-6.svg' height='80'> | [GA-6](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-6.svg) |
+| GA-7 | Ogooué-Lolo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-7.svg' height='80'> | [GA-7](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-7.svg) |
+| GA-8 | Ogooué-Maritime | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-8.svg' height='80'> | [GA-8](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-8.svg) |
+| GA-9 | Woleu-Ntem | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/GA/GA-9.svg' height='80'> | [GA-9](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/GA/GA-9.svg) |

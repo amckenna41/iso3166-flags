@@ -1,87 +1,84 @@
-# Iceland Subdivisions 🇮🇸
+# Iceland Subdivisions ![](https://flagcdn.com/h40/is.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:IS
+- **ISO Code**: IS
+- **Number of subdivisions**: 72
+- **Subdivision Type**: Municipality, Region
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IS
 
-* IS-AKN (Akraneskaupstaður) -> [IS-AKN.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-AKN.jpeg)
-* IS-AKU (Akureyrarbær) -> [IS-AKU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-AKU.svg)
-* IS-ARN (Árneshreppur) -> [IS-ARN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-ARN.svg)
-* IS-ASA (Ásahreppur) -> [IS-ASA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-ASA.png)
-* IS-BLA (Bláskógabyggð) -> [IS-BLA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-BLA.png)
-* IS-BOG (Borgarbyggð) -> [IS-BOG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-BOG.png)
-* IS-BOL (Bolungarvíkurkaupstaður) -> [IS-BOL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-BOL.png)
-* IS-DAB (Dalabyggð) -> [IS-DAB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-DAB.png)
-* IS-DAV (Dalvíkurbyggð) -> [IS-DAV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-DAV.svg)
-* IS-EYF (Eyjafjarðarsveit) -> [IS-EYF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-EYF.svg)
-* IS-FJD (Fjarðabyggð) -> [IS-FJD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-FJD.svg)
-* IS-FLD (Fljótsdalshérað) -> [IS-FLD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-FLD.png)
-* IS-FLR (Fljótsdalshreppur) -> [IS-FLR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-FLR.png)
-* IS-GAR (Garðabær) -> [IS-GAR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-GAR.svg)
-* IS-GRN (Grindavíkurbær) -> [IS-GRN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-GRN.png)
-* IS-GRU (Grundarfjarðarbær) -> [IS-GRU.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-GRU.png)
-* IS-HAF (Hafnarfjarðarkaupstaður) -> [IS-HAF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HAF.png)
-* IS-HRU (Hrunamannahreppur) -> [IS-HRU.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HRU.png)
-* IS-HUT (Húnavatnshreppur) -> [IS-HUT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HUT.png)
-* IS-HUV (Húnaþing Vestra) -> [IS-HUV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HUV.png)
-* IS-HVA (Hvalfjarðarsveit) -> [IS-HVA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HVA.png)
-* IS-HVE (Hveragerðisbær) -> [IS-HVE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HVE.png)
-* IS-ISA (Ísafjarðarbær) -> [IS-ISA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-ISA.png)
-* IS-KAL (Kaldrananeshreppur) -> [IS-KAL.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-KAL.jpg)
-* IS-KJO (Kjósarhreppur) -> [IS-KJO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-KJO.png)
-* IS-KOP (Kópavogsbær) -> [IS-KOP.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-KOP.png)
-* IS-MOS (Mosfellsbær) -> [IS-MOS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-MOS.png)
-* IS-MYR (Mýrdalshreppur) -> [IS-MYR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-MYR.png)
-* IS-RGE (Rangárþing Eystra) -> [IS-RGE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RGE.png)
-* IS-RHH (Reykhólahreppur) -> [IS-RHH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RHH.svg)
-* IS-RKN (Reykjanesbær) -> [IS-RKN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RKN.svg)
-* IS-RKV (Reykjavíkurborg) -> [IS-RKV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RKV.png)
-* IS-SDN (Suðurnesjabær) -> [IS-SDN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SDN.png)
-* IS-SDV (Súðavíkurhreppur) -> [IS-SDV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SDV.png)
-* IS-SEL (Seltjarnarnesbær) -> [IS-SEL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SEL.svg)
-* IS-SKO (Skorradalshreppur) -> [IS-SKO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SKO.svg)
-* IS-SKU (Skútustaðahreppur) -> [IS-SKU.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SKU.png)
-* IS-SNF (Snæfellsbær) -> [IS-SNF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SNF.png)
-* IS-SOG (Skeiða- Og Gnúpverjahreppur) -> [IS-SOG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SOG.png)
-* IS-SSS (Sveitarfélagið Skagaströnd) -> [IS-SSS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SSS.png)
-* IS-STR (Strandabyggð) -> [IS-STR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-STR.png)
-* IS-STY (Stykkishólmsbær) -> [IS-STY.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-STY.png)
-* IS-TAL (Tálknafjarðarhreppur) -> [IS-TAL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-TAL.png)
-* IS-THG (Þingeyjarsveit) -> [IS-THG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-THG.png)
-* IS-VER (Vesturbyggð) -> [IS-VER.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-VER.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| IS-AKN | Akraneskaupstaður | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-AKN.jpeg' height='80'> | [IS-AKN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-AKN.png) |
+| IS-AKU | Akureyrarbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-AKU.svg' height='80'> | [IS-AKU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-AKU.png) |
+| IS-ARN | Árneshreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-ARN.svg' height='80'> | [IS-ARN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-ARN.png) |
+| IS-ASA | Ásahreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-ASA.png' height='80'> | [IS-ASA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-ASA.png) |
+| IS-BOG | Borgarbyggð | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-BOG.png' height='80'> | [IS-BOG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-BOG.png) |
+| IS-BOL | Bolungarvíkurkaupstaður | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-BOL.png' height='80'> | [IS-BOL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-BOL.png) |
+| IS-DAB | Dalabyggð | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-DAB.png' height='80'> | [IS-DAB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-DAB.png) |
+| IS-DAV | Dalvíkurbyggð | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-DAV.svg' height='80'> | [IS-DAV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-DAV.png) |
+| IS-EYF | Eyjafjarðarsveit | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-EYF.svg' height='80'> | [IS-EYF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-EYF.svg) |
+| IS-FJD | Fjarðabyggð | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-FJD.svg' height='80'> | [IS-FJD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-FJD.png) |
+| IS-FJL | Fjallabyggð | Municipality | <img src='None' height='80'> | [IS-FJL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-FJL.png) |
+| IS-FLR | Fljótsdalshreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-FLR.png' height='80'> | [IS-FLR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-FLR.png) |
+| IS-GAR | Garðabær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-GAR.svg' height='80'> | [IS-GAR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-GAR.png) |
+| IS-GRN | Grindavíkurbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-GRN.png' height='80'> | [IS-GRN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-GRN.png) |
+| IS-GRU | Grundarfjarðarbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-GRU.png' height='80'> | [IS-GRU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-GRU.png) |
+| IS-HAF | Hafnarfjarðarkaupstaður | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-HAF.png' height='80'> | [IS-HAF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HAF.png) |
+| IS-HRU | Hrunamannahreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-HRU.png' height='80'> | [IS-HRU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HRU.png) |
+| IS-HUG | Húnabyggð | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-HUG.png' height='80'> | [IS-HUG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HUG.png) |
+| IS-HUV | Húnaþing vestra | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-HUV.png' height='80'> | [IS-HUV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HUV.png) |
+| IS-HVA | Hvalfjarðarsveit | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-HVA.png' height='80'> | [IS-HVA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HVA.png) |
+| IS-HVE | Hveragerðisbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-HVE.png' height='80'> | [IS-HVE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-HVE.png) |
+| IS-ISA | Ísafjarðarbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-ISA.png' height='80'> | [IS-ISA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-ISA.png) |
+| IS-KAL | Kaldrananeshreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-KAL.jpg' height='80'> | [IS-KAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-KAL.jpg) |
+| IS-KJO | Kjósarhreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-KJO.png' height='80'> | [IS-KJO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-KJO.png) |
+| IS-KOP | Kópavogsbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-KOP.png' height='80'> | [IS-KOP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-KOP.png) |
+| IS-MOS | Mosfellsbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-MOS.png' height='80'> | [IS-MOS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-MOS.png) |
+| IS-MUL | Múlaþing | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-MUL.jpeg' height='80'> | [IS-MUL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-MUL.jpeg) |
+| IS-MYR | Mýrdalshreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-MYR.png' height='80'> | [IS-MYR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-MYR.png) |
+| IS-RGE | Rangárþing eystra | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-RGE.png' height='80'> | [IS-RGE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RGE.png) |
+| IS-RGY | Rangárþing ytra | Municipality | <img src='None' height='80'> | [IS-RGY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RGY.png) |
+| IS-RHH | Reykhólahreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-RHH.svg' height='80'> | [IS-RHH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RHH.svg) |
+| IS-RKN | Reykjanesbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-RKN.svg' height='80'> | [IS-RKN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RKN.png) |
+| IS-RKV | Reykjavíkurborg | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-RKV.png' height='80'> | [IS-RKV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-RKV.svg) |
+| IS-SDN | Suðurnesjabær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-SDN.png' height='80'> | [IS-SDN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SDN.png) |
+| IS-SDV | Súðavíkurhreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-SDV.png' height='80'> | [IS-SDV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SDV.png) |
+| IS-SEL | Seltjarnarnesbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-SEL.svg' height='80'> | [IS-SEL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SEL.png) |
+| IS-SFA | Sveitarfélagið Árborg | Municipality | <img src='None' height='80'> | [IS-SFA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SFA.png) |
+| IS-SHF | Sveitarfélagið Hornafjörður | Municipality | <img src='None' height='80'> | [IS-SHF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SHF.png) |
+| IS-SKO | Skorradalshreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-SKO.svg' height='80'> | [IS-SKO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SKO.svg) |
+| IS-SKR | Skagafjörður | Municipality | <img src='None' height='80'> | [IS-SKR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SKR.png) |
+| IS-SNF | Snæfellsbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-SNF.png' height='80'> | [IS-SNF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SNF.png) |
+| IS-SOG | Skeiða- og Gnúpverjahreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-SOG.png' height='80'> | [IS-SOG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SOG.png) |
+| IS-SOL | Sveitarfélagið Ölfus | Municipality | <img src='None' height='80'> | [IS-SOL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SOL.png) |
+| IS-SSS | Sveitarfélagið Skagaströnd | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-SSS.png' height='80'> | [IS-SSS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SSS.png) |
+| IS-STR | Strandabyggð | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-STR.png' height='80'> | [IS-STR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-STR.png) |
+| IS-STY | Stykkishólmsbær | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-STY.png' height='80'> | [IS-STY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-STY.png) |
+| IS-SVG | Sveitarfélagið Vogar | Municipality | <img src='None' height='80'> | [IS-SVG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-SVG.png) |
+| IS-TAL | Tálknafjarðarhreppur | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-TAL.png' height='80'> | [IS-TAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-TAL.png) |
+| IS-VEM | Vestmannaeyjabær | Municipality | <img src='None' height='80'> | [IS-VEM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-VEM.png) |
+| IS-VER | Vesturbyggð | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IS/IS-VER.png' height='80'> | [IS-VER](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-VER.png) |
+| IS-VOP | Vopnafjarðarhreppur | Municipality | <img src='None' height='80'> | [IS-VOP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IS/IS-VOP.png) |
 
-Iceland ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:IS):
+Iceland ISO 3166-2 subdivisions with no available flags:
 
-* IS-1: Höfuðborgarsvæði (Region)
-* IS-2: Suðurnes (Region)
-* IS-3: Vesturland (Region)
-* IS-4: Vestfirðir (Region)
-* IS-5: Norðurland vestra (Region)
-* IS-6: Norðurland eystra (Region)
-* IS-7: Austurland (Region)
-* IS-8: Suðurland (Region)
-* IS-AKH: Akrahreppur (Municipality)
-* IS-BFJ: Borgarfjarðarhreppur (Municipality)
-* IS-BLO: Blönduósbær (Municipality)
-* IS-DJU: Djúpavogshreppur (Municipality)
-* IS-EOM: Eyja- og Miklaholtshreppur (Municipality)
-* IS-FJL: Fjallabyggð (Municipality)
-* IS-FLA: Flóahreppur (Municipality)
-* IS-GOG: Grímsnes- og Grafningshreppur (Municipality)
-* IS-GRY: Grýtubakkahreppur (Municipality)
-* IS-HEL: Helgafellssveit (Municipality)
-* IS-HRG: Hörgársveit (Municipality)
-* IS-LAN: Langanesbyggð (Municipality)
-* IS-NOR: Norðurþing (Municipality)
-* IS-RGY: Rangárþing ytra (Municipality)
-* IS-SBH: Svalbarðshreppur (Municipality)
-* IS-SBT: Svalbarðsstrandarhreppur (Municipality)
-* IS-SEY: Seyðisfjarðarkaupstaður (Municipality)
-* IS-SFA: Sveitarfélagið Árborg (Municipality)
-* IS-SHF: Sveitarfélagið Hornafjörður (Municipality)
-* IS-SKF: Skaftárhreppur (Municipality)
-* IS-SKG: Skagabyggð (Municipality)
-* IS-SOL: Sveitarfélagið Ölfus (Municipality)
-* IS-SSF: Sveitarfélagið Skagafjörður (Municipality)
-* IS-SVG: Sveitarfélagið Vogar (Municipality)
-* IS-TJO: Tjörneshreppur (Municipality)
-* IS-VEM: Vestmannaeyjabær (Municipality)
-* IS-VOP: Vopnafjarðarhreppur (Municipality)
+* **IS-1: Höfuðborgarsvæði (Region)**
+* **IS-2: Suðurnes (Region)**
+* **IS-3: Vesturland (Region)**
+* **IS-4: Vestfirðir (Region)**
+* **IS-5: Norðurland vestra (Region)**
+* **IS-6: Norðurland eystra (Region)**
+* **IS-7: Austurland (Region)**
+* **IS-8: Suðurland (Region)**
+* **IS-BLA: Bláskógabyggð (Municipality)**
+* **IS-EOM: Eyja- og Miklaholtshreppur (Municipality)**
+* **IS-FLA: Flóahreppur (Municipality)**
+* **IS-GOG: Grímsnes- og Grafningshreppur (Municipality)**
+* **IS-GRY: Grýtubakkahreppur (Municipality)**
+* **IS-HRG: Hörgársveit (Municipality)**
+* **IS-LAN: Langanesbyggð (Municipality)**
+* **IS-NOR: Norðurþing (Municipality)**
+* **IS-SBT: Svalbarðsstrandarhreppur (Municipality)**
+* **IS-SKF: Skaftárhreppur (Municipality)**
+* **IS-SKG: Skagabyggð (Municipality)**
+* **IS-THG: Þingeyjarsveit (Municipality)**
+* **IS-TJO: Tjörneshreppur (Municipality)**

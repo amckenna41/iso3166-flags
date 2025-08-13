@@ -3,7 +3,7 @@
 ############################## SVG Compress ##############################
 
 # SVG files can be quite large in size but a lot of its data can be 
-# redundant or unncessary information so I created this script to help
+# redundant or unnecessary information so I created this script to help
 # maximise the storage of the files, especially since the output folder may
 # contain thousands of files. The script utilises the scour Python library 
 # to compress the output SVG files if they meet a specific threshold of 
@@ -29,7 +29,7 @@ Help()
    echo "-h          help"
    echo "-input      Path to input directory of country flags to compress."
    echo "-output     Path to output directory to store compressed SVG files."
-   echo "-filesize   Filesize threshold in KB, if file above it then execute compression algorithm."
+   echo "-filesize   File size threshold in KB, if file above it then execute compression algorithm."
    exit
 }
 
@@ -111,7 +111,7 @@ echo "Compressing SVG Files using scour algorithm..."
 echo ""
 echo "Input Folder: $INPUT"
 echo "Output Folder: $OUTPUT"
-echo "Filesize Threshold: $FILESIZE_THRESHOLD KB"
+echo "File Size Threshold: $FILESIZE_THRESHOLD KB"
 echo ""
 echo "#############################################"
 echo ""
@@ -133,7 +133,7 @@ for dir in $INPUT*; do
   echo "##### "$(basename -- "$dir")" #####"
   echo ""
 
-  #iterate through all subfolders and files in input dir, calculate their file size and compress using SVG algorithm
+  #iterate through all sub-folders and files in input dir, calculate their file size and compress using SVG algorithm
   for file in "$dir"/*; do
 
     #get basename and extension of file
@@ -221,7 +221,7 @@ done
 
 echo ""
 
-#all files and subfolders successfully copied or not
+#all files and sub-folders successfully copied or not
 if [ $totalInputFolders -eq $totalOutputFolders ] &&  [ $totalInputFiles -eq $totalOutputFiles ]; then
   echo ""
   echo "All files and folders successfully compressed and copied."
@@ -229,7 +229,7 @@ else
   echo "Number of input and output files/dirs do not match"
 fi
 
-#calculate output filesize before and after compression script
+#calculate output file size before and after compression script
 OUTPUT_FOLDERSIZE_POST=$(du -sh $OUTPUT | cut -f1 | rev | cut -c 2- | rev)
 
 #calculate compression ratio
@@ -239,4 +239,3 @@ COMPRESSION_RATIO="${COMPRESSION_RATIO:1}"
 echo ""
 echo "Script executed in $runtime seconds. Input folder - $INPUT - compressed to output folder - $OUTPUT - by ${COMPRESSION_RATIO}%, from ${OUTPUT_FOLDERSIZE_PRE}MB -> ${OUTPUT_FOLDERSIZE_POST}MB."
 echo ""
-

@@ -1,49 +1,54 @@
-# Dominican Republic Subdivisions 🇩🇴
+# Dominican Republic Subdivisions ![](https://flagcdn.com/h40/do.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:DO
+- **ISO Code**: DO
+- **Number of subdivisions**: 42
+- **Subdivision Type**: District, Province, Region
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/DO
 
-* DO-01 (Distrito Nacional (Santo Domingo)) -> [DO-01.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-01.svg)
-* DO-02 (Azua) -> [DO-02.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-02.png)
-* DO-03 (Baoruco) -> [DO-03.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-03.png)
-* DO-04 (Barahona) -> [DO-04.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-04.svg)
-* DO-05 (Dajabón) -> [DO-05.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-05.png)
-* DO-06 (Duarte) -> [DO-06.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-06.png)
-* DO-07 (Elías Piña) -> [DO-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-07.svg)
-* DO-08 (El Seibo) -> [DO-08.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-08.svg)
-* DO-09 (Espaillat) -> [DO-09.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-09.png)
-* DO-10 (Independencia) -> [DO-10.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-10.png)
-* DO-11 (La Altagracia) -> [DO-11.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-11.png)
-* DO-12 (La Romana) -> [DO-12.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-12.svg)
-* DO-13 (La Vega) -> [DO-13.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-13.png)
-* DO-14 (María Trinidad Sánchez) -> [DO-14.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-14.png)
-* DO-15 (Monte Cristi) -> [DO-15.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-15.png)
-* DO-16 (Pedernales) -> [DO-16.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-16.png)
-* DO-17 (Peravia) -> [DO-17.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-17.png)
-* DO-18 (Puerto Plata) -> [DO-18.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-18.svg)
-* DO-19 (Hermanas Mirabal) -> [DO-19.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-19.png)
-* DO-20 (Samaná) -> [DO-20.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-20.svg)
-* DO-21 (San Cristóbal) -> [DO-21.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-21.png)
-* DO-22 (San Juan) -> [DO-22.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-22.svg)
-* DO-23 (San Pedro De Macorís) -> [DO-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-23.svg)
-* DO-24 (Sánchez Ramírez) -> [DO-24.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-24.png)
-* DO-25 (Santiago) -> [DO-25.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-25.svg)
-* DO-26 (Santiago Rodríguez) -> [DO-26.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-26.png)
-* DO-27 (Valverde) -> [DO-27.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-27.svg)
-* DO-28 (Monseñor Nouel) -> [DO-28.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-28.svg)
-* DO-29 (Monte Plata) -> [DO-29.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-29.png)
-* DO-30 (Hato Mayor) -> [DO-30.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-30.png)
-* DO-31 (San José De Ocoa) -> [DO-31.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-31.png)
-* DO-32 (Santo Domingo) -> [DO-32.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-32.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| DO-01 | Distrito Nacional (Santo Domingo) | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-01.svg' height='80'> | [DO-01](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-01.png) |
+| DO-02 | Azua | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-02.png' height='80'> | [DO-02](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-02.png) |
+| DO-03 | Baoruco | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-03.png' height='80'> | [DO-03](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-03.png) |
+| DO-05 | Dajabón | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-05.png' height='80'> | [DO-05](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-05.png) |
+| DO-06 | Duarte | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-06.png' height='80'> | [DO-06](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-06.png) |
+| DO-08 | El Seibo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-08.svg' height='80'> | [DO-08](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-08.png) |
+| DO-10 | Independencia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-10.png' height='80'> | [DO-10](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-10.png) |
+| DO-15 | Monte Cristi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-15.png' height='80'> | [DO-15](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-15.png) |
+| DO-16 | Pedernales | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-16.png' height='80'> | [DO-16](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-16.png) |
+| DO-17 | Peravia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-17.png' height='80'> | [DO-17](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-17.png) |
+| DO-18 | Puerto Plata | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-18.svg' height='80'> | [DO-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-18.svg) |
+| DO-20 | Samaná | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-20.svg' height='80'> | [DO-20](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-20.png) |
+| DO-22 | San Juan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-22.svg' height='80'> | [DO-22](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-22.png) |
+| DO-23 | San Pedro de Macorís | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-23.svg' height='80'> | [DO-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-23.svg) |
+| DO-25 | Santiago | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-25.svg' height='80'> | [DO-25](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-25.png) |
+| DO-28 | Monseñor Nouel | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-28.svg' height='80'> | [DO-28](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-28.svg) |
+| DO-30 | Hato Mayor | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/DO/DO-30.png' height='80'> | [DO-30](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/DO/DO-30.png) |
 
-Dominican Republic ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:DO):
+Dominican Republic ISO 3166-2 subdivisions with no available flags:
 
-* DO-33: Cibao Nordeste (Region)
-* DO-34: Cibao Noroeste (Region)
-* DO-35: Cibao Norte (Region)
-* DO-36: Cibao Sur (Region)
-* DO-37: El Valle (Region)
-* DO-38: Enriquillo (Region)
-* DO-39: Higuamo (Region)
-* DO-40: Ozama (Region)
-* DO-41: Valdesia (Region)
-* DO-42: Yuma (Region)
+* **DO-04: Barahona (Province)**
+* **DO-07: Elías Piña (Province)**
+* **DO-09: Espaillat (Province)**
+* **DO-11: La Altagracia (Province)**
+* **DO-12: La Romana (Province)**
+* **DO-13: La Vega (Province)**
+* **DO-14: María Trinidad Sánchez (Province)**
+* **DO-19: Hermanas Mirabal (Province)**
+* **DO-21: San Cristóbal (Province)**
+* **DO-24: Sánchez Ramírez (Province)**
+* **DO-26: Santiago Rodríguez (Province)**
+* **DO-27: Valverde (Province)**
+* **DO-29: Monte Plata (Province)**
+* **DO-31: San José de Ocoa (Province)**
+* **DO-32: Santo Domingo (Province)**
+* **DO-33: Cibao Nordeste (Region)**
+* **DO-34: Cibao Noroeste (Region)**
+* **DO-35: Cibao Norte (Region)**
+* **DO-36: Cibao Sur (Region)**
+* **DO-37: El Valle (Region)**
+* **DO-38: Enriquillo (Region)**
+* **DO-39: Higuamo (Region)**
+* **DO-40: Ozama (Region)**
+* **DO-41: Valdesia (Region)**
+* **DO-42: Yuma (Region)**

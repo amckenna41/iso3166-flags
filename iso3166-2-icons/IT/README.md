@@ -1,138 +1,138 @@
-# Italy Subdivisions 🇮🇹
+# Italy Subdivisions ![](https://flagcdn.com/h40/it.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:IT
+- **ISO Code**: IT
+- **Number of subdivisions**: 126
+- **Subdivision Type**: Autonomous province, Autonomous region, Decentralized regional entity, Free municipal consortium, Metropolitan city, Province, Region
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IT
 
-* IT-21 (Piemonte) -> [IT-21.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-21.svg)
-* IT-23 (Val D'Aoste) -> [IT-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-23.svg)
-* IT-25 (Lombardia) -> [IT-25.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-25.svg)
-* IT-32 (Trentino-Alto Adige) -> [IT-32.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-32.svg)
-* IT-34 (Veneto) -> [IT-34.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-34.svg)
-* IT-36 (Friuli Venezia Giulia) -> [IT-36.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-36.svg)
-* IT-42 (Liguria) -> [IT-42.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-42.svg)
-* IT-45 (Emilia-Romagna) -> [IT-45.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-45.svg)
-* IT-52 (Toscana) -> [IT-52.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-52.svg)
-* IT-55 (Umbria) -> [IT-55.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-55.svg)
-* IT-57 (Marche) -> [IT-57.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-57.svg)
-* IT-62 (Lazio) -> [IT-62.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-62.svg)
-* IT-65 (Abruzzo) -> [IT-65.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-65.svg)
-* IT-67 (Molise) -> [IT-67.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-67.svg)
-* IT-72 (Campania) -> [IT-72.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-72.svg)
-* IT-75 (Puglia) -> [IT-75.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-75.svg)
-* IT-77 (Basilicata) -> [IT-77.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-77.svg)
-* IT-78 (Calabria) -> [IT-78.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-78.svg)
-* IT-82 (Sicilia) -> [IT-82.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-82.svg)
-* IT-88 (Sardegna) -> [IT-88.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-88.svg)
-* IT-AG (Agrigento) -> [IT-AG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AG.png)
-* IT-AL (Alessandria) -> [IT-AL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AL.svg)
-* IT-AN (Ancona) -> [IT-AN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AN.svg)
-* IT-AP (Ascoli Piceno) -> [IT-AP.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AP.png)
-* IT-AQ (L'Aquila) -> [IT-AQ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AQ.svg)
-* IT-AR (Arezzo) -> [IT-AR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AR.png)
-* IT-AT (Asti) -> [IT-AT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AT.svg)
-* IT-AV (Avellino) -> [IT-AV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AV.svg)
-* IT-BA (Bari) -> [IT-BA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BA.svg)
-* IT-BG (Bergamo) -> [IT-BG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BG.svg)
-* IT-BI (Biella) -> [IT-BI.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BI.jpeg)
-* IT-BL (Belluno) -> [IT-BL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BL.svg)
-* IT-BN (Benevento) -> [IT-BN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BN.svg)
-* IT-BO (Bologna) -> [IT-BO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BO.svg)
-* IT-BR (Brindisi) -> [IT-BR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BR.png)
-* IT-BS (Brescia) -> [IT-BS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BS.png)
-* IT-BT (Barletta-Andria-Trani) -> [IT-BT.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BT.jpeg)
-* IT-BZ (Bolzano) -> [IT-BZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BZ.svg)
-* IT-CA (Cagliari) -> [IT-CA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CA.svg)
-* IT-CB (Campobasso) -> [IT-CB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CB.svg)
-* IT-CE (Caserta) -> [IT-CE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CE.svg)
-* IT-CH (Chieti) -> [IT-CH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CH.svg)
-* IT-CL (Caltanissetta) -> [IT-CL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CL.svg)
-* IT-CN (Cuneo) -> [IT-CN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CN.svg)
-* IT-CO (Como) -> [IT-CO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CO.svg)
-* IT-CR (Cremona) -> [IT-CR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CR.png)
-* IT-CT (Catania) -> [IT-CT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CT.svg)
-* IT-CZ (Catanzaro) -> [IT-CZ.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CZ.png)
-* IT-EN (Enna) -> [IT-EN.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-EN.jpeg)
-* IT-FC (Forlì-Cesena) -> [IT-FC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FC.png)
-* IT-FE (Ferrara) -> [IT-FE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FE.svg)
-* IT-FG (Foggia) -> [IT-FG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FG.svg)
-* IT-FI (Firenze) -> [IT-FI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FI.svg)
-* IT-FM (Fermo) -> [IT-FM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FM.png)
-* IT-FR (Frosinone) -> [IT-FR.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FR.jpeg)
-* IT-GE (Genova) -> [IT-GE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-GE.png)
-* IT-GO (Gorizia) -> [IT-GO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-GO.svg)
-* IT-GR (Grosseto) -> [IT-GR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-GR.svg)
-* IT-IM (Imperia) -> [IT-IM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-IM.svg)
-* IT-IS (Isernia) -> [IT-IS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-IS.png)
-* IT-KR (Crotone) -> [IT-KR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-KR.png)
-* IT-LC (Lecco) -> [IT-LC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LC.png)
-* IT-LE (Lecce) -> [IT-LE.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LE.jpeg)
-* IT-LI (Livorno) -> [IT-LI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LI.svg)
-* IT-LO (Lodi) -> [IT-LO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LO.svg)
-* IT-LT (Latina) -> [IT-LT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LT.png)
-* IT-LU (Lucca) -> [IT-LU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LU.svg)
-* IT-MB (Monza E Brianza) -> [IT-MB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MB.svg)
-* IT-MC (Macerata) -> [IT-MC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MC.png)
-* IT-ME (Messina) -> [IT-ME.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-ME.svg)
-* IT-MI (Milano) -> [IT-MI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MI.svg)
-* IT-MN (Mantova) -> [IT-MN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MN.png)
-* IT-MO (Modena) -> [IT-MO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MO.svg)
-* IT-MS (Massa-Carrara) -> [IT-MS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MS.png)
-* IT-MT (Matera) -> [IT-MT.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MT.jpeg)
-* IT-NA (Napoli) -> [IT-NA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-NA.svg)
-* IT-NO (Novara) -> [IT-NO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-NO.svg)
-* IT-OR (Oristano) -> [IT-OR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-OR.svg)
-* IT-PA (Palermo) -> [IT-PA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PA.svg)
-* IT-PC (Piacenza) -> [IT-PC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PC.svg)
-* IT-PD (Padova) -> [IT-PD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PD.svg)
-* IT-PE (Pescara) -> [IT-PE.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PE.gif)
-* IT-PE (Pescara) -> [IT-PE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PE.png)
-* IT-PG (Perugia) -> [IT-PG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PG.svg)
-* IT-PI (Pisa) -> [IT-PI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PI.svg)
-* IT-PN (Pordenone) -> [IT-PN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PN.svg)
-* IT-PO (Prato) -> [IT-PO.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PO.gif)
-* IT-PO (Prato) -> [IT-PO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PO.png)
-* IT-PR (Parma) -> [IT-PR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PR.svg)
-* IT-PT (Pistoia) -> [IT-PT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PT.svg)
-* IT-PU (Pesaro E Urbino) -> [IT-PU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PU.svg)
-* IT-PV (Pavia) -> [IT-PV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PV.svg)
-* IT-PZ (Potenza) -> [IT-PZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PZ.svg)
-* IT-RA (Ravenna) -> [IT-RA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RA.svg)
-* IT-RC (Reggio Calabria) -> [IT-RC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RC.svg)
-* IT-RE (Reggio Emilia) -> [IT-RE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RE.svg)
-* IT-RG (Ragusa) -> [IT-RG.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RG.svg)
-* IT-RI (Rieti) -> [IT-RI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RI.svg)
-* IT-RM (Roma) -> [IT-RM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RM.svg)
-* IT-RN (Rimini) -> [IT-RN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RN.svg)
-* IT-RO (Rovigo) -> [IT-RO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RO.png)
-* IT-SA (Salerno) -> [IT-SA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SA.svg)
-* IT-SI (Siena) -> [IT-SI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SI.svg)
-* IT-SO (Sondrio) -> [IT-SO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SO.png)
-* IT-SP (La Spezia) -> [IT-SP.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SP.png)
-* IT-SR (Siracusa) -> [IT-SR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SR.svg)
-* IT-SS (Sassari) -> [IT-SS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SS.svg)
-* IT-SV (Savona) -> [IT-SV.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SV.gif)
-* IT-SV (Savona) -> [IT-SV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SV.png)
-* IT-TA (Taranto) -> [IT-TA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TA.svg)
-* IT-TE (Teramo) -> [IT-TE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TE.svg)
-* IT-TN (Trento) -> [IT-TN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TN.svg)
-* IT-TO (Torino) -> [IT-TO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TO.svg)
-* IT-TP (Trapani) -> [IT-TP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TP.svg)
-* IT-TR (Terni) -> [IT-TR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TR.svg)
-* IT-TS (Trieste) -> [IT-TS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TS.svg)
-* IT-TV (Treviso) -> [IT-TV.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TV.gif)
-* IT-TV (Treviso) -> [IT-TV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TV.png)
-* IT-UD (Udine) -> [IT-UD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-UD.svg)
-* IT-VA (Varese) -> [IT-VA.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VA.gif)
-* IT-VA (Varese) -> [IT-VA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VA.png)
-* IT-VB (Verbano-Cusio-Ossola) -> [IT-VB.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VB.jpg)
-* IT-VC (Vercelli) -> [IT-VC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VC.svg)
-* IT-VE (Venezia) -> [IT-VE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VE.svg)
-* IT-VI (Vicenza) -> [IT-VI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VI.png)
-* IT-VR (Verona) -> [IT-VR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VR.svg)
-* IT-VT (Viterbo) -> [IT-VT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VT.svg)
-* IT-VV (Vibo Valentia) -> [IT-VV.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VV.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| IT-21 | Piemonte | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-21.svg' height='80'> | [IT-21](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-21.svg) |
+| IT-23 | Val d'Aoste | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-23.svg' height='80'> | [IT-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-23.svg) |
+| IT-25 | Lombardia | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-25.svg' height='80'> | [IT-25](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-25.svg) |
+| IT-32 | Trentino-Alto Adige | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-32.svg' height='80'> | [IT-32](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-32.svg) |
+| IT-34 | Veneto | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-34.svg' height='80'> | [IT-34](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-34.svg) |
+| IT-36 | Friuli Venezia Giulia | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-36.svg' height='80'> | [IT-36](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-36.svg) |
+| IT-42 | Liguria | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-42.svg' height='80'> | [IT-42](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-42.svg) |
+| IT-45 | Emilia-Romagna | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-45.svg' height='80'> | [IT-45](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-45.svg) |
+| IT-52 | Toscana | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-52.svg' height='80'> | [IT-52](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-52.svg) |
+| IT-55 | Umbria | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-55.svg' height='80'> | [IT-55](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-55.svg) |
+| IT-57 | Marche | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-57.svg' height='80'> | [IT-57](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-57.svg) |
+| IT-62 | Lazio | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-62.svg' height='80'> | [IT-62](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-62.svg) |
+| IT-65 | Abruzzo | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-65.svg' height='80'> | [IT-65](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-65.svg) |
+| IT-67 | Molise | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-67.svg' height='80'> | [IT-67](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-67.svg) |
+| IT-72 | Campania | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-72.svg' height='80'> | [IT-72](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-72.svg) |
+| IT-75 | Puglia | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-75.svg' height='80'> | [IT-75](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-75.svg) |
+| IT-77 | Basilicata | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-77.svg' height='80'> | [IT-77](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-77.svg) |
+| IT-78 | Calabria | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-78.svg' height='80'> | [IT-78](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-78.svg) |
+| IT-82 | Sicilia | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-82.svg' height='80'> | [IT-82](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-82.svg) |
+| IT-88 | Sardegna | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-88.svg' height='80'> | [IT-88](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-88.svg) |
+| IT-AG | Agrigento | Free municipal consortium | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AG.png' height='80'> | [IT-AG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AG.png) |
+| IT-AL | Alessandria | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AL.svg' height='80'> | [IT-AL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AL.svg) |
+| IT-AN | Ancona | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AN.svg' height='80'> | [IT-AN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AN.svg) |
+| IT-AP | Ascoli Piceno | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AP.png' height='80'> | [IT-AP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AP.png) |
+| IT-AQ | L'Aquila | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AQ.svg' height='80'> | [IT-AQ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AQ.svg) |
+| IT-AR | Arezzo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AR.png' height='80'> | [IT-AR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AR.svg) |
+| IT-AT | Asti | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AT.svg' height='80'> | [IT-AT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AT.svg) |
+| IT-AV | Avellino | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-AV.svg' height='80'> | [IT-AV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-AV.svg) |
+| IT-BA | Bari | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BA.svg' height='80'> | [IT-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BA.svg) |
+| IT-BG | Bergamo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BG.svg' height='80'> | [IT-BG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BG.svg) |
+| IT-BI | Biella | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BI.jpeg' height='80'> | [IT-BI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BI.jpg) |
+| IT-BL | Belluno | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BL.svg' height='80'> | [IT-BL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BL.svg) |
+| IT-BN | Benevento | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BN.svg' height='80'> | [IT-BN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BN.svg) |
+| IT-BO | Bologna | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BO.svg' height='80'> | [IT-BO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BO.svg) |
+| IT-BR | Brindisi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BR.png' height='80'> | [IT-BR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BR.svg) |
+| IT-BS | Brescia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BS.png' height='80'> | [IT-BS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BS.svg) |
+| IT-BT | Barletta-Andria-Trani | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BT.jpeg' height='80'> | [IT-BT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BT.jpeg) |
+| IT-BZ | Bolzano | Autonomous province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-BZ.svg' height='80'> | [IT-BZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-BZ.svg) |
+| IT-CA | Cagliari | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CA.svg' height='80'> | [IT-CA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CA.svg) |
+| IT-CB | Campobasso | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CB.svg' height='80'> | [IT-CB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CB.svg) |
+| IT-CE | Caserta | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CE.svg' height='80'> | [IT-CE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CE.svg) |
+| IT-CH | Chieti | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CH.svg' height='80'> | [IT-CH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CH.svg) |
+| IT-CL | Caltanissetta | Free municipal consortium | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CL.svg' height='80'> | [IT-CL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CL.png) |
+| IT-CN | Cuneo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CN.svg' height='80'> | [IT-CN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CN.svg) |
+| IT-CO | Como | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CO.svg' height='80'> | [IT-CO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CO.svg) |
+| IT-CR | Cremona | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CR.png' height='80'> | [IT-CR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CR.svg) |
+| IT-CS | Cosenza | Province | <img src='None' height='80'> | [IT-CS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CS.svg) |
+| IT-CT | Catania | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CT.svg' height='80'> | [IT-CT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CT.svg) |
+| IT-CZ | Catanzaro | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-CZ.png' height='80'> | [IT-CZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-CZ.svg) |
+| IT-EN | Enna | Free municipal consortium | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-EN.jpeg' height='80'> | [IT-EN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-EN.jpg) |
+| IT-FC | Forlì-Cesena | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-FC.png' height='80'> | [IT-FC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FC.svg) |
+| IT-FE | Ferrara | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-FE.svg' height='80'> | [IT-FE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FE.svg) |
+| IT-FG | Foggia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-FG.svg' height='80'> | [IT-FG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FG.png) |
+| IT-FI | Firenze | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-FI.svg' height='80'> | [IT-FI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FI.svg) |
+| IT-FM | Fermo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-FM.png' height='80'> | [IT-FM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FM.png) |
+| IT-FR | Frosinone | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-FR.jpeg' height='80'> | [IT-FR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-FR.svg) |
+| IT-GE | Genova | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-GE.png' height='80'> | [IT-GE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-GE.png) |
+| IT-GO | Gorizia | Decentralized regional entity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-GO.svg' height='80'> | [IT-GO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-GO.svg) |
+| IT-GR | Grosseto | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-GR.svg' height='80'> | [IT-GR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-GR.svg) |
+| IT-IM | Imperia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-IM.svg' height='80'> | [IT-IM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-IM.svg) |
+| IT-IS | Isernia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-IS.png' height='80'> | [IT-IS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-IS.svg) |
+| IT-KR | Crotone | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-KR.png' height='80'> | [IT-KR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-KR.svg) |
+| IT-LC | Lecco | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-LC.png' height='80'> | [IT-LC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LC.png) |
+| IT-LE | Lecce | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-LE.jpeg' height='80'> | [IT-LE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LE.svg) |
+| IT-LI | Livorno | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-LI.svg' height='80'> | [IT-LI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LI.svg) |
+| IT-LO | Lodi | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-LO.svg' height='80'> | [IT-LO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LO.svg) |
+| IT-LT | Latina | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-LT.png' height='80'> | [IT-LT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LT.svg) |
+| IT-LU | Lucca | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-LU.svg' height='80'> | [IT-LU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-LU.svg) |
+| IT-MB | Monza e Brianza | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-MB.svg' height='80'> | [IT-MB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MB.svg) |
+| IT-MC | Macerata | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-MC.png' height='80'> | [IT-MC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MC.png) |
+| IT-ME | Messina | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-ME.svg' height='80'> | [IT-ME](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-ME.svg) |
+| IT-MI | Milano | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-MI.svg' height='80'> | [IT-MI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MI.svg) |
+| IT-MN | Mantova | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-MN.png' height='80'> | [IT-MN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MN.svg) |
+| IT-MO | Modena | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-MO.svg' height='80'> | [IT-MO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MO.svg) |
+| IT-MS | Massa-Carrara | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-MS.png' height='80'> | [IT-MS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MS.svg) |
+| IT-MT | Matera | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-MT.jpeg' height='80'> | [IT-MT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-MT.svg) |
+| IT-NA | Napoli | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-NA.svg' height='80'> | [IT-NA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-NA.svg) |
+| IT-NO | Novara | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-NO.svg' height='80'> | [IT-NO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-NO.svg) |
+| IT-NU | Nuoro | Province | <img src='None' height='80'> | [IT-NU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-NU.svg) |
+| IT-OR | Oristano | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-OR.svg' height='80'> | [IT-OR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-OR.svg) |
+| IT-PA | Palermo | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PA.svg' height='80'> | [IT-PA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PA.svg) |
+| IT-PC | Piacenza | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PC.svg' height='80'> | [IT-PC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PC.svg) |
+| IT-PD | Padova | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PD.svg' height='80'> | [IT-PD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PD.svg) |
+| IT-PE | Pescara | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PE.png' height='80'> | [IT-PE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PE.svg) |
+| IT-PG | Perugia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PG.svg' height='80'> | [IT-PG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PG.svg) |
+| IT-PI | Pisa | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PI.svg' height='80'> | [IT-PI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PI.svg) |
+| IT-PN | Pordenone | Decentralized regional entity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PN.svg' height='80'> | [IT-PN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PN.svg) |
+| IT-PO | Prato | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PO.png' height='80'> | [IT-PO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PO.svg) |
+| IT-PR | Parma | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PR.svg' height='80'> | [IT-PR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PR.svg) |
+| IT-PT | Pistoia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PT.svg' height='80'> | [IT-PT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PT.svg) |
+| IT-PU | Pesaro e Urbino | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PU.svg' height='80'> | [IT-PU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PU.svg) |
+| IT-PV | Pavia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PV.svg' height='80'> | [IT-PV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PV.png) |
+| IT-PZ | Potenza | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-PZ.svg' height='80'> | [IT-PZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-PZ.svg) |
+| IT-RA | Ravenna | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RA.svg' height='80'> | [IT-RA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RA.svg) |
+| IT-RC | Reggio Calabria | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RC.svg' height='80'> | [IT-RC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RC.svg) |
+| IT-RE | Reggio Emilia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RE.svg' height='80'> | [IT-RE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RE.svg) |
+| IT-RG | Ragusa | Free municipal consortium | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RG.svg' height='80'> | [IT-RG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RG.png) |
+| IT-RI | Rieti | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RI.svg' height='80'> | [IT-RI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RI.svg) |
+| IT-RM | Roma | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RM.svg' height='80'> | [IT-RM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RM.svg) |
+| IT-RN | Rimini | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RN.svg' height='80'> | [IT-RN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RN.svg) |
+| IT-RO | Rovigo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-RO.png' height='80'> | [IT-RO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-RO.png) |
+| IT-SA | Salerno | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-SA.svg' height='80'> | [IT-SA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SA.svg) |
+| IT-SI | Siena | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-SI.svg' height='80'> | [IT-SI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SI.svg) |
+| IT-SO | Sondrio | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-SO.png' height='80'> | [IT-SO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SO.svg) |
+| IT-SP | La Spezia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-SP.png' height='80'> | [IT-SP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SP.svg) |
+| IT-SR | Siracusa | Free municipal consortium | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-SR.svg' height='80'> | [IT-SR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SR.svg) |
+| IT-SS | Sassari | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-SS.svg' height='80'> | [IT-SS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SS.svg) |
+| IT-SV | Savona | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-SV.png' height='80'> | [IT-SV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-SV.svg) |
+| IT-TA | Taranto | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TA.svg' height='80'> | [IT-TA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TA.svg) |
+| IT-TE | Teramo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TE.svg' height='80'> | [IT-TE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TE.png) |
+| IT-TN | Trento | Autonomous province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TN.svg' height='80'> | [IT-TN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TN.svg) |
+| IT-TO | Torino | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TO.svg' height='80'> | [IT-TO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TO.svg) |
+| IT-TP | Trapani | Free municipal consortium | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TP.svg' height='80'> | [IT-TP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TP.svg) |
+| IT-TR | Terni | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TR.svg' height='80'> | [IT-TR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TR.svg) |
+| IT-TS | Trieste | Decentralized regional entity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TS.svg' height='80'> | [IT-TS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TS.svg) |
+| IT-TV | Treviso | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-TV.png' height='80'> | [IT-TV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-TV.svg) |
+| IT-UD | Udine | Decentralized regional entity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-UD.svg' height='80'> | [IT-UD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-UD.svg) |
+| IT-VA | Varese | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VA.png' height='80'> | [IT-VA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VA.svg) |
+| IT-VB | Verbano-Cusio-Ossola | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VB.jpg' height='80'> | [IT-VB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VB.svg) |
+| IT-VC | Vercelli | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VC.svg' height='80'> | [IT-VC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VC.svg) |
+| IT-VE | Venezia | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VE.svg' height='80'> | [IT-VE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VE.svg) |
+| IT-VI | Vicenza | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VI.png' height='80'> | [IT-VI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VI.png) |
+| IT-VR | Verona | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VR.svg' height='80'> | [IT-VR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VR.svg) |
+| IT-VT | Viterbo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VT.svg' height='80'> | [IT-VT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VT.jpeg) |
+| IT-VV | Vibo Valentia | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IT/IT-VV.png' height='80'> | [IT-VV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IT/IT-VV.svg) |
 
-Italy ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:IT):
+Italy ISO 3166-2 subdivisions with no available flags:
 
-* IT-CS: Cosenza (Province)
-* IT-NU: Nuoro (Province)
-* IT-SU: Sud Sardegna (Province)
+* **IT-SU: Sud Sardegna (Province)**

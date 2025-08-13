@@ -1,84 +1,89 @@
-# North Macedonia Subdivisions 🇲🇰
+# North Macedonia Subdivisions ![](https://flagcdn.com/h40/mk.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:MK
+- **ISO Code**: MK
+- **Number of subdivisions**: 80
+- **Subdivision Type**: Municipality
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MK
 
-* MK-101 (Veles) -> [MK-101.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-101.svg)
-* MK-102 (Gradsko) -> [MK-102.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-102.png)
-* MK-103 (Demir Kapija) -> [MK-103.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-103.svg)
-* MK-104 (Kavadarci) -> [MK-104.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-104.svg)
-* MK-105 (Lozovo) -> [MK-105.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-105.svg)
-* MK-106 (Negotino) -> [MK-106.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-106.svg)
-* MK-107 (Rosoman) -> [MK-107.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-107.svg)
-* MK-108 (Sveti Nikole) -> [MK-108.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-108.jpeg)
-* MK-109 (Čaška) -> [MK-109.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-109.svg)
-* MK-201 (Berovo) -> [MK-201.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-201.svg)
-* MK-202 (Vinica) -> [MK-202.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-202.svg)
-* MK-203 (Delčevo) -> [MK-203.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-203.svg)
-* MK-204 (Zrnovci) -> [MK-204.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-204.svg)
-* MK-205 (Karbinci) -> [MK-205.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-205.svg)
-* MK-206 (Kočani) -> [MK-206.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-206.svg)
-* MK-207 (Makedonska Kamenica) -> [MK-207.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-207.svg)
-* MK-208 (Pehčevo) -> [MK-208.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-208.svg)
-* MK-209 (Probištip) -> [MK-209.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-209.png)
-* MK-210 (Češinovo-Obleševo) -> [MK-210.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-210.svg)
-* MK-211 (Štip) -> [MK-211.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-211.svg)
-* MK-301 (Vevčani) -> [MK-301.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-301.svg)
-* MK-303 (Debar) -> [MK-303.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-303.svg)
-* MK-304 (Debrca) -> [MK-304.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-304.svg)
-* MK-307 (Kičevo) -> [MK-307.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-307.svg)
-* MK-308 (Makedonski Brod) -> [MK-308.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-308.svg)
-* MK-310 (Ohrid) -> [MK-310.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-310.png)
-* MK-311 (Plasnica) -> [MK-311.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-311.svg)
-* MK-312 (Struga) -> [MK-312.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-312.svg)
-* MK-313 (Centar Župa) -> [MK-313.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-313.svg)
-* MK-401 (Bogdanci) -> [MK-401.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-401.svg)
-* MK-402 (Bosilovo) -> [MK-402.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-402.svg)
-* MK-403 (Valandovo) -> [MK-403.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-403.svg)
-* MK-404 (Vasilevo) -> [MK-404.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-404.svg)
-* MK-405 (Gevgelija) -> [MK-405.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-405.png)
-* MK-406 (Dojran) -> [MK-406.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-406.png)
-* MK-407 (Konče) -> [MK-407.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-407.svg)
-* MK-408 (Novo Selo) -> [MK-408.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-408.svg)
-* MK-409 (Radoviš) -> [MK-409.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-409.svg)
-* MK-410 (Strumica) -> [MK-410.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-410.svg)
-* MK-501 (Bitola) -> [MK-501.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-501.svg)
-* MK-502 (Demir Hisar) -> [MK-502.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-502.svg)
-* MK-503 (Dolneni) -> [MK-503.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-503.svg)
-* MK-504 (Krivogaštani) -> [MK-504.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-504.svg)
-* MK-505 (Kruševo) -> [MK-505.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-505.svg)
-* MK-506 (Mogila) -> [MK-506.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-506.svg)
-* MK-507 (Novaci) -> [MK-507.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-507.svg)
-* MK-508 (Prilep) -> [MK-508.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-508.svg)
-* MK-509 (Resen) -> [MK-509.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-509.svg)
-* MK-601 (Bogovinje) -> [MK-601.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-601.svg)
-* MK-602 (Brvenica) -> [MK-602.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-602.svg)
-* MK-603 (Vrapčište) -> [MK-603.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-603.svg)
-* MK-604 (Gostivar) -> [MK-604.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-604.svg)
-* MK-605 (Želino) -> [MK-605.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-605.svg)
-* MK-606 (Jegunovce) -> [MK-606.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-606.svg)
-* MK-607 (Mavrovo I Rostuše) -> [MK-607.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-607.svg)
-* MK-608 (Tearce) -> [MK-608.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-608.svg)
-* MK-609 (Tetovo) -> [MK-609.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-609.svg)
-* MK-701 (Kratovo) -> [MK-701.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-701.svg)
-* MK-702 (Kriva Palanka) -> [MK-702.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-702.svg)
-* MK-703 (Kumanovo) -> [MK-703.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-703.svg)
-* MK-704 (Lipkovo) -> [MK-704.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-704.svg)
-* MK-705 (Rankovce) -> [MK-705.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-705.svg)
-* MK-706 (Staro Nagoričane) -> [MK-706.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-706.svg)
-* MK-801 (Aerodrom †) -> [MK-801.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-801.svg)
-* MK-802 (Aračinovo) -> [MK-802.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-802.svg)
-* MK-803 (Butel †) -> [MK-803.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-803.svg)
-* MK-804 (Gazi Baba †) -> [MK-804.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-804.svg)
-* MK-805 (Gjorče Petrov †) -> [MK-805.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-805.svg)
-* MK-806 (Zelenikovo) -> [MK-806.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-806.svg)
-* MK-807 (Ilinden) -> [MK-807.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-807.svg)
-* MK-808 (Karpoš †) -> [MK-808.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-808.svg)
-* MK-809 (Kisela Voda †) -> [MK-809.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-809.svg)
-* MK-810 (Petrovec) -> [MK-810.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-810.svg)
-* MK-811 (Saraj †) -> [MK-811.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-811.svg)
-* MK-812 (Sopište) -> [MK-812.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-812.svg)
-* MK-813 (Studeničani) -> [MK-813.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-813.png)
-* MK-814 (Centar †) -> [MK-814.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-814.svg)
-* MK-815 (Čair †) -> [MK-815.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-815.svg)
-* MK-816 (Čučer-Sandevo) -> [MK-816.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-816.jpg)
-* MK-817 (Šuto Orizari †) -> [MK-817.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-817.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| MK-101 | Veles | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-101.svg' height='80'> | [MK-101](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-101.svg) |
+| MK-102 | Gradsko | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-102.png' height='80'> | [MK-102](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-102.png) |
+| MK-103 | Demir Kapija | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-103.svg' height='80'> | [MK-103](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-103.svg) |
+| MK-104 | Kavadarci | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-104.svg' height='80'> | [MK-104](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-104.svg) |
+| MK-105 | Lozovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-105.svg' height='80'> | [MK-105](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-105.svg) |
+| MK-106 | Negotino | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-106.svg' height='80'> | [MK-106](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-106.svg) |
+| MK-107 | Rosoman | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-107.svg' height='80'> | [MK-107](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-107.svg) |
+| MK-108 | Sveti Nikole | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-108.jpeg' height='80'> | [MK-108](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-108.jpeg) |
+| MK-109 | Čaška | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-109.svg' height='80'> | [MK-109](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-109.svg) |
+| MK-201 | Berovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-201.svg' height='80'> | [MK-201](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-201.svg) |
+| MK-202 | Vinica | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-202.svg' height='80'> | [MK-202](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-202.svg) |
+| MK-203 | Delčevo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-203.svg' height='80'> | [MK-203](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-203.svg) |
+| MK-204 | Zrnovci | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-204.svg' height='80'> | [MK-204](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-204.svg) |
+| MK-205 | Karbinci | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-205.svg' height='80'> | [MK-205](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-205.svg) |
+| MK-206 | Kočani | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-206.svg' height='80'> | [MK-206](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-206.svg) |
+| MK-207 | Makedonska Kamenica | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-207.svg' height='80'> | [MK-207](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-207.svg) |
+| MK-208 | Pehčevo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-208.svg' height='80'> | [MK-208](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-208.svg) |
+| MK-209 | Probištip | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-209.png' height='80'> | [MK-209](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-209.png) |
+| MK-210 | Češinovo-Obleševo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-210.svg' height='80'> | [MK-210](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-210.svg) |
+| MK-211 | Štip | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-211.svg' height='80'> | [MK-211](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-211.svg) |
+| MK-301 | Vevčani | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-301.svg' height='80'> | [MK-301](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-301.svg) |
+| MK-303 | Debar | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-303.svg' height='80'> | [MK-303](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-303.svg) |
+| MK-304 | Debrca | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-304.svg' height='80'> | [MK-304](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-304.svg) |
+| MK-307 | Kičevo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-307.svg' height='80'> | [MK-307](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-307.svg) |
+| MK-308 | Makedonski Brod | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-308.svg' height='80'> | [MK-308](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-308.svg) |
+| MK-310 | Ohrid | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-310.png' height='80'> | [MK-310](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-310.png) |
+| MK-311 | Plasnica | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-311.svg' height='80'> | [MK-311](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-311.svg) |
+| MK-312 | Struga | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-312.svg' height='80'> | [MK-312](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-312.svg) |
+| MK-313 | Centar Župa | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-313.svg' height='80'> | [MK-313](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-313.svg) |
+| MK-401 | Bogdanci | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-401.svg' height='80'> | [MK-401](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-401.svg) |
+| MK-402 | Bosilovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-402.svg' height='80'> | [MK-402](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-402.svg) |
+| MK-403 | Valandovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-403.svg' height='80'> | [MK-403](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-403.svg) |
+| MK-404 | Vasilevo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-404.svg' height='80'> | [MK-404](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-404.svg) |
+| MK-405 | Gevgelija | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-405.png' height='80'> | [MK-405](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-405.png) |
+| MK-406 | Dojran | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-406.png' height='80'> | [MK-406](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-406.png) |
+| MK-407 | Konče | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-407.svg' height='80'> | [MK-407](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-407.svg) |
+| MK-408 | Novo Selo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-408.svg' height='80'> | [MK-408](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-408.svg) |
+| MK-409 | Radoviš | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-409.svg' height='80'> | [MK-409](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-409.svg) |
+| MK-410 | Strumica | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-410.svg' height='80'> | [MK-410](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-410.svg) |
+| MK-501 | Bitola | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-501.svg' height='80'> | [MK-501](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-501.svg) |
+| MK-502 | Demir Hisar | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-502.svg' height='80'> | [MK-502](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-502.svg) |
+| MK-503 | Dolneni | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-503.svg' height='80'> | [MK-503](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-503.svg) |
+| MK-504 | Krivogaštani | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-504.svg' height='80'> | [MK-504](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-504.svg) |
+| MK-505 | Kruševo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-505.svg' height='80'> | [MK-505](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-505.svg) |
+| MK-506 | Mogila | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-506.svg' height='80'> | [MK-506](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-506.svg) |
+| MK-507 | Novaci | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-507.svg' height='80'> | [MK-507](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-507.svg) |
+| MK-508 | Prilep | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-508.svg' height='80'> | [MK-508](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-508.svg) |
+| MK-509 | Resen | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-509.svg' height='80'> | [MK-509](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-509.svg) |
+| MK-601 | Bogovinje | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-601.svg' height='80'> | [MK-601](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-601.svg) |
+| MK-602 | Brvenica | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-602.svg' height='80'> | [MK-602](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-602.svg) |
+| MK-603 | Vrapčište | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-603.svg' height='80'> | [MK-603](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-603.svg) |
+| MK-604 | Gostivar | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-604.svg' height='80'> | [MK-604](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-604.svg) |
+| MK-605 | Želino | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-605.svg' height='80'> | [MK-605](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-605.svg) |
+| MK-606 | Jegunovce | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-606.svg' height='80'> | [MK-606](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-606.svg) |
+| MK-607 | Mavrovo i Rostuše | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-607.svg' height='80'> | [MK-607](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-607.svg) |
+| MK-608 | Tearce | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-608.svg' height='80'> | [MK-608](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-608.svg) |
+| MK-609 | Tetovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-609.svg' height='80'> | [MK-609](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-609.svg) |
+| MK-701 | Kratovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-701.svg' height='80'> | [MK-701](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-701.svg) |
+| MK-702 | Kriva Palanka | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-702.svg' height='80'> | [MK-702](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-702.svg) |
+| MK-703 | Kumanovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-703.svg' height='80'> | [MK-703](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-703.svg) |
+| MK-704 | Lipkovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-704.svg' height='80'> | [MK-704](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-704.svg) |
+| MK-705 | Rankovce | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-705.svg' height='80'> | [MK-705](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-705.svg) |
+| MK-706 | Staro Nagoričane | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-706.svg' height='80'> | [MK-706](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-706.svg) |
+| MK-801 | Aerodrom † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-801.svg' height='80'> | [MK-801](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-801.svg) |
+| MK-802 | Aračinovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-802.svg' height='80'> | [MK-802](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-802.svg) |
+| MK-803 | Butel † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-803.svg' height='80'> | [MK-803](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-803.svg) |
+| MK-804 | Gazi Baba † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-804.svg' height='80'> | [MK-804](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-804.svg) |
+| MK-805 | Gjorče Petrov † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-805.svg' height='80'> | [MK-805](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-805.svg) |
+| MK-806 | Zelenikovo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-806.svg' height='80'> | [MK-806](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-806.svg) |
+| MK-807 | Ilinden | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-807.svg' height='80'> | [MK-807](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-807.svg) |
+| MK-808 | Karpoš † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-808.svg' height='80'> | [MK-808](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-808.svg) |
+| MK-809 | Kisela Voda † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-809.svg' height='80'> | [MK-809](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-809.svg) |
+| MK-810 | Petrovec | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-810.svg' height='80'> | [MK-810](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-810.svg) |
+| MK-811 | Saraj † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-811.svg' height='80'> | [MK-811](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-811.svg) |
+| MK-812 | Sopište | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-812.svg' height='80'> | [MK-812](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-812.svg) |
+| MK-813 | Studeničani | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-813.png' height='80'> | [MK-813](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-813.png) |
+| MK-814 | Centar † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-814.svg' height='80'> | [MK-814](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-814.png) |
+| MK-815 | Čair † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-815.svg' height='80'> | [MK-815](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-815.svg) |
+| MK-816 | Čučer-Sandevo | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-816.jpg' height='80'> | [MK-816](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-816.png) |
+| MK-817 | Šuto Orizari † | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MK/MK-817.svg' height='80'> | [MK-817](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MK/MK-817.svg) |

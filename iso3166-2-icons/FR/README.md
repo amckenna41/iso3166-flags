@@ -1,136 +1,136 @@
-# France Subdivisions 🇫🇷
+# France Subdivisions ![](https://flagcdn.com/h40/fr.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:FR
+- **ISO Code**: FR
+- **Number of subdivisions**: 124
+- **Subdivision Type**: Dependency, European collectivity, Metropolitan collectivity with special status, Metropolitan department, Metropolitan region, Overseas collectivity, Overseas collectivity with special status, Overseas departmental collectivity, Overseas territory, Overseas unique territorial collectivity
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/FR
 
-* FR-01 (Ain) -> [FR-01.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-01.svg)
-* FR-02 (Aisne) -> [FR-02.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-02.svg)
-* FR-03 (Allier) -> [FR-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-03.svg)
-* FR-04 (Alpes-De-Haute-Provence) -> [FR-04.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-04.svg)
-* FR-05 (Hautes-Alpes) -> [FR-05.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-05.svg)
-* FR-06 (Alpes-Maritimes) -> [FR-06.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-06.svg)
-* FR-07 (Ardèche) -> [FR-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-07.svg)
-* FR-08 (Ardennes) -> [FR-08.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-08.svg)
-* FR-09 (Ariège) -> [FR-09.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-09.svg)
-* FR-10 (Aube) -> [FR-10.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-10.svg)
-* FR-11 (Aude) -> [FR-11.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-11.svg)
-* FR-12 (Aveyron) -> [FR-12.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-12.svg)
-* FR-13 (Bouches-Du-Rhône) -> [FR-13.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-13.svg)
-* FR-14 (Calvados) -> [FR-14.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-14.svg)
-* FR-15 (Cantal) -> [FR-15.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-15.svg)
-* FR-16 (Charente) -> [FR-16.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-16.svg)
-* FR-17 (Charente-Maritime) -> [FR-17.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-17.svg)
-* FR-18 (Cher) -> [FR-18.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-18.svg)
-* FR-19 (Corrèze) -> [FR-19.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-19.svg)
-* FR-20R (Corse) -> [FR-20R.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-20R.svg)
-* FR-21 (Côte-D'Or) -> [FR-21.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-21.svg)
-* FR-22 (Côtes-D'Armor) -> [FR-22.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-22.svg)
-* FR-23 (Creuse) -> [FR-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-23.svg)
-* FR-24 (Dordogne) -> [FR-24.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-24.svg)
-* FR-25 (Doubs) -> [FR-25.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-25.svg)
-* FR-26 (Drôme) -> [FR-26.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-26.svg)
-* FR-27 (Eure) -> [FR-27.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-27.svg)
-* FR-28 (Eure-Et-Loir) -> [FR-28.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-28.svg)
-* FR-29 (Finistère) -> [FR-29.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-29.svg)
-* FR-2A (Corse-Du-Sud) -> [FR-2A.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-2A.jpeg)
-* FR-2B (Haute-Corse) -> [FR-2B.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-2B.svg)
-* FR-30 (Gard) -> [FR-30.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-30.svg)
-* FR-32 (Gers) -> [FR-32.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-32.svg)
-* FR-33 (Gironde) -> [FR-33.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-33.svg)
-* FR-34 (Hérault) -> [FR-34.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-34.svg)
-* FR-35 (Ille-Et-Vilaine) -> [FR-35.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-35.svg)
-* FR-36 (Indre) -> [FR-36.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-36.svg)
-* FR-37 (Indre-Et-Loire) -> [FR-37.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-37.svg)
-* FR-38 (Isère) -> [FR-38.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-38.svg)
-* FR-39 (Jura) -> [FR-39.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-39.svg)
-* FR-40 (Landes) -> [FR-40.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-40.svg)
-* FR-41 (Loir-Et-Cher) -> [FR-41.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-41.svg)
-* FR-42 (Loire) -> [FR-42.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-42.svg)
-* FR-43 (Haute-Loire) -> [FR-43.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-43.svg)
-* FR-44 (Loire-Atlantique) -> [FR-44.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-44.svg)
-* FR-45 (Loiret) -> [FR-45.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-45.svg)
-* FR-46 (Lot) -> [FR-46.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-46.svg)
-* FR-47 (Lot-Et-Garonne) -> [FR-47.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-47.svg)
-* FR-48 (Lozère) -> [FR-48.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-48.svg)
-* FR-49 (Maine-Et-Loire) -> [FR-49.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-49.svg)
-* FR-50 (Manche) -> [FR-50.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-50.svg)
-* FR-51 (Marne) -> [FR-51.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-51.svg)
-* FR-52 (Haute-Marne) -> [FR-52.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-52.svg)
-* FR-53 (Mayenne) -> [FR-53.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-53.svg)
-* FR-54 (Meurthe-Et-Moselle) -> [FR-54.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-54.svg)
-* FR-55 (Meuse) -> [FR-55.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-55.svg)
-* FR-56 (Morbihan) -> [FR-56.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-56.svg)
-* FR-57 (Moselle) -> [FR-57.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-57.svg)
-* FR-58 (Nièvre) -> [FR-58.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-58.svg)
-* FR-59 (Nord) -> [FR-59.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-59.svg)
-* FR-60 (Oise) -> [FR-60.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-60.svg)
-* FR-61 (Orne) -> [FR-61.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-61.svg)
-* FR-62 (Pas-De-Calais) -> [FR-62.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-62.svg)
-* FR-63 (Puy-De-Dôme) -> [FR-63.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-63.svg)
-* FR-64 (Pyrénées-Atlantiques) -> [FR-64.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-64.svg)
-* FR-65 (Hautes-Pyrénées) -> [FR-65.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-65.svg)
-* FR-66 (Pyrénées-Orientales) -> [FR-66.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-66.svg)
-* FR-67 (Bas-Rhin) -> [FR-67.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-67.jpeg)
-* FR-68 (Haut-Rhin) -> [FR-68.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-68.svg)
-* FR-69 (Rhône) -> [FR-69.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-69.svg)
-* FR-6AE (Rhône) -> [FR-6AE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-6AE.svg)
-* FR-70 (Haute-Saône) -> [FR-70.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-70.svg)
-* FR-71 (Saône-Et-Loire) -> [FR-71.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-71.svg)
-* FR-72 (Sarthe) -> [FR-72.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-72.svg)
-* FR-73 (Savoie) -> [FR-73.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-73.svg)
-* FR-74 (Haute-Savoie) -> [FR-74.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-74.svg)
-* FR-75C (Haute-Savoie) -> [FR-75C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-75C.svg)
-* FR-76 (Seine-Maritime) -> [FR-76.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-76.svg)
-* FR-77 (Seine-Et-Marne) -> [FR-77.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-77.svg)
-* FR-78 (Yvelines) -> [FR-78.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-78.svg)
-* FR-79 (Deux-Sèvres) -> [FR-79.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-79.svg)
-* FR-80 (Somme) -> [FR-80.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-80.svg)
-* FR-81 (Tarn) -> [FR-81.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-81.svg)
-* FR-82 (Tarn-Et-Garonne) -> [FR-82.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-82.svg)
-* FR-83 (Var) -> [FR-83.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-83.svg)
-* FR-84 (Vaucluse) -> [FR-84.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-84.svg)
-* FR-85 (Vendée) -> [FR-85.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-85.svg)
-* FR-86 (Vienne) -> [FR-86.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-86.svg)
-* FR-87 (Haute-Vienne) -> [FR-87.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-87.svg)
-* FR-88 (Vosges) -> [FR-88.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-88.svg)
-* FR-89 (Yonne) -> [FR-89.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-89.svg)
-* FR-90 (Territoire De Belfort) -> [FR-90.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-90.svg)
-* FR-91 (Essonne) -> [FR-91.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-91.svg)
-* FR-92 (Hauts-De-Seine) -> [FR-92.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-92.svg)
-* FR-93 (Seine-Saint-Denis) -> [FR-93.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-93.svg)
-* FR-94 (Val-De-Marne) -> [FR-94.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-94.svg)
-* FR-95 (Val-D'Oise) -> [FR-95.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-95.svg)
-* FR-971 (Guadeloupe) -> [FR-971.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-971.svg)
-* FR-972 (Martinique) -> [FR-972.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-972.svg)
-* FR-973 (Guyane (Française)) -> [FR-973.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-973.svg)
-* FR-974 (La Réunion) -> [FR-974.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-974.svg)
-* FR-976 (Mayotte) -> [FR-976.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-976.svg)
-* FR-ARA (Auvergne-Rhône-Alpes) -> [FR-ARA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-ARA.svg)
-* FR-BFC (Bourgogne-Franche-Comté) -> [FR-BFC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-BFC.svg)
-* FR-BL (Saint-Barthélemy) -> [FR-BL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-BL.svg)
-* FR-BRE (Bretagne) -> [FR-BRE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-BRE.svg)
-* FR-CP (Clipperton) -> [FR-CP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-CP.svg)
-* FR-CVL (Centre-Val De Loire) -> [FR-CVL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-CVL.svg)
-* FR-GES (Grand-Est) -> [FR-GES.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-GES.svg)
-* FR-HDF (Hauts-De-France) -> [FR-HDF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-HDF.svg)
-* FR-IDF (Île-De-France) -> [FR-IDF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-IDF.svg)
-* FR-MF (Saint-Martin) -> [FR-MF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-MF.svg)
-* FR-NAQ (Nouvelle-Aquitaine) -> [FR-NAQ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-NAQ.svg)
-* FR-NC (Nouvelle-Calédonie) -> [FR-NC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-NC.svg)
-* FR-NOR (Normandie) -> [FR-NOR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-NOR.svg)
-* FR-OCC (Occitanie) -> [FR-OCC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-OCC.svg)
-* FR-PAC (Provence-Alpes-Côte-D’Azur) -> [FR-PAC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PAC.svg)
-* FR-PDL (Pays-De-La-Loire) -> [FR-PDL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PDL.svg)
-* FR-PF (Polynésie Française) -> [FR-PF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PF.svg)
-* FR-PM (Saint-Pierre-Et-Miquelon) -> [FR-PM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PM.svg)
-* FR-TF (Terres Australes Françaises) -> [FR-TF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-TF.svg)
-* FR-WF (Wallis-Et-Futuna) -> [FR-WF.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-WF.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| FR-01 | Ain | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-01.svg' height='80'> | [FR-01](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-01.svg) |
+| FR-02 | Aisne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-02.svg' height='80'> | [FR-02](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-02.svg) |
+| FR-03 | Allier | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-03.svg' height='80'> | [FR-03](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-03.svg) |
+| FR-04 | Alpes-de-Haute-Provence | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-04.svg' height='80'> | [FR-04](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-04.svg) |
+| FR-05 | Hautes-Alpes | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-05.svg' height='80'> | [FR-05](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-05.svg) |
+| FR-06 | Alpes-Maritimes | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-06.svg' height='80'> | [FR-06](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-06.svg) |
+| FR-07 | Ardèche | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-07.svg' height='80'> | [FR-07](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-07.svg) |
+| FR-08 | Ardennes | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-08.svg' height='80'> | [FR-08](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-08.svg) |
+| FR-09 | Ariège | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-09.svg' height='80'> | [FR-09](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-09.svg) |
+| FR-10 | Aube | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-10.svg' height='80'> | [FR-10](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-10.svg) |
+| FR-11 | Aude | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-11.svg' height='80'> | [FR-11](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-11.svg) |
+| FR-12 | Aveyron | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-12.svg' height='80'> | [FR-12](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-12.svg) |
+| FR-13 | Bouches-du-Rhône | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-13.svg' height='80'> | [FR-13](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-13.svg) |
+| FR-14 | Calvados | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-14.svg' height='80'> | [FR-14](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-14.svg) |
+| FR-15 | Cantal | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-15.svg' height='80'> | [FR-15](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-15.svg) |
+| FR-16 | Charente | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-16.svg' height='80'> | [FR-16](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-16.svg) |
+| FR-17 | Charente-Maritime | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-17.svg' height='80'> | [FR-17](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-17.svg) |
+| FR-18 | Cher | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-18.svg' height='80'> | [FR-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-18.svg) |
+| FR-19 | Corrèze | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-19.svg' height='80'> | [FR-19](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-19.svg) |
+| FR-20R | Corse | Metropolitan collectivity with special status | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-20R.svg' height='80'> | [FR-20R](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-20R.svg) |
+| FR-21 | Côte-d'Or | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-21.svg' height='80'> | [FR-21](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-21.svg) |
+| FR-22 | Côtes-d'Armor | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-22.svg' height='80'> | [FR-22](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-22.svg) |
+| FR-23 | Creuse | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-23.svg' height='80'> | [FR-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-23.svg) |
+| FR-24 | Dordogne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-24.svg' height='80'> | [FR-24](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-24.svg) |
+| FR-25 | Doubs | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-25.svg' height='80'> | [FR-25](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-25.svg) |
+| FR-26 | Drôme | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-26.svg' height='80'> | [FR-26](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-26.svg) |
+| FR-27 | Eure | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-27.svg' height='80'> | [FR-27](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-27.svg) |
+| FR-28 | Eure-et-Loir | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-28.svg' height='80'> | [FR-28](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-28.svg) |
+| FR-29 | Finistère | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-29.svg' height='80'> | [FR-29](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-29.svg) |
+| FR-2A | Corse-du-Sud | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-2A.jpeg' height='80'> | [FR-2A](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-2A.jpeg) |
+| FR-2B | Haute-Corse | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-2B.svg' height='80'> | [FR-2B](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-2B.svg) |
+| FR-30 | Gard | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-30.svg' height='80'> | [FR-30](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-30.svg) |
+| FR-32 | Gers | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-32.svg' height='80'> | [FR-32](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-32.svg) |
+| FR-33 | Gironde | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-33.svg' height='80'> | [FR-33](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-33.svg) |
+| FR-34 | Hérault | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-34.svg' height='80'> | [FR-34](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-34.svg) |
+| FR-35 | Ille-et-Vilaine | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-35.svg' height='80'> | [FR-35](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-35.svg) |
+| FR-36 | Indre | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-36.svg' height='80'> | [FR-36](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-36.svg) |
+| FR-37 | Indre-et-Loire | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-37.svg' height='80'> | [FR-37](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-37.svg) |
+| FR-38 | Isère | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-38.svg' height='80'> | [FR-38](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-38.svg) |
+| FR-39 | Jura | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-39.svg' height='80'> | [FR-39](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-39.svg) |
+| FR-40 | Landes | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-40.svg' height='80'> | [FR-40](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-40.svg) |
+| FR-41 | Loir-et-Cher | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-41.svg' height='80'> | [FR-41](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-41.svg) |
+| FR-42 | Loire | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-42.svg' height='80'> | [FR-42](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-42.svg) |
+| FR-43 | Haute-Loire | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-43.svg' height='80'> | [FR-43](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-43.svg) |
+| FR-44 | Loire-Atlantique | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-44.svg' height='80'> | [FR-44](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-44.svg) |
+| FR-45 | Loiret | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-45.svg' height='80'> | [FR-45](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-45.svg) |
+| FR-46 | Lot | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-46.svg' height='80'> | [FR-46](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-46.svg) |
+| FR-47 | Lot-et-Garonne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-47.svg' height='80'> | [FR-47](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-47.svg) |
+| FR-48 | Lozère | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-48.svg' height='80'> | [FR-48](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-48.svg) |
+| FR-49 | Maine-et-Loire | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-49.svg' height='80'> | [FR-49](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-49.svg) |
+| FR-50 | Manche | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-50.svg' height='80'> | [FR-50](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-50.svg) |
+| FR-51 | Marne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-51.svg' height='80'> | [FR-51](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-51.svg) |
+| FR-52 | Haute-Marne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-52.svg' height='80'> | [FR-52](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-52.svg) |
+| FR-53 | Mayenne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-53.svg' height='80'> | [FR-53](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-53.svg) |
+| FR-54 | Meurthe-et-Moselle | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-54.svg' height='80'> | [FR-54](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-54.svg) |
+| FR-55 | Meuse | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-55.svg' height='80'> | [FR-55](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-55.svg) |
+| FR-56 | Morbihan | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-56.svg' height='80'> | [FR-56](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-56.svg) |
+| FR-57 | Moselle | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-57.svg' height='80'> | [FR-57](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-57.svg) |
+| FR-58 | Nièvre | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-58.svg' height='80'> | [FR-58](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-58.svg) |
+| FR-59 | Nord | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-59.svg' height='80'> | [FR-59](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-59.svg) |
+| FR-60 | Oise | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-60.svg' height='80'> | [FR-60](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-60.svg) |
+| FR-61 | Orne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-61.svg' height='80'> | [FR-61](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-61.svg) |
+| FR-62 | Pas-de-Calais | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-62.svg' height='80'> | [FR-62](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-62.svg) |
+| FR-63 | Puy-de-Dôme | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-63.svg' height='80'> | [FR-63](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-63.svg) |
+| FR-64 | Pyrénées-Atlantiques | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-64.svg' height='80'> | [FR-64](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-64.svg) |
+| FR-65 | Hautes-Pyrénées | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-65.svg' height='80'> | [FR-65](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-65.svg) |
+| FR-66 | Pyrénées-Orientales | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-66.svg' height='80'> | [FR-66](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-66.svg) |
+| FR-67 | Bas-Rhin | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-67.jpeg' height='80'> | [FR-67](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-67.jpeg) |
+| FR-68 | Haut-Rhin | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-68.svg' height='80'> | [FR-68](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-68.svg) |
+| FR-69 | Rhône | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-69.svg' height='80'> | [FR-69](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-69.svg) |
+| FR-69M | Métropole de Lyon | Metropolitan collectivity with special status | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-69M.svg' height='80'> | [FR-69M](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-69M.svg) |
+| FR-6AE | Alsace | European collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-6AE.svg' height='80'> | [FR-6AE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-6AE.svg) |
+| FR-70 | Haute-Saône | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-70.svg' height='80'> | [FR-70](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-70.svg) |
+| FR-71 | Saône-et-Loire | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-71.svg' height='80'> | [FR-71](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-71.svg) |
+| FR-72 | Sarthe | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-72.svg' height='80'> | [FR-72](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-72.svg) |
+| FR-73 | Savoie | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-73.svg' height='80'> | [FR-73](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-73.svg) |
+| FR-74 | Haute-Savoie | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-74.svg' height='80'> | [FR-74](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-74.svg) |
+| FR-75C | Paris | Metropolitan collectivity with special status | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-75C.svg' height='80'> | [FR-75C](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-75C.svg) |
+| FR-76 | Seine-Maritime | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-76.svg' height='80'> | [FR-76](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-76.svg) |
+| FR-77 | Seine-et-Marne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-77.svg' height='80'> | [FR-77](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-77.svg) |
+| FR-78 | Yvelines | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-78.svg' height='80'> | [FR-78](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-78.svg) |
+| FR-79 | Deux-Sèvres | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-79.svg' height='80'> | [FR-79](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-79.svg) |
+| FR-80 | Somme | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-80.svg' height='80'> | [FR-80](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-80.svg) |
+| FR-81 | Tarn | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-81.svg' height='80'> | [FR-81](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-81.svg) |
+| FR-82 | Tarn-et-Garonne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-82.svg' height='80'> | [FR-82](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-82.svg) |
+| FR-83 | Var | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-83.svg' height='80'> | [FR-83](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-83.svg) |
+| FR-84 | Vaucluse | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-84.svg' height='80'> | [FR-84](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-84.svg) |
+| FR-85 | Vendée | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-85.svg' height='80'> | [FR-85](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-85.svg) |
+| FR-86 | Vienne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-86.svg' height='80'> | [FR-86](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-86.svg) |
+| FR-87 | Haute-Vienne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-87.svg' height='80'> | [FR-87](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-87.svg) |
+| FR-88 | Vosges | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-88.svg' height='80'> | [FR-88](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-88.svg) |
+| FR-89 | Yonne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-89.svg' height='80'> | [FR-89](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-89.svg) |
+| FR-90 | Territoire de Belfort | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-90.svg' height='80'> | [FR-90](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-90.svg) |
+| FR-91 | Essonne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-91.svg' height='80'> | [FR-91](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-91.svg) |
+| FR-92 | Hauts-de-Seine | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-92.svg' height='80'> | [FR-92](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-92.svg) |
+| FR-93 | Seine-Saint-Denis | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-93.svg' height='80'> | [FR-93](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-93.svg) |
+| FR-94 | Val-de-Marne | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-94.svg' height='80'> | [FR-94](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-94.svg) |
+| FR-95 | Val-d'Oise | Metropolitan department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-95.svg' height='80'> | [FR-95](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-95.svg) |
+| FR-971 | Guadeloupe | Overseas departmental collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-971.svg' height='80'> | [FR-971](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-971.svg) |
+| FR-972 | Martinique | Overseas unique territorial collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-972.svg' height='80'> | [FR-972](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-972.svg) |
+| FR-973 | Guyane (française) | Overseas unique territorial collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-973.svg' height='80'> | [FR-973](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-973.svg) |
+| FR-974 | La Réunion | Overseas departmental collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-974.svg' height='80'> | [FR-974](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-974.svg) |
+| FR-976 | Mayotte | Overseas departmental collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-976.svg' height='80'> | [FR-976](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-976.svg) |
+| FR-ARA | Auvergne-Rhône-Alpes | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-ARA.svg' height='80'> | [FR-ARA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-ARA.svg) |
+| FR-BFC | Bourgogne-Franche-Comté | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-BFC.svg' height='80'> | [FR-BFC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-BFC.svg) |
+| FR-BL | Saint-Barthélemy | Overseas collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-BL.svg' height='80'> | [FR-BL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-BL.svg) |
+| FR-BRE | Bretagne | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-BRE.svg' height='80'> | [FR-BRE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-BRE.svg) |
+| FR-CP | Clipperton | Dependency | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-CP.svg' height='80'> | [FR-CP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-CP.svg) |
+| FR-CVL | Centre-Val de Loire | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-CVL.svg' height='80'> | [FR-CVL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-CVL.svg) |
+| FR-GES | Grand-Est | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-GES.svg' height='80'> | [FR-GES](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-GES.svg) |
+| FR-HDF | Hauts-de-France | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-HDF.svg' height='80'> | [FR-HDF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-HDF.svg) |
+| FR-IDF | Île-de-France | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-IDF.svg' height='80'> | [FR-IDF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-IDF.svg) |
+| FR-MF | Saint-Martin | Overseas collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-MF.svg' height='80'> | [FR-MF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-MF.svg) |
+| FR-NAQ | Nouvelle-Aquitaine | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-NAQ.svg' height='80'> | [FR-NAQ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-NAQ.svg) |
+| FR-NC | Nouvelle-Calédonie | Overseas collectivity with special status | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-NC.svg' height='80'> | [FR-NC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-NC.svg) |
+| FR-NOR | Normandie | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-NOR.svg' height='80'> | [FR-NOR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-NOR.svg) |
+| FR-OCC | Occitanie | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-OCC.svg' height='80'> | [FR-OCC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-OCC.svg) |
+| FR-PAC | Provence-Alpes-Côte-d’Azur | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-PAC.svg' height='80'> | [FR-PAC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PAC.svg) |
+| FR-PDL | Pays-de-la-Loire | Metropolitan region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-PDL.svg' height='80'> | [FR-PDL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PDL.svg) |
+| FR-PF | Polynésie française | Overseas collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-PF.svg' height='80'> | [FR-PF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PF.svg) |
+| FR-PM | Saint-Pierre-et-Miquelon | Overseas collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-PM.svg' height='80'> | [FR-PM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-PM.svg) |
+| FR-TF | Terres australes françaises | Overseas territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-TF.svg' height='80'> | [FR-TF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-TF.svg) |
+| FR-WF | Wallis-et-Futuna | Overseas collectivity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/FR/FR-WF.svg' height='80'> | [FR-WF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/FR/FR-WF.svg) |
 
-France ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:FR):
+France ISO 3166-2 subdivisions with no available flags:
 
-* FR-31: Haute-Garonne (Metropolitan department)
-* FR-75: Paris (Metropolitan department)
-* FR-GF: Guyane (française) (Overseas region)
-* FR-GP: Guadeloupe (Overseas region)
-* FR-MQ: Martinique (Overseas region)
-* FR-RE: La Réunion (Overseas region)
-* FR-YT: Mayotte (Overseas region)
+* **FR-31: Haute-Garonne (Metropolitan department)**

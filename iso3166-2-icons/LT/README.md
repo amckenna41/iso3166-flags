@@ -1,74 +1,82 @@
-# Lithuania Subdivisions 🇱🇹
+# Lithuania Subdivisions ![](https://flagcdn.com/h40/lt.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:LT
+- **ISO Code**: LT
+- **Number of subdivisions**: 70
+- **Subdivision Type**: City municipality, County, District municipality, Municipality
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LT
 
-* LT-01 (Akmenė) -> [LT-01.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-01.svg)
-* LT-02 (Alytaus Miestas) -> [LT-02.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-02.png)
-* LT-03 (Alytus) -> [LT-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-03.svg)
-* LT-04 (Anykščiai) -> [LT-04.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-04.svg)
-* LT-05 (Birštono) -> [LT-05.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-05.svg)
-* LT-06 (Biržai) -> [LT-06.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-06.svg)
-* LT-07 (Druskininkai) -> [LT-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-07.svg)
-* LT-08 (Elektrėnai) -> [LT-08.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-08.svg)
-* LT-09 (Ignalina) -> [LT-09.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-09.svg)
-* LT-10 (Jonava) -> [LT-10.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-10.svg)
-* LT-11 (Joniškis) -> [LT-11.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-11.svg)
-* LT-12 (Jurbarkas) -> [LT-12.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-12.svg)
-* LT-13 (Kaišiadorys) -> [LT-13.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-13.svg)
-* LT-14 (Kalvarijos) -> [LT-14.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-14.svg)
-* LT-15 (Kauno Miestas) -> [LT-15.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-15.svg)
-* LT-16 (Kaunas) -> [LT-16.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-16.svg)
-* LT-17 (Kazlų Rūdos) -> [LT-17.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-17.svg)
-* LT-18 (Kėdainiai) -> [LT-18.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-18.svg)
-* LT-19 (Kelmė) -> [LT-19.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-19.svg)
-* LT-20 (Klaipėdos Miestas) -> [LT-20.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-20.svg)
-* LT-21 (Klaipėda) -> [LT-21.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-21.svg)
-* LT-22 (Kretinga) -> [LT-22.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-22.svg)
-* LT-23 (Kupiškis) -> [LT-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-23.svg)
-* LT-24 (Lazdijai) -> [LT-24.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-24.svg)
-* LT-25 (Marijampolė) -> [LT-25.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-25.svg)
-* LT-26 (Mažeikiai) -> [LT-26.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-26.svg)
-* LT-27 (Molėtai) -> [LT-27.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-27.png)
-* LT-28 (Neringa) -> [LT-28.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-28.svg)
-* LT-29 (Pagėgiai) -> [LT-29.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-29.svg)
-* LT-30 (Pakruojis) -> [LT-30.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-30.svg)
-* LT-31 (Palangos Miestas) -> [LT-31.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-31.svg)
-* LT-32 (Panevėžio Miestas) -> [LT-32.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-32.svg)
-* LT-33 (Panevėžys) -> [LT-33.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-33.svg)
-* LT-34 (Pasvalys) -> [LT-34.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-34.svg)
-* LT-35 (Plungė) -> [LT-35.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-35.svg)
-* LT-36 (Prienai) -> [LT-36.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-36.svg)
-* LT-37 (Radviliškis) -> [LT-37.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-37.svg)
-* LT-38 (Raseiniai) -> [LT-38.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-38.svg)
-* LT-39 (Rietavo) -> [LT-39.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-39.png)
-* LT-40 (Rokiškis) -> [LT-40.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-40.svg)
-* LT-41 (Šakiai) -> [LT-41.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-41.svg)
-* LT-42 (Šalčininkai) -> [LT-42.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-42.svg)
-* LT-43 (Šiaulių Miestas) -> [LT-43.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-43.svg)
-* LT-44 (Šiauliai) -> [LT-44.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-44.svg)
-* LT-45 (Šilalė) -> [LT-45.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-45.svg)
-* LT-46 (Šilutė) -> [LT-46.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-46.svg)
-* LT-47 (Širvintos) -> [LT-47.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-47.svg)
-* LT-48 (Skuodas) -> [LT-48.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-48.svg)
-* LT-49 (Švenčionys) -> [LT-49.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-49.svg)
-* LT-50 (Tauragė) -> [LT-50.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-50.svg)
-* LT-51 (Telšiai) -> [LT-51.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-51.svg)
-* LT-52 (Trakai) -> [LT-52.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-52.svg)
-* LT-53 (Ukmergė) -> [LT-53.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-53.svg)
-* LT-54 (Utena) -> [LT-54.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-54.svg)
-* LT-55 (Varėna) -> [LT-55.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-55.svg)
-* LT-56 (Vilkaviškis) -> [LT-56.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-56.svg)
-* LT-57 (Vilniaus Miestas) -> [LT-57.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-57.svg)
-* LT-58 (Vilnius) -> [LT-58.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-58.svg)
-* LT-59 (Visaginas) -> [LT-59.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-59.svg)
-* LT-60 (Zarasai) -> [LT-60.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-60.svg)
-* LT-AL (Alytaus Apskritis) -> [LT-AL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-AL.svg)
-* LT-KL (Klaipėdos Apskritis) -> [LT-KL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-KL.svg)
-* LT-KU (Kauno Apskritis) -> [LT-KU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-KU.svg)
-* LT-MR (Marijampolės Apskritis) -> [LT-MR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-MR.svg)
-* LT-PN (Panevėžio Apskritis) -> [LT-PN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-PN.png)
-* LT-SA (Šiaulių Apskritis) -> [LT-SA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-SA.svg)
-* LT-TA (Tauragės Apskritis) -> [LT-TA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-TA.png)
-* LT-TE (Telšių Apskritis) -> [LT-TE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-TE.png)
-* LT-UT (Utenos Apskritis) -> [LT-UT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-UT.svg)
-* LT-VL (Vilniaus Apskritis) -> [LT-VL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-VL.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| LT-01 | Akmenė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-01.svg' height='80'> | [LT-01](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-01.svg) |
+| LT-02 | Alytaus miestas | City municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-02.png' height='80'> | [LT-02](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-02.png) |
+| LT-03 | Alytus | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-03.svg' height='80'> | [LT-03](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-03.jpg) |
+| LT-04 | Anykščiai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-04.svg' height='80'> | [LT-04](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-04.svg) |
+| LT-05 | Birštonas | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-05.svg' height='80'> | [LT-05](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-05.png) |
+| LT-06 | Biržai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-06.svg' height='80'> | [LT-06](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-06.png) |
+| LT-07 | Druskininkai | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-07.svg' height='80'> | [LT-07](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-07.png) |
+| LT-08 | Elektrėnai | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-08.svg' height='80'> | [LT-08](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-08.svg) |
+| LT-09 | Ignalina | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-09.svg' height='80'> | [LT-09](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-09.svg) |
+| LT-10 | Jonava | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-10.svg' height='80'> | [LT-10](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-10.svg) |
+| LT-11 | Joniškis | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-11.svg' height='80'> | [LT-11](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-11.png) |
+| LT-12 | Jurbarkas | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-12.svg' height='80'> | [LT-12](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-12.png) |
+| LT-14 | Kalvarija | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-14.svg' height='80'> | [LT-14](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-14.png) |
+| LT-15 | Kauno miestas | City municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-15.svg' height='80'> | [LT-15](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-15.svg) |
+| LT-16 | Kaunas | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-16.svg' height='80'> | [LT-16](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-16.png) |
+| LT-17 | Kazlų Rūdos | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-17.svg' height='80'> | [LT-17](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-17.png) |
+| LT-18 | Kėdainiai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-18.svg' height='80'> | [LT-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-18.png) |
+| LT-19 | Kelmė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-19.svg' height='80'> | [LT-19](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-19.png) |
+| LT-20 | Klaipėdos miestas | City municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-20.svg' height='80'> | [LT-20](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-20.svg) |
+| LT-21 | Klaipėda | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-21.svg' height='80'> | [LT-21](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-21.svg) |
+| LT-22 | Kretinga | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-22.svg' height='80'> | [LT-22](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-22.png) |
+| LT-23 | Kupiškis | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-23.svg' height='80'> | [LT-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-23.png) |
+| LT-24 | Lazdijai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-24.svg' height='80'> | [LT-24](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-24.png) |
+| LT-25 | Marijampolė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-25.svg' height='80'> | [LT-25](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-25.svg) |
+| LT-26 | Mažeikiai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-26.svg' height='80'> | [LT-26](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-26.png) |
+| LT-27 | Molėtai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-27.png' height='80'> | [LT-27](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-27.png) |
+| LT-28 | Neringa | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-28.svg' height='80'> | [LT-28](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-28.svg) |
+| LT-29 | Pagėgiai | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-29.svg' height='80'> | [LT-29](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-29.png) |
+| LT-30 | Pakruojis | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-30.svg' height='80'> | [LT-30](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-30.png) |
+| LT-31 | Palangos miestas | City municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-31.svg' height='80'> | [LT-31](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-31.jpg) |
+| LT-32 | Panevėžio miestas | City municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-32.svg' height='80'> | [LT-32](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-32.svg) |
+| LT-33 | Panevėžys | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-33.svg' height='80'> | [LT-33](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-33.svg) |
+| LT-34 | Pasvalys | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-34.svg' height='80'> | [LT-34](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-34.png) |
+| LT-35 | Plungė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-35.svg' height='80'> | [LT-35](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-35.svg) |
+| LT-36 | Prienai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-36.svg' height='80'> | [LT-36](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-36.svg) |
+| LT-37 | Radviliškis | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-37.svg' height='80'> | [LT-37](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-37.svg) |
+| LT-38 | Raseiniai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-38.svg' height='80'> | [LT-38](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-38.jpg) |
+| LT-39 | Rietavas | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-39.png' height='80'> | [LT-39](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-39.png) |
+| LT-40 | Rokiškis | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-40.svg' height='80'> | [LT-40](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-40.svg) |
+| LT-41 | Šakiai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-41.svg' height='80'> | [LT-41](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-41.png) |
+| LT-42 | Šalčininkai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-42.svg' height='80'> | [LT-42](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-42.svg) |
+| LT-43 | Šiaulių miestas | City municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-43.svg' height='80'> | [LT-43](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-43.svg) |
+| LT-44 | Šiauliai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-44.svg' height='80'> | [LT-44](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-44.svg) |
+| LT-45 | Šilalė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-45.svg' height='80'> | [LT-45](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-45.svg) |
+| LT-46 | Šilutė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-46.svg' height='80'> | [LT-46](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-46.png) |
+| LT-47 | Širvintos | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-47.svg' height='80'> | [LT-47](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-47.svg) |
+| LT-48 | Skuodas | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-48.svg' height='80'> | [LT-48](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-48.png) |
+| LT-49 | Švenčionys | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-49.svg' height='80'> | [LT-49](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-49.svg) |
+| LT-50 | Tauragė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-50.svg' height='80'> | [LT-50](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-50.svg) |
+| LT-51 | Telšiai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-51.svg' height='80'> | [LT-51](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-51.svg) |
+| LT-52 | Trakai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-52.svg' height='80'> | [LT-52](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-52.svg) |
+| LT-53 | Ukmergė | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-53.svg' height='80'> | [LT-53](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-53.svg) |
+| LT-54 | Utena | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-54.svg' height='80'> | [LT-54](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-54.svg) |
+| LT-55 | Varėna | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-55.svg' height='80'> | [LT-55](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-55.svg) |
+| LT-56 | Vilkaviškis | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-56.svg' height='80'> | [LT-56](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-56.svg) |
+| LT-57 | Vilniaus miestas | City municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-57.svg' height='80'> | [LT-57](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-57.svg) |
+| LT-58 | Vilnius | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-58.svg' height='80'> | [LT-58](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-58.svg) |
+| LT-59 | Visaginas | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-59.svg' height='80'> | [LT-59](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-59.svg) |
+| LT-60 | Zarasai | District municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-60.svg' height='80'> | [LT-60](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-60.png) |
+| LT-AL | Alytaus apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-AL.svg' height='80'> | [LT-AL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-AL.svg) |
+| LT-KL | Klaipėdos apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-KL.svg' height='80'> | [LT-KL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-KL.svg) |
+| LT-KU | Kauno apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-KU.svg' height='80'> | [LT-KU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-KU.svg) |
+| LT-MR | Marijampolės apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-MR.svg' height='80'> | [LT-MR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-MR.svg) |
+| LT-PN | Panevėžio apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-PN.png' height='80'> | [LT-PN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-PN.png) |
+| LT-SA | Šiaulių apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-SA.svg' height='80'> | [LT-SA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-SA.svg) |
+| LT-TA | Tauragės apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-TA.png' height='80'> | [LT-TA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-TA.png) |
+| LT-TE | Telšių apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-TE.png' height='80'> | [LT-TE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-TE.png) |
+| LT-UT | Utenos apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-UT.svg' height='80'> | [LT-UT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-UT.svg) |
+| LT-VL | Vilniaus apskritis | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/LT/LT-VL.svg' height='80'> | [LT-VL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/LT/LT-VL.svg) |
+
+Lithuania ISO 3166-2 subdivisions with no available flags:
+
+* **LT-13: Kaišiadorys (District municipality)**

@@ -1,101 +1,103 @@
-# Estonia Subdivisions 🇪🇪
+# Estonia Subdivisions ![](https://flagcdn.com/h40/ee.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:EE
+- **ISO Code**: EE
+- **Number of subdivisions**: 94
+- **Subdivision Type**: County, Rural municipality, Urban municipality
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/EE
 
-* EE-130 (Alutaguse) -> [EE-130.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-130.svg)
-* EE-142 (Antsla) -> [EE-142.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-142.svg)
-* EE-171 (Elva) -> [EE-171.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-171.svg)
-* EE-184 (Haapsalu) -> [EE-184.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-184.svg)
-* EE-191 (Haljala) -> [EE-191.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-191.svg)
-* EE-198 (Harku) -> [EE-198.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-198.svg)
-* EE-205 (Hiiumaa) -> [EE-205.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-205.png)
-* EE-214 (Häädemeeste) -> [EE-214.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-214.svg)
-* EE-245 (Jõelähtme) -> [EE-245.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-245.svg)
-* EE-247 (Jõgeva) -> [EE-247.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-247.svg)
-* EE-251 (Jõhvi) -> [EE-251.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-251.svg)
-* EE-255 (Järva) -> [EE-255.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-255.svg)
-* EE-272 (Kadrina) -> [EE-272.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-272.svg)
-* EE-283 (Kambja) -> [EE-283.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-283.svg)
-* EE-284 (Kanepi) -> [EE-284.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-284.svg)
-* EE-291 (Kastre) -> [EE-291.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-291.svg)
-* EE-293 (Kehtna) -> [EE-293.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-293.svg)
-* EE-296 (Keila) -> [EE-296.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-296.svg)
-* EE-303 (Kihnu) -> [EE-303.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-303.svg)
-* EE-305 (Kiili) -> [EE-305.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-305.svg)
-* EE-317 (Kohila) -> [EE-317.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-317.svg)
-* EE-321 (Kohtla-Järve) -> [EE-321.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-321.svg)
-* EE-338 (Kose) -> [EE-338.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-338.svg)
-* EE-353 (Kuusalu) -> [EE-353.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-353.svg)
-* EE-37 (Harjumaa) -> [EE-37.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-37.svg)
-* EE-39 (Hiiumaa) -> [EE-39.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-39.svg)
-* EE-424 (Loksa) -> [EE-424.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-424.svg)
-* EE-430 (Lääneranna) -> [EE-430.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-430.svg)
-* EE-431 (Lääne-Harju) -> [EE-431.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-431.svg)
-* EE-432 (Luunja) -> [EE-432.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-432.svg)
-* EE-441 (Lääne-Nigula) -> [EE-441.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-441.png)
-* EE-442 (Lüganuse) -> [EE-442.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-442.svg)
-* EE-446 (Maardu) -> [EE-446.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-446.svg)
-* EE-45 (Ida-Virumaa) -> [EE-45.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-45.svg)
-* EE-478 (Muhu) -> [EE-478.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-478.svg)
-* EE-480 (Mulgi) -> [EE-480.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-480.svg)
-* EE-486 (Mustvee) -> [EE-486.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-486.png)
-* EE-50 (Jõgevamaa) -> [EE-50.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-50.svg)
-* EE-503 (Märjamaa) -> [EE-503.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-503.svg)
-* EE-511 (Narva) -> [EE-511.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-511.svg)
-* EE-514 (Narva-Jõesuu) -> [EE-514.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-514.svg)
-* EE-52 (Järvamaa) -> [EE-52.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-52.svg)
-* EE-528 (Nõo) -> [EE-528.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-528.svg)
-* EE-557 (Otepää) -> [EE-557.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-557.svg)
-* EE-56 (Läänemaa) -> [EE-56.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-56.svg)
-* EE-567 (Paide) -> [EE-567.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-567.svg)
-* EE-586 (Peipsiääre) -> [EE-586.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-586.svg)
-* EE-60 (Lääne-Virumaa) -> [EE-60.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-60.svg)
-* EE-615 (Põhja-Sakala) -> [EE-615.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-615.svg)
-* EE-618 (Põltsamaa) -> [EE-618.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-618.svg)
-* EE-622 (Põlva) -> [EE-622.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-622.svg)
-* EE-624 (Pärnu) -> [EE-624.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-624.svg)
-* EE-638 (Põhja-Pärnumaa) -> [EE-638.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-638.svg)
-* EE-64 (Põlvamaa) -> [EE-64.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-64.svg)
-* EE-651 (Raasiku) -> [EE-651.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-651.svg)
-* EE-653 (Rae) -> [EE-653.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-653.svg)
-* EE-661 (Rakvere) -> [EE-661.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-661.svg)
-* EE-663 (Rakvere) -> [EE-663.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-663.svg)
-* EE-668 (Rapla) -> [EE-668.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-668.svg)
-* EE-68 (Pärnumaa) -> [EE-68.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-68.svg)
-* EE-689 (Ruhnu) -> [EE-689.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-689.svg)
-* EE-698 (Rõuge) -> [EE-698.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-698.svg)
-* EE-708 (Räpina) -> [EE-708.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-708.svg)
-* EE-71 (Raplamaa) -> [EE-71.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-71.svg)
-* EE-712 (Saarde) -> [EE-712.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-712.svg)
-* EE-714 (Saaremaa) -> [EE-714.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-714.svg)
-* EE-719 (Saku) -> [EE-719.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-719.svg)
-* EE-726 (Saue) -> [EE-726.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-726.svg)
-* EE-732 (Setomaa) -> [EE-732.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-732.svg)
-* EE-735 (Sillamäe) -> [EE-735.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-735.svg)
-* EE-74 (Saaremaa) -> [EE-74.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-74.svg)
-* EE-784 (Tallinn) -> [EE-784.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-784.svg)
-* EE-79 (Tartumaa) -> [EE-79.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-79.svg)
-* EE-792 (Tapa) -> [EE-792.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-792.png)
-* EE-793 (Tartu) -> [EE-793.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-793.svg)
-* EE-796 (Tartu) -> [EE-796.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-796.svg)
-* EE-803 (Toila) -> [EE-803.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-803.svg)
-* EE-809 (Tori) -> [EE-809.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-809.svg)
-* EE-81 (Valgamaa) -> [EE-81.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-81.svg)
-* EE-824 (Tõrva) -> [EE-824.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-824.svg)
-* EE-834 (Türi) -> [EE-834.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-834.svg)
-* EE-84 (Viljandimaa) -> [EE-84.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-84.svg)
-* EE-855 (Valga) -> [EE-855.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-855.svg)
-* EE-87 (Võrumaa) -> [EE-87.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-87.svg)
-* EE-890 (Viimsi) -> [EE-890.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-890.svg)
-* EE-897 (Viljandi) -> [EE-897.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-897.svg)
-* EE-899 (Viljandi) -> [EE-899.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-899.png)
-* EE-901 (Vinni) -> [EE-901.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-901.svg)
-* EE-903 (Viru-Nigula) -> [EE-903.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-903.svg)
-* EE-907 (Vormsi) -> [EE-907.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-907.svg)
-* EE-917 (Võru) -> [EE-917.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-917.svg)
-* EE-919 (Võru) -> [EE-919.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-919.svg)
-* EE-928 (Väike-Maarja) -> [EE-928.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-928.svg)
-
-Estonia ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:EE):
-
-* EE-141: Anija (Rural municipality)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| EE-130 | Alutaguse | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-130.svg' height='80'> | [EE-130](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-130.svg) |
+| EE-141 | Anija | Rural municipality | <img src='None' height='80'> | [EE-141](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-141.svg) |
+| EE-142 | Antsla | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-142.svg' height='80'> | [EE-142](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-142.svg) |
+| EE-171 | Elva | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-171.svg' height='80'> | [EE-171](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-171.svg) |
+| EE-184 | Haapsalu | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-184.svg' height='80'> | [EE-184](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-184.svg) |
+| EE-191 | Haljala | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-191.svg' height='80'> | [EE-191](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-191.svg) |
+| EE-198 | Harku | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-198.svg' height='80'> | [EE-198](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-198.svg) |
+| EE-205 | Hiiumaa | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-205.png' height='80'> | [EE-205](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-205.png) |
+| EE-214 | Häädemeeste | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-214.svg' height='80'> | [EE-214](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-214.svg) |
+| EE-245 | Jõelähtme | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-245.svg' height='80'> | [EE-245](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-245.svg) |
+| EE-247 | Jõgeva | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-247.svg' height='80'> | [EE-247](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-247.svg) |
+| EE-251 | Jõhvi | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-251.svg' height='80'> | [EE-251](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-251.svg) |
+| EE-255 | Järva | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-255.svg' height='80'> | [EE-255](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-255.svg) |
+| EE-272 | Kadrina | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-272.svg' height='80'> | [EE-272](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-272.svg) |
+| EE-283 | Kambja | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-283.svg' height='80'> | [EE-283](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-283.svg) |
+| EE-284 | Kanepi | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-284.svg' height='80'> | [EE-284](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-284.svg) |
+| EE-291 | Kastre | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-291.svg' height='80'> | [EE-291](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-291.svg) |
+| EE-293 | Kehtna | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-293.svg' height='80'> | [EE-293](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-293.svg) |
+| EE-296 | Keila | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-296.svg' height='80'> | [EE-296](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-296.svg) |
+| EE-303 | Kihnu | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-303.svg' height='80'> | [EE-303](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-303.svg) |
+| EE-305 | Kiili | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-305.svg' height='80'> | [EE-305](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-305.svg) |
+| EE-317 | Kohila | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-317.svg' height='80'> | [EE-317](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-317.svg) |
+| EE-321 | Kohtla-Järve | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-321.svg' height='80'> | [EE-321](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-321.svg) |
+| EE-338 | Kose | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-338.svg' height='80'> | [EE-338](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-338.svg) |
+| EE-353 | Kuusalu | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-353.svg' height='80'> | [EE-353](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-353.svg) |
+| EE-37 | Harjumaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-37.svg' height='80'> | [EE-37](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-37.svg) |
+| EE-39 | Hiiumaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-39.svg' height='80'> | [EE-39](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-39.svg) |
+| EE-424 | Loksa | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-424.svg' height='80'> | [EE-424](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-424.svg) |
+| EE-430 | Lääneranna | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-430.svg' height='80'> | [EE-430](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-430.svg) |
+| EE-431 | Lääne-Harju | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-431.svg' height='80'> | [EE-431](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-431.svg) |
+| EE-432 | Luunja | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-432.svg' height='80'> | [EE-432](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-432.svg) |
+| EE-441 | Lääne-Nigula | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-441.png' height='80'> | [EE-441](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-441.png) |
+| EE-442 | Lüganuse | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-442.svg' height='80'> | [EE-442](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-442.svg) |
+| EE-446 | Maardu | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-446.svg' height='80'> | [EE-446](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-446.svg) |
+| EE-45 | Ida-Virumaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-45.svg' height='80'> | [EE-45](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-45.svg) |
+| EE-478 | Muhu | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-478.svg' height='80'> | [EE-478](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-478.svg) |
+| EE-480 | Mulgi | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-480.svg' height='80'> | [EE-480](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-480.svg) |
+| EE-486 | Mustvee | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-486.png' height='80'> | [EE-486](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-486.png) |
+| EE-50 | Jõgevamaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-50.svg' height='80'> | [EE-50](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-50.svg) |
+| EE-503 | Märjamaa | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-503.svg' height='80'> | [EE-503](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-503.svg) |
+| EE-511 | Narva | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-511.svg' height='80'> | [EE-511](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-511.svg) |
+| EE-514 | Narva-Jõesuu | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-514.svg' height='80'> | [EE-514](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-514.svg) |
+| EE-52 | Järvamaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-52.svg' height='80'> | [EE-52](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-52.svg) |
+| EE-528 | Nõo | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-528.svg' height='80'> | [EE-528](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-528.svg) |
+| EE-557 | Otepää | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-557.svg' height='80'> | [EE-557](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-557.svg) |
+| EE-56 | Läänemaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-56.svg' height='80'> | [EE-56](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-56.svg) |
+| EE-567 | Paide | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-567.svg' height='80'> | [EE-567](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-567.svg) |
+| EE-586 | Peipsiääre | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-586.svg' height='80'> | [EE-586](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-586.svg) |
+| EE-60 | Lääne-Virumaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-60.svg' height='80'> | [EE-60](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-60.svg) |
+| EE-615 | Põhja-Sakala | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-615.svg' height='80'> | [EE-615](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-615.svg) |
+| EE-618 | Põltsamaa | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-618.svg' height='80'> | [EE-618](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-618.svg) |
+| EE-622 | Põlva | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-622.svg' height='80'> | [EE-622](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-622.svg) |
+| EE-624 | Pärnu | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-624.svg' height='80'> | [EE-624](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-624.svg) |
+| EE-638 | Põhja-Pärnumaa | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-638.svg' height='80'> | [EE-638](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-638.svg) |
+| EE-64 | Põlvamaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-64.svg' height='80'> | [EE-64](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-64.svg) |
+| EE-651 | Raasiku | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-651.svg' height='80'> | [EE-651](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-651.svg) |
+| EE-653 | Rae | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-653.svg' height='80'> | [EE-653](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-653.svg) |
+| EE-661 | Rakvere | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-661.svg' height='80'> | [EE-661](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-661.svg) |
+| EE-663 | Rakvere | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-663.svg' height='80'> | [EE-663](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-663.svg) |
+| EE-668 | Rapla | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-668.svg' height='80'> | [EE-668](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-668.svg) |
+| EE-68 | Pärnumaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-68.svg' height='80'> | [EE-68](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-68.svg) |
+| EE-689 | Ruhnu | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-689.svg' height='80'> | [EE-689](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-689.svg) |
+| EE-698 | Rõuge | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-698.svg' height='80'> | [EE-698](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-698.svg) |
+| EE-708 | Räpina | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-708.svg' height='80'> | [EE-708](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-708.svg) |
+| EE-71 | Raplamaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-71.svg' height='80'> | [EE-71](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-71.svg) |
+| EE-712 | Saarde | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-712.svg' height='80'> | [EE-712](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-712.svg) |
+| EE-714 | Saaremaa | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-714.svg' height='80'> | [EE-714](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-714.svg) |
+| EE-719 | Saku | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-719.svg' height='80'> | [EE-719](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-719.svg) |
+| EE-726 | Saue | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-726.svg' height='80'> | [EE-726](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-726.svg) |
+| EE-732 | Setomaa | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-732.svg' height='80'> | [EE-732](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-732.svg) |
+| EE-735 | Sillamäe | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-735.svg' height='80'> | [EE-735](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-735.svg) |
+| EE-74 | Saaremaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-74.svg' height='80'> | [EE-74](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-74.svg) |
+| EE-784 | Tallinn | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-784.svg' height='80'> | [EE-784](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-784.svg) |
+| EE-79 | Tartumaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-79.svg' height='80'> | [EE-79](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-79.svg) |
+| EE-792 | Tapa | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-792.png' height='80'> | [EE-792](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-792.png) |
+| EE-793 | Tartu | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-793.svg' height='80'> | [EE-793](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-793.svg) |
+| EE-796 | Tartu | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-796.svg' height='80'> | [EE-796](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-796.svg) |
+| EE-803 | Toila | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-803.svg' height='80'> | [EE-803](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-803.svg) |
+| EE-809 | Tori | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-809.svg' height='80'> | [EE-809](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-809.svg) |
+| EE-81 | Valgamaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-81.svg' height='80'> | [EE-81](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-81.svg) |
+| EE-824 | Tõrva | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-824.svg' height='80'> | [EE-824](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-824.svg) |
+| EE-834 | Türi | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-834.svg' height='80'> | [EE-834](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-834.svg) |
+| EE-84 | Viljandimaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-84.svg' height='80'> | [EE-84](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-84.svg) |
+| EE-855 | Valga | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-855.svg' height='80'> | [EE-855](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-855.svg) |
+| EE-87 | Võrumaa | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-87.svg' height='80'> | [EE-87](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-87.svg) |
+| EE-890 | Viimsi | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-890.svg' height='80'> | [EE-890](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-890.svg) |
+| EE-897 | Viljandi | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-897.svg' height='80'> | [EE-897](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-897.svg) |
+| EE-899 | Viljandi | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-899.png' height='80'> | [EE-899](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-899.png) |
+| EE-901 | Vinni | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-901.svg' height='80'> | [EE-901](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-901.svg) |
+| EE-903 | Viru-Nigula | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-903.svg' height='80'> | [EE-903](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-903.svg) |
+| EE-907 | Vormsi | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-907.svg' height='80'> | [EE-907](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-907.svg) |
+| EE-917 | Võru | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-917.svg' height='80'> | [EE-917](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-917.svg) |
+| EE-919 | Võru | Urban municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-919.svg' height='80'> | [EE-919](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-919.svg) |
+| EE-928 | Väike-Maarja | Rural municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EE/EE-928.svg' height='80'> | [EE-928](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EE/EE-928.svg) |

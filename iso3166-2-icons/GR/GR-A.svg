@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="-450 -300 900 600" fill="#FC3">
+	<path d="m-450-300h900v600h-900z" fill="#036"/>
+	<circle r="43"/>
+	<g id="r8"><g id="r4"><g id="r2">
+		<path d="M-11.973,62.809a12,12,187.731,1,1,23.946,0L0,240zM19.963,79.436a12,12,189.834,1,1,22.092-9.151L84.19,203.253z"/>
+	</g><use xlink:href="#r2" transform="rotate(45)"/>
+	</g><use xlink:href="#r4" transform="rotate(90)"/>
+	</g><use xlink:href="#r8" transform="rotate(180)"/>
+</svg>

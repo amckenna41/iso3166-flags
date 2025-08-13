@@ -1,20 +1,25 @@
-# Norway Subdivisions 🇳🇴
+# Norway Subdivisions ![](https://flagcdn.com/h40/no.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:NO
+- **ISO Code**: NO
+- **Number of subdivisions**: 13
+- **Subdivision Type**: Arctic region, County
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/NO
 
-* NO-03 (Oslo) -> [NO-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-03.svg)
-* NO-11 (Rogaland) -> [NO-11.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-11.svg)
-* NO-15 (Møre Og Romsdal) -> [NO-15.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-15.svg)
-* NO-18 (Nordland) -> [NO-18.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-18.svg)
-* NO-30 (Viken) -> [NO-30.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-30.svg)
-* NO-34 (Innlandet) -> [NO-34.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-34.svg)
-* NO-38 (Vestfold Og Telemark) -> [NO-38.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-38.svg)
-* NO-42 (Agder) -> [NO-42.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-42.svg)
-* NO-46 (Vestland) -> [NO-46.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-46.svg)
-* NO-50 (Trööndelage) -> [NO-50.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-50.svg)
-* NO-54 (Romssa Ja Finnmárkku) -> [NO-54.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-54.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| NO-03 | Oslo | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-03.svg' height='80'> | [NO-03](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-03.svg) |
+| NO-11 | Rogaland | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-11.svg' height='80'> | [NO-11](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-11.svg) |
+| NO-15 | Møre og Romsdal | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-15.svg' height='80'> | [NO-15](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-15.svg) |
+| NO-18 | Nordland | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-18.svg' height='80'> | [NO-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-18.svg) |
+| NO-38 | Vestfold og Telemark | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-38.svg' height='80'> | [NO-38](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-38.svg) |
+| NO-42 | Agder | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-42.svg' height='80'> | [NO-42](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-42.png) |
+| NO-50 | Trööndelage | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-50.svg' height='80'> | [NO-50](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-50.svg) |
+| NO-54 | Romssa ja Finnmárkku | County | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NO/NO-54.svg' height='80'> | [NO-54](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NO/NO-54.svg) |
 
-Norway ISO 3166-2 subdivisions with no available flags (https://en.wikipedia.org/wiki/ISO_3166-2:NO):
+Norway ISO 3166-2 subdivisions with no available flags:
 
-* NO-21: Svalbard (Arctic Region) (Arctic region)
-* NO-22: Jan Mayen (Arctic Region) (Arctic region)
+* **NO-21: Svalbard (Arctic Region) (Arctic region)**
+* **NO-22: Jan Mayen (Arctic Region) (Arctic region)**
+* **NO-30: Viken (County)**
+* **NO-34: Innlandet (County)**
+* **NO-46: Vestland (County)**

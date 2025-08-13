@@ -1,31 +1,36 @@
-# Egypt Subdivisions 🇪🇬
+# Egypt Subdivisions ![](https://flagcdn.com/h40/eg.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:EG
+- **ISO Code**: EG
+- **Number of subdivisions**: 27
+- **Subdivision Type**: Governorate
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/EG
 
-* EG-ALX (Al Iskandarīyah) -> [EG-ALX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-ALX.svg)
-* EG-ASN (Aswān) -> [EG-ASN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-ASN.svg)
-* EG-AST (Asyūţ) -> [EG-AST.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-AST.png)
-* EG-BA (Al Baḩr Al Aḩmar) -> [EG-BA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BA.png)
-* EG-BH (Al Buḩayrah) -> [EG-BH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BH.svg)
-* EG-BNS (Banī Suwayf) -> [EG-BNS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BNS.svg)
-* EG-C (Al Qāhirah) -> [EG-C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-C.svg)
-* EG-DK (Ad Daqahlīyah) -> [EG-DK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-DK.svg)
-* EG-DT (Dumyāţ) -> [EG-DT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-DT.svg)
-* EG-FYM (Al Fayyūm) -> [EG-FYM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-FYM.png)
-* EG-GH (Al Gharbīyah) -> [EG-GH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-GH.png)
-* EG-GZ (Al Jīzah) -> [EG-GZ.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-GZ.png)
-* EG-IS (Al Ismā'Īlīyah) -> [EG-IS.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-IS.png)
-* EG-JS (Janūb Sīnā') -> [EG-JS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-JS.svg)
-* EG-KB (Al Qalyūbīyah) -> [EG-KB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-KB.png)
-* EG-KFS (Kafr Ash Shaykh) -> [EG-KFS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-KFS.svg)
-* EG-KN (Qinā) -> [EG-KN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-KN.png)
-* EG-LX (Al Uqşur) -> [EG-LX.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-LX.png)
-* EG-MN (Al Minyā) -> [EG-MN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-MN.png)
-* EG-MNF (Al Minūfīyah) -> [EG-MNF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-MNF.png)
-* EG-MT (Maţrūḩ) -> [EG-MT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-MT.png)
-* EG-PTS (Būr Sa‘Īd) -> [EG-PTS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-PTS.svg)
-* EG-SHG (Sūhāj) -> [EG-SHG.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SHG.png)
-* EG-SHR (Ash Sharqīyah) -> [EG-SHR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SHR.svg)
-* EG-SIN (Shamāl Sīnā') -> [EG-SIN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SIN.svg)
-* EG-SUZ (As Suways) -> [EG-SUZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SUZ.svg)
-* EG-WAD (Al Wādī Al Jadīd) -> [EG-WAD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-WAD.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| EG-ALX | Al Iskandarīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-ALX.svg' height='80'> | [EG-ALX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-ALX.svg) |
+| EG-ASN | Aswān | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-ASN.svg' height='80'> | [EG-ASN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-ASN.svg) |
+| EG-AST | Asyūţ | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-AST.png' height='80'> | [EG-AST](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-AST.png) |
+| EG-BA | Al Baḩr al Aḩmar | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-BA.png' height='80'> | [EG-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BA.png) |
+| EG-BH | Al Buḩayrah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-BH.svg' height='80'> | [EG-BH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BH.svg) |
+| EG-BNS | Banī Suwayf | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-BNS.svg' height='80'> | [EG-BNS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-BNS.svg) |
+| EG-C | Al Qāhirah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-C.svg' height='80'> | [EG-C](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-C.png) |
+| EG-DK | Ad Daqahlīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-DK.svg' height='80'> | [EG-DK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-DK.svg) |
+| EG-DT | Dumyāţ | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-DT.svg' height='80'> | [EG-DT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-DT.svg) |
+| EG-FYM | Al Fayyūm | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-FYM.png' height='80'> | [EG-FYM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-FYM.png) |
+| EG-GH | Al Gharbīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-GH.png' height='80'> | [EG-GH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-GH.png) |
+| EG-GZ | Al Jīzah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-GZ.png' height='80'> | [EG-GZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-GZ.png) |
+| EG-IS | Al Ismā'īlīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-IS.png' height='80'> | [EG-IS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-IS.png) |
+| EG-JS | Janūb Sīnā' | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-JS.svg' height='80'> | [EG-JS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-JS.svg) |
+| EG-KB | Al Qalyūbīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-KB.png' height='80'> | [EG-KB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-KB.png) |
+| EG-KFS | Kafr ash Shaykh | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-KFS.svg' height='80'> | [EG-KFS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-KFS.svg) |
+| EG-KN | Qinā | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-KN.png' height='80'> | [EG-KN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-KN.png) |
+| EG-LX | Al Uqşur | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-LX.png' height='80'> | [EG-LX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-LX.png) |
+| EG-MN | Al Minyā | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-MN.png' height='80'> | [EG-MN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-MN.png) |
+| EG-MNF | Al Minūfīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-MNF.png' height='80'> | [EG-MNF](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-MNF.png) |
+| EG-MT | Maţrūḩ | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-MT.png' height='80'> | [EG-MT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-MT.png) |
+| EG-PTS | Būr Sa‘īd | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-PTS.svg' height='80'> | [EG-PTS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-PTS.svg) |
+| EG-SHG | Sūhāj | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-SHG.png' height='80'> | [EG-SHG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SHG.png) |
+| EG-SHR | Ash Sharqīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-SHR.svg' height='80'> | [EG-SHR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SHR.svg) |
+| EG-SIN | Shamāl Sīnā' | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-SIN.svg' height='80'> | [EG-SIN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SIN.svg) |
+| EG-SUZ | As Suways | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-SUZ.svg' height='80'> | [EG-SUZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-SUZ.svg) |
+| EG-WAD | Al Wādī al Jadīd | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/EG/EG-WAD.png' height='80'> | [EG-WAD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/EG/EG-WAD.png) |

@@ -1,17 +1,25 @@
-# Timor-Leste Subdivisions 🇹🇱
+# Timor-Leste Subdivisions ![](https://flagcdn.com/h40/tl.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:TL
+- **ISO Code**: TL
+- **Number of subdivisions**: 13
+- **Subdivision Type**: Municipality, Special administrative region
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/TL
 
-* TL-AL (Aileu) -> [TL-AL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-AL.svg)
-* TL-AN (Ainaro) -> [TL-AN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-AN.svg)
-* TL-BA (Baucau) -> [TL-BA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-BA.png)
-* TL-BO (Bobonaro) -> [TL-BO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-BO.svg)
-* TL-CO (Cova Lima) -> [TL-CO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-CO.png)
-* TL-DI (Díli) -> [TL-DI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-DI.svg)
-* TL-ER (Ermera) -> [TL-ER.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-ER.png)
-* TL-LA (Lautein) -> [TL-LA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-LA.svg)
-* TL-LI (Likisá) -> [TL-LI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-LI.png)
-* TL-MF (Manufahi) -> [TL-MF.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-MF.png)
-* TL-MT (Manatuto) -> [TL-MT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-MT.svg)
-* TL-OE (Oekusi-Ambenu) -> [TL-OE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-OE.png)
-* TL-VI (Vikeke) -> [TL-VI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-VI.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| TL-BA | Baucau | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TL/TL-BA.png' height='80'> | [TL-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-BA.png) |
+| TL-VI | Viqueque | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/TL/TL-VI.svg' height='80'> | [TL-VI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/TL/TL-VI.svg) |
+
+Timor-Leste ISO 3166-2 subdivisions with no available flags:
+
+* **TL-AL: Aileu (Municipality)**
+* **TL-AN: Ainaro (Municipality)**
+* **TL-BO: Bobonaro (Municipality)**
+* **TL-CO: Cova Lima (Municipality)**
+* **TL-DI: Díli (Municipality)**
+* **TL-ER: Ermera (Municipality)**
+* **TL-LA: Lautém (Municipality)**
+* **TL-LI: Liquiça (Municipality)**
+* **TL-MF: Manufahi (Municipality)**
+* **TL-MT: Manatuto (Municipality)**
+* **TL-OE: Oé-Cusse Ambeno (Special administrative region)**

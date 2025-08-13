@@ -1,41 +1,46 @@
-# Nigeria Subdivisions 🇳🇬
+# Nigeria Subdivisions ![](https://flagcdn.com/h40/ng.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:NG
+- **ISO Code**: NG
+- **Number of subdivisions**: 37
+- **Subdivision Type**: Capital territory, State
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/NG
 
-* NG-AB (Abia) -> [NG-AB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AB.png)
-* NG-AD (Adamawa) -> [NG-AD.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AD.jpeg)
-* NG-AK (Akwa Ibom) -> [NG-AK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AK.svg)
-* NG-AN (Anambra) -> [NG-AN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AN.png)
-* NG-BA (Bauchi) -> [NG-BA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BA.png)
-* NG-BE (Benue) -> [NG-BE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BE.png)
-* NG-BO (Borno) -> [NG-BO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BO.png)
-* NG-BY (Bayelsa) -> [NG-BY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BY.svg)
-* NG-CR (Cross River) -> [NG-CR.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-CR.png)
-* NG-DE (Delta) -> [NG-DE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-DE.png)
-* NG-EB (Ebonyi) -> [NG-EB.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-EB.png)
-* NG-ED (Edo) -> [NG-ED.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-ED.png)
-* NG-EK (Ekiti) -> [NG-EK.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-EK.png)
-* NG-EN (Enugu) -> [NG-EN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-EN.png)
-* NG-FC (Abuja Federal Capital Territory) -> [NG-FC.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-FC.png)
-* NG-GO (Gombe) -> [NG-GO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-GO.svg)
-* NG-IM (Imo) -> [NG-IM.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-IM.png)
-* NG-JI (Jigawa) -> [NG-JI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-JI.png)
-* NG-KD (Kaduna) -> [NG-KD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KD.png)
-* NG-KE (Kebbi) -> [NG-KE.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KE.png)
-* NG-KN (Kano) -> [NG-KN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KN.png)
-* NG-KO (Kogi) -> [NG-KO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KO.png)
-* NG-KT (Katsina) -> [NG-KT.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KT.png)
-* NG-KW (Kwara) -> [NG-KW.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KW.jpg)
-* NG-LA (Lagos) -> [NG-LA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-LA.png)
-* NG-NA (Nasarawa) -> [NG-NA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-NA.png)
-* NG-NI (Niger) -> [NG-NI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-NI.png)
-* NG-OG (Ogun) -> [NG-OG.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-OG.jpeg)
-* NG-ON (Ondo) -> [NG-ON.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-ON.jpg)
-* NG-OS (Osun) -> [NG-OS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-OS.svg)
-* NG-OY (Oyo) -> [NG-OY.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-OY.png)
-* NG-PL (Plateau) -> [NG-PL.jpg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-PL.jpg)
-* NG-RI (Rivers) -> [NG-RI.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-RI.png)
-* NG-SO (Sokoto) -> [NG-SO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-SO.png)
-* NG-TA (Taraba) -> [NG-TA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-TA.png)
-* NG-YO (Yobe) -> [NG-YO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-YO.png)
-* NG-ZA (Zamfara) -> [NG-ZA.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-ZA.png)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| NG-AB | Abia | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-AB.png' height='80'> | [NG-AB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AB.png) |
+| NG-AD | Adamawa | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-AD.jpeg' height='80'> | [NG-AD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AD.jpeg) |
+| NG-AK | Akwa Ibom | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-AK.svg' height='80'> | [NG-AK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AK.svg) |
+| NG-AN | Anambra | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-AN.png' height='80'> | [NG-AN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-AN.png) |
+| NG-BA | Bauchi | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-BA.png' height='80'> | [NG-BA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BA.png) |
+| NG-BE | Benue | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-BE.png' height='80'> | [NG-BE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BE.png) |
+| NG-BO | Borno | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-BO.png' height='80'> | [NG-BO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BO.png) |
+| NG-BY | Bayelsa | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-BY.svg' height='80'> | [NG-BY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-BY.svg) |
+| NG-CR | Cross River | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-CR.png' height='80'> | [NG-CR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-CR.png) |
+| NG-DE | Delta | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-DE.png' height='80'> | [NG-DE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-DE.png) |
+| NG-EB | Ebonyi | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-EB.png' height='80'> | [NG-EB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-EB.png) |
+| NG-ED | Edo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-ED.png' height='80'> | [NG-ED](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-ED.png) |
+| NG-EK | Ekiti | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-EK.png' height='80'> | [NG-EK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-EK.png) |
+| NG-EN | Enugu | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-EN.png' height='80'> | [NG-EN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-EN.png) |
+| NG-FC | Abuja Federal Capital Territory | Capital territory | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-FC.png' height='80'> | [NG-FC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-FC.svg) |
+| NG-GO | Gombe | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-GO.svg' height='80'> | [NG-GO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-GO.svg) |
+| NG-IM | Imo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-IM.png' height='80'> | [NG-IM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-IM.png) |
+| NG-JI | Jigawa | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-JI.png' height='80'> | [NG-JI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-JI.png) |
+| NG-KD | Kaduna | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-KD.png' height='80'> | [NG-KD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KD.png) |
+| NG-KE | Kebbi | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-KE.png' height='80'> | [NG-KE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KE.svg) |
+| NG-KN | Kano | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-KN.png' height='80'> | [NG-KN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KN.png) |
+| NG-KO | Kogi | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-KO.png' height='80'> | [NG-KO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KO.png) |
+| NG-KT | Katsina | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-KT.png' height='80'> | [NG-KT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KT.svg) |
+| NG-KW | Kwara | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-KW.jpg' height='80'> | [NG-KW](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-KW.jpg) |
+| NG-LA | Lagos | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-LA.png' height='80'> | [NG-LA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-LA.svg) |
+| NG-NA | Nasarawa | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-NA.png' height='80'> | [NG-NA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-NA.png) |
+| NG-NI | Niger | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-NI.png' height='80'> | [NG-NI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-NI.png) |
+| NG-OG | Ogun | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-OG.jpeg' height='80'> | [NG-OG](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-OG.jpeg) |
+| NG-ON | Ondo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-ON.jpg' height='80'> | [NG-ON](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-ON.jpg) |
+| NG-OS | Osun | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-OS.svg' height='80'> | [NG-OS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-OS.svg) |
+| NG-OY | Oyo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-OY.png' height='80'> | [NG-OY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-OY.svg) |
+| NG-PL | Plateau | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-PL.jpg' height='80'> | [NG-PL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-PL.jpg) |
+| NG-RI | Rivers | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-RI.png' height='80'> | [NG-RI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-RI.png) |
+| NG-SO | Sokoto | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-SO.png' height='80'> | [NG-SO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-SO.png) |
+| NG-TA | Taraba | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-TA.png' height='80'> | [NG-TA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-TA.svg) |
+| NG-YO | Yobe | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-YO.png' height='80'> | [NG-YO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-YO.png) |
+| NG-ZA | Zamfara | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/NG/NG-ZA.png' height='80'> | [NG-ZA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/NG/NG-ZA.png) |

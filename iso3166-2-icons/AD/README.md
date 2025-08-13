@@ -1,11 +1,16 @@
-# Andorra Subdivisions 🇦🇩
+# Andorra Subdivisions ![](https://flagcdn.com/h40/ad.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:AD
+- **ISO Code**: AD
+- **Number of subdivisions**: 7
+- **Subdivision Type**: Parish
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AD
 
-* AD-02 (Canillo) -> [AD-02.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-02.svg)
-* AD-03 (Encamp) -> [AD-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-03.svg)
-* AD-04 (La Massana) -> [AD-04.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-04.svg)
-* AD-05 (Ordino) -> [AD-05.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-05.svg)
-* AD-06 (Sant Julià De Lòria) -> [AD-06.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-06.svg)
-* AD-07 (Andorra La Vella) -> [AD-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-07.svg)
-* AD-08 (Escaldes-Engordany) -> [AD-08.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-08.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| AD-02 | Canillo | Parish | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AD/AD-02.svg' height='80'> | [AD-02](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-02.svg) |
+| AD-03 | Encamp | Parish | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AD/AD-03.svg' height='80'> | [AD-03](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-03.svg) |
+| AD-04 | La Massana | Parish | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AD/AD-04.svg' height='80'> | [AD-04](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-04.svg) |
+| AD-05 | Ordino | Parish | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AD/AD-05.svg' height='80'> | [AD-05](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-05.svg) |
+| AD-06 | Sant Julià de Lòria | Parish | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AD/AD-06.svg' height='80'> | [AD-06](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-06.svg) |
+| AD-07 | Andorra la Vella | Parish | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AD/AD-07.svg' height='80'> | [AD-07](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-07.svg) |
+| AD-08 | Escaldes-Engordany | Parish | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/AD/AD-08.svg' height='80'> | [AD-08](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/AD/AD-08.svg) |

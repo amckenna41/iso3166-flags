@@ -1,20 +1,28 @@
-# Cuba Subdivisions 🇨🇺
+# Cuba Subdivisions ![](https://flagcdn.com/h40/cu.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:CU
+- **ISO Code**: CU
+- **Number of subdivisions**: 16
+- **Subdivision Type**: Province, Special municipality
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CU
 
-* CU-01 (Pinar Del Río) -> [CU-01.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-01.svg)
-* CU-03 (La Habana) -> [CU-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-03.svg)
-* CU-04 (Matanzas) -> [CU-04.jpeg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-04.jpeg)
-* CU-05 (Villa Clara) -> [CU-05.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-05.png)
-* CU-06 (Cienfuegos) -> [CU-06.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-06.svg)
-* CU-07 (Sancti Spíritus) -> [CU-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-07.svg)
-* CU-08 (Ciego De Ávila) -> [CU-08.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-08.svg)
-* CU-09 (Camagüey) -> [CU-09.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-09.svg)
-* CU-10 (Las Tunas) -> [CU-10.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-10.svg)
-* CU-11 (Holguín) -> [CU-11.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-11.svg)
-* CU-12 (Granma) -> [CU-12.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-12.svg)
-* CU-13 (Santiago De Cuba) -> [CU-13.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-13.svg)
-* CU-14 (Guantánamo) -> [CU-14.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-14.svg)
-* CU-15 (Artemisa) -> [CU-15.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-15.svg)
-* CU-16 (Mayabeque) -> [CU-16.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-16.svg)
-* CU-99 (Isla De La Juventud) -> [CU-99.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-99.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| CU-06 | Cienfuegos | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CU/CU-06.svg' height='80'> | [CU-06](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-06.svg) |
+| CU-11 | Holguín | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CU/CU-11.svg' height='80'> | [CU-11](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-11.svg) |
+| CU-14 | Guantánamo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/CU/CU-14.svg' height='80'> | [CU-14](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/CU/CU-14.svg) |
+
+Cuba ISO 3166-2 subdivisions with no available flags:
+
+* **CU-01: Pinar del Río (Province)**
+* **CU-03: La Habana (Province)**
+* **CU-04: Matanzas (Province)**
+* **CU-05: Villa Clara (Province)**
+* **CU-07: Sancti Spíritus (Province)**
+* **CU-08: Ciego de Ávila (Province)**
+* **CU-09: Camagüey (Province)**
+* **CU-10: Las Tunas (Province)**
+* **CU-12: Granma (Province)**
+* **CU-13: Santiago de Cuba (Province)**
+* **CU-15: Artemisa (Province)**
+* **CU-16: Mayabeque (Province)**
+* **CU-99: Isla de la Juventud (Special municipality)**

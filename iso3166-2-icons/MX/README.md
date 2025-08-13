@@ -1,36 +1,41 @@
-# Mexico Subdivisions 🇲🇽
+# Mexico Subdivisions ![](https://flagcdn.com/h40/mx.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:MX
+- **ISO Code**: MX
+- **Number of subdivisions**: 32
+- **Subdivision Type**: Federal entity, State
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MX
 
-* MX-AGU (Aguascalientes) -> [MX-AGU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-AGU.svg)
-* MX-BCN (Baja California) -> [MX-BCN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-BCN.svg)
-* MX-BCS (Baja California Sur) -> [MX-BCS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-BCS.svg)
-* MX-CAM (Campeche) -> [MX-CAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CAM.svg)
-* MX-CHH (Chihuahua) -> [MX-CHH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CHH.svg)
-* MX-CHP (Chiapas) -> [MX-CHP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CHP.svg)
-* MX-CMX (Ciudad De México) -> [MX-CMX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CMX.svg)
-* MX-COA (Coahuila De Zaragoza) -> [MX-COA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-COA.svg)
-* MX-COL (Colima) -> [MX-COL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-COL.svg)
-* MX-DUR (Durango) -> [MX-DUR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-DUR.svg)
-* MX-GRO (Guerrero) -> [MX-GRO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-GRO.svg)
-* MX-GUA (Guanajuato) -> [MX-GUA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-GUA.svg)
-* MX-HID (Hidalgo) -> [MX-HID.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-HID.svg)
-* MX-JAL (Jalisco) -> [MX-JAL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-JAL.svg)
-* MX-MEX (México) -> [MX-MEX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-MEX.svg)
-* MX-MIC (Michoacán De Ocampo) -> [MX-MIC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-MIC.svg)
-* MX-MOR (Morelos) -> [MX-MOR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-MOR.svg)
-* MX-NAY (Nayarit) -> [MX-NAY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-NAY.svg)
-* MX-NLE (Nuevo León) -> [MX-NLE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-NLE.svg)
-* MX-OAX (Oaxaca) -> [MX-OAX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-OAX.svg)
-* MX-PUE (Puebla) -> [MX-PUE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-PUE.svg)
-* MX-QUE (Querétaro) -> [MX-QUE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-QUE.svg)
-* MX-ROO (Quintana Roo) -> [MX-ROO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-ROO.svg)
-* MX-SIN (Sinaloa) -> [MX-SIN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-SIN.svg)
-* MX-SLP (San Luis Potosí) -> [MX-SLP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-SLP.svg)
-* MX-SON (Sonora) -> [MX-SON.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-SON.svg)
-* MX-TAB (Tabasco) -> [MX-TAB.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-TAB.svg)
-* MX-TAM (Tamaulipas) -> [MX-TAM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-TAM.svg)
-* MX-TLA (Tlaxcala) -> [MX-TLA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-TLA.svg)
-* MX-VER (Veracruz De Ignacio De La Llave) -> [MX-VER.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-VER.svg)
-* MX-YUC (Yucatán) -> [MX-YUC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-YUC.svg)
-* MX-ZAC (Zacatecas) -> [MX-ZAC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-ZAC.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| MX-AGU | Aguascalientes | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-AGU.svg' height='80'> | [MX-AGU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-AGU.svg) |
+| MX-BCN | Baja California | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-BCN.svg' height='80'> | [MX-BCN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-BCN.svg) |
+| MX-BCS | Baja California Sur | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-BCS.svg' height='80'> | [MX-BCS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-BCS.svg) |
+| MX-CAM | Campeche | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-CAM.svg' height='80'> | [MX-CAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CAM.svg) |
+| MX-CHH | Chihuahua | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-CHH.svg' height='80'> | [MX-CHH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CHH.svg) |
+| MX-CHP | Chiapas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-CHP.svg' height='80'> | [MX-CHP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CHP.svg) |
+| MX-CMX | Ciudad de México | Federal entity | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-CMX.svg' height='80'> | [MX-CMX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-CMX.png) |
+| MX-COA | Coahuila de Zaragoza | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-COA.svg' height='80'> | [MX-COA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-COA.svg) |
+| MX-COL | Colima | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-COL.svg' height='80'> | [MX-COL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-COL.svg) |
+| MX-DUR | Durango | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-DUR.svg' height='80'> | [MX-DUR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-DUR.svg) |
+| MX-GRO | Guerrero | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-GRO.svg' height='80'> | [MX-GRO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-GRO.svg) |
+| MX-GUA | Guanajuato | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-GUA.svg' height='80'> | [MX-GUA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-GUA.svg) |
+| MX-HID | Hidalgo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-HID.svg' height='80'> | [MX-HID](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-HID.svg) |
+| MX-JAL | Jalisco | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-JAL.svg' height='80'> | [MX-JAL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-JAL.svg) |
+| MX-MEX | México | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-MEX.svg' height='80'> | [MX-MEX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-MEX.svg) |
+| MX-MIC | Michoacán de Ocampo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-MIC.svg' height='80'> | [MX-MIC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-MIC.svg) |
+| MX-MOR | Morelos | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-MOR.svg' height='80'> | [MX-MOR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-MOR.svg) |
+| MX-NAY | Nayarit | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-NAY.svg' height='80'> | [MX-NAY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-NAY.svg) |
+| MX-NLE | Nuevo León | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-NLE.svg' height='80'> | [MX-NLE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-NLE.svg) |
+| MX-OAX | Oaxaca | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-OAX.svg' height='80'> | [MX-OAX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-OAX.svg) |
+| MX-PUE | Puebla | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-PUE.svg' height='80'> | [MX-PUE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-PUE.svg) |
+| MX-QUE | Querétaro | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-QUE.svg' height='80'> | [MX-QUE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-QUE.svg) |
+| MX-ROO | Quintana Roo | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-ROO.svg' height='80'> | [MX-ROO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-ROO.svg) |
+| MX-SIN | Sinaloa | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-SIN.svg' height='80'> | [MX-SIN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-SIN.svg) |
+| MX-SLP | San Luis Potosí | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-SLP.svg' height='80'> | [MX-SLP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-SLP.svg) |
+| MX-SON | Sonora | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-SON.svg' height='80'> | [MX-SON](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-SON.svg) |
+| MX-TAB | Tabasco | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-TAB.svg' height='80'> | [MX-TAB](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-TAB.svg) |
+| MX-TAM | Tamaulipas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-TAM.svg' height='80'> | [MX-TAM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-TAM.svg) |
+| MX-TLA | Tlaxcala | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-TLA.svg' height='80'> | [MX-TLA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-TLA.svg) |
+| MX-VER | Veracruz de Ignacio de la Llave | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-VER.svg' height='80'> | [MX-VER](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-VER.svg) |
+| MX-YUC | Yucatán | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-YUC.svg' height='80'> | [MX-YUC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-YUC.svg) |
+| MX-ZAC | Zacatecas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MX/MX-ZAC.svg' height='80'> | [MX-ZAC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MX/MX-ZAC.svg) |

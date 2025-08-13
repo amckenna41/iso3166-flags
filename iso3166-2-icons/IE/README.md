@@ -1,34 +1,42 @@
-# Republic of Ireland Subdivisions 🇮🇪
+# Ireland Subdivisions ![](https://flagcdn.com/h40/ie.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:IE
+- **ISO Code**: IE
+- **Number of subdivisions**: 30
+- **Subdivision Type**: County, Province
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IE
 
-* IE-C (Connaught) -> [IE-C.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-C.svg)
-* IE-CE (Clare) -> [IE-CE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-CE.svg)
-* IE-CN (Cavan) -> [IE-CN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-CN.svg)
-* IE-CO (Cork) -> [IE-CO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-CO.png)
-* IE-CW (Carlow) -> [IE-CW.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-CW.svg)
-* IE-D (Dublin) -> [IE-D.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-D.svg)
-* IE-DL (Donegal) -> [IE-DL.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-DL.png)
-* IE-G (Galway) -> [IE-G.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-G.png)
-* IE-KE (Kildare) -> [IE-KE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-KE.svg)
-* IE-KK (Kilkenny) -> [IE-KK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-KK.svg)
-* IE-KY (Kerry) -> [IE-KY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-KY.svg)
-* IE-L (Leinster) -> [IE-L.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-L.svg)
-* IE-LD (Longford) -> [IE-LD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-LD.png)
-* IE-LH (Louth) -> [IE-LH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-LH.png)
-* IE-LK (Limerick) -> [IE-LK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-LK.svg)
-* IE-LM (Leitrim) -> [IE-LM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-LM.svg)
-* IE-LS (Laois) -> [IE-LS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-LS.svg)
-* IE-M (Munster) -> [IE-M.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-M.svg)
-* IE-MH (Meath) -> [IE-MH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-MH.svg)
-* IE-MN (Monaghan) -> [IE-MN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-MN.png)
-* IE-MO (Mayo) -> [IE-MO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-MO.png)
-* IE-OY (Offaly) -> [IE-OY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-OY.svg)
-* IE-RN (Roscommon) -> [IE-RN.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-RN.png)
-* IE-SO (Sligo) -> [IE-SO.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-SO.png)
-* IE-TA (Tipperary) -> [IE-TA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-TA.svg)
-* IE-U (Ulster) -> [IE-U.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-U.svg)
-* IE-WD (Waterford) -> [IE-WD.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-WD.png)
-* IE-WH (Westmeath) -> [IE-WH.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-WH.png)
-* IE-WW (Wicklow) -> [IE-WW.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-WW.png)
-* IE-WX (Wexford) -> [IE-WX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-WX.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| IE-C | Connaught | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IE/IE-C.svg' height='80'> | [IE-C](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-C.svg) |
+| IE-L | Leinster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IE/IE-L.svg' height='80'> | [IE-L](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-L.svg) |
+| IE-M | Munster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IE/IE-M.svg' height='80'> | [IE-M](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-M.svg) |
+| IE-U | Ulster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/IE/IE-U.svg' height='80'> | [IE-U](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/IE/IE-U.svg) |
+
+Ireland ISO 3166-2 subdivisions with no available flags:
+
+* **IE-CE: Clare (County)**
+* **IE-CN: Cavan (County)**
+* **IE-CO: Cork (County)**
+* **IE-CW: Carlow (County)**
+* **IE-D: Dublin (County)**
+* **IE-DL: Donegal (County)**
+* **IE-G: Galway (County)**
+* **IE-KE: Kildare (County)**
+* **IE-KK: Kilkenny (County)**
+* **IE-KY: Kerry (County)**
+* **IE-LD: Longford (County)**
+* **IE-LH: Louth (County)**
+* **IE-LK: Limerick (County)**
+* **IE-LM: Leitrim (County)**
+* **IE-LS: Laois (County)**
+* **IE-MH: Meath (County)**
+* **IE-MN: Monaghan (County)**
+* **IE-MO: Mayo (County)**
+* **IE-OY: Offaly (County)**
+* **IE-RN: Roscommon (County)**
+* **IE-SO: Sligo (County)**
+* **IE-TA: Tipperary (County)**
+* **IE-WD: Waterford (County)**
+* **IE-WH: Westmeath (County)**
+* **IE-WW: Wicklow (County)**
+* **IE-WX: Wexford (County)**

@@ -1,75 +1,77 @@
-# Malta Subdivisions 🇲🇹
+# Malta Subdivisions ![](https://flagcdn.com/h40/mt.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:MT
+- **ISO Code**: MT
+- **Number of subdivisions**: 68
+- **Subdivision Type**: Local council
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MT
 
-* MT-01 (Attard) -> [MT-01.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-01.svg)
-* MT-02 (Balzan) -> [MT-02.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-02.svg)
-* MT-03 (Birgu) -> [MT-03.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-03.svg)
-* MT-04 (Birkirkara) -> [MT-04.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-04.svg)
-* MT-05 (Birżebbuġa) -> [MT-05.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-05.gif)
-* MT-05 (Birżebbuġa) -> [MT-05.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-05.png)
-* MT-06 (Bormla) -> [MT-06.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-06.svg)
-* MT-07 (Dingli) -> [MT-07.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-07.svg)
-* MT-08 (Fgura) -> [MT-08.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-08.svg)
-* MT-09 (Floriana) -> [MT-09.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-09.svg)
-* MT-10 (Fontana) -> [MT-10.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-10.svg)
-* MT-11 (Gudja) -> [MT-11.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-11.svg)
-* MT-12 (Gżira) -> [MT-12.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-12.svg)
-* MT-13 (Għajnsielem) -> [MT-13.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-13.svg)
-* MT-14 (Għarb) -> [MT-14.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-14.svg)
-* MT-15 (Għargħur) -> [MT-15.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-15.svg)
-* MT-16 (Għasri) -> [MT-16.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-16.svg)
-* MT-17 (Għaxaq) -> [MT-17.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-17.svg)
-* MT-18 (Ħamrun) -> [MT-18.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-18.svg)
-* MT-19 (Iklin) -> [MT-19.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-19.svg)
-* MT-20 (Isla) -> [MT-20.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-20.svg)
-* MT-21 (Kalkara) -> [MT-21.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-21.gif)
-* MT-21 (Kalkara) -> [MT-21.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-21.png)
-* MT-22 (Kerċem) -> [MT-22.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-22.svg)
-* MT-23 (Kirkop) -> [MT-23.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-23.svg)
-* MT-24 (Lija) -> [MT-24.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-24.svg)
-* MT-25 (Luqa) -> [MT-25.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-25.svg)
-* MT-26 (Marsa) -> [MT-26.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-26.svg)
-* MT-27 (Marsaskala) -> [MT-27.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-27.svg)
-* MT-28 (Marsaxlokk) -> [MT-28.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-28.svg)
-* MT-29 (Mdina) -> [MT-29.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-29.svg)
-* MT-30 (Mellieħa) -> [MT-30.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-30.svg)
-* MT-31 (Mġarr) -> [MT-31.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-31.svg)
-* MT-32 (Mosta) -> [MT-32.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-32.svg)
-* MT-33 (Mqabba) -> [MT-33.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-33.svg)
-* MT-34 (Msida) -> [MT-34.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-34.svg)
-* MT-35 (Mtarfa) -> [MT-35.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-35.svg)
-* MT-36 (Munxar) -> [MT-36.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-36.svg)
-* MT-37 (Nadur) -> [MT-37.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-37.svg)
-* MT-38 (Naxxar) -> [MT-38.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-38.svg)
-* MT-39 (Paola) -> [MT-39.gif](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-39.gif)
-* MT-39 (Paola) -> [MT-39.png](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-39.png)
-* MT-40 (Pembroke) -> [MT-40.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-40.svg)
-* MT-41 (Pietà) -> [MT-41.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-41.svg)
-* MT-42 (Qala) -> [MT-42.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-42.svg)
-* MT-43 (Qormi) -> [MT-43.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-43.svg)
-* MT-44 (Qrendi) -> [MT-44.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-44.svg)
-* MT-45 (Rabat Gozo) -> [MT-45.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-45.svg)
-* MT-46 (Rabat Malta) -> [MT-46.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-46.svg)
-* MT-47 (Safi) -> [MT-47.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-47.svg)
-* MT-48 (Saint Julian'S) -> [MT-48.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-48.svg)
-* MT-49 (Saint John) -> [MT-49.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-49.svg)
-* MT-50 (Saint Lawrence) -> [MT-50.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-50.svg)
-* MT-51 (Saint Paul'S Bay) -> [MT-51.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-51.svg)
-* MT-52 (Sannat) -> [MT-52.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-52.svg)
-* MT-53 (Saint Lucia'S) -> [MT-53.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-53.svg)
-* MT-54 (Santa Venera) -> [MT-54.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-54.svg)
-* MT-55 (Siġġiewi) -> [MT-55.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-55.svg)
-* MT-56 (Sliema) -> [MT-56.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-56.svg)
-* MT-57 (Swieqi) -> [MT-57.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-57.svg)
-* MT-58 (Ta' Xbiex) -> [MT-58.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-58.svg)
-* MT-59 (Tarxien) -> [MT-59.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-59.svg)
-* MT-60 (Valletta) -> [MT-60.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-60.svg)
-* MT-61 (Xagħra) -> [MT-61.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-61.svg)
-* MT-62 (Xewkija) -> [MT-62.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-62.svg)
-* MT-63 (Xgħajra) -> [MT-63.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-63.svg)
-* MT-64 (Żabbar) -> [MT-64.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-64.svg)
-* MT-65 (Żebbuġ Gozo) -> [MT-65.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-65.svg)
-* MT-66 (Żebbuġ Malta) -> [MT-66.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-66.svg)
-* MT-67 (Żejtun) -> [MT-67.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-67.svg)
-* MT-68 (Żurrieq) -> [MT-68.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-68.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| MT-01 | Attard | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-01.svg' height='80'> | [MT-01](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-01.svg) |
+| MT-02 | Balzan | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-02.svg' height='80'> | [MT-02](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-02.svg) |
+| MT-03 | Birgu | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-03.svg' height='80'> | [MT-03](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-03.svg) |
+| MT-04 | Birkirkara | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-04.svg' height='80'> | [MT-04](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-04.svg) |
+| MT-05 | Birżebbuġa | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-05.png' height='80'> | [MT-05](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-05.png) |
+| MT-06 | Bormla | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-06.svg' height='80'> | [MT-06](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-06.svg) |
+| MT-07 | Dingli | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-07.svg' height='80'> | [MT-07](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-07.svg) |
+| MT-08 | Fgura | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-08.svg' height='80'> | [MT-08](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-08.svg) |
+| MT-09 | Floriana | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-09.svg' height='80'> | [MT-09](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-09.svg) |
+| MT-10 | Fontana | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-10.svg' height='80'> | [MT-10](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-10.svg) |
+| MT-11 | Gudja | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-11.svg' height='80'> | [MT-11](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-11.svg) |
+| MT-12 | Gżira | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-12.svg' height='80'> | [MT-12](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-12.svg) |
+| MT-13 | Għajnsielem | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-13.svg' height='80'> | [MT-13](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-13.svg) |
+| MT-14 | Għarb | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-14.svg' height='80'> | [MT-14](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-14.svg) |
+| MT-15 | Għargħur | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-15.svg' height='80'> | [MT-15](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-15.svg) |
+| MT-16 | Għasri | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-16.svg' height='80'> | [MT-16](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-16.svg) |
+| MT-17 | Għaxaq | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-17.svg' height='80'> | [MT-17](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-17.svg) |
+| MT-18 | Ħamrun | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-18.svg' height='80'> | [MT-18](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-18.svg) |
+| MT-19 | Iklin | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-19.svg' height='80'> | [MT-19](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-19.svg) |
+| MT-20 | Isla | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-20.svg' height='80'> | [MT-20](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-20.svg) |
+| MT-21 | Kalkara | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-21.png' height='80'> | [MT-21](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-21.png) |
+| MT-22 | Kerċem | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-22.svg' height='80'> | [MT-22](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-22.svg) |
+| MT-23 | Kirkop | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-23.svg' height='80'> | [MT-23](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-23.svg) |
+| MT-24 | Lija | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-24.svg' height='80'> | [MT-24](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-24.svg) |
+| MT-25 | Luqa | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-25.svg' height='80'> | [MT-25](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-25.svg) |
+| MT-26 | Marsa | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-26.svg' height='80'> | [MT-26](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-26.svg) |
+| MT-27 | Marsaskala | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-27.svg' height='80'> | [MT-27](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-27.svg) |
+| MT-28 | Marsaxlokk | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-28.svg' height='80'> | [MT-28](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-28.svg) |
+| MT-29 | Mdina | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-29.svg' height='80'> | [MT-29](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-29.svg) |
+| MT-30 | Mellieħa | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-30.svg' height='80'> | [MT-30](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-30.svg) |
+| MT-31 | Mġarr | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-31.svg' height='80'> | [MT-31](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-31.svg) |
+| MT-32 | Mosta | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-32.svg' height='80'> | [MT-32](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-32.svg) |
+| MT-33 | Mqabba | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-33.svg' height='80'> | [MT-33](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-33.svg) |
+| MT-34 | Msida | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-34.svg' height='80'> | [MT-34](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-34.svg) |
+| MT-35 | Mtarfa | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-35.svg' height='80'> | [MT-35](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-35.svg) |
+| MT-36 | Munxar | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-36.svg' height='80'> | [MT-36](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-36.svg) |
+| MT-37 | Nadur | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-37.svg' height='80'> | [MT-37](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-37.svg) |
+| MT-38 | Naxxar | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-38.svg' height='80'> | [MT-38](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-38.svg) |
+| MT-39 | Paola | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-39.png' height='80'> | [MT-39](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-39.png) |
+| MT-40 | Pembroke | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-40.svg' height='80'> | [MT-40](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-40.svg) |
+| MT-41 | Pietà | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-41.svg' height='80'> | [MT-41](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-41.svg) |
+| MT-42 | Qala | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-42.svg' height='80'> | [MT-42](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-42.svg) |
+| MT-43 | Qormi | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-43.svg' height='80'> | [MT-43](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-43.svg) |
+| MT-44 | Qrendi | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-44.svg' height='80'> | [MT-44](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-44.svg) |
+| MT-45 | Rabat Gozo | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-45.svg' height='80'> | [MT-45](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-45.svg) |
+| MT-46 | Rabat Malta | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-46.svg' height='80'> | [MT-46](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-46.svg) |
+| MT-47 | Safi | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-47.svg' height='80'> | [MT-47](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-47.svg) |
+| MT-48 | Saint Julian's | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-48.svg' height='80'> | [MT-48](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-48.svg) |
+| MT-49 | Saint John | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-49.svg' height='80'> | [MT-49](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-49.svg) |
+| MT-50 | Saint Lawrence | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-50.svg' height='80'> | [MT-50](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-50.svg) |
+| MT-51 | Saint Paul's Bay | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-51.svg' height='80'> | [MT-51](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-51.svg) |
+| MT-52 | Sannat | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-52.svg' height='80'> | [MT-52](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-52.svg) |
+| MT-53 | Saint Lucia's | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-53.svg' height='80'> | [MT-53](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-53.svg) |
+| MT-54 | Santa Venera | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-54.svg' height='80'> | [MT-54](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-54.svg) |
+| MT-55 | Siġġiewi | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-55.svg' height='80'> | [MT-55](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-55.svg) |
+| MT-56 | Sliema | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-56.svg' height='80'> | [MT-56](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-56.svg) |
+| MT-57 | Swieqi | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-57.svg' height='80'> | [MT-57](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-57.svg) |
+| MT-58 | Ta' Xbiex | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-58.svg' height='80'> | [MT-58](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-58.svg) |
+| MT-59 | Tarxien | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-59.svg' height='80'> | [MT-59](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-59.svg) |
+| MT-60 | Valletta | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-60.svg' height='80'> | [MT-60](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-60.svg) |
+| MT-61 | Xagħra | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-61.svg' height='80'> | [MT-61](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-61.svg) |
+| MT-62 | Xewkija | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-62.svg' height='80'> | [MT-62](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-62.svg) |
+| MT-63 | Xgħajra | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-63.svg' height='80'> | [MT-63](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-63.svg) |
+| MT-64 | Żabbar | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-64.svg' height='80'> | [MT-64](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-64.svg) |
+| MT-65 | Żebbuġ Gozo | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-65.svg' height='80'> | [MT-65](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-65.svg) |
+| MT-66 | Żebbuġ Malta | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-66.svg' height='80'> | [MT-66](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-66.svg) |
+| MT-67 | Żejtun | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-67.svg' height='80'> | [MT-67](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-67.svg) |
+| MT-68 | Żurrieq | Local council | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/MT/MT-68.svg' height='80'> | [MT-68](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/MT/MT-68.png) |

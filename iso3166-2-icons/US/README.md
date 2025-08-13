@@ -1,61 +1,66 @@
-# USA Subdivisions 🇺🇸
+# United States of America Subdivisions ![](https://flagcdn.com/h40/us.png)
 
-Source: https://en.wikipedia.org/wiki/ISO_3166-2:US
+- **ISO Code**: US
+- **Number of subdivisions**: 57
+- **Subdivision Type**: District, Outlying area, State
+- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/US
 
-* US-AK (Alaska) -> [US-AK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AK.svg)
-* US-AL (Alabama) -> [US-AL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AL.svg)
-* US-AR (Arkansas) -> [US-AR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AR.svg)
-* US-AS (American Samoa) -> [US-AS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AS.svg)
-* US-AZ (Arizona) -> [US-AZ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AZ.svg)
-* US-CA (California) -> [US-CA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-CA.svg)
-* US-CO (Colorado) -> [US-CO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-CO.svg)
-* US-CT (Connecticut) -> [US-CT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-CT.svg)
-* US-DC (District Of Columbia) -> [US-DC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-DC.svg)
-* US-DE (Delaware) -> [US-DE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-DE.svg)
-* US-FL (Florida) -> [US-FL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-FL.svg)
-* US-GA (Georgia) -> [US-GA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-GA.svg)
-* US-GU (Guam) -> [US-GU.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-GU.svg)
-* US-HI (Hawaii) -> [US-HI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-HI.svg)
-* US-IA (Iowa) -> [US-IA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-IA.svg)
-* US-ID (Idaho) -> [US-ID.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-ID.svg)
-* US-IL (Illinois) -> [US-IL.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-IL.svg)
-* US-IN (Indiana) -> [US-IN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-IN.svg)
-* US-KS (Kansas) -> [US-KS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-KS.svg)
-* US-KY (Kentucky) -> [US-KY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-KY.svg)
-* US-LA (Louisiana) -> [US-LA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-LA.svg)
-* US-MA (Massachusetts) -> [US-MA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MA.svg)
-* US-MD (Maryland) -> [US-MD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MD.svg)
-* US-ME (Maine) -> [US-ME.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-ME.svg)
-* US-MI (Michigan) -> [US-MI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MI.svg)
-* US-MN (Minnesota) -> [US-MN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MN.svg)
-* US-MO (Missouri) -> [US-MO.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MO.svg)
-* US-MP (Northern Mariana Islands) -> [US-MP.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MP.svg)
-* US-MS (Mississippi) -> [US-MS.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MS.svg)
-* US-MT (Montana) -> [US-MT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MT.svg)
-* US-NC (North Carolina) -> [US-NC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NC.svg)
-* US-ND (North Dakota) -> [US-ND.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-ND.svg)
-* US-NE (Nebraska) -> [US-NE.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NE.svg)
-* US-NH (New Hampshire) -> [US-NH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NH.svg)
-* US-NJ (New Jersey) -> [US-NJ.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NJ.svg)
-* US-NM (New Mexico) -> [US-NM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NM.svg)
-* US-NV (Nevada) -> [US-NV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NV.svg)
-* US-NY (New York) -> [US-NY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NY.svg)
-* US-OH (Ohio) -> [US-OH.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-OH.svg)
-* US-OK (Oklahoma) -> [US-OK.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-OK.svg)
-* US-OR (Oregon) -> [US-OR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-OR.svg)
-* US-PA (Pennsylvania) -> [US-PA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-PA.svg)
-* US-PR (Puerto Rico) -> [US-PR.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-PR.svg)
-* US-RI (Rhode Island) -> [US-RI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-RI.svg)
-* US-SC (South Carolina) -> [US-SC.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-SC.svg)
-* US-SD (South Dakota) -> [US-SD.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-SD.svg)
-* US-TN (Tennessee) -> [US-TN.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-TN.svg)
-* US-TX (Texas) -> [US-TX.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-TX.svg)
-* US-UM (United States Minor Outlying Islands) -> [US-UM.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-UM.svg)
-* US-UT (Utah) -> [US-UT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-UT.svg)
-* US-VA (Virginia) -> [US-VA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VA.svg)
-* US-VI (Virgin Islands, U.S.) -> [US-VI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VI.svg)
-* US-VT (Vermont) -> [US-VT.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VT.svg)
-* US-WA (Washington) -> [US-WA.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WA.svg)
-* US-WI (Wisconsin) -> [US-WI.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WI.svg)
-* US-WV (West Virginia) -> [US-WV.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WV.svg)
-* US-WY (Wyoming) -> [US-WY.svg](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WY.svg)
+| Code  | Subdivision Name         | Type | Flag Preview | Link |
+|-------|--------------------------|--------------| -------------- |----------|
+| US-AK | Alaska | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-AK.svg' height='80'> | [US-AK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AK.svg) |
+| US-AL | Alabama | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-AL.svg' height='80'> | [US-AL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AL.svg) |
+| US-AR | Arkansas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-AR.svg' height='80'> | [US-AR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AR.svg) |
+| US-AS | American Samoa | Outlying area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-AS.svg' height='80'> | [US-AS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AS.svg) |
+| US-AZ | Arizona | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-AZ.svg' height='80'> | [US-AZ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-AZ.svg) |
+| US-CA | California | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-CA.svg' height='80'> | [US-CA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-CA.svg) |
+| US-CO | Colorado | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-CO.svg' height='80'> | [US-CO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-CO.svg) |
+| US-CT | Connecticut | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-CT.svg' height='80'> | [US-CT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-CT.svg) |
+| US-DC | District of Columbia | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-DC.svg' height='80'> | [US-DC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-DC.svg) |
+| US-DE | Delaware | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-DE.svg' height='80'> | [US-DE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-DE.svg) |
+| US-FL | Florida | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-FL.svg' height='80'> | [US-FL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-FL.svg) |
+| US-GA | Georgia | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-GA.svg' height='80'> | [US-GA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-GA.svg) |
+| US-GU | Guam | Outlying area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-GU.svg' height='80'> | [US-GU](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-GU.svg) |
+| US-HI | Hawaii | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-HI.svg' height='80'> | [US-HI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-HI.svg) |
+| US-IA | Iowa | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-IA.svg' height='80'> | [US-IA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-IA.svg) |
+| US-ID | Idaho | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-ID.svg' height='80'> | [US-ID](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-ID.svg) |
+| US-IL | Illinois | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-IL.svg' height='80'> | [US-IL](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-IL.svg) |
+| US-IN | Indiana | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-IN.svg' height='80'> | [US-IN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-IN.svg) |
+| US-KS | Kansas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-KS.svg' height='80'> | [US-KS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-KS.svg) |
+| US-KY | Kentucky | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-KY.svg' height='80'> | [US-KY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-KY.svg) |
+| US-LA | Louisiana | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-LA.svg' height='80'> | [US-LA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-LA.svg) |
+| US-MA | Massachusetts | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MA.svg' height='80'> | [US-MA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MA.svg) |
+| US-MD | Maryland | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MD.svg' height='80'> | [US-MD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MD.svg) |
+| US-ME | Maine | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-ME.svg' height='80'> | [US-ME](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-ME.svg) |
+| US-MI | Michigan | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MI.svg' height='80'> | [US-MI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MI.svg) |
+| US-MN | Minnesota | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MN.svg' height='80'> | [US-MN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MN.svg) |
+| US-MO | Missouri | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MO.svg' height='80'> | [US-MO](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MO.svg) |
+| US-MP | Northern Mariana Islands | Outlying area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MP.svg' height='80'> | [US-MP](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MP.svg) |
+| US-MS | Mississippi | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MS.svg' height='80'> | [US-MS](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MS.svg) |
+| US-MT | Montana | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-MT.svg' height='80'> | [US-MT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-MT.svg) |
+| US-NC | North Carolina | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-NC.svg' height='80'> | [US-NC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NC.svg) |
+| US-ND | North Dakota | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-ND.svg' height='80'> | [US-ND](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-ND.svg) |
+| US-NE | Nebraska | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-NE.svg' height='80'> | [US-NE](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NE.svg) |
+| US-NH | New Hampshire | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-NH.svg' height='80'> | [US-NH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NH.svg) |
+| US-NJ | New Jersey | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-NJ.svg' height='80'> | [US-NJ](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NJ.svg) |
+| US-NM | New Mexico | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-NM.svg' height='80'> | [US-NM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NM.svg) |
+| US-NV | Nevada | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-NV.svg' height='80'> | [US-NV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NV.svg) |
+| US-NY | New York | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-NY.svg' height='80'> | [US-NY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-NY.svg) |
+| US-OH | Ohio | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-OH.svg' height='80'> | [US-OH](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-OH.svg) |
+| US-OK | Oklahoma | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-OK.svg' height='80'> | [US-OK](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-OK.svg) |
+| US-OR | Oregon | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-OR.svg' height='80'> | [US-OR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-OR.svg) |
+| US-PA | Pennsylvania | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-PA.svg' height='80'> | [US-PA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-PA.svg) |
+| US-PR | Puerto Rico | Outlying area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-PR.svg' height='80'> | [US-PR](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-PR.svg) |
+| US-RI | Rhode Island | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-RI.svg' height='80'> | [US-RI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-RI.svg) |
+| US-SC | South Carolina | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-SC.svg' height='80'> | [US-SC](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-SC.svg) |
+| US-SD | South Dakota | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-SD.svg' height='80'> | [US-SD](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-SD.svg) |
+| US-TN | Tennessee | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-TN.svg' height='80'> | [US-TN](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-TN.svg) |
+| US-TX | Texas | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-TX.svg' height='80'> | [US-TX](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-TX.svg) |
+| US-UM | United States Minor Outlying Islands | Outlying area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-UM.svg' height='80'> | [US-UM](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-UM.svg) |
+| US-UT | Utah | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-UT.svg' height='80'> | [US-UT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-UT.svg) |
+| US-VA | Virginia | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-VA.svg' height='80'> | [US-VA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VA.svg) |
+| US-VI | Virgin Islands, U.S. | Outlying area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-VI.svg' height='80'> | [US-VI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VI.svg) |
+| US-VT | Vermont | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-VT.svg' height='80'> | [US-VT](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-VT.svg) |
+| US-WA | Washington | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-WA.svg' height='80'> | [US-WA](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WA.svg) |
+| US-WI | Wisconsin | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-WI.svg' height='80'> | [US-WI](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WI.svg) |
+| US-WV | West Virginia | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-WV.svg' height='80'> | [US-WV](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WV.svg) |
+| US-WY | Wyoming | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flag-icons/main/iso3166-2-icons/US/US-WY.svg' height='80'> | [US-WY](https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons/US/US-WY.svg) |
