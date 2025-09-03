@@ -2,6 +2,6 @@
 Pillow
 iso3166
 iso3166-2
-cv2
+opencv-python
 lxml
 pandas
