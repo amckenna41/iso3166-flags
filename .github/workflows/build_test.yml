@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  #build and test iso3166-flag-icons
+  #build and test iso3166-flags
   build_test:
     name: Building and testing
     timeout-minutes: 15

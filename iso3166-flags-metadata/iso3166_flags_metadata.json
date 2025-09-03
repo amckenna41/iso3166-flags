@@ -1,0 +1,18 @@
+{
+    "total": 3116,
+    "iso3166_1_total": 271,
+    "iso3166_2_total": 2845,
+    "svg": 2264,
+    "png": 798,
+    "jpg/jpeg": 54,
+    "other": 0,
+    "duplicates": 0,
+    "subdivisions_other": [],
+    "duplicate_list": [],
+    "total_repo_size": "341,605.940KB",
+    "iso3166_1_flags_size": "1,955.571KB",
+    "iso3166_2_flags_size": "339,650.369KB",
+    "average_flag_size": "112,260.746KB",
+    "missing_iso3166_1_count": 0,
+    "missing_iso3166_2_count": 2204
+}

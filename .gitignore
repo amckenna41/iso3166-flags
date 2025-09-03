@@ -186,3 +186,12 @@ iso3166_1_flag_metadata.csv
 iso3166_2_flag_metadata.csv
 missing_subdivision_flags.csv
 repo_metadata.json
+proposed_flags.csv
+missing_flags_search.py
+flag_notes.csv
+get_users.py
+export_proposed_flags.py
+git_status_summary.sh
+status_logs.txt
+iso3166_2_flag_list.csv
+iso3166-2-flags-backup/

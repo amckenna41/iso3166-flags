@@ -1,0 +1,8 @@
+- Changed FR-2A and FR-2B to Corsica flag like FR-20R
+- FR-971, FR-973, FR-974, FR-976 changed to France flag, as it is their official flag according to the ISO 3166
+- FR-972 changed from France to martinique flag
+- Some GB flags removed as they are COA and banners etc
+- Notes section added to each markdown file with additional notes etc about the country/subdivisions
+- Added the iso3166-flags-metadata directory to repo which contains a plethora of metadata files and info for the ISO 3166-1 and ISO 3166-2 flags as well as the repo itself.
+- Added stats section to main readme
+- In iso3166-2.css, removed country code from selector, only subdivision code in selector

@@ -8,7 +8,7 @@ def export_missing_flags(flag_icons_dir: str, export: bool=True, export_filename
     Export a list of subdivisions that do not have a supported flag in the inputted folder, 
     using the custom-built iso3166-2 software package. Many subdivisions do not have an 
     officially recognized or associated flag. The list will be exported to a DataFrame & 
-    CSV, listing the subdivision code & name. The output will be sorted alphabetically.
+    CSV, listing the subdivision code, name and type. The output will be sorted alphabetically.
 
     Parameters
     ==========
@@ -36,7 +36,7 @@ def export_missing_flags(flag_icons_dir: str, export: bool=True, export_filename
     all_subdivision_codes = subdivisions.subdivision_codes()
 
     #intialise dataframe that will store rows of missing subdivisions, their codes and names
-    missing_files_df = pd.DataFrame(columns=["subdivisionCode", "subdivisionName"])
+    missing_files_df = pd.DataFrame(columns=["subdivisionCode", "subdivisionName", "subdivisionType"])
 
     #object of all files, the parent folder is the key
     all_files = {}
@@ -71,12 +71,13 @@ def export_missing_flags(flag_icons_dir: str, export: bool=True, export_filename
         for subd in all_subdivision_codes[country]:
             if (country not in all_files or subd not in all_files[country]):
                 subdivision_name = subdivisions[country][subd]["name"]
+                subdivision_type = subdivisions[country][subd]["type"]
                 #wrap in double quotes subdivision names with commas in them 
                 if ("," in subdivision_name):
-                    subdivision_name = f'"{subdivision_name}"'  # Wrap in double quotes
+                    subdivision_name = f'"{subdivision_name}"'  #wrap in double quotes
 
                 #add subdivision data to object
-                new_row = {"subdivisionCode": subd, "subdivisionName": subdivision_name}
+                new_row = {"subdivisionCode": subd, "subdivisionName": subdivision_name, "subdivisionType": subdivision_type}
                 new_rows.append(new_row)
     
     #append csv extension to file if no extension or invalid extension
@@ -97,13 +98,13 @@ if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='Script for exporting file of any subdivisions that do not have an associated flag in the repo.')
 
-    parser.add_argument('-flag_icons_dir', '--flag_icons_dir', type=str, required=False, default="iso3166-2-icons-edit-this-one", help='Input folder of ISO 3166-2 flag icons.')
-    parser.add_argument('-export_filename', '--export_filename', type=str, required=False, default="missing-iso3166-2-icons", help='Export filename for missing subdivisions/flags csv.')
+    parser.add_argument('-flag_icons_dir', '--flag_icons_dir', type=str, required=False, default="iso3166-2-flags", help='Input folder of ISO 3166-2 flag icons.')
+    parser.add_argument('-export', '--export', required=False, action=argparse.BooleanOptionalAction, default=1, 
+        help='Set to 1 to export the missing flag files dataframe to a csv, by default it is exported.')
+    parser.add_argument('-export_filename', '--export_filename', type=str, required=False, default="missing-flags", help='Export filename for missing subdivisions/flags csv.')
 
     #parse input args
     args = parser.parse_args()
-    flag_icons_dir = args.flag_icons_dir
-    export_filename = args.export_filename
-
+    
     #call missing subdivisions function
-    export_missing_flags(vars(**args))
+    export_missing_flags(**vars(args))

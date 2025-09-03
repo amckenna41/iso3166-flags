@@ -1,10 +1,16 @@
 import os
 import argparse
+import pandas as pd
 import iso3166
 from iso3166_2 import *
 
-#base URL to iso3166-2-icons folder in repo
-base_url = 'https://github.com/amckenna41/iso3166-flag-icons/blob/main/iso3166-2-icons'
+#base URL to iso3166-2-flags folder in repo
+base_url = 'https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags'
+
+#read in the CSV that has the notes section data, if applicable, for each markdown file, reindex and assign
+notes_df = pd.read_csv(os.path.join("iso3166-flags-metadata", "iso3166_flag_notes.csv"), header=0).fillna("")
+notes_df = notes_df.reset_index()
+notes_df = notes_df.assign(countryCode=notes_df["index"], notes=notes_df["countryCode"])[["countryCode", "notes"]]
 
 def create_markdown_str(country_code: str, input_folder: str) -> None:
     """
@@ -95,8 +101,8 @@ def create_markdown_str(country_code: str, input_folder: str) -> None:
         current_subdivision = all_subdivisions[subd_code]
 
         #add subdivision and its data to table row
-        output_str += f"| {subd_code} | {current_subdivision.name} | {current_subdivision.type} | <img src='{current_subdivision['flag']}' height='80'> | [{subd_code}]({base_url}/{country_code}/{file}) |\n"
-
+        output_str += f"| {subd_code} | {current_subdivision.name} | {current_subdivision.type} | <img src='{current_subdivision['flag']}' height='80'> | [{file}]({base_url}/{country_code}/{file}) |\n"
+    
     #get list of file names, remove extension    
     all_files_no_extension = [os.path.splitext(file)[0] for file in all_files]
     
@@ -115,6 +121,14 @@ def create_markdown_str(country_code: str, input_folder: str) -> None:
             for subdiv in all_subdivisions:
                 if (subdiv == subd):
                     output_str += f"\n* **{subd.upper()}: {all_subdivisions[subdiv].name} ({all_subdivisions[subdiv].type})**"
+
+    #get the row data for the current country code
+    country_code_notes = notes_df[notes_df['countryCode'] == country_code]
+
+    #append any notes for the country/subdivisions, if applicable
+    if (country_code_notes['notes'].values != ""):
+        output_str += "\n\n## Notes\n"
+        output_str += country_code_notes['notes'].values[0]
 
     return output_str
 
@@ -200,7 +214,7 @@ def create_readme(flag_input_folder: str, country_subfolder: str="", output_read
         #convert country code into ISO 3166-1 alpha-2 format
         country_code = convert_to_alpha2(country_subfolder)
 
-        #get coountry subfolder path
+        #get country subfolder path
         country_subfolder = os.path.join(flag_input_folder, country_subfolder)
 
         #raise error if subfolder an invalid path
@@ -287,14 +301,16 @@ def convert_to_alpha2(alpha_code: str) -> str:
 if __name__ == '__main__':
 
     #parse input arguments using ArgParse 
-    parser = argparse.ArgumentParser(description='Script for generating the markdown files for each countrys subdivision folders.')
+    parser = argparse.ArgumentParser(description="Script for generating the markdown files for each country's subdivision folders.")
 
-    parser.add_argument('-flag_input_folder', '--flag_input_folder', type=str, required=False, default="iso3166-2-icons-edit-this-one", 
-        help='Input folder of ISO 3166-2 flag icons to generate README for.')
+    parser.add_argument('-flag_input_folder', '--flag_input_folder', type=str, required=False, default="iso3166-2-flags-edit-this-one", 
+        help='Input folder of ISO 3166-2 flags to generate README for.')
     parser.add_argument('-country_subfolder', '--country_subfolder', type=str, required=False, default="", 
         help='Specific subfolder of country subdivisions to generate README for. If a subfolder and main folder name are input this arg will take precedence.')
     parser.add_argument('-output_readme_folder', '--output_readme_folder', type=str, required=False, default="", 
-        help='Specific output folder to store the generated markdown files, by default they will be stored within the countrys subfolder.')
+        help="Specific output folder to store the generated markdown files, by default they will be stored within the country's subfolder.")
+    parser.add_argument('-exclude_readme', '--exclude_readme', required=False, action=argparse.BooleanOptionalAction, default=1, 
+        help='Set to 1 to exclude the country markdown files in the overall file count and metadata calculation.')
     
     #parse input args
     args = parser.parse_args()

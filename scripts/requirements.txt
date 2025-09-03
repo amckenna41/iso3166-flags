@@ -1,5 +1,5 @@
 #external Python packages for iso3166-flag-icons script
-PIL
+Pillow
 iso3166
 iso3166-2
 cv2

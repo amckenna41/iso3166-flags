@@ -3,7 +3,7 @@ import os
 import shutil
 import argparse
 
-def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", img_format="png") -> None:
+def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", img_format="png", delete_original: bool=False) -> None:
     """
     Convert any flag images in the GIF or WEBP format into a specified format (png by default). 
     The function can accept a folder to iterate through, converting all GIFs/WEBPs, or it can 
@@ -16,7 +16,7 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
     ========== 
     :flag_folder: str
         path to directory of flag images to convert, can be a single directory
-        or a nested directory like that of iso3166-2-icons.
+        or a nested directory like that of iso3166-2-flags.
     :archive_folder: str (default="")
         backup folder which stores the original unconverted file.
     :img_filepath: str (default="")
@@ -24,6 +24,8 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
         then it will take precedence over the folder of images.
     :img_format: str (default="png")
         image format to convert image into, e.g png, jpg & jpeg.
+    :delete_original: bool (default=False)
+        once the image file has been converted, delete the original.
 
     Returns
     =======
@@ -44,6 +46,9 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
     if (archive_folder != ""):
         if not (os.path.isdir(archive_folder)):
             os.makedirs(archive_folder)
+
+    #lowercase input file format
+    img_format = img_format.lower()
 
     #raise error if invalid image format put into the parameter
     valid_formats = ["png", "jpg", "jpeg"]
@@ -107,10 +112,13 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
                         if not (os.path.isdir(os.path.join(archive_folder, item))):
                             os.makedirs(os.path.join(archive_folder, item))
 
-                    #move original image file to the same nested folder within archive folder
-                    if (archive_folder != ""):
+                        #move original image file to the same nested folder within archive folder
                         shutil.move(input_img_path, os.path.join(os.path.join(archive_folder, item), os.path.basename(input_img_path)))
                     
+                    #delete the original image filepath, if applicable
+                    if (delete_original):
+                        os.remove(input_img_path)
+
             #if current item in the folder is not a nested dir then convert image to specified format and archive original image
             else:
                 input_img_path = os.path.join(flag_folder, item)
@@ -134,20 +142,26 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
                 if (archive_folder != ""):
                     shutil.move(input_img_path, os.path.join(archive_folder, os.path.basename(input_img_path)))
 
+                #delete the original image filepath, if applicable
+                if (delete_original):
+                    os.remove(input_img_path)
+
 if __name__ == "__main__":
 
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='')
 
-    parser.add_argument('-flag_folder', '--flag_folder', type=str, required=False, default="iso3166-2-icons-edit-this-one", 
-        help='Input folder of ISO 3166 flag icons to convert to specified format.')
+    parser.add_argument('-flag_folder', '--flag_folder', type=str, required=False, default="iso3166-2-flags-edit-this-one", 
+        help='Input folder of ISO 3166 flags to convert to specified format.')
     parser.add_argument('-archive_folder', '--archive_folder', type=str, required=False, default="flag_icon_conversion_archive", 
-        help='Archive folder that maintains the original unconverted ISO 3166 flag icons.')
+        help='Archive folder that maintains the original unconverted ISO 3166 flags.')
     parser.add_argument('-img_file_path', '--img_file_path', type=str, required=False, default="", 
         help='Filepath to individual image to convert. The file will take precedence over a folder of images input.')
     parser.add_argument('-img_format', '--img_format', type=str, required=False, default="png", 
         help='File format to convert the images into, accepted formats are png, jpg or jpeg (png by default).')
-
+    parser.add_argument('-delete_original', '--delete_original', required=False, action=argparse.BooleanOptionalAction, default=0, 
+        help='Set to 1 to delete the original image file once converted, by default it is kept.')
+    
     #parse input args
     args = parser.parse_args()
 

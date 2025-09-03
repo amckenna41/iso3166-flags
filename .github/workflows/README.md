@@ -1,3 +1,3 @@
-# ISO 3166-flag-icons Workflow
+# ISO 3166-flags Workflow
 
-* `build_test.yml` - build and test the iso3166-flag-icons pipeline, including running any scripts and unit tests.
+* `build_test.yml` - build and test the iso3166-flags pipeline, including running any scripts and unit tests.

@@ -9,7 +9,7 @@ from pathlib import Path
 def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_check: str="", sort_by: str="", filter_status: str="", 
                          include_timestamp: bool=True, strip_prefix: bool=True, filter_extensions: str="") -> None:
     """
-    Export the logs from the 'git status' command for the 'iso3166-flag-icons' 
+    Export the logs from the 'git status' command for the 'iso3166-flags' 
     repo that outlines all the changes made to the repo, including additions, 
     changes and deletions to the flag folders. Mainly created for testing &
     to keep an accurate and readable log for big changes made to the repo. 
@@ -21,7 +21,7 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
     :folders_to_check: str (default="")
         1 or more specific directories to get the change logs for.
     :sort_by: str (default="status")
-        attribute in export file to sort_by, by deafult the rows will 
+        attribute in export file to sort_by, by default the rows will 
         be sorted by the status attribute.
     :filter_status: str (default="")
         filter the status column, only including those files that have
@@ -71,8 +71,8 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
         folder_pattern = r'^(\.\.?/)?(' + '|'.join(escaped_folders) + r')/'
         folder_regex = re.compile(folder_pattern)
     else:
-        #default regex if no folder is passed - defaults to searchinf over the iso3166-1 & iso3166-2 icon folders
-        folder_regex = re.compile(r'^(\.\.?/)?iso3166-[12]-icons/')
+        #default regex if no folder is passed - defaults to searching over the iso3166-1 & iso3166-2 icon folders
+        folder_regex = re.compile(r'^(\.\.?/)?iso3166-[12]-flags/')
 
     #list of all changes
     change_log = []
@@ -105,7 +105,7 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
                     #remove prefix from folders e.g remove "../"
                     if strip_prefix:
                         path = re.sub(r'^(\.\.?/)+', '', path)
-                    #extact the individual file info given a full path - name folder & extension, append relevant attriubutes & data to change log list
+                    #extract the individual file info given a full path - name folder & extension, append relevant attributes & data to change log list
                     folder, filename, extension = extract_file_metadata(path)                    
                     change_log.append([path, status.strip(), timestamp, folder, filename, extension])
 
@@ -115,12 +115,12 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
             if folder_regex.match(path):
                 #for untracked files, there is no commit timestamp so try and parse timestamp from local machine
                 timestamp = get_filesystem_timestamp(path) if include_timestamp else ""
-                #extact the individual file info given a full path - name folder & extension, append to change log list
+                #extract the individual file info given a full path - name folder & extension, append to change log list
                 folder, filename, extension = extract_file_metadata(path)
                 #remove prefix from folders e.g remove "../"
                 if strip_prefix:
                     path = re.sub(r'^(\.\.?/)+', '', path)
-                #append relevant attriubutes & data to change log list 
+                #append relevant attributes & data to change log list 
                 change_log.append([path, "added", timestamp, folder, filename, extension])
 
     #set all lists to the same length
@@ -193,10 +193,10 @@ def get_git_timestamp(file_path: str, status: str="") -> str:
             stderr=subprocess.DEVNULL,
             text=True
         )
-        #parse the timestamp from the output, removign any excess whitespace
+        #parse the timestamp from the output, removing any excess whitespace
         raw_timestamp = result.stdout.strip()
 
-        #return committed or non-commited timestamp if applicable
+        #return committed or non-committed timestamp if applicable
         if not raw_timestamp:
             if status.lower() in ("modified", "deleted"):
                 return "not-committed"
@@ -249,7 +249,7 @@ def get_filesystem_timestamp(file_path: str) -> str:
     
 def extract_file_metadata(path: str) -> tuple[str, str, str]:
     """
-    Given a relative or prefixed file path (e.g., ../iso3166-1-icons/ad.svg),
+    Given a relative or prefixed file path (e.g., ../iso3166-1-flags/ad.svg),
     return (folder, filename, extension).
 
     Parameters
@@ -271,7 +271,7 @@ def extract_file_metadata(path: str) -> tuple[str, str, str]:
     OSError:
         File path doesn't exist.
     """
-    #raise error if file path doesnt exist
+    #raise error if file path doesn't exist
     if not (os.path.isfile(path)):
         raise OSError(f"Filepath not found: {path}.")
     
@@ -292,7 +292,7 @@ if __name__ == '__main__':
     parser.add_argument('-folders_to_check', '--folders_to_check', type=str, required=False, default="", 
         help='1 or more directories to get the specific log data for.')
     parser.add_argument('-sort_by', '--sort_by', type=str, required=False, default="status", 
-        help='Attribute in export file to sort_by, by deafult the rows will be sorted by the status attribute.')
+        help='Attribute in export file to sort_by, by default the rows will be sorted by the status attribute.')
     parser.add_argument('-filter_status', '--filter_status', type=str, required=False, default="", 
         help='Filter the status column, only including those files that have been "added", "modified" or "deleted.')
     parser.add_argument('-include_timestamp', '--include_timestamp', required=False, action=argparse.BooleanOptionalAction, default=1, 

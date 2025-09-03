@@ -39,8 +39,8 @@ def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metad
     if not (os.path.isdir(flag_folder)):
         raise OSError(f"Folder of subdivision flag images not found: {flag_folder}.")
     
-    #var to delinate whether iso3166-1-icons or iso3166-2-icons folder is being used to determine 1st column
-    if (flag_folder == "iso3166-1-icons"):
+    #var to delineate whether iso3166-1-flags or iso3166-2-flags folder is being used to determine 1st column
+    if (flag_folder == "iso3166-1-flags"):
         country_subdivision_code = "country_code"
     else:
         country_subdivision_code = "subdivision_code"        
@@ -54,7 +54,7 @@ def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metad
     #tuple of valid flag extensions
     valid_exts = ('.svg', '.png', '.jpg', '.jpeg', '.gif', '.webp')
     
-    #iterate over the folder recursively (handles flat [iso3166-1-icons] and nested layouts [iso3166-2-icons])
+    #iterate over the folder recursively (handles flat [iso3166-1-flags] and nested layouts [iso3166-2-flags])
     for root, _, files in os.walk(flag_folder):
         for file_name in files:
             #skip hidden files and macOS resource forks
@@ -177,7 +177,7 @@ def calculate_svg_quality(svg_path):
     number output is a proxy metric based on number of vector elements.
 
     SVGs are vector graphics so there's no concept of blurriness as no 
-    pixels. The funtion counts the total number of a range of SVG drawing
+    pixels. The function counts the total number of a range of SVG drawing
     elements, more elements usually means more detail & higher visual 
     quality.
 
@@ -205,7 +205,7 @@ def calculate_svg_quality(svg_path):
         tree = ET.parse(svg_path)
         root = tree.getroot()
 
-        #each SVG should have a namepsace at the top as they are XML
+        #each SVG should have a namespace at the top as they are XML
         namespace = {'svg': 'http://www.w3.org/2000/svg'}
         ET.register_namespace('', namespace['svg'])
 
@@ -397,11 +397,11 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     Function that returns a plethora of useful data and info about the repository of flags
     that is added to the main README file. These include the total number of flags, total 
     number of flags per format (the supported formats are svg, png, jpeg and jp), size of
-    repo, average file size, size of flag folders, and count of countrues/subdivisions 
+    repo, average file size, size of flag folders, and count of countries/subdivisions 
     that don't have a supported flag. The function also counts the total number of 
     files and duplicates, returning the name of any duplicate subdivisions.
 
-    By default, the metadata will be exported for the iso3166-1-icons and iso3166-2-icons
+    By default, the metadata will be exported for the iso3166-1-flags and iso3166-2-flags
     directories.
 
     Parameters
@@ -431,16 +431,16 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
         "iso3166_1_flags_size": 0, "iso3166_2_flags_size": 0, "average_flag_size": 0
     }
     #flag directory names
-    iso3166_1_dir = "iso3166-1-icons"
-    iso3166_2_dir = "iso3166-2-icons"
+    iso3166_1_dir = "iso3166-1-flags"
+    iso3166_2_dir = "iso3166-2-flags"
 
     #list of valid flag extensions 
     valid_exts = ['.svg', '.png', '.jpg', '.jpeg', '.gif', '.webp']
     
     def get_directory_metadata(path: str) -> dict:
         """ 
-        Auxillary function that exports the metadata per input folder. This function is called 
-        for each of the iso3166-1-icons and iso3166-2-icons directories. 
+        Auxiliary function that exports the metadata per input folder. This function is called 
+        for each of the iso3166-1-flags and iso3166-2-flags directories. 
 
         Parameters
         ==========
@@ -518,7 +518,7 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     #total number of flag across the 2 directories
     total_flag_count = 0
 
-    #get the metadata for the iso3166-1-icons flag
+    #get the metadata for the iso3166-1-flags flag
     flag_metadata_iso3166_1 = get_directory_metadata(iso3166_1_dir)
 
     #set the total number of flags & total size (in bytes)
@@ -528,7 +528,7 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     #increment the total flags counter
     total_flag_count += flag_metadata_master["iso3166_1_total"]
 
-    #get the metadata for the iso3166-2-icons flag
+    #get the metadata for the iso3166-2-flags flag
     flag_metadata_iso3166_2 = get_directory_metadata(iso3166_2_dir)
 
     #set the total number of flags & total size (in bytes)
@@ -559,7 +559,7 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
 
     ### Get list of any missing ISO 3166-1 flags not in flag directory ###
 
-    #get list of official iso3166-1 coutry codes
+    #get list of official iso3166-1 country codes
     missing_iso3166_1_count = 0
     all_country_codes = [f.lower() for f in list(iso3166.countries_by_alpha2.keys())]
 
@@ -582,13 +582,13 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
 
     #get list of official iso3166-2 subdivision codes
     missing_iso3166_2_count = 0
-    subdivsions = Subdivisions()
+    subdivisions = Subdivisions()
 
     #list of subdivision codes found as flags in folder
     subdivision_codes_found = []
 
     #get flattened list of all subdivision codes
-    all_subdivision_codes = subdivsions.subdivision_codes()
+    all_subdivision_codes = subdivisions.subdivision_codes()
     all_subdivision_codes = [subd for subdivisions in all_subdivision_codes.values() for subd in subdivisions] 
 
     #iterate over all flags, compare list of flags with that of the official list
@@ -636,21 +636,19 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     #     print(f"Error parsing SVG file: {e}")
     #     return None, None
 
-import os
-import csv
-
-def export_flag_list(iso3166_2_flag_dir: str="iso3166-2-icons", export_csv_filename: str="iso3166_2_flag_list.csv",) -> None:
+def export_flag_list(iso3166_2_flag_dir: str="iso3166-2-flags", export_csv_filename: str="iso3166_2_flag_list.csv",) -> None:
     """
     Export the full list of ISO 3166-2 subdivision codes and names (via iso3166-2),
-    plus whether a flag file currently exists in iso3166-2-icons. The output CSV
-    will include the columns: subdivisionCode, subdivisionName, hasFlag, flagChecked.
+    plus whether a flag file currently exists in iso3166-2-flags. The output CSV
+    will include the columns: subdivisionCode, subdivisionName, hasFlag, extension
+    and flagChecked.
 
     Parameters
     ==========
-    :iso3166_2_flag_dir: str (default="iso3166-2-icons)
+    :iso3166_2_flag_dir: str (default="iso3166-2-flags)
         flag icons folder.
     :export_csv_filename: str (default="iso3166_2_flag_list.csv")
-        filename for ouptu csv.
+        filename for output csv.
 
     Returns
     =======
@@ -665,10 +663,10 @@ def export_flag_list(iso3166_2_flag_dir: str="iso3166-2-icons", export_csv_filen
     if not os.path.isdir(iso3166_2_flag_dir):
         raise OSError(f"Folder not found: {iso3166_2_flag_dir}")
 
-    #list of subdivision flags in folder
-    subdivision_flags_list = []
+    #key-value pair of subdivision code and their extension
+    subdivision_flags_list_ext = {}
 
-    #iterate over flag folder, add flag filename to above list
+    #iterate over flag folder, add flag filename and extension to above object
     for root, _, files in os.walk(iso3166_2_flag_dir):
         for filename in files:
             #ignore hidden/AppleDouble junk
@@ -679,8 +677,7 @@ def export_flag_list(iso3166_2_flag_dir: str="iso3166-2-icons", export_csv_filen
             if (ext.lower() == ".md" or ext.lower() == ".ds_store"):
                 continue
             else:
-                #add flag name to list
-                subdivision_flags_list.append(name.upper())
+                subdivision_flags_list_ext[name.upper()] = ext.replace('.', '').upper()
 
     #create instance of Subdivisions class, get list of all official codes
     subdivisions = Subdivisions()
@@ -691,28 +688,93 @@ def export_flag_list(iso3166_2_flag_dir: str="iso3166-2-icons", export_csv_filen
     for country_code, subdiv_list in all_subdivision_codes.items():
         for subdiv_code in subdiv_list:
             subdiv_name = subdivisions[country_code][subdiv_code]["name"]
-            has_flag = "Yes" if subdiv_code in subdivision_flags_list else "No"
+            subdiv_type = subdivisions[country_code][subdiv_code]["type"]
+            has_flag = "Yes" if subdiv_code in list(subdivision_flags_list_ext.keys()) else "No"
+            ext = subdivision_flags_list_ext[subdiv_code] if subdiv_code in list(subdivision_flags_list_ext.keys()) else ""
             csv_rows.append({
                 "subdivisionCode": subdiv_code,
                 "subdivisionName": subdiv_name,
+                "subdivisionType": subdiv_type,
                 "hasFlag": has_flag,
+                "extension": ext,
                 "flagChecked": None
             })
 
     #write object to CSV
     with open(export_csv_filename, mode="w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["subdivisionCode", "subdivisionName", "hasFlag", "flagChecked"])
+        writer = csv.DictWriter(f, fieldnames=["subdivisionCode", "subdivisionName", "subdivisionType", "hasFlag", "extension", "flagChecked"])
         writer.writeheader()
         writer.writerows(csv_rows)
 
     print(f"Exported {len(csv_rows)} subdivisions to {export_csv_filename}.")
 
+def filter_by_size(flag_dir: str="iso3166-2-flags", threshold: float=1.0, above_threshold: bool=False, 
+                   ignore_other_files: bool=True, export_threshold_file="file_threshold.csv") -> None:
+    """
+    Auxiliary function that allows you to filter out a list of flags that are above 
+    or below a certain threshold in terms of file size in KB. This is useful if you 
+    want to get a list of flags that are taking up a lot of space in the dataset for 
+    optimisation or to find those flags that have a much smaller size in bytes in
+    the aim of improving them.
+
+    Parameters
+    ==========
+    :threshold: float (default=1.0)
+        the size threshold in kilobytes, default is 1KB.
+    :above_threshold: bool (default=False)
+        whether the function will return a list of files above or below the threshold.
+    :ignore_other_files (default=True)
+        by default only include image files in the output, ignore other files like markdowns etc.
+    :export_threshold_file: str (default="file_threshold.csv")
+        filename for function export.
+
+    Returns
+    =======
+    None
+
+    Raises
+    ======
+    OSError:
+        Error trying to find input flag directory.
+    """
+    #output file dict
+    file_size_dict = {}
+
+    #iterate over all images in folder, converting them into the specified format and archiving the original image, if applicable
+    for item in os.listdir(flag_dir):
+        if os.path.isdir(os.path.join(flag_dir, item)):
+            for nested_item in os.listdir(os.path.join(flag_dir, item)):
+                input_img_path = os.path.join(flag_dir, item, nested_item)
+                
+                #skip any non-image files in dir
+                if (ignore_other_files and os.path.splitext(os.path.basename(input_img_path))[1] not in [".svg", ".png", ".jpg", ".jpeg"]):
+                    continue
+                    
+                #get file size in bytes - used for calculating image quality, also get file size in KB, round to 3.dp
+                file_size_kb = round((os.path.getsize(input_img_path) / 1024), 3)
+
+                if (above_threshold):
+                    if (file_size_kb >= threshold):
+                        file_size_dict[nested_item] = file_size_kb
+                else:
+                    if (file_size_kb < threshold):
+                        file_size_dict[nested_item] = file_size_kb
+
+    #convert dict to dataframe
+    file_size_df = pd.DataFrame(file_size_dict.items(), columns=['fileName', 'size (KB)'])
+
+    #sort by size descending
+    file_size_df.sort_values("size (KB)", ascending=False, inplace=True)
+
+    #write dataframe to CSV    
+    file_size_df.to_csv(export_threshold_file, index=False)
+
 if __name__ == '__main__':
     #parse input arguments using ArgParse 
     parser = argparse.ArgumentParser(description='Script for exporting various metadata per iso3166-2 subdivision flag.')
 
-    parser.add_argument('-flag_folder', '--flag_folder', type=str, required=False, default="iso3166-1-icons", 
-        help='Path to flag folder (iso3166-1-icons or iso3166-2-icons).')
+    parser.add_argument('-flag_folder', '--flag_folder', type=str, required=False, default="iso3166-1-flags", 
+        help='Path to flag folder (iso3166-1-flags or iso3166-2-flags).')
     parser.add_argument('-flag_metadata_output', '--flag_metadata_output', type=str, required=False, default="subdivision_flag_metadata.csv", 
         help='Output file name/path for subdivision flag metadata export.')
     parser.add_argument('-export_json', '--export_json', required=False, action=argparse.BooleanOptionalAction, default=1, 
@@ -728,4 +790,6 @@ if __name__ == '__main__':
     exclude_readme = args.exclude_readme
 
     #call main export function
-    export_flag_metadata(flag_folder, flag_metadata_output=flag_metadata_output)
+    # export_flag_metadata(flag_folder, flag_metadata_output=flag_metadata_output)
+    # export_flag_list(export_csv_filename="iso3166_2_flag_list.csv")
+    filter_by_size(above_threshold=True)
