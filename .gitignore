@@ -176,7 +176,6 @@ iso3166-2-icons-original/
 image_file_formats.json
 flag_icon_conversion_archive/
 subdivision_flag_metadata.csv
-/tests
 ToDo.md
 /scripts/check_for_updates.py
 /scripts/git_status_logs_edit_this_one.csv

@@ -1,0 +1,8 @@
+#external Python packages for iso3166-flags tests
+iso3166
+iso3166-2
+pandas
+lxml
+requests
+opencv-python
+Pillow
