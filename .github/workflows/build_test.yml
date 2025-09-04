@@ -38,14 +38,14 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        pip3 install pytest pytest-cov bandit safety codecov
         if [ -f tests/requirements.txt ]; then pip install -r tests/requirements.txt; fi
-        if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
   
     #unit tests using unittest framework
     - name: Running unit tests
       run: |
         echo "Testing using unittest..."
-        python3 -m unittest discover tests -v
+        python -m unittest discover -s tests -t . -v
         
   #run various vulnerability, security and package checks 
   security_check:
@@ -72,7 +72,7 @@ jobs:
     - name: Package safety check
       run: |
         echo "Running package safety check"
-        python3 -m safety check > artifacts/package_safety_output.txt
+        python -m safety check > artifacts/package_safety_output.txt
         cat artifacts/package_safety_output.txt
       continue-on-error: true
 
@@ -80,7 +80,7 @@ jobs:
     - name: Bandit
       run: |
         echo "Running Bandit"
-        python3 -m bandit -r . > artifacts/bandit_output.txt
+        python -m bandit -r . > artifacts/bandit_output.txt
         cat artifacts/bandit_output.txt
       continue-on-error: true
 
@@ -127,7 +127,7 @@ jobs:
       
       #upload artifacts to repo
       - name: Upload flake8 Artifact
-        uses: actions/upload-artifact@4
+        uses: actions/upload-artifact@v4
         with:
           name: flake8_artifact
           path: flake8_artifacts/flake8_output.txt
@@ -154,7 +154,7 @@ jobs:
 
       #generate codecov report using pytest
       - name: Generate Coverage report
-        run: pytest --cov tests/
+        run: pytest --cov=. --cov-report=xml
 
       #upload to Code Coverage, only if matrix python version is 3.10
       - name: Upload Coverage Report to Codecov
