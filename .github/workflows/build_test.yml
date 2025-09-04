@@ -45,8 +45,8 @@ jobs:
     - name: Running unit tests
       run: |
         echo "Testing using unittest..."
-        python -m unittest discover -s tests -t . -v
-        
+        python -m unittest discover
+      # python -m unittest discover -s tests -t . -v
   #run various vulnerability, security and package checks 
   security_check:
     name: Bandit and package safety check 
@@ -56,7 +56,7 @@ jobs:
         matrix:
             # os: [ubuntu-latest, windows-latest] #testing on multiple OS's, macos-latest
             os: [ubuntu-latest]
-            python-version: ["3.10"]   #testing on multiple python versions
+            python-version: ["3.11"]   #testing on multiple python versions
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ matrix.python-version }}
@@ -138,7 +138,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.10"]
+        python-version: ["3.11"]
 
     steps:
       #checkout repo
@@ -150,16 +150,17 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          pip3 install pytest pytest-cov codecov
+          pip3 install pytest pytest-cov
 
       #generate codecov report using pytest
       - name: Generate Coverage report
-        run: pytest --cov=. --cov-report=xml
+        run: pytest --cov=. --cov-branch --cov-report=xml:coverage.xml
 
-      #upload to Code Coverage, only if matrix python version is 3.10
+      #upload to Code Coverage, only if matrix python version is 3.11
       - name: Upload Coverage Report to Codecov
         uses: codecov/codecov-action@v3
+        with:
+          files: coverage.xml
+          flags: iso3166_flag_icons_workflow
         env: 
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
-        with:
-          flags: iso3166_flag_icons_workflow
