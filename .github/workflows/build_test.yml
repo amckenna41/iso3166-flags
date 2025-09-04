@@ -38,10 +38,17 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip3 install pytest pytest-cov bandit safety codecov
+        pip3 install pytest pytest-cov bandit safety
         if [ -f tests/requirements.txt ]; then pip install -r tests/requirements.txt; fi
-  
-        
+      
+    - name: Sanity check workspace
+      run: |
+        pwd
+        ls -la
+        echo "--- tests dir ---"
+        ls -la tests
+
+            
     - name: Debug import path
       run: |
         python - <<'PY'
@@ -176,6 +183,6 @@ jobs:
         uses: codecov/codecov-action@v3
         with:
           files: coverage.xml
-          flags: iso3166_flag_icons_workflow
+          flags: iso3166_flags_workflow
         env: 
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
