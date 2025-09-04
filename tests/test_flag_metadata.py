@@ -144,7 +144,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #     @unittest.skip("")
     def test_get_file_info(self):
         """ Testing getting the file info of an image. """
-        test_flag_filepath1 = self.test_flag_folder + "/FI/Fi-09.svg"
+        test_flag_filepath1 = self.test_flag_folder + "/FI/FI-09.svg"
         test_flag_filepath2 = self.test_flag_folder + "/KM/KM-M.svg"
         test_flag_filepath3 = self.test_flag_folder + "/SB/SB-TE.svg"
         test_flag_filepath4 = self.test_flag_folder + "/WF/WF-UV.svg"
