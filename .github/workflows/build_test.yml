@@ -41,11 +41,26 @@ jobs:
         pip3 install pytest pytest-cov bandit safety codecov
         if [ -f tests/requirements.txt ]; then pip install -r tests/requirements.txt; fi
   
+        
+    - name: Debug import path
+      run: |
+        python - <<'PY'
+        import os, sys
+        print("CWD:", os.getcwd())
+        print("First sys.path entries:", sys.path[:5])
+        try:
+            import tests
+            print("Imported 'tests' from:", getattr(tests, "__file__", "<pkg>"))
+        except Exception as e:
+            print("Import 'tests' failed:", e)
+        PY
+
+
     #unit tests using unittest framework
     - name: Running unit tests
       run: |
         echo "Testing using unittest..."
-        python -m unittest discover tests
+        python -m unittest discover tests -t . -p "test_*.py" -v
       # python -m unittest discover -s tests -t . -v
   #run various vulnerability, security and package checks 
   security_check:
