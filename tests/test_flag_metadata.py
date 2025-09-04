@@ -150,7 +150,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_flag_filepath4 = self.test_flag_folder + "/WF/WF-UV.svg"
 #1.)
         test_flag_info = get_file_info(test_flag_filepath1)
-        test_flag_info_expected = {'subdivision_code': 'Fi-09', 'file_name': 'Fi-09.svg', 'file_size_kb': 15.111, 'file_extension': 'SVG', 
+        test_flag_info_expected = {'subdivision_code': 'FI-09', 'file_name': 'FI-09.svg', 'file_size_kb': 15.111, 'file_extension': 'SVG', 
                                    'dimensions': (624, 566), 'aspect_ratio': 0.91, 'flag_type': None, 'quality': 24}
         self.assertEqual(test_flag_info, test_flag_info_expected, f"Expected and observed flag info object do not match:\n{test_flag_info}.")
 #2.)

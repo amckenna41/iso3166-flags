@@ -194,3 +194,4 @@ git_status_summary.sh
 status_logs.txt
 iso3166_2_flag_list.csv
 iso3166-2-flags-backup/
+flag_venv/
