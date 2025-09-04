@@ -45,7 +45,7 @@ jobs:
     - name: Running unit tests
       run: |
         echo "Testing using unittest..."
-        python -m unittest discover
+        python -m unittest discover tests
       # python -m unittest discover -s tests -t . -v
   #run various vulnerability, security and package checks 
   security_check:
@@ -154,7 +154,7 @@ jobs:
 
       #generate codecov report using pytest
       - name: Generate Coverage report
-        run: pytest --cov=. --cov-branch --cov-report=xml:coverage.xml
+        run: pytest tests --cov=. --cov-branch --cov-report=xml:coverage.xml
 
       #upload to Code Coverage, only if matrix python version is 3.11
       - name: Upload Coverage Report to Codecov
