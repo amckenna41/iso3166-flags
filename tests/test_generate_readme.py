@@ -172,7 +172,7 @@ class Generate_Readme_Tests(unittest.TestCase):
     def test_create_readme(self):
         """ Testing the function that generates the full markdown file per country subfolder. """
         test_markdown_az = "AZ"
-        test_markdown_ca = "ca"
+        test_markdown_ca = "CA"
         test_markdown_fi = "FI"
         test_markdown_ke = "KE"
 #1.)
