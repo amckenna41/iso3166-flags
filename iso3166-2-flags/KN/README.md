@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| KN-N | Nevis | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KN/KN-N.svg' height='80'> | [KN-N.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/KN/KN-N.svg) |
+| KN-N | Nevis | State | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KN/KN-N.svg' height='80'> | [KN-N.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KN/KN-N.svg) |
 
 Saint Kitts and Nevis ISO 3166-2 subdivisions with no available flags:
 

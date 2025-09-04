@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| CI-AB | Abidjan | Autonomous district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CI/CI-AB.png' height='80'> | [CI-AB.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/CI/CI-AB.png) |
+| CI-AB | Abidjan | Autonomous district | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CI/CI-AB.png' height='80'> | [CI-AB.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CI/CI-AB.png) |
 
 Côte d'Ivoire ISO 3166-2 subdivisions with no available flags:
 

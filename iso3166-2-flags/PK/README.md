@@ -7,12 +7,12 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| PK-BA | Balochistan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-BA.svg' height='80'> | [PK-BA.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/PK/PK-BA.svg) |
-| PK-GB | Gilgit-Baltistan | Pakistan administered area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-GB.svg' height='80'> | [PK-GB.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/PK/PK-GB.svg) |
-| PK-JK | Azad Jammu and Kashmir | Pakistan administered area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-JK.svg' height='80'> | [PK-JK.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/PK/PK-JK.svg) |
-| PK-KP | Khyber Pakhtunkhwa | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-KP.svg' height='80'> | [PK-KP.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/PK/PK-KP.svg) |
-| PK-PB | Punjab | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-PB.svg' height='80'> | [PK-PB.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/PK/PK-PB.svg) |
-| PK-SD | Sindh | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-SD.svg' height='80'> | [PK-SD.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/PK/PK-SD.svg) |
+| PK-BA | Balochistan | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-BA.svg' height='80'> | [PK-BA.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-BA.svg) |
+| PK-GB | Gilgit-Baltistan | Pakistan administered area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-GB.svg' height='80'> | [PK-GB.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-GB.svg) |
+| PK-JK | Azad Jammu and Kashmir | Pakistan administered area | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-JK.svg' height='80'> | [PK-JK.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-JK.svg) |
+| PK-KP | Khyber Pakhtunkhwa | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-KP.svg' height='80'> | [PK-KP.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-KP.svg) |
+| PK-PB | Punjab | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-PB.svg' height='80'> | [PK-PB.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-PB.svg) |
+| PK-SD | Sindh | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-SD.svg' height='80'> | [PK-SD.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/PK/PK-SD.svg) |
 
 Pakistan ISO 3166-2 subdivisions with no available flags:
 

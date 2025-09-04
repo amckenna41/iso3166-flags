@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| MV-MLE | Male | City | <img src='None' height='80'> | [MV-MLE.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/MV/MV-MLE.png) |
+| MV-MLE | Male | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MV/MV-MLE.png' height='80'> | [MV-MLE.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MV/MV-MLE.png) |
 
 Maldives ISO 3166-2 subdivisions with no available flags:
 

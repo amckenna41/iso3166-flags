@@ -7,8 +7,8 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| IL-JM | Al Quds | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IL/IL-JM.svg' height='80'> | [IL-JM.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/IL/IL-JM.svg) |
-| IL-TA | Tall Abīb | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IL/IL-TA.svg' height='80'> | [IL-TA.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/IL/IL-TA.svg) |
+| IL-JM | Al Quds | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IL/IL-JM.svg' height='80'> | [IL-JM.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IL/IL-JM.svg) |
+| IL-TA | Tall Abīb | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IL/IL-TA.svg' height='80'> | [IL-TA.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IL/IL-TA.svg) |
 
 Israel ISO 3166-2 subdivisions with no available flags:
 

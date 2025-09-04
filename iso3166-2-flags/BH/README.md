@@ -7,10 +7,10 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| BH-13 | Al ‘Āşimah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-13.svg' height='80'> | [BH-13.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BH/BH-13.svg) |
-| BH-14 | Al Janūbīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-14.svg' height='80'> | [BH-14.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BH/BH-14.svg) |
-| BH-15 | Al Muḩarraq | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-15.svg' height='80'> | [BH-15.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BH/BH-15.svg) |
-| BH-17 | Ash Shamālīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-17.svg' height='80'> | [BH-17.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BH/BH-17.svg) |
+| BH-13 | Al ‘Āşimah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-13.svg' height='80'> | [BH-13.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-13.svg) |
+| BH-14 | Al Janūbīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-14.svg' height='80'> | [BH-14.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-14.svg) |
+| BH-15 | Al Muḩarraq | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-15.svg' height='80'> | [BH-15.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-15.svg) |
+| BH-17 | Ash Shamālīyah | Governorate | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-17.svg' height='80'> | [BH-17.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BH/BH-17.svg) |
 
 
 ## Notes

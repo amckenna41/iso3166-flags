@@ -5,7 +5,7 @@ import iso3166
 from iso3166_2 import *
 
 #base URL to iso3166-2-flags folder in repo
-base_url = 'https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags'
+base_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags"
 
 #read in the CSV that has the notes section data, if applicable, for each markdown file, reindex and assign
 notes_df = pd.read_csv(os.path.join("iso3166-flags-metadata", "iso3166_flag_notes.csv"), header=0).fillna("")
@@ -101,8 +101,9 @@ def create_markdown_str(country_code: str, input_folder: str) -> None:
         current_subdivision = all_subdivisions[subd_code]
 
         #add subdivision and its data to table row
-        output_str += f"| {subd_code} | {current_subdivision.name} | {current_subdivision.type} | <img src='{current_subdivision['flag']}' height='80'> | [{file}]({base_url}/{country_code}/{file}) |\n"
-    
+        # output_str += f"| {subd_code} | {current_subdivision.name} | {current_subdivision.type} | <img src='{current_subdivision['flag']}' height='80'> | [{file}]({base_url}/{country_code}/{file}) |\n"
+        output_str += f"| {subd_code} | {current_subdivision.name} | {current_subdivision.type} | <img src='{base_url}/{country_code}/{file}' height='80'> | [{file}]({base_url}/{country_code}/{file}) |\n"
+
     #get list of file names, remove extension    
     all_files_no_extension = [os.path.splitext(file)[0] for file in all_files]
     

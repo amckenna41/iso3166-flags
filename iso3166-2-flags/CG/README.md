@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| CG-16 | Pointe-Noire | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CG/CG-16.svg' height='80'> | [CG-16.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/CG/CG-16.svg) |
+| CG-16 | Pointe-Noire | Department | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CG/CG-16.svg' height='80'> | [CG-16.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CG/CG-16.svg) |
 
 Congo ISO 3166-2 subdivisions with no available flags:
 

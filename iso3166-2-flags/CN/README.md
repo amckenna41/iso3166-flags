@@ -7,8 +7,8 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| CN-HK | Hong Kong SAR | Special administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CN/CN-HK.svg' height='80'> | [CN-HK.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/CN/CN-HK.svg) |
-| CN-MO | Macao SAR | Special administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CN/CN-MO.svg' height='80'> | [CN-MO.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/CN/CN-MO.svg) |
+| CN-HK | Hong Kong SAR | Special administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CN/CN-HK.svg' height='80'> | [CN-HK.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CN/CN-HK.svg) |
+| CN-MO | Macao SAR | Special administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CN/CN-MO.svg' height='80'> | [CN-MO.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CN/CN-MO.svg) |
 
 China ISO 3166-2 subdivisions with no available flags:
 

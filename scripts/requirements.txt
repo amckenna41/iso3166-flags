@@ -1,4 +1,4 @@
-#external Python packages for iso3166-flag-icons script
+#external Python packages for iso3166-flags script
 Pillow
 iso3166
 iso3166-2

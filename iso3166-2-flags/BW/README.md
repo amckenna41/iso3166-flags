@@ -7,12 +7,12 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| BW-FR | Francistown | City | <img src='None' height='80'> | [BW-FR.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BW/BW-FR.png) |
-| BW-GA | Gaborone | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-GA.svg' height='80'> | [BW-GA.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BW/BW-GA.svg) |
-| BW-JW | Jwaneng | Town | <img src='None' height='80'> | [BW-JW.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BW/BW-JW.png) |
-| BW-LO | Lobatse | Town | <img src='None' height='80'> | [BW-LO.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BW/BW-LO.png) |
-| BW-SP | Selibe Phikwe | Town | <img src='None' height='80'> | [BW-SP.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BW/BW-SP.png) |
-| BW-ST | Sowa Town | Town | <img src='None' height='80'> | [BW-ST.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/BW/BW-ST.png) |
+| BW-FR | Francistown | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-FR.png' height='80'> | [BW-FR.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-FR.png) |
+| BW-GA | Gaborone | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-GA.svg' height='80'> | [BW-GA.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-GA.svg) |
+| BW-JW | Jwaneng | Town | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-JW.png' height='80'> | [BW-JW.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-JW.png) |
+| BW-LO | Lobatse | Town | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-LO.png' height='80'> | [BW-LO.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-LO.png) |
+| BW-SP | Selibe Phikwe | Town | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-SP.png' height='80'> | [BW-SP.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-SP.png) |
+| BW-ST | Sowa Town | Town | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-ST.png' height='80'> | [BW-ST.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/BW/BW-ST.png) |
 
 Botswana ISO 3166-2 subdivisions with no available flags:
 

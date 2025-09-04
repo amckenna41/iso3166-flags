@@ -7,11 +7,11 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| ST-01 | Água Grande | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-01.png' height='80'> | [ST-01.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/ST/ST-01.png) |
-| ST-02 | Cantagalo | District | <img src='None' height='80'> | [ST-02.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/ST/ST-02.png) |
-| ST-05 | Lobata | District | <img src='None' height='80'> | [ST-05.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/ST/ST-05.png) |
-| ST-06 | Mé-Zóchi | District | <img src='None' height='80'> | [ST-06.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/ST/ST-06.png) |
-| ST-P | Príncipe | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-P.svg' height='80'> | [ST-P.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/ST/ST-P.svg) |
+| ST-01 | Água Grande | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-01.png' height='80'> | [ST-01.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-01.png) |
+| ST-02 | Cantagalo | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-02.png' height='80'> | [ST-02.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-02.png) |
+| ST-05 | Lobata | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-05.png' height='80'> | [ST-05.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-05.png) |
+| ST-06 | Mé-Zóchi | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-06.png' height='80'> | [ST-06.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-06.png) |
+| ST-P | Príncipe | Autonomous region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-P.svg' height='80'> | [ST-P.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/ST/ST-P.svg) |
 
 Sao Tome and Principe ISO 3166-2 subdivisions with no available flags:
 

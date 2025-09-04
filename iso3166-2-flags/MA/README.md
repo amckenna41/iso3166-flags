@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| MA-07 | Marrakech-Safi | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MA/MA-07.svg' height='80'> | [MA-07.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/MA/MA-07.svg) |
+| MA-07 | Marrakech-Safi | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MA/MA-07.svg' height='80'> | [MA-07.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MA/MA-07.svg) |
 
 Morocco ISO 3166-2 subdivisions with no available flags:
 

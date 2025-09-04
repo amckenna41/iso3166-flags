@@ -7,9 +7,9 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| WF-AL | Alo | Administrative precinct | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-AL.svg' height='80'> | [WF-AL.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/WF/WF-AL.svg) |
-| WF-SG | Sigave | Administrative precinct | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-SG.svg' height='80'> | [WF-SG.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/WF/WF-SG.svg) |
-| WF-UV | Uvea | Administrative precinct | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-UV.svg' height='80'> | [WF-UV.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/WF/WF-UV.svg) |
+| WF-AL | Alo | Administrative precinct | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-AL.svg' height='80'> | [WF-AL.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-AL.svg) |
+| WF-SG | Sigave | Administrative precinct | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-SG.svg' height='80'> | [WF-SG.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-SG.svg) |
+| WF-UV | Uvea | Administrative precinct | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-UV.svg' height='80'> | [WF-UV.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/WF/WF-UV.svg) |
 
 
 ## Notes

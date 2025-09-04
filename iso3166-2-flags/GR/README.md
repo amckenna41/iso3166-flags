@@ -7,10 +7,10 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| GR-69 | Ágion Óros | Self-governed part | <img src='None' height='80'> | [GR-69.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/GR/GR-69.svg) |
-| GR-A | Anatolikí Makedonía kai Thráki | Administrative region | <img src='None' height='80'> | [GR-A.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/GR/GR-A.svg) |
-| GR-B | Kentrikí Makedonía | Administrative region | <img src='None' height='80'> | [GR-B.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/GR/GR-B.svg) |
-| GR-C | Dytikí Makedonía | Administrative region | <img src='None' height='80'> | [GR-C.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/GR/GR-C.svg) |
+| GR-69 | Ágion Óros | Self-governed part | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-69.svg' height='80'> | [GR-69.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-69.svg) |
+| GR-A | Anatolikí Makedonía kai Thráki | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-A.svg' height='80'> | [GR-A.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-A.svg) |
+| GR-B | Kentrikí Makedonía | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-B.svg' height='80'> | [GR-B.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-B.svg) |
+| GR-C | Dytikí Makedonía | Administrative region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-C.svg' height='80'> | [GR-C.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GR/GR-C.svg) |
 
 Greece ISO 3166-2 subdivisions with no available flags:
 

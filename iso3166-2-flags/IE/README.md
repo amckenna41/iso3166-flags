@@ -7,10 +7,10 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| IE-C | Connaught | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-C.svg' height='80'> | [IE-C.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/IE/IE-C.svg) |
-| IE-L | Leinster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-L.svg' height='80'> | [IE-L.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/IE/IE-L.svg) |
-| IE-M | Munster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-M.svg' height='80'> | [IE-M.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/IE/IE-M.svg) |
-| IE-U | Ulster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-U.svg' height='80'> | [IE-U.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/IE/IE-U.svg) |
+| IE-C | Connaught | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-C.svg' height='80'> | [IE-C.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-C.svg) |
+| IE-L | Leinster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-L.svg' height='80'> | [IE-L.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-L.svg) |
+| IE-M | Munster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-M.svg' height='80'> | [IE-M.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-M.svg) |
+| IE-U | Ulster | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-U.svg' height='80'> | [IE-U.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/IE/IE-U.svg) |
 
 Ireland ISO 3166-2 subdivisions with no available flags:
 

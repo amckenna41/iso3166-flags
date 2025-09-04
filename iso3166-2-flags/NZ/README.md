@@ -7,11 +7,11 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| NZ-AUK | Auckland | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-AUK.svg' height='80'> | [NZ-AUK.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/NZ/NZ-AUK.svg) |
-| NZ-BOP | Bay of Plenty | Region | <img src='None' height='80'> | [NZ-BOP.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/NZ/NZ-BOP.png) |
-| NZ-CIT | Chatham Islands Territory | Special island authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-CIT.svg' height='80'> | [NZ-CIT.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/NZ/NZ-CIT.svg) |
-| NZ-NSN | Nelson | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-NSN.svg' height='80'> | [NZ-NSN.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/NZ/NZ-NSN.svg) |
-| NZ-OTA | Otago | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-OTA.svg' height='80'> | [NZ-OTA.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/NZ/NZ-OTA.svg) |
+| NZ-AUK | Auckland | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-AUK.svg' height='80'> | [NZ-AUK.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-AUK.svg) |
+| NZ-BOP | Bay of Plenty | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-BOP.png' height='80'> | [NZ-BOP.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-BOP.png) |
+| NZ-CIT | Chatham Islands Territory | Special island authority | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-CIT.svg' height='80'> | [NZ-CIT.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-CIT.svg) |
+| NZ-NSN | Nelson | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-NSN.svg' height='80'> | [NZ-NSN.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-NSN.svg) |
+| NZ-OTA | Otago | Region | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-OTA.svg' height='80'> | [NZ-OTA.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/NZ/NZ-OTA.svg) |
 
 New Zealand ISO 3166-2 subdivisions with no available flags:
 

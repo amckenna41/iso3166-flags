@@ -7,6 +7,6 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| KM-A | Anjouan | Island | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-A.svg' height='80'> | [KM-A.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/KM/KM-A.svg) |
-| KM-G | Grande Comore | Island | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-G.svg' height='80'> | [KM-G.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/KM/KM-G.svg) |
-| KM-M | Mohéli | Island | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-M.svg' height='80'> | [KM-M.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/KM/KM-M.svg) |
+| KM-A | Anjouan | Island | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-A.svg' height='80'> | [KM-A.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-A.svg) |
+| KM-G | Grande Comore | Island | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-G.svg' height='80'> | [KM-G.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-G.svg) |
+| KM-M | Mohéli | Island | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-M.svg' height='80'> | [KM-M.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KM/KM-M.svg) |

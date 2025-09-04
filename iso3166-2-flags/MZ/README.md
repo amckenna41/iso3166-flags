@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| MZ-MPM | Maputo | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MZ/MZ-MPM.png' height='80'> | [MZ-MPM.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/MZ/MZ-MPM.png) |
+| MZ-MPM | Maputo | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MZ/MZ-MPM.png' height='80'> | [MZ-MPM.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MZ/MZ-MPM.png) |
 
 Mozambique ISO 3166-2 subdivisions with no available flags:
 

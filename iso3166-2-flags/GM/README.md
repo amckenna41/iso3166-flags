@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| GM-B | Banjul | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GM/GM-B.svg' height='80'> | [GM-B.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/GM/GM-B.svg) |
+| GM-B | Banjul | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GM/GM-B.svg' height='80'> | [GM-B.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GM/GM-B.svg) |
 
 Gambia ISO 3166-2 subdivisions with no available flags:
 

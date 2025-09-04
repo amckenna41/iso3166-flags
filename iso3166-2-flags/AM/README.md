@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| AM-ER | Erevan | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AM/AM-ER.svg' height='80'> | [AM-ER.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AM/AM-ER.svg) |
+| AM-ER | Erevan | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AM/AM-ER.svg' height='80'> | [AM-ER.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AM/AM-ER.svg) |
 
 Armenia ISO 3166-2 subdivisions with no available flags:
 

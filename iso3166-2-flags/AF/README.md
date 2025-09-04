@@ -7,9 +7,9 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| AF-KAB | Kābul | Province | <img src='None' height='80'> | [AF-KAB.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AF/AF-KAB.svg) |
-| AF-NIM | Nīmrōz | Province | <img src='None' height='80'> | [AF-NIM.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AF/AF-NIM.png) |
-| AF-PAN | Panjshayr | Province | <img src='None' height='80'> | [AF-PAN.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AF/AF-PAN.svg) |
+| AF-KAB | Kābul | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AF/AF-KAB.svg' height='80'> | [AF-KAB.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AF/AF-KAB.svg) |
+| AF-NIM | Nīmrōz | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AF/AF-NIM.png' height='80'> | [AF-NIM.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AF/AF-NIM.png) |
+| AF-PAN | Panjshayr | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AF/AF-PAN.svg' height='80'> | [AF-PAN.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AF/AF-PAN.svg) |
 
 Afghanistan ISO 3166-2 subdivisions with no available flags:
 

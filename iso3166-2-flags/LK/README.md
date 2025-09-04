@@ -7,15 +7,15 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| LK-1 | Western Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-1.png' height='80'> | [LK-1.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-1.png) |
-| LK-2 | Central Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-2.png' height='80'> | [LK-2.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-2.png) |
-| LK-3 | Southern Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-3.png' height='80'> | [LK-3.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-3.png) |
-| LK-4 | Northern Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-4.svg' height='80'> | [LK-4.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-4.svg) |
-| LK-5 | Eastern Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-5.png' height='80'> | [LK-5.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-5.png) |
-| LK-6 | North Western Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-6.svg' height='80'> | [LK-6.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-6.svg) |
-| LK-7 | North Central Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-7.png' height='80'> | [LK-7.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-7.png) |
-| LK-8 | Uva Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-8.svg' height='80'> | [LK-8.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-8.svg) |
-| LK-9 | Sabaragamuwa Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-9.png' height='80'> | [LK-9.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LK/LK-9.png) |
+| LK-1 | Western Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-1.png' height='80'> | [LK-1.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-1.png) |
+| LK-2 | Central Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-2.png' height='80'> | [LK-2.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-2.png) |
+| LK-3 | Southern Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-3.png' height='80'> | [LK-3.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-3.png) |
+| LK-4 | Northern Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-4.svg' height='80'> | [LK-4.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-4.svg) |
+| LK-5 | Eastern Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-5.png' height='80'> | [LK-5.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-5.png) |
+| LK-6 | North Western Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-6.svg' height='80'> | [LK-6.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-6.svg) |
+| LK-7 | North Central Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-7.png' height='80'> | [LK-7.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-7.png) |
+| LK-8 | Uva Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-8.svg' height='80'> | [LK-8.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-8.svg) |
+| LK-9 | Sabaragamuwa Province | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-9.png' height='80'> | [LK-9.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LK/LK-9.png) |
 
 Sri Lanka ISO 3166-2 subdivisions with no available flags:
 

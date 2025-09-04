@@ -7,8 +7,8 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| MU-PL | Port Louis | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MU/MU-PL.svg' height='80'> | [MU-PL.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/MU/MU-PL.svg) |
-| MU-RO | Rodrigues Island | Dependency | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MU/MU-RO.png' height='80'> | [MU-RO.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/MU/MU-RO.svg) |
+| MU-PL | Port Louis | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MU/MU-PL.svg' height='80'> | [MU-PL.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MU/MU-PL.svg) |
+| MU-RO | Rodrigues Island | Dependency | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MU/MU-RO.svg' height='80'> | [MU-RO.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/MU/MU-RO.svg) |
 
 Mauritius ISO 3166-2 subdivisions with no available flags:
 

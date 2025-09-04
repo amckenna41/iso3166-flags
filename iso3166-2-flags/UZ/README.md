@@ -7,8 +7,8 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| UZ-QR | Qoraqalpog‘iston Respublikasi | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/UZ/UZ-QR.svg' height='80'> | [UZ-QR.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/UZ/UZ-QR.svg) |
-| UZ-TK | Toshkent | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/UZ/UZ-TK.svg' height='80'> | [UZ-TK.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/UZ/UZ-TK.svg) |
+| UZ-QR | Qoraqalpog‘iston Respublikasi | Republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/UZ/UZ-QR.svg' height='80'> | [UZ-QR.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/UZ/UZ-QR.svg) |
+| UZ-TK | Toshkent | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/UZ/UZ-TK.svg' height='80'> | [UZ-TK.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/UZ/UZ-TK.svg) |
 
 Uzbekistan ISO 3166-2 subdivisions with no available flags:
 

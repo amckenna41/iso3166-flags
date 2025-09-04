@@ -7,9 +7,9 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| CU-06 | Cienfuegos | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-06.svg' height='80'> | [CU-06.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/CU/CU-06.svg) |
-| CU-11 | Holguín | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-11.svg' height='80'> | [CU-11.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/CU/CU-11.svg) |
-| CU-14 | Guantánamo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-14.svg' height='80'> | [CU-14.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/CU/CU-14.svg) |
+| CU-06 | Cienfuegos | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-06.svg' height='80'> | [CU-06.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-06.svg) |
+| CU-11 | Holguín | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-11.svg' height='80'> | [CU-11.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-11.svg) |
+| CU-14 | Guantánamo | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-14.svg' height='80'> | [CU-14.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/CU/CU-14.svg) |
 
 Cuba ISO 3166-2 subdivisions with no available flags:
 

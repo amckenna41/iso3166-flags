@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| AG-10 | Barbuda | Dependency | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AG/AG-10.svg' height='80'> | [AG-10.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AG/AG-10.svg) |
+| AG-10 | Barbuda | Dependency | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AG/AG-10.svg' height='80'> | [AG-10.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AG/AG-10.svg) |
 
 Antigua and Barbuda ISO 3166-2 subdivisions with no available flags:
 

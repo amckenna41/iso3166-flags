@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| LU-WI | Wiltz | Canton | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LU/LU-WI.svg' height='80'> | [LU-WI.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/LU/LU-WI.svg) |
+| LU-WI | Wiltz | Canton | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LU/LU-WI.svg' height='80'> | [LU-WI.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/LU/LU-WI.svg) |
 
 Luxembourg ISO 3166-2 subdivisions with no available flags:
 

@@ -7,7 +7,7 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| GW-BS | Bissau | Autonomous sector | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GW/GW-BS.png' height='80'> | [GW-BS.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/GW/GW-BS.png) |
+| GW-BS | Bissau | Autonomous sector | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GW/GW-BS.png' height='80'> | [GW-BS.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/GW/GW-BS.png) |
 
 Guinea-Bissau ISO 3166-2 subdivisions with no available flags:
 

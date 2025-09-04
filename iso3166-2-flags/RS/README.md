@@ -7,14 +7,14 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| RS-00 | Beograd | City | <img src='None' height='80'> | [RS-00.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-00.svg) |
-| RS-14 | Borski okrug | District | <img src='None' height='80'> | [RS-14.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-14.svg) |
-| RS-15 | Zaječarski okrug | District | <img src='None' height='80'> | [RS-15.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-15.png) |
-| RS-18 | Raški okrug | District | <img src='None' height='80'> | [RS-18.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-18.png) |
-| RS-22 | Pirotski okrug | District | <img src='None' height='80'> | [RS-22.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-22.png) |
-| RS-27 | Prizrenski okrug | District | <img src='None' height='80'> | [RS-27.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-27.png) |
-| RS-KM | Kosovo-Metohija | Autonomous province | <img src='None' height='80'> | [RS-KM.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-KM.svg) |
-| RS-VO | Vojvodina | Autonomous province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-VO.svg' height='80'> | [RS-VO.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/RS/RS-VO.svg) |
+| RS-00 | Beograd | City | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-00.svg' height='80'> | [RS-00.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-00.svg) |
+| RS-14 | Borski okrug | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-14.svg' height='80'> | [RS-14.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-14.svg) |
+| RS-15 | Zaječarski okrug | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-15.png' height='80'> | [RS-15.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-15.png) |
+| RS-18 | Raški okrug | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-18.png' height='80'> | [RS-18.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-18.png) |
+| RS-22 | Pirotski okrug | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-22.png' height='80'> | [RS-22.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-22.png) |
+| RS-27 | Prizrenski okrug | District | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-27.png' height='80'> | [RS-27.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-27.png) |
+| RS-KM | Kosovo-Metohija | Autonomous province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-KM.svg' height='80'> | [RS-KM.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-KM.svg) |
+| RS-VO | Vojvodina | Autonomous province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-VO.svg' height='80'> | [RS-VO.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/RS/RS-VO.svg) |
 
 Serbia ISO 3166-2 subdivisions with no available flags:
 

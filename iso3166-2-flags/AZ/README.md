@@ -7,10 +7,10 @@
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
 |-------|--------------------------|--------------| -------------- |----------|
-| AZ-BA | Bakı | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-BA.svg' height='80'> | [AZ-BA.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AZ/AZ-BA.svg) |
-| AZ-NX | Naxçıvan | Autonomous republic | <img src='None' height='80'> | [AZ-NX.svg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AZ/AZ-NX.svg) |
-| AZ-SM | Sumqayıt | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-SM.png' height='80'> | [AZ-SM.png](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AZ/AZ-SM.png) |
-| AZ-YE | Yevlax | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-YE.jpg' height='80'> | [AZ-YE.jpg](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-2-flags/AZ/AZ-YE.jpg) |
+| AZ-BA | Bakı | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-BA.svg' height='80'> | [AZ-BA.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-BA.svg) |
+| AZ-NX | Naxçıvan | Autonomous republic | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-NX.svg' height='80'> | [AZ-NX.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-NX.svg) |
+| AZ-SM | Sumqayıt | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-SM.png' height='80'> | [AZ-SM.png](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-SM.png) |
+| AZ-YE | Yevlax | Municipality | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-YE.jpg' height='80'> | [AZ-YE.jpg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/AZ/AZ-YE.jpg) |
 
 Azerbaijan ISO 3166-2 subdivisions with no available flags:
 
