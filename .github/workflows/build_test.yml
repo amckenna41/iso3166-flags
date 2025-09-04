@@ -40,28 +40,6 @@ jobs:
         python -m pip install --upgrade pip
         pip3 install pytest pytest-cov bandit safety
         if [ -f tests/requirements.txt ]; then pip install -r tests/requirements.txt; fi
-      
-    - name: Sanity check workspace
-      run: |
-        pwd
-        ls -la
-        echo "--- tests dir ---"
-        ls -la tests
-
-            
-    - name: Debug import path
-      run: |
-        python - <<'PY'
-        import os, sys
-        print("CWD:", os.getcwd())
-        print("First sys.path entries:", sys.path[:5])
-        try:
-            import tests
-            print("Imported 'tests' from:", getattr(tests, "__file__", "<pkg>"))
-        except Exception as e:
-            print("Import 'tests' failed:", e)
-        PY
-
 
     #unit tests using unittest framework
     - name: Running unit tests
@@ -180,9 +158,11 @@ jobs:
 
       #upload to Code Coverage, only if matrix python version is 3.11
       - name: Upload Coverage Report to Codecov
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v4
         with:
           files: coverage.xml
           flags: iso3166_flags_workflow
-        env: 
-          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+          token: ${{ secrets.CODECOV_TOKEN }}
+          verbose: true
+        # env: 
+        #   CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}

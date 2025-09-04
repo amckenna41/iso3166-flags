@@ -8,6 +8,7 @@
 [![Size](https://img.shields.io/github/repo-size/amckenna41/iso3166-flags)](https://github.com/amckenna41/iso3166-flags)
 <!-- [![Commits](https://img.shields.io/github/commit-activity/w/amckenna41/iso3166-flags)](https://github.com/iso3166-flags) -->
 <!-- [![npm version](https://badge.fury.io/js/iso3166-flags.svg)](https://badge.fury.io/js/iso3166-flags) -->
+<!-- [![codecov](https://codecov.io/gh/amckenna41/iso3166-flags/branch/main/graph/badge.svg)](https://codecov.io/gh/amckenna41/iso3166-flags) -->
 
 > **iso3166-flags** is a bespoke, verbose and comprehensive dataset of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country and regional/subdivision codes flag icons in SVG format. The dataset currently has **271** country/territorial flags and **2,845** regional/subdivision flags.
 
