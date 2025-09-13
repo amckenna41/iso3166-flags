@@ -10,7 +10,7 @@
 <!-- [![npm version](https://badge.fury.io/js/iso3166-flags.svg)](https://badge.fury.io/js/iso3166-flags) -->
 <!-- [![codecov](https://codecov.io/gh/amckenna41/iso3166-flags/branch/main/graph/badge.svg)](https://codecov.io/gh/amckenna41/iso3166-flags) -->
 
-> **iso3166-flags** is a bespoke, verbose and comprehensive dataset of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country and regional/subdivision codes flag icons in SVG format. The dataset currently has **271** country/territorial flags and **2,845** regional/subdivision flags.
+> **iso3166-flags** is a bespoke, verbose and comprehensive dataset of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country and regional/subdivision codes flag icons in SVG format. The dataset currently has **250** country/territorial flags and **2,845** regional/subdivision flags.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="400" width="700"/>
@@ -24,8 +24,7 @@
 
 | Total Flags |    ISO3166-1 Flags   |    ISO3166-2 Flags    |  SVG  |  PNG  | JPEG / JPG | Other | Total Dataset Size (MB) | ISO3166-1 Dataset Size (MB) | ISO3166-2 Dataset Size (MB) |
 |-------------|------------------------|------------------------|-------|-------|------------|-------|-------------------------|------------------------------|------------------------------|
-| 3,116       | 271                    | 2,845                  | 2,264 | 798   | 54         | 0     | 341.605                 | 1.956                        | 339.650                      |
-
+| 3,095       | 250                    | 2,845                  | 2,243 | 798   | 54         | 0     | 341.271                 | 1.621                        | 339.650                      |
 
 Table of Contents
 -----------------
@@ -45,7 +44,7 @@ Table of Contents
 ## Introduction
 `iso3166-flags` is a **comprehensive**, **verbose** and **bespoke** repository of all ISO 3166-1 and ISO 3166-2 country and regional/subdivision flag icons, respectively. The flags list is according to the International Organisation for Standards that define codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions [[1]](#references). 
 
-**Currently the dataset contains <em>271</em> ISO 3166-1 country/territorial flag icons and <em>2,845</em> ISO 3166-2 regional/subdivision flags.** <br> 
+**Currently the dataset contains <em>250</em> ISO 3166-1 country/territorial flag icons and <em>2,845</em> ISO 3166-2 regional/subdivision flags.** <br> 
 
 The <b>ISO 3166-1</b> flags are those of the names of countries and their subdivisions that can be broken into three sets of country codes:
 * *ISO 3166-1 alpha-2* – two-letter country codes which are the most widely used of the three, and used most prominently for the Internet's country code top-level domains (with a few exceptions).

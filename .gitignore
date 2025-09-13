@@ -181,8 +181,6 @@ ToDo.md
 /scripts/git_status_logs_edit_this_one.csv
 /scripts/git_status_logs_master.csv
 iso3166_2_flag_list_check.csv
-iso3166_1_flag_metadata.csv
-iso3166_2_flag_metadata.csv
 missing_subdivision_flags.csv
 repo_metadata.json
 proposed_flags.csv

@@ -42,7 +42,7 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
     def test_iso3166_1_flags_total(self):
         """ Test total number of country flags. """
 #1.)
-        self.assertEqual(len(self.iso3166_1_files), 271, f"Expected there to be 271 flag icons in the ISO 3166-1 folder, got {len(self.iso3166_1_files)}.")
+        self.assertEqual(len(self.iso3166_1_files), 250, f"Expected there to be 250 flag icons in the ISO 3166-1 folder, got {len(self.iso3166_1_files)}.")
 
     # @unittest.skip("")
     def test_iso3166_1_flags_file_extensions(self):

@@ -36,6 +36,7 @@ def update_everything(output_folder: str="") -> None:
     #iso3166-1/2 folder names
     iso3166_1_dir = "iso3166-1-flags"
     iso3166_2_dir = "iso3166-2-flags"
+    iso3166_metadata_dir = "iso3166-flags-metadata"
 
     #path to CSS directory
     css_dir = "css"
@@ -58,11 +59,11 @@ def update_everything(output_folder: str="") -> None:
     create_readme(iso3166_2_dir)
 
     #export individual flag metadata for the ISO 3166-1 and ISO 3166-2 flags 
-    export_flag_metadata("iso3166-1-flags", flag_metadata_output="iso3166_1_flag_metadata.csv")
-    export_flag_metadata("iso3166-2-flags", flag_metadata_output="iso3166_2_flag_metadata.csv")
+    export_flag_metadata("iso3166-1-flags", flag_metadata_output=os.path.join(iso3166_metadata_dir, "iso3166_1_flag_metadata.csv"))
+    export_flag_metadata("iso3166-2-flags", flag_metadata_output=os.path.join(iso3166_metadata_dir, "iso3166_2_flag_metadata.csv"))
 
     #export metadata on full repo
-    export_repo_metadata(export_json=True, export_filename="repo_metadata", exclude_readme=True)
+    export_repo_metadata(export_json=True, export_filename=os.path.join(iso3166_metadata_dir, "iso3166_flags_metadata.json"), exclude_readme=True)
 
     #export list of missing subdivision flags
     export_missing_flags("iso3166-2-flags", export=True, export_filename="missing_subdivision_flags.csv")
