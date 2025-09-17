@@ -42,6 +42,9 @@ Table of Contents
 
 
 ## Introduction
+
+A <b>Medium</b> article that dives deeper into `iso3166-flags` is available [here][medium].
+
 `iso3166-flags` is a **comprehensive**, **verbose** and **bespoke** repository of all ISO 3166-1 and ISO 3166-2 country and regional/subdivision flag icons, respectively. The flags list is according to the International Organisation for Standards that define codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions [[1]](#references). 
 
 **Currently the dataset contains <em>250</em> ISO 3166-1 country/territorial flag icons and <em>2,845</em> ISO 3166-2 regional/subdivision flags.** <br> 
@@ -90,7 +93,7 @@ yarn add --dev iso3166-flags
 
 Usage
 -----
-The flags can be implemented in-line by referencing the CSS class of the respective flag using the [`ISO 3166-1`](https://github.com/amckenna41/iso3166-flags/css/iso3166-1.css) or [`ISO 3166-2`](https://github.com/amckenna41/iso3166-flags/css/iso3166-1.css) CSS file. For ISO 3166-1 icons add the classes `.fi` and `.fi-xx` (where `xx` is the ISO 3166-1-alpha-2 code of a country) to an empty `<span>` [[5]](#references). To add a squared version flag additionally add the class `fis`. 
+The flags can be implemented in-line by referencing the CSS class of the respective flag using the [`ISO 3166-1`](https://github.com/amckenna41/iso3166-flags/css/iso3166-1.css) or [`ISO 3166-2`](https://github.com/amckenna41/iso3166-flags/css/iso3166-2.css) CSS file. For ISO 3166-1 icons add the classes `.fi` and `.fi-xx` (where `xx` is the ISO 3166-1-alpha-2 code of a country) to an empty `<span>` [[5]](#references). To add a squared version flag additionally add the class `fis`. 
 
 For example, adding the normal and squared flags for Andorra, Denmark & Panama:
 ```html
@@ -180,3 +183,4 @@ References
 [iso3166_updates]: https://github.com/amckenna41/iso3166-updates
 [Issues]: https://github.com/amckenna41/iso3166-flags/issues
 [updates_md]: https://github.com/amckenna41/iso3166-2/blob/main/UPDATES.md
+[medium]: https://ajmckenna69.medium.com/545bc6eaa467
