@@ -557,10 +557,6 @@
 	background-image: url(iso3166-1-flags/tj.svg);
 }
 
-.fi-un {
-	background-image: url(iso3166-1-flags/un.svg);
-}
-
 .fi-vu {
 	background-image: url(iso3166-1-flags/vu.svg);
 }
@@ -643,6 +639,10 @@
 
 .fi-uz {
 	background-image: url(iso3166-1-flags/uz.svg);
+}
+
+.fi-xk {
+	background-image: url(iso3166-1-flags/xk.svg);
 }
 
 .fi-ws {
