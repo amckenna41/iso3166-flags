@@ -78,18 +78,10 @@ The whole project can be cloned from git:
 git clone https://github.com/amckenna41/iso3166-flags.git
 ```
 
-The ISO 3166-1 and ISO 3166-2 are also split into branches and be downloaded seperately:
-```
-git clone -b iso3166-1-flags https://github.com/amckenna41/iso3166-flags.git 
-OR
-git clone -b iso3166-2-flags https://github.com/amckenna41/iso3166-flags.git 
-```
+Alternatively, each of the flag datasets are available as releases on the repo where the zipped folder of the latest flag files can be downloaded directly:
 
-Install via npm or yarn (<b><i>not implemented yet</i></b>):
 ```
-npm install --dev iso3166-flags
-
-yarn add --dev iso3166-flags
+https://github.com/amckenna41/iso3166-flags/releases
 ```
 
 Usage
