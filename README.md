@@ -175,10 +175,5 @@ References
 [fuzzywuzzy]: https://pypi.org/project/fuzzywuzzy/
 [iso3166_updates]: https://github.com/amckenna41/iso3166-updates
 [Issues]: https://github.com/amckenna41/iso3166-flags/issues
-<<<<<<< HEAD
-[updates_md]: https://github.com/amckenna41/iso3166-2/blob/main/UPDATES.md
-[medium]: https://ajmckenna69.medium.com/545bc6eaa467
-=======
 [updates_md]: https://github.com/amckenna41/iso3166-updates/blob/main/UPDATES.MD
 [medium]: https://ajmckenna69.medium.com/545bc6eaa467
->>>>>>> 6c12daf... v2.2; latest ISO 3166-1 & ISO 3166-2 flags, new scripts, tests, doc updates, bug fixes
