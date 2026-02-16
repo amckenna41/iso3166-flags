@@ -12,6 +12,7 @@ import json
 import xml.etree.ElementTree as ET
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module="PIL") #ignore any warnings from Pillow module
+warnings.filterwarnings("ignore", message=".*iCCP.*") #suppress libpng iCCP warnings
 
 def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metadata.csv") -> None:
     """

@@ -2,6 +2,10 @@ from PIL import Image, UnidentifiedImageError
 import os
 import shutil
 import argparse
+import warnings
+
+#suppress libpng iCCP warnings
+warnings.filterwarnings("ignore", message=".*iCCP.*", category=UserWarning)
 
 def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", img_format="png", delete_original: bool=False) -> None:
     """
@@ -71,16 +75,24 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
         #open image using PIL package, saving as the input format
         try:
             with Image.open(img_filepath) as img:
+                #convert to RGB if necessary for JPEG
+                if img_format in ["jpg", "jpeg"] and img.mode in ('P', 'RGBA', 'LA'):
+                    img = img.convert('RGB')
+                
                 if (img_format == "png"):
-                    img.save(os.path.splitext(output_img_path, 'PNG'))
+                    img.save(output_img_path, 'PNG')
                 else:
-                    img.save(os.path.splitext(output_img_path, 'JPEG'))
+                    img.save(output_img_path, 'JPEG')
         except (UnidentifiedImageError, IOError):
-            print(f"Invalid file format or issue with opening it: {input_img_path}.")
+            print(f"Invalid file format or issue with opening it: {img_filepath}.")
 
         #move original unconverted file to the archive folder   
         if (archive_folder != ""):      
-            shutil.move(img_filepath, os.path.join(archive_folder, img_filepath))
+            shutil.move(img_filepath, os.path.join(archive_folder, os.path.basename(img_filepath)))
+        
+        #delete the original image filepath, if applicable
+        if (delete_original and archive_folder == ""):
+            os.remove(img_filepath)
     else:
         #raise error if folder of images not found
         if not (os.path.isdir(flag_folder)):
@@ -100,6 +112,10 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
                     #open image using PIL package, saving as the input format, raise error if issue with opening file
                     try:
                         with Image.open(input_img_path) as img:
+                            #convert to RGB if necessary for JPEG
+                            if img_format in ["jpg", "jpeg"] and img.mode in ('P', 'RGBA', 'LA'):
+                                img = img.convert('RGB')
+                            
                             if img_format == "png":
                                 img.save(output_img_path, 'PNG')
                             else:
@@ -131,6 +147,10 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
                 #open image using PIL package, saving as the input format, raise error if issue with opening file
                 try:
                     with Image.open(input_img_path) as img:
+                        #convert to RGB if necessary for JPEG
+                        if img_format in ["jpg", "jpeg"] and img.mode in ('P', 'RGBA', 'LA'):
+                            img = img.convert('RGB')
+                        
                         if (img_format == "png"):
                             img.save(output_img_path, 'PNG')
                         else:

@@ -5,3 +5,5 @@ iso3166-2
 opencv-python
 lxml
 pandas
+beautifulsoup4
+requests

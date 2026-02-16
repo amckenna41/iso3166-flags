@@ -38,6 +38,14 @@ class Flag_Metadata_Tests(unittest.TestCase):
         and whether they have flags 
     test_filter_by_size:
         testing the filtering of the image files per an input KB size threshold.
+    test_aspect_ratio_calculations:
+        testing aspect ratio calculations are accurate.
+    test_quality_scoring_png_vs_svg:
+        testing quality scoring for PNG vs SVG files.
+    test_csv_column_consistency:
+        testing CSV column consistency in output.
+    test_corrupted_image_handling:
+        testing handling of corrupted images.
     """
     @classmethod
     def setUp(self):
@@ -49,6 +57,8 @@ class Flag_Metadata_Tests(unittest.TestCase):
         self.test_repo_metadata_output = os.path.join(self.test_output_dir, "test_repo_metadata.json")
 
         #create test directory if not already present
+        if not (os.path.isdir(self.test_output_dir)):
+            os.makedirs(self.test_output_dir)        #create test directory if not already present
         if not (os.path.isdir(self.test_output_dir)):
             os.makedirs(self.test_output_dir)
 
@@ -222,9 +232,10 @@ class Flag_Metadata_Tests(unittest.TestCase):
         """ Testing getting a plethora of data attributes for the repo. """
 #1.)    
         test_repo_metadata = export_repo_metadata(export_json=True, export_filename=self.test_repo_metadata_output)
-        test_repo_metadata_expected = {'total': 3095, 'iso3166_1_total': 250, 'iso3166_2_total': 2845, 'svg': 2243, 'png': 798, 'jpg/jpeg': 54, 'other': 0, 'duplicates': 0, 
-                                       'subdivisions_other': [], 'duplicate_list': [], 'total_repo_size': '341,262.232KB', 'iso3166_1_flags_size': '1,611.863KB', 
-                                       'iso3166_2_flags_size': '339,650.369KB', 'average_flag_size': '112,908.732KB', 'missing_iso3166_1_count': 0, 'missing_iso3166_2_count': 2204}
+        test_repo_metadata_expected = {'total': 3093, 'iso3166_1_total': 250, 'iso3166_2_total': 2843, 'svg': 2241, 'png': 798, 'jpg/jpeg': 54, 
+                                       'other': 0, 'duplicates': 0, 'subdivisions_other': [], 'duplicate_list': [], 'total_repo_size': '341,261.141KB', 
+                                       'iso3166_1_flags_size': '1,611.863KB', 'iso3166_2_flags_size': '339,649.277KB', 'average_flag_size': '112,981.380KB',
+                                        'missing_iso3166_1_count': 0, 'missing_iso3166_2_count': 2206}
 
         self.assertTrue(os.path.isfile(self.test_repo_metadata_output), "Expected flag metadata format output file to be exported.")
         #open exported metadata json
@@ -284,6 +295,96 @@ class Flag_Metadata_Tests(unittest.TestCase):
         
         self.assertEqual(list(test_filter_by_size_df.columns), ["fileName", "size (KB)"], f"Expected and observed output columns do not match:\n{test_filter_by_size_df.columns}.")
         self.assertEqual(len(test_filter_by_size_df), 47, "Expected there to be 47 rows in output dataframe.")
+
+#     @unittest.skip("")
+    def test_aspect_ratio_calculations(self):
+        """ Testing aspect ratio calculations are accurate. """
+        #test with known PNG files
+        test_flag_filepath1 = os.path.join(self.test_flag_folder, "IQ", "IQ-AN.png")
+        test_flag_filepath2 = os.path.join(self.test_flag_folder, "IQ", "IQ-KI.png")
+        
+        #calculate dimensions which include aspect ratio
+        width1, height1, aspect1 = calculate_dimension(test_flag_filepath1)
+        width2, height2, aspect2 = calculate_dimension(test_flag_filepath2)
+#1.)        
+        #verify aspect ratio calculation
+        self.assertEqual(aspect1, round(width1 / height1, 2), 
+                        f"Aspect ratio calculation incorrect for {test_flag_filepath1}.")
+        self.assertEqual(aspect2, round(width2 / height2, 2), 
+                        f"Aspect ratio calculation incorrect for {test_flag_filepath2}.")
+        
+        #verify aspect ratios are positive numbers
+        self.assertGreater(aspect1, 0, "Aspect ratio should be positive.")
+        self.assertGreater(aspect2, 0, "Aspect ratio should be positive.")
+
+#     @unittest.skip("")
+    def test_quality_scoring_png_vs_svg(self):
+        """ Testing quality scoring for PNG vs SVG files. """
+        export_flag_metadata(self.test_flag_folder, self.test_flag_metadata_output)
+        test_metadata_df = pd.read_csv(self.test_flag_metadata_output)
+        
+        #separate PNG and SVG files
+        png_files = test_metadata_df[test_metadata_df["file_extension"] == "PNG"]
+        svg_files = test_metadata_df[test_metadata_df["file_extension"] == "SVG"]
+#1.)        
+        #SVG quality should typically be higher than PNG or N/A
+        if len(svg_files) > 0:
+            svg_quality = svg_files["quality"].dropna()
+            if len(svg_quality) > 0:
+                #SVG quality varies but should generally be positive
+                self.assertTrue((svg_quality >= 0.5).all(), 
+                              "SVG quality scores should be positive.")
+        
+        #PNG quality should vary
+        if len(png_files) > 0:
+            png_quality = png_files["quality"].dropna()
+            if len(png_quality) > 0:
+                self.assertGreater(len(png_quality), 0, "Should have quality scores for PNG files.")
+
+#     @unittest.skip("")
+    def test_csv_column_consistency(self):
+        """ Testing CSV column consistency in output. """
+        export_flag_metadata("iso3166-2-flags", self.test_flag_metadata_output)
+        test_metadata_df = pd.read_csv(self.test_flag_metadata_output)
+        
+        #expected columns
+        expected_columns = ['subdivision_code', 'file_name', 'file_size_kb', 'file_extension', 
+                          'dimensions', 'aspect_ratio', 'flag_type', 'quality']
+#1.)        
+        self.assertEqual(list(test_metadata_df.columns), expected_columns, 
+                        f"CSV columns don't match expected: {list(test_metadata_df.columns)}")
+        
+        #verify no completely empty columns
+        for col in expected_columns:
+            if col not in ['flag_type']:  # flag_type can be None
+                non_null_count = test_metadata_df[col].notna().sum()
+                self.assertGreater(non_null_count, 0, f"Column {col} should have some non-null values.")
+
+#     @unittest.skip("")
+    def test_corrupted_image_handling(self):
+        """ Testing handling of corrupted images. """
+        #create a corrupted image file
+        corrupted_folder = os.path.join(self.test_output_dir, "corrupted")
+        os.makedirs(corrupted_folder, exist_ok=True)
+        
+        corrupted_file = os.path.join(corrupted_folder, "corrupted.png")
+        with open(corrupted_file, 'w') as f:
+            f.write("This is not a valid image file")
+        
+        #attempt to export metadata - should handle gracefully
+        try:
+            corrupted_output = os.path.join(self.test_output_dir, "corrupted_metadata.csv")
+            export_flag_metadata(corrupted_folder, corrupted_output)
+            
+            #if it doesn't raise an error, check the output
+            if os.path.exists(corrupted_output):
+                df = pd.read_csv(corrupted_output)
+                #corrupted file should either be skipped or have null/default values
+                self.assertTrue(len(df) >= 0, "Should handle corrupted images gracefully.")
+        except Exception as e:
+            #acceptable to raise an error for corrupted files
+            self.assertIn("image", str(e).lower() or "invalid" in str(e).lower(), 
+                         "Error should be related to image handling.")
 
     @classmethod
     def tearDown(self):

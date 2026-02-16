@@ -1,10 +1,21 @@
 import os
 import time
-from generate_css import *
-from generate_readme import *
-from get_flag_metadata import *
-from get_missing_flags import *
-from convert_images import *
+
+# Support both direct script execution and module execution
+try:
+    # Relative imports (for python3 -m scripts.update_everything)
+    from .generate_css import *
+    from .generate_readme import *
+    from .get_flag_metadata import *
+    from .get_missing_flags import *
+    from .convert_images import *
+except ImportError:
+    # Absolute imports (for python3 scripts/update_everything.py or running from scripts dir)
+    from generate_css import *
+    from generate_readme import *
+    from get_flag_metadata import *
+    from get_missing_flags import *
+    from convert_images import *
 
 def update_everything(output_folder: str="") -> None:
     """
@@ -42,7 +53,7 @@ def update_everything(output_folder: str="") -> None:
     css_dir = "css"
 
     #raise OSError if the flag or CSS directories aren't found
-    if not (os.path.isdir(iso3166_1_dir) or not (os.path.isdir(iso3166_2_dir)) or not (os.path.isdir(css_dir))):
+    if not (os.path.isdir(iso3166_1_dir) and os.path.isdir(iso3166_2_dir) and os.path.isdir(css_dir)):
         raise OSError("Flag or CSS directories not found, double check they are on the path.")
 
     #start timer
