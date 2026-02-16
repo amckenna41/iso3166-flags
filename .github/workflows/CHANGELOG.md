@@ -6,3 +6,4 @@
 - Added the iso3166-flags-metadata directory to repo which contains a plethora of metadata files and info for the ISO 3166-1 and ISO 3166-2 flags as well as the repo itself.
 - Added stats section to main readme
 - In iso3166-2.css, removed country code from selector, only subdivision code in selector
+- Removed GB-UKM, GB-EAW and GB-GBN flags

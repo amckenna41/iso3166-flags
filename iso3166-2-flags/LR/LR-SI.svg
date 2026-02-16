@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="2400" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="#ffffff" width="4000" height="2400"/>
+<g transform="scale(5.454545455)">
+<rect fill="#bf0a30" width="183.333333333" height="110"/>
+<path d="M0,15H183.333333333 M0,35H183.333333333 M0,55H183.333333333 M0,75H183.333333333 M0,95H183.333333333" stroke="#fff" stroke-width="10"/>
+<rect fill="#002868" width="50" height="50"/>
+<g transform="translate(25 25) scale(15)">
+<g id="B">
+<polygon id="A" fill="#fff" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
+<use xlink:href="#A" transform="scale(-1,1)"/>
+</g>
+<use xlink:href="#B" transform="rotate(72)"/>
+<use xlink:href="#B" transform="rotate(-72)"/>
+<use xlink:href="#B" transform="rotate(144)"/>
+<use xlink:href="#B" transform="rotate(-144)"/>
+</g>
+</g>
+<rect fill="#006633" x="1850" width="300" height="2400"/>
+<rect fill="#006633" y="1050" width="4000" height="300"/>
+</svg>

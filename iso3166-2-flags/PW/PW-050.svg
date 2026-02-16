@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="500">
+ <defs>
+  <path id="s" transform="scale(12)" fill="#fff" d="M0,0,0.588,1.81,2.49,1.81,0.951,2.93,1.54,4.74,0,3.62-1.54,4.74-0.951,2.93-2.49,1.81l1.9-0.000011z"/>
+ </defs>
+ <rect fill="#003796" width="800" height="500"/>
+ <use xlink:href="#s" transform="translate(182,153)"/>
+ <use xlink:href="#s" transform="translate(618,153)"/>
+ <use xlink:href="#s" transform="translate(400,56)"/>
+ <path id="e" fill="#fff" d="m400,208c-40,1-29,39-51,44-23.9,5.43-28-25-58-18-25.8,6.02-17.4,42.9-36,54-10,6-38-10-57,3-24.1,16.5,1.05,54.9,19,72,43,41,93,46,126,87l6,3h51c5,0,2-245,0-245z"/>
+ <use xlink:href="#e" transform="translate(800,0) scale(-1,1)"/>
+</svg>

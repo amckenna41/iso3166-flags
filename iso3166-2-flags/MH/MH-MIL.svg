@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1140"
+   height="600"
+   viewBox="0 0 1140 600"
+   version="1.1"
+   id="svg1463"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Flag of Mili Atoll.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1465"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.97531385"
+     inkscape:cx="402.43456"
+     inkscape:cy="210.18875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1460" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#003893;stroke-width:0.298499;stroke-linejoin:round;fill-opacity:1"
+       id="rect6042"
+       width="1140"
+       height="600"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#dd7500;fill-opacity:1;stroke-width:0.14925;stroke-linejoin:round"
+       id="rect6042-0"
+       width="1140"
+       height="150"
+       x="0"
+       y="200" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.121862;stroke-linejoin:round"
+       id="rect6042-0-3"
+       width="1140"
+       height="100"
+       x="0"
+       y="300" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.3;stroke-linejoin:round"
+       id="path9888"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="94.328613"
+       sodipodi:cy="96.379234"
+       sodipodi:r1="81.057953"
+       sodipodi:r2="30.802023"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 94.328615,15.321281 18.104975,56.138593 58.98572,-0.128923 -47.79623,34.566629 18.3502,56.05892 L 94.328613,127.18126 46.683942,161.95649 65.034149,105.89758 17.23792,71.330947 76.223638,71.459874 Z"
+       inkscape:transform-center-y="-8.9736858"
+       transform="matrix(1.1593395,0,0,1.1593395,-3.9846012,-2.7625668)"
+       inkscape:transform-center-x="-1.6270994e-06" />
+  </g>
+</svg>

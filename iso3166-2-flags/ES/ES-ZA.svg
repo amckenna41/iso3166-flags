@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg_Zamora" width="1350" height="900" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <path id="path1" d="m0 0h1250l100 48-100 48h-1250z" fill="#078930"/>
+ <g id="grp" fill="#da121a" stroke-width="1.0045">
+  <path id="path9" d="m0 804h1250l100 48-100 48h-1250z"/>
+  <path id="path8" d="m0 703.5h1250l100 48-100 48h-1250z"/>
+  <path id="path7" d="m0 603h1250l100 48-100 48h-1250z"/>
+  <path id="path6" d="m0 502.5h1250l100 48-100 48h-1250z"/>
+  <path id="path5" d="m0 402h1250l100 48-100 48h-1250z"/>
+  <path id="path4" d="m0 301.5h1250l100 48-100 48h-1250z"/>
+  <path id="path3" d="m0 201h1250l100 48-100 48h-1250z"/>
+  <path id="path2" d="m0 100.5h1250l100 48-100 48h-1250z"/>
+ </g>
+</svg>

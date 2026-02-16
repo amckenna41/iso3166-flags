@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400">
+<defs>
+<path id="hill" d="M0,400V275C250,260 215,140 300,140C390,140 350,260 600,275V400z"/>
+<path id="castle" d="M165,40h30v35h30V40h30v35h30V40h30v35h30V40h30v35h30V40h30V225C435,300 375,350 300,370C225,350 165,300 165,225z"/>
+<clipPath id="c">
+<use xlink:href="#hill"/>
+</clipPath>
+</defs>
+<rect width="600" height="400" fill="#3253f7"/>
+<use xlink:href="#hill" fill="#f9f31e"/>
+<use xlink:href="#castle" fill="#f9f31e"/>
+<use xlink:href="#castle" fill="#108010" clip-path="url(#c)"/>
+</svg>

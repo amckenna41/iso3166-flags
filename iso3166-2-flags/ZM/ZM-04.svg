@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 64 64" fill="#ffffff">
+	<title>LuapulaFlagZM</title>
+	<path d="m0 0h64v64H0z"/>
+	<path fill="#4cb050" d="m4 4H60V60H4z"/>
+	<g transform="translate(32,12.5) scale(41,41)">
+		<polygon fill="#ffffff" points="0,0 0.324920,1 -0.525731,0.381966 0.525731,0.381966 -0.324920,1"/>
+	</g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="360">
+<rect width="600" height="360" fill="#ffffff" x="0" y="0"/>
+<rect width="90" height="360" x="255" y="0" fill="#ff0000" /><rect width="600" height="90" x="0" y="135" fill="#ff0000" />
+<ellipse cx="300" cy="180" rx="75" ry="75" fill="#ffcc00" />
+<ellipse cx="300" cy="180" rx="60" ry="60" fill="#002664" />
+<g transform="translate(300,180) rotate(0) scale(0.592)"><path d="m 0,-100 24,68 H 96 L 40,12 60,80 0,40 -60,80 -40,12 -96,-32 h 72 z" fill="#ffffff" /></g>
+</svg>

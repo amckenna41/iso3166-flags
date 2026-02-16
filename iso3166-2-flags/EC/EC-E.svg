@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="750"
+   height="500"
+   id="svg2">
+  <defs
+     id="defs8" />
+  <rect
+     width="750"
+     height="500"
+     x="0"
+     y="0"
+     id="green_stripe"
+     style="fill:#078930" />
+  <rect
+     width="750"
+     height="250"
+     x="0"
+     y="0"
+     id="white_stripe"
+     style="fill:#ffffff" />
+</svg>

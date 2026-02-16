@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="188"
+   height="125"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3854">
+      <stop
+         id="stop3856"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3848">
+      <stop
+         id="stop3850"
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       x1="210.5"
+       y1="17"
+       x2="223.25"
+       y2="17"
+       id="linearGradient3858"
+       xlink:href="#linearGradient3854"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-927.36218)"
+     id="layer1">
+    <rect
+       width="197.5"
+       height="134.5"
+       x="-3.5"
+       y="0.25000039"
+       transform="translate(0,927.36218)"
+       id="rect3860"
+       style="fill:url(#linearGradient3854);fill-opacity:1;stroke:url(#linearGradient3854)" />
+    <path
+       d="M -0.75,125.5 94.75,62 194,128.5 -0.75,128 z"
+       transform="translate(0,927.36218)"
+       id="path3862"
+       style="fill:url(#linearGradient3848);stroke:url(#linearGradient3848);stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="M 82.25,53 94.5,43.75 106.25,53 102.5,38.25 114.25,29.25 99,29 94.75,14.5 l -5,14.5 -14.5,-0.25 11,8.75 z"
+       transform="translate(0,927.36218)"
+       id="path3864"
+       style="fill:url(#linearGradient3848);stroke:url(#linearGradient3848);stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>

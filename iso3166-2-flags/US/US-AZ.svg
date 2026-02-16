@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="600" version="1.1" viewBox="-288 -192 576 384" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m-288-192h576v384h-576z" fill="#002868" style="fill:#002664"/><path d="m-288-192h576v192h-576z" fill="#bf0a30" style="fill:#bb133e"/><path id="a" d="M288-147v80L0 0zM139-192h83L0 0zM27-192h48L0 0z" fill="#fed700"/><use transform="scale(-1 1)" xlink:href="#a"/><path d="m0-96 62.385 192-163.07-119.42h201.38l-163.07 119.42z" fill="#ce5c17"/></svg>

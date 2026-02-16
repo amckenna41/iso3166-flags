@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+	<rect width="500" height="300" fill="#ffd42a"/>
+	<path d="M 0,0 H 50 V 300 H 100 V 0 H 150 V 300 H 200 V 0 H 250 V 300 H 300 V 0 H 350 V 300 H 400 V 0 H 450 V 300 H 500 V 0 H 0 V 50 H 500 V 100 H 0 V 150 H 500 V 200 H 0 V 250 H 500 V 300 H 0 z" fill="#0100a8"/>
+</svg>

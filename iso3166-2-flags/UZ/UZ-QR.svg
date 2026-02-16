@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 250 125" fill="#fff">
+<path d="M0 0h250v125H0z" fill="#209c3a"/>
+<path d="M0 0h250v50H0z" fill="#008eb7"/>
+<path d="M0 42h250v41H0z"/>
+<path d="M0 43h250v39H0z" fill="#da251d"/>
+<path d="M0 45.5h250v34H0z" fill="#f7bd29"/>
+<circle r="11" cx="31" cy="21"/>
+<circle r="9.5" cx="35" cy="21" fill="#008eb7"/>
+<path id="a" d="M42 26.40983l9.510565 0L43.816356 32l2.938926-9.045085L49.694209 32z"/>
+<g id="b">
+<use xlink:href="#a" x="5.122359" y="-5.954915"/>
+<use xlink:href="#a" x="10.244717"/>
+</g>
+<use xlink:href="#b" x="10.244717"/>
+</svg>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180.97501mm"
+   height="120.65mm"
+   viewBox="0 0 180.97501 120.65"
+   version="1.1"
+   id="svg16205"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Flag of Akwa Ibom State.svg">
+  <defs
+     id="defs16199" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="310.35473"
+     inkscape:cy="28.061076"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata16202">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 2"
+     style="display:inline;opacity:1">
+    <g
+       id="g16777">
+      <rect
+         y="-0.066141501"
+         x="-2.2228876e-06"
+         height="120.65"
+         width="180.97501"
+         id="rect16762"
+         style="opacity:1;fill:#219951;fill-opacity:1;fill-rule:nonzero;stroke:#782121;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         transform="matrix(4.0517165,0,0,2.3405735,9.4680308e-6,0.08866793)"
+         inkscape:transform-center-x="-30.162101"
+         d="M 44.665652,25.721586 -2.8610229e-6,51.509314 l -10e-14,-51.57545579 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="14.888553"
+         sodipodi:r1="29.777103"
+         sodipodi:cy="25.721586"
+         sodipodi:cx="14.888549"
+         sodipodi:sides="3"
+         id="path16768"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#782121;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         transform="scale(1.0811927,1.1554454)"
+         inkscape:transform-center-y="-1.8559792e-06"
+         inkscape:transform-center-x="-16.295226"
+         d="M 90.429169,52.209309 -1.9073486e-6,104.41861 -1.9073487e-6,2.6308437e-6 Z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="30.143057"
+         sodipodi:r1="60.286114"
+         sodipodi:cy="52.209309"
+         sodipodi:cx="30.143055"
+         sodipodi:sides="3"
+         id="path16772"
+         style="opacity:1;fill:#f68c36;fill-opacity:1;fill-rule:nonzero;stroke:#782121;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>

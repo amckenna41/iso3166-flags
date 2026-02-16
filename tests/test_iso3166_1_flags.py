@@ -30,10 +30,21 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
         testing that each SVG file is a valid and parseable XML file.
     test_iso3166_1_flag_duplicates:
         testing there are no duplicate country flags, including those with different file extension.
+    test_iso3166_1_image_dimensions:
+        testing image dimensions consistency across all flags.
+    test_iso3166_1_file_size_limits:
+        testing file size limits to prevent accidentally huge files.
+    test_iso3166_1_svg_path_complexity:
+        testing SVG path complexity/optimization.
+    test_iso3166_1_missing_broken_images:
+        testing for missing or broken image data.
     """
     def setUp(self):      
         """ Initialise test variables. """
         self.test_input_flag_folder = "iso3166-1-flags"
+        self.max_file_size_kb = 500  # 500KB max file size
+        self.min_dimension = 50  # minimum width/height
+        self.max_dimension = 5000  # maximum width/height
 
         #list of all ISO 3166-1 flags
         self.iso3166_1_files = [i for i in os.listdir(self.test_input_flag_folder) if i != "README.md" and i != ".DS_Store"]
@@ -112,6 +123,84 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
                     etree.parse(path)
                 except Exception as e:
                     self.fail(f"{filename} is not a valid SVG file: {e}.")
+
+    # @unittest.skip("")
+    def test_iso3166_1_image_dimensions(self):
+        """ Testing image dimensions consistency across all flags. """
+        for filename in self.iso3166_1_files:
+            if filename.endswith(".svg"):
+                path = os.path.join(self.test_input_flag_folder, filename)
+                try:
+                    tree = etree.parse(path)
+                    root = tree.getroot()
+                    
+                    #check for viewBox or width/height attributes
+                    viewbox = root.get('viewBox')
+                    width = root.get('width')
+                    height = root.get('height')
+#1.)
+                    self.assertTrue(viewbox or (width and height), 
+                                  f"{filename} missing viewBox or width/height attributes.")
+                    
+                    #if viewBox exists, validate format
+                    if viewbox:
+                        parts = viewbox.split()
+                        self.assertEqual(len(parts), 4, f"{filename} has invalid viewBox format: {viewbox}.")
+                except Exception as e:
+                    self.fail(f"Error parsing dimensions for {filename}: {e}.")
+
+    # @unittest.skip("")
+    def test_iso3166_1_file_size_limits(self):
+        """ Testing file size limits to prevent accidentally huge files. """
+        for filename in self.iso3166_1_files:
+            path = os.path.join(self.test_input_flag_folder, filename)
+            file_size_kb = os.path.getsize(path) / 1024
+#1.)            
+            self.assertLess(file_size_kb, self.max_file_size_kb, 
+                          f"{filename} exceeds max file size: {file_size_kb:.2f}KB > {self.max_file_size_kb}KB.")
+
+    # @unittest.skip("")
+    def test_iso3166_1_svg_path_complexity(self):
+        """ Testing SVG path complexity/optimization. """
+        max_path_elements = 1000  # reasonable limit for flag complexity
+        
+        for filename in self.iso3166_1_files:
+            if filename.endswith(".svg"):
+                path = os.path.join(self.test_input_flag_folder, filename)
+                try:
+                    tree = etree.parse(path)
+                    root = tree.getroot()
+                    
+                    #count path elements
+                    paths = root.findall(".//{http://www.w3.org/2000/svg}path")
+                    path_count = len(paths)
+#1.)                    
+                    self.assertLess(path_count, max_path_elements, 
+                                  f"{filename} has too many path elements ({path_count}), may need optimization.")
+                except Exception as e:
+                    self.fail(f"Error analyzing SVG complexity for {filename}: {e}.")
+
+    # @unittest.skip("")
+    def test_iso3166_1_missing_broken_images(self):
+        """ Testing for missing or broken image data. """
+        for filename in self.iso3166_1_files:
+            path = os.path.join(self.test_input_flag_folder, filename)
+#1.)            
+            #check file exists and is not empty
+            self.assertTrue(os.path.isfile(path), f"{filename} does not exist.")
+            self.assertGreater(os.path.getsize(path), 0, f"{filename} is empty (0 bytes).")
+            
+            #for SVG, check it has actual content
+            if filename.endswith(".svg"):
+                try:
+                    tree = etree.parse(path)
+                    root = tree.getroot()
+                    
+                    #check SVG has child elements
+                    children = list(root)
+                    self.assertGreater(len(children), 0, f"{filename} has no child elements.")
+                except Exception as e:
+                    self.fail(f"{filename} is corrupted or invalid: {e}.")
 
 if __name__ == '__main__':
     #run all unit tests

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1650px" height="1100px" viewBox="0 0 165 110">
+<rect fill='#000' width='165' height='110'/>
+<g transform='translate(55,27.5) scale(0.02,1) scale(55,1)'>
+<rect fill='#fff' width='60' height='55' x='-5'/>
+<path id='p' fill='#0F47AF' d='M0,10q5,4 10,0t10,0t10,0t10,0t10,0v10q-5,4 -10,0t-10,0t-10,0t-10,0t-10,0z'/>
+<use xlink:href='#p' transform='translate(0,-20)'/>
+<use xlink:href='#p' transform='translate(0,20)'/>
+<use xlink:href='#p' transform='translate(0,40)'/>
+</g>
+<path fill='#FCDD09' d='M0,0H82.5L100,15L82.5 27.5a27.5 27.5 0 0 0 -27.5 27.5L30,70L0,55z M165,110H82.5L60,95L82.5 82.5a27.5 27.5 0 0 0 27.5 -27.5L135,30L165,55z'/>
+<path fill='#078930' d='M82.5,0H165V55H110a27.5 27.5 0 0 0 -27.5 -27.5z M0,55H55a27.5 27.5 0 0 0 27.5 27.5V110H0z'/>
+</svg>

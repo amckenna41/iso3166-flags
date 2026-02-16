@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="471.42999" height="300" version="1.0">
+  <path style="fill:#009739;fill-opacity:1" d="M.00000194 87.500328h275v87.499664h-275z" transform="translate(-.00000139 -.00108692) scale(1.71429)"/>
+  <path style="fill:#fff" d="M.00000194.00066018h275v87.499664h-275z" transform="translate(-.00000139 -.00108692) scale(1.71429)"/>
+  <g>
+    <path d="M83.931054.49798759H.49798521V104.5355H83.931054V.49798759z" style="fill:#ef3340;fill-opacity:1;stroke:none;stroke-width:.99597043;stroke-opacity:1" transform="translate(188.9055 14.99998) scale(.42553)"/>
+    <path d="M219.50201 104.5355V.49798759H135.1979V104.5355h84.30411z" style="fill:#fedd00;fill-opacity:1;stroke:none;stroke-width:.99597043;stroke-opacity:1" transform="translate(188.9055 14.99998) scale(.42553)"/>
+    <path d="M135.1979 270.35402c39.76223-16.25931 81.78116-30.75132 84.30411-75.29562v-44.68537H135.1979v119.98099z" style="fill:#ef3340;fill-opacity:1;stroke:none;stroke-width:.99597043;stroke-opacity:1" transform="translate(188.9055 14.99998) scale(.42553)"/>
+    <path d="M.49798521 150.37303v44.68537C3.0023586 239.27458 44.430402 253.86535 83.931054 269.98035V150.37303H.49798521z" style="fill:#0072ce;fill-opacity:1;stroke:none;stroke-width:.99597043;stroke-opacity:1" transform="translate(188.9055 14.99998) scale(.42553)"/>
+    <path d="M83.931054.49798759V104.5355H.49798521v45.83753H83.931054v119.60732c8.937399 3.64617 17.806026 7.35683 26.068946 11.52166 7.99191-4.02823 16.56049-7.61602 25.1979-11.14799V150.37303h84.30411V104.5355H135.1979V.49798759H83.931054z" style="fill:#fff;fill-opacity:1;stroke:#7f7f7f;stroke-width:.99597043;stroke-opacity:1" transform="translate(188.9055 14.99998) scale(.42553)"/>
+    <path d="M.49798518.49799682V195.0584C3.5689952 249.27891 65.217385 258.92987 110 281.50201c44.7826-22.57214 106.431-32.2231 109.50201-86.44361V.49799682H.49798518z" style="fill:none;fill-opacity:1;stroke:#000;stroke-width:.99597037;stroke-opacity:1" transform="translate(188.9055 14.99998) scale(.42553)"/>
+  </g>
+</svg>

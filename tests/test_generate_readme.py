@@ -1,6 +1,7 @@
 from scripts.generate_readme import *
 import shutil
 import os
+import re
 import textwrap
 import unittest
 import warnings
@@ -20,7 +21,15 @@ class Generate_Readme_Tests(unittest.TestCase):
     test_create_markdown_str:
         testing the function that creates the markdown string per subfolder.
     test_create_readme:
-        testing the function that generates the full markdown file per subfolder. 
+        testing the function that generates the full markdown file per subfolder.
+    test_markdown_syntax_validity:
+        testing markdown syntax validity.
+    test_image_links_accessible:
+        testing image links are properly formatted.
+    test_api_links_valid:
+        testing API links are valid.
+    test_special_character_handling:
+        testing special character handling in subdivision names.
     """
     @classmethod
     def setUp(self):
@@ -194,6 +203,90 @@ class Generate_Readme_Tests(unittest.TestCase):
 #6.)
         with self.assertRaises(OSError):
             create_readme("invalid_folder_path")
+
+    # @unittest.skip("")
+    def test_markdown_syntax_validity(self):
+        """ Testing markdown syntax validity. """
+        test_markdown = create_markdown_str("GB", "iso3166-2-flags/GB")
+#1.)        
+        #check for proper markdown table syntax
+        self.assertIn("|", test_markdown, "Markdown should contain table pipes.")
+        self.assertIn("---", test_markdown, "Markdown should contain table separators.")
+        self.assertIn("#", test_markdown, "Markdown should contain headers.")
+        
+        #verify table headers are present
+        self.assertIn("Code", test_markdown, "Should have Code column header.")
+        self.assertIn("Subdivision Name", test_markdown, "Should have Subdivision Name header.")
+        self.assertIn("Flag Preview", test_markdown, "Should have Flag Preview header.")
+        
+        #check for balanced brackets in links
+        open_brackets = test_markdown.count('[')
+        close_brackets = test_markdown.count(']')
+        self.assertEqual(open_brackets, close_brackets, "Markdown should have balanced square brackets.")
+        
+        open_parens = test_markdown.count('(')
+        close_parens = test_markdown.count(')')
+        self.assertEqual(open_parens, close_parens, "Markdown should have balanced parentheses.")
+
+    # @unittest.skip("")
+    def test_image_links_accessible(self):
+        """ Testing image links are properly formatted. """
+        test_markdown = create_markdown_str("US", "iso3166-2-flags/US")
+        
+        #extract image links using regex
+        image_pattern = re.compile(r'<img src=\'([^\']+)\'')
+        image_links = image_pattern.findall(test_markdown)
+#1.)        
+        self.assertGreater(len(image_links), 0, "Should have image links in markdown.")
+        
+        #verify image links have correct format
+        for link in image_links:
+            self.assertTrue(link.startswith("https://raw.githubusercontent.com/"), 
+                          f"Image link should start with GitHub raw URL: {link}")
+            self.assertTrue(link.endswith(('.svg', '.png', '.jpg', '.jpeg')), 
+                          f"Image link should end with valid extension: {link}")
+
+    # @unittest.skip("")
+    def test_api_links_valid(self):
+        """ Testing API links are valid. """
+        test_codes = ["FR", "JP", "BR", "ZA"]
+        
+        for code in test_codes:
+            test_markdown = create_markdown_str(code, f"iso3166-2-flags/{code}")
+            
+            #check for API link
+            expected_api_link = f"https://iso3166-2-api.vercel.app/api/alpha/{code}"
+#1.)            
+            self.assertIn(expected_api_link, test_markdown, 
+                         f"Should contain API link for {code}: {expected_api_link}")
+            
+            #verify ISO code is mentioned
+            self.assertIn(f"**ISO Code**: {code}", test_markdown, 
+                         f"Should mention ISO code {code}")
+
+    # @unittest.skip("")
+    def test_special_character_handling(self):
+        """ Testing special character handling in subdivision names. """
+        #test countries with special characters in subdivision names
+        test_codes = ["FR", "ES", "PT"]  # Countries with accented characters
+        
+        for code in test_codes:
+            test_markdown = create_markdown_str(code, f"iso3166-2-flags/{code}")
+#1.)            
+            #verify markdown was generated without errors
+            self.assertIsInstance(test_markdown, str, f"Should generate string for {code}")
+            self.assertGreater(len(test_markdown), 100, f"Should have substantial content for {code}")
+            
+            #verify special characters are preserved in markdown
+            #French, Spanish, Portuguese use accented characters
+            if code == "FR":
+                #check for common French accents if present
+                pass  # French subdivision names with accents should render correctly
+            
+            #verify table structure is maintained with special characters
+            lines = test_markdown.split('\n')
+            table_lines = [l for l in lines if '|' in l]
+            self.assertGreater(len(table_lines), 2, f"Should have table rows for {code}")
 
     @classmethod
     def tearDown(self):

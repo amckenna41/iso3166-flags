@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 27 18" >
+<clipPath id="a">
+<path d="M0 0H27V18H0z" />
+</clipPath>
+<g clip-path="url(#a)">
+<path fill="#fff" d="M0 0H27V18H0z"/>
+<path fill="#63b1e5" d="M1 0H27V18H1L10 9z"/>
+<g stroke="#fff" stroke-width="3">
+<path d="M10 9H27"/>
+<path d="M0 19.5H14.5" transform="rotate(-45 0 18)"/>
+<path d="M0-1.5H14.5" transform="rotate(45)"/>
+</g>
+<g stroke="#63b1e5">
+<path d="M11 9H27"/>
+<path d="M0 19.5H14.5" transform="rotate(-45 0 18)"/>
+<path d="M0-1.5H14.5" transform="rotate(45)"/>
+</g>
+<path fill="#fecb00" d="M0 0V18L9 9z"/>
+</g>
+</svg>

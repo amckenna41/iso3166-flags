@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   x="0"
+   y="0"
+   width="330"
+   height="226"
+   id="Flag of La Paz - Bolivia">
+    <rect
+       width="330"
+       height="113"
+       x="0"
+       y="0"
+       style="fill:#d81e05"
+       id="red stripe" />
+    <rect
+       width="330"
+       height="113"
+       x="0"
+       y="113"
+       style="fill:#007a3d"
+       id="green stripe" />
+</svg>

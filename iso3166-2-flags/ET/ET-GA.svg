@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="svg2" width="1200" height="700" version="1.1" viewBox="0 0 1200 700" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style id="style838" type="text/css">
+	.st0{fill:#DA121A;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#078930;}
+</style>
+
+<g id="g847">
+	<path id="rect4" class="st0" d="m0 175h1200v-175h-1200z" fill="#da121a" stroke-width=".5"/>
+	<path id="rect6" class="st1" d="m0 350h1200v-175h-1200z" fill="#ffffff" stroke-width=".57735"/>
+	<path id="rect8" class="st2" d="m0 525h1200v-175h-1200z" fill="#078930" stroke-width=".707107"/>
+	<path id="rect10" transform="scale(1,-1)" d="m0-700h1200v175h-1200z"/>
+	<polygon id="polygon845" transform="translate(0,-174.4)" points="600 477.5 650 513.8 630.9 455 680.8 418.7 619.1 418.7 600 360 580.9 418.7 519.2 418.7 569.1 455 550 513.8"/>
+</g>
+</svg>

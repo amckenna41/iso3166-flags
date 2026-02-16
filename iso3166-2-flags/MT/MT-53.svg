@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400">
+<rect width="600" height="400" fill="#000"/>
+<g id="r4">
+<path id="r1" fill="#fdf71e" d="m290.49,200h9.51l30.5479-98.6328c1.97247-9.55565,1.45108-17.9063-0.90806-25.3798-3.47876-11.0202-2.72738-21.3811,1.0942-33.0322-8.34365,8.89647-11.013,19.4987-11.6424,30.9216-0.56082,10.1787-2.93445,19.7415-8.84829,27.5942l-10.2425-61.4712-9.51083,57.1198z"/>
+<use xlink:href="#r1" transform="rotate(90,300,200)"/>
+<use xlink:href="#r1" transform="rotate(180,300,200)"/>
+<use xlink:href="#r1" transform="rotate(270,300,200)"/>
+</g>
+<use xlink:href="#r4" transform="rotate(22.5,300,200)"/>
+<use xlink:href="#r4" transform="rotate(45,300,200)"/>
+<use xlink:href="#r4" transform="rotate(67.5,300,200)"/>
+</svg>

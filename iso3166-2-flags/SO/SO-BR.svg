@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="508mm"
+   height="254mm"
+   viewBox="0 0 508 254"
+   version="1.1"
+   id="svg204573"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Flag of Latino Antilleans.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview204575"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.24630192"
+     inkscape:cx="422.246"
+     inkscape:cy="1132.7561"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs204570" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(124.10998,138.31075)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect204668"
+       width="508"
+       height="254"
+       x="-124.10998"
+       y="-138.31075" />
+    <path
+       id="rect215414"
+       style="fill:#0b8236;fill-opacity:1;stroke:none;stroke-width:4.43222;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m -124.10974,-86.211083 v 49.897731 h 507.99999 v -49.897731 z m 0,99.902959 V 63.589593 H 383.89025 V 13.691876 Z" />
+    <path
+       style="fill:#cb1515;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M -124.10998,-138.31075 96.350282,-11.194145 -124.10998,115.68924 Z"
+       id="path207314"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:37.7953;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path209527"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="-227.36324"
+       sodipodi:cy="909.45294"
+       sodipodi:r1="73.817162"
+       sodipodi:r2="184.54291"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -175.16662,961.64956 -23.32775,130.07424 -62.38116,-116.49929 -130.91664,18.00916 91.52058,-95.32828 -57.58319,-118.94399 118.944,57.58319 95.32827,-91.52058 -18.00915,130.91664 116.499303,62.38116 z"
+       transform="matrix(0.200613,-0.102923,0.102923,0.200613,-99.934701,-213.22048)"
+       inkscape:transform-center-x="5.4515266"
+       inkscape:transform-center-y="-5.6822403" />
+  </g>
+</svg>

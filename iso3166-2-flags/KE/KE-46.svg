@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 600 360" fill="#ffffff">
+	<title>Wajir County Flag</title>
+	<path d="m0 0H600V360H0z"/>
+	<path fill="#fac900" d="m0 0H600v80H0V360H600v-80H0z"/>
+	<path fill="#955a4c" d="m0 0H600v72.5H0z"/>
+	<path fill="#308371" d="m0 360H600v-72.5H0z"/>
+	<path fill="#fac900" d="m322 112 A 75.31, 75.31, 0, 1, 0, 365 249 A 71.86, 71.86, 0, 1, 1, 322 112 z"/>
+</svg>

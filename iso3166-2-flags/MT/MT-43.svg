@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="500">
+<path d="M0,0H750V500H0" fill="#fff"/>
+<g id="a">
+<g id="b">
+<circle cx="138" cy="128" r="104" fill="#f00"/>
+<circle cx="138" cy="92" r="74" fill="#fff"/>
+</g>
+<use x="476" xlink:href="#b"/>
+</g>
+<use y="240" xlink:href="#a"/>
+<use x="240" y="120" xlink:href="#b"/>
+</svg>

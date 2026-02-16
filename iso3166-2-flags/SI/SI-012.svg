@@ -1,0 +1,4 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+	<path fill="#00c" d="m1000 0v600h-1000v-600z"/>
+	<path fill="#ff0" d="m1000 200v200h-1000v-200z"/>
+</svg>

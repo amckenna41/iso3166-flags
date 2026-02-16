@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="338.66666mm"
+   height="225.95416mm"
+   viewBox="0 0 338.66666 225.95416"
+   version="1.1"
+   id="svg204573"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Flag of the Hispanic Resistance (Antilles).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview204575"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.24630192"
+     inkscape:cx="341.04485"
+     inkscape:cy="239.5434"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs204570" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-72.867148,-181.62423)">
+    <g
+       id="g221920">
+      <path
+         id="rect217691"
+         style="fill:#d10000;fill-opacity:1;stroke:none;stroke-width:9.8694;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M 411.5338,293.52622 H 72.867148 V 407.5784 H 411.5338 Z" />
+      <path
+         id="path220078"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.1386;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M 72.867148,181.62423 V 293.52622 H 411.5338 V 181.62423 Z" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffbf00;fill-opacity:1;stroke:none;stroke-width:37.7953;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path221916"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="-227.36324"
+       sodipodi:cy="909.45294"
+       sodipodi:r1="73.817162"
+       sodipodi:r2="184.54291"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -175.16662,961.64956 -23.32775,130.07424 -62.38116,-116.49929 -130.91664,18.00916 91.52058,-95.32828 -57.58319,-118.94399 118.944,57.58319 95.32827,-91.52058 -18.00915,130.91664 116.499303,62.38116 z"
+       transform="matrix(0.1549181,-0.07947957,0.07947957,0.1549181,205.16791,138.68185)"
+       inkscape:transform-center-x="4.2097965"
+       inkscape:transform-center-y="-4.3879641" />
+    <path
+       id="path221955"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 330.68918,224.50845 -79.35795,58.00781 30.8839,-0.26871 c 0,0 44.70356,-32.1714 47.93713,-38.26899 4.69973,-8.86232 0.53692,-19.47011 0.53692,-19.47011 z M 224.1024,303.2013 189.35104,328.83747 c 0,0 14.14737,4.2727 14.81201,4.36769 0.66465,0.0949 12.53301,-8.1657 13.19764,-8.73538 0.66466,-0.5697 6.74171,-21.26848 6.74171,-21.26848 z m -41.39799,30.19404 -29.52894,21.83794 c 0,0 -0.33746,0.86757 -0.30386,1.6061 0.0336,0.73851 7.92273,6.81445 8.292,6.64663 0.36926,-0.16785 4.22987,-3.59185 4.49843,-4.16253 0.26855,-0.57068 -0.10113,-0.50369 -0.70538,-1.10795 -0.60425,-0.60425 0.0671,-3.15547 1.67845,-5.03536 1.61134,-1.87989 15.84503,-12.48812 15.84503,-12.48812 0,0 6.3445,2.1822 7.51943,2.01435 1.17493,-0.16785 7.70703,-5.51336 7.70703,-5.51336 z" />
+  </g>
+</svg>

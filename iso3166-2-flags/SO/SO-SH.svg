@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1189.8677mm"
+   height="793.24518mm"
+   viewBox="0 0 1189.8677 793.24517"
+   version="1.1"
+   id="svg877"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Flag of the Joint Pacific Crowns.svg">
+  <defs
+     id="defs871" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="1193.3317"
+     inkscape:cy="1570.4737"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(179.16029,267.3545)">
+    <g
+       id="g1478"
+       transform="matrix(3.7476149,0,0,3.7476149,-1142.3857,-355.1789)">
+      <path
+         id="rect1454"
+         style="fill:#51b5e0;fill-opacity:1;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round"
+         d="M 1571.4277,488.57227 H 971.42773 v 400 h 599.99997 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path1466"
+         style="fill:#c10000;fill-opacity:1;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round"
+         d="M 971.42773,88.572266 V 488.57227 H 1571.4277 V 88.572266 Z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path1461"
+         style="fill:#c10000;fill-opacity:1;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round"
+         d="m 2171.4277,488.57227 h -600 v 400 h 600 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path1469"
+         style="fill:#51b5e0;fill-opacity:1;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round"
+         d="M 1571.4277,88.572266 V 488.57227 h 600 V 88.572266 Z"
+         transform="scale(0.26458333)" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.749523;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1472"
+       width="594.9339"
+       height="399.4556"
+       x="118.30669"
+       y="-70.459724" />
+    <path
+       id="rect1480"
+       style="fill:#c10000;fill-opacity:1;stroke-width:0.749523;stroke-linecap:round;stroke-linejoin:round"
+       d="M 364.77919,-20.882036 V 78.273616 H 265.62352 V 180.26256 h 99.15567 v 99.15563 h 101.98894 v -99.15563 h 99.15564 V 78.273616 h -99.15564 v -99.155652 z" />
+  </g>
+</svg>

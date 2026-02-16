@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="720" width="1440" xml:space="preserve">
+  <defs>
+    <clipPath id="a" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" d="M0 .00012207h1080V540.00012H0Z"/>
+    </clipPath>
+    <clipPath id="b" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" d="M0 .00012207h1080V540.00012H0Z"/>
+    </clipPath>
+    <clipPath id="c" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" d="M0 .00012207h1080V540.00012H0Z"/>
+    </clipPath>
+    <clipPath id="d" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" d="M0 .00012207h1080V540.00012H0Z"/>
+    </clipPath>
+    <clipPath id="e" clipPathUnits="userSpaceOnUse">
+      <path style="clip-rule:evenodd" d="M.00006104 540H1080V.00024414L.00009155.00018311"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)" transform="matrix(1.33333 0 0 -1.33333 0 720)">
+    <path style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M0 .00006104h1080V540.00006H0Z"/>
+  </g>
+  <g clip-path="url(#b)" transform="matrix(1.33333 0 0 -1.33333 0 720)">
+    <path style="fill:#fcd116;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M540 270h540v270H540Z"/>
+  </g>
+  <g clip-path="url(#c)" transform="matrix(1.33333 0 0 -1.33333 0 720)">
+    <path style="fill:#fcd116;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M0 .00006104h540V270.00006H0Z"/>
+  </g>
+  <g clip-path="url(#d)" transform="matrix(1.33333 0 0 -1.33333 0 720)">
+    <path style="fill:#da251d;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M540 .00006104h540V270.00006H540Z"/>
+  </g>
+  <path style="fill:#da251d;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M0 270h540v270H0Z" transform="matrix(1.33333 0 0 -1.33333 0 720)"/>
+  <path style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M262.74 513.48c7.48 0 14.79-.76 21.85-2.2l7.25-2.26-8.62-.87c-47.96-9.81-84.03-52.27-84.03-103.15s36.07-93.34 84.03-103.15l8.62-.87-7.25-2.26c-7.06-1.44-14.37-2.2-21.85-2.2-59.88 0-108.42 48.57-108.42 108.48 0 59.91 48.54 108.48 108.42 108.48z" transform="matrix(1.33333 0 0 -1.33333 0 720)"/>
+  <g clip-path="url(#e)" transform="matrix(1.33333 0 0 -1.33333 0 720)">
+    <path style="fill:#fff;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M346.04 466.32v-46.48L390 405.48l-43.96-14.36v-46.48l-27.16 37.6-43.96-14.36 27.17 37.6-27.17 37.6 43.96-14.36z"/>
+  </g>
+</svg>
