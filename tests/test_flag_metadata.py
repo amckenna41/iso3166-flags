@@ -2,6 +2,7 @@ from scripts.get_flag_metadata import *
 import shutil
 import os
 import json
+import numpy as np
 from iso3166_2 import *
 from pandas.testing import assert_frame_equal
 import unittest
@@ -76,12 +77,12 @@ class Flag_Metadata_Tests(unittest.TestCase):
         self.assertTrue(os.path.isfile(self.test_flag_metadata_output), "Expected output metadata file to be exported.")  
 #2.)  
         test_flag_metadata_expected = pd.DataFrame([
-            ["FI-07", "FI-07.svg", 30.95, "SVG", "(700, 1000)", 1.43, None, 100.0],
-            ["IQ-AR", "IQ-AR.png", 156.844, "PNG", "(1200, 1800)", 1.50, None, 3.9],
-            ["KM-A",  "KM-A.svg", 0.502, "SVG", "(400, 600)", 1.5, None, 8.0],
-            ["SB-ML", "SB-ML.svg", 35.128, "SVG", "(256, 512)", 2.0, None, 100.0],
-            ["SH-HL", "SH-HL.svg", 84.881, "SVG", "(600, 1200)", 2.0, None, 100.0],
-            ["WF-UV", "WF-UV.svg", 0.851, "SVG", "(600, 900)", 1.5, None, 12.0],
+            ["FI-07", "FI-07.svg", 30.95, "SVG", "(700, 1000)", 1.43, np.nan, 100.0],
+            ["IQ-AR", "IQ-AR.png", 156.844, "PNG", "(1200, 1800)", 1.50, np.nan, 3.9],
+            ["KM-A",  "KM-A.svg", 0.502, "SVG", "(400, 600)", 1.5, np.nan, 8.0],
+            ["SB-ML", "SB-ML.svg", 35.128, "SVG", "(256, 512)", 2.0, np.nan, 100.0],
+            ["SH-HL", "SH-HL.svg", 84.881, "SVG", "(600, 1200)", 2.0, np.nan, 100.0],
+            ["WF-UV", "WF-UV.svg", 0.851, "SVG", "(600, 900)", 1.5, np.nan, 12.0],
         ], columns=test_flag_metadata_observed.columns)
         
         try:
