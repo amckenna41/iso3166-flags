@@ -1,7 +1,7 @@
 # CSS Files for the ISO 3166-1 and ISO 3166-2 flags
 
-* [iso3166-1.css](https://github.com/amckenna41/iso3166-flag-icons/css/iso3166-1.css) - CSS containing selectors for all ISO 3166-1 flags on the repo.
-* [iso3166-2.css](https://github.com/amckenna41/iso3166-flag-icons/css/iso3166-2.css) - CSS containing selectors for all ISO 3166-2 flags on the repo.
+* [iso3166-1.css](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-1.css) - CSS containing selectors for all ISO 3166-1 flags on the repo.
+* [iso3166-2.css](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-2.css) - CSS containing selectors for all ISO 3166-2 flags on the repo.
 
 Usage
 -----

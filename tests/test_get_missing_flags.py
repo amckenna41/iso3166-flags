@@ -56,7 +56,7 @@ class Missing_Flags_Tests(unittest.TestCase):
         random_valid_subdivision_codes = ['AF-TAK', 'AM-AR', 'GB-WOK', 'ID-ML', 'IR-02', 'LY-WD', 'MA-03', 'ML-1', 'RS-24', 'RW-03']
         random_invalid_subdivision_codes = random.sample(test_all_files, 10)
 
-        self.assertEqual(len(test_missing_flags), 2206, f"Expected there to be 2206 rows in missing flags dataframe, got {len(test_missing_flags)}.")
+        self.assertEqual(len(test_missing_flags), 2203, f"Expected there to be 2203 rows in missing flags dataframe, got {len(test_missing_flags)}.")
         self.assertEqual(list(test_missing_flags.columns), ["subdivisionCode", "subdivisionName", "subdivisionType"], f"Expected and observed column names of dataframe don't match {list(test_missing_flags.columns)}.")
         self.assertTrue(os.path.isfile(self.test_missing_flags_output), "Expected missing subdivision flags output to exist in folder.")
 

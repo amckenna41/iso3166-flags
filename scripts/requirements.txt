@@ -1,7 +1,7 @@
 #external Python packages for iso3166-flags script
 Pillow
 iso3166
-iso3166-2
+iso3166-2>=1.8.1
 opencv-python
 lxml
 pandas

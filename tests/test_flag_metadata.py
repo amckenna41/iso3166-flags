@@ -234,8 +234,8 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_repo_metadata = export_repo_metadata(export_json=True, export_filename=self.test_repo_metadata_output)
         test_repo_metadata_expected = {'total': 3093, 'iso3166_1_total': 250, 'iso3166_2_total': 2843, 'svg': 2241, 'png': 798, 'jpg/jpeg': 54, 
                                        'other': 0, 'duplicates': 0, 'subdivisions_other': [], 'duplicate_list': [], 'total_repo_size': '341,261.141KB', 
-                                       'iso3166_1_flags_size': '1,611.863KB', 'iso3166_2_flags_size': '339,649.277KB', 'average_flag_size': '112,981.380KB',
-                                        'missing_iso3166_1_count': 0, 'missing_iso3166_2_count': 2206}
+                                       'iso3166_1_flags_size': '1,611.863KB', 'iso3166_2_flags_size': '339,649.277KB', 'average_flag_size': '112,981.380KB', 
+                                       'missing_iso3166_1_count': 0, 'missing_iso3166_2_count': 2203}
 
         self.assertTrue(os.path.isfile(self.test_repo_metadata_output), "Expected flag metadata format output file to be exported.")
         #open exported metadata json
@@ -251,8 +251,8 @@ class Flag_Metadata_Tests(unittest.TestCase):
                 float(test_repo_metadata_output_json["iso3166_2_flags_size"].replace('KB', '').replace(',', ''))), places=2, msg="Expected the individual directory sizes in KB to add up to the 'total' folder size attribute.")
         self.assertEqual((test_repo_metadata_output_json["missing_iso3166_1_count"] + (test_repo_metadata_output_json["iso3166_1_total"])), 250, 
                 "Expected the missing number of ISO 3166-1 flags and total number of flags found to add up to 250.")
-        self.assertEqual((test_repo_metadata_output_json["missing_iso3166_2_count"] + (test_repo_metadata_output_json["iso3166_2_total"])), 5049,
-                "Expected the missing number of ISO 3166-2 flags and total number of flags found to add up to 5,049.")
+        self.assertEqual((test_repo_metadata_output_json["missing_iso3166_2_count"] + (test_repo_metadata_output_json["iso3166_2_total"])), 5046,
+                "Expected the missing number of ISO 3166-2 flags and total number of flags found to add up to 5,046.")
         
         #test the full repo metadata dataframe
         try:
@@ -268,7 +268,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_flag_list_df = pd.read_csv(os.path.join(self.test_output_dir, "test_iso3166_2_flag_list.csv"))
         subdivisions = Subdivisions()
 
-        self.assertEqual(len(test_flag_list_df), 5049, f"Expected 5049 rows in output CSV, got {len(test_flag_list_df)}.")                
+        self.assertEqual(len(test_flag_list_df), 5046, f"Expected 5046 rows in output CSV, got {len(test_flag_list_df)}.")                
         self.assertEqual(test_flag_list_df.columns.tolist(), ["subdivisionCode", "subdivisionName", "subdivisionType", "hasFlag", "extension", "flagChecked"], 
                 f"Expected and observed output columns do not match:\n{test_flag_list_df.columns}.")
         self.assertFalse(test_flag_list_df[["subdivisionCode", "subdivisionName", "subdivisionType", "hasFlag"]].isna().any().any(),
