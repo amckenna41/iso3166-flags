@@ -1,8 +1,8 @@
 # Moldova, Republic of Subdivisions ![](https://flagcdn.com/h40/md.png)
 
 - **ISO Code**: MD
-- **Number of subdivisions**: 37
-- **Subdivision Type**: Autonomous territorial unit, City, District, Territorial unit
+- **Number of subdivisions**: 37, with 37 official flags
+- **Subdivision Types**: District (32), City (3), Autonomous territorial unit (1), Territorial unit (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MD
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

@@ -1,8 +1,8 @@
 # United Kingdom of Great Britain and Northern Ireland Subdivisions ![](https://flagcdn.com/h40/gb.png)
 
 - **ISO Code**: GB
-- **Number of subdivisions**: 221
-- **Subdivision Type**: City corporation, Council area, Country, District, London borough, Metropolitan district, Province, Two-tier county, Unitary authority
+- **Number of subdivisions**: 221, with 128 official flags
+- **Subdivision Types**: Unitary authority (80), Metropolitan district (36), Council area (32), London borough (32), Two-tier county (25), District (11), Country (3), City corporation (1), Province (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GB
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

@@ -1,8 +1,8 @@
 # Antigua and Barbuda Subdivisions ![](https://flagcdn.com/h40/ag.png)
 
 - **ISO Code**: AG
-- **Number of subdivisions**: 8
-- **Subdivision Type**: Dependency, Parish
+- **Number of subdivisions**: 8, with 1 official flags
+- **Subdivision Types**: Parish (6), Dependency (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AG
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

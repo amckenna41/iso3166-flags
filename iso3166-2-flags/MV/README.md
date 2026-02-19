@@ -1,8 +1,8 @@
 # Maldives Subdivisions ![](https://flagcdn.com/h40/mv.png)
 
 - **ISO Code**: MV
-- **Number of subdivisions**: 21
-- **Subdivision Type**: Administrative atoll, City
+- **Number of subdivisions**: 21, with 1 official flags
+- **Subdivision Types**: Administrative atoll (19), City (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MV
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

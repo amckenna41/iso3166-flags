@@ -1,8 +1,8 @@
 # Sao Tome and Principe Subdivisions ![](https://flagcdn.com/h40/st.png)
 
 - **ISO Code**: ST
-- **Number of subdivisions**: 7
-- **Subdivision Type**: Autonomous region, District
+- **Number of subdivisions**: 7, with 5 official flags
+- **Subdivision Types**: District (6), Autonomous region (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ST
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

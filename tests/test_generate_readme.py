@@ -55,8 +55,8 @@ class Generate_Readme_Tests(unittest.TestCase):
             # Andorra Subdivisions ![](https://flagcdn.com/h40/ad.png)
 
             - **ISO Code**: AD
-            - **Number of subdivisions**: 7
-            - **Subdivision Type**: Parish
+            - **Number of subdivisions**: 7, with 7 official flags
+            - **Subdivision Types**: Parish (7)
             - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AD
 
             | Code  | Subdivision Name         | Type | Flag Preview | Link |
@@ -77,8 +77,8 @@ class Generate_Readme_Tests(unittest.TestCase):
             # Ethiopia Subdivisions ![](https://flagcdn.com/h40/et.png)
 
             - **ISO Code**: ET
-            - **Number of subdivisions**: 13
-            - **Subdivision Type**: Administration, Regional state
+            - **Number of subdivisions**: 13, with 13 official flags
+            - **Subdivision Types**: Regional state (11), Administration (2)
             - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ET
 
             | Code  | Subdivision Name         | Type | Flag Preview | Link |
@@ -105,8 +105,8 @@ class Generate_Readme_Tests(unittest.TestCase):
         # Mauritius Subdivisions ![](https://flagcdn.com/h40/mu.png)
 
         - **ISO Code**: MU
-        - **Number of subdivisions**: 12
-        - **Subdivision Type**: Dependency, District
+        - **Number of subdivisions**: 12, with 2 official flags
+        - **Subdivision Types**: District (1), Dependency (1)
         - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MU
 
         | Code  | Subdivision Name         | Type | Flag Preview | Link |
@@ -138,8 +138,8 @@ class Generate_Readme_Tests(unittest.TestCase):
         # Panama Subdivisions ![](https://flagcdn.com/h40/pa.png)
 
         - **ISO Code**: PA
-        - **Number of subdivisions**: 14
-        - **Subdivision Type**: Indigenous region, Province
+        - **Number of subdivisions**: 14, with 13 official flags
+        - **Subdivision Types**: Province (10), Indigenous region (4)
         - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PA
 
         | Code  | Subdivision Name         | Type | Flag Preview | Link |

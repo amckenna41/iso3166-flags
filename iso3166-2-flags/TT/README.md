@@ -1,8 +1,8 @@
 # Trinidad and Tobago Subdivisions ![](https://flagcdn.com/h40/tt.png)
 
 - **ISO Code**: TT
-- **Number of subdivisions**: 15
-- **Subdivision Type**: Borough, City, Region, Ward
+- **Number of subdivisions**: 15, with 15 official flags
+- **Subdivision Types**: Region (9), Borough (3), City (2), Ward (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/TT
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

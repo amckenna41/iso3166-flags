@@ -1,8 +1,8 @@
 # Guatemala Subdivisions ![](https://flagcdn.com/h40/gt.png)
 
 - **ISO Code**: GT
-- **Number of subdivisions**: 22
-- **Subdivision Type**: Department
+- **Number of subdivisions**: 22, with 22 official flags
+- **Subdivision Types**: Department (22)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GT
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

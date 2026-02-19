@@ -1,8 +1,8 @@
 # Gambia Subdivisions ![](https://flagcdn.com/h40/gm.png)
 
 - **ISO Code**: GM
-- **Number of subdivisions**: 6
-- **Subdivision Type**: City, Division
+- **Number of subdivisions**: 6, with 1 official flags
+- **Subdivision Types**: Division (5), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GM
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

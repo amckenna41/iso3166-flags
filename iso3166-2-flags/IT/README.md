@@ -1,8 +1,8 @@
 # Italy Subdivisions ![](https://flagcdn.com/h40/it.png)
 
 - **ISO Code**: IT
-- **Number of subdivisions**: 126
-- **Subdivision Type**: Autonomous province, Autonomous region, Decentralized regional entity, Free municipal consortium, Metropolitan city, Province, Region
+- **Number of subdivisions**: 126, with 126 official flags
+- **Subdivision Types**: Province (80), Region (15), Metropolitan city (14), Free municipal consortium (6), Autonomous region (5), Decentralized regional entity (4), Autonomous province (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IT
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

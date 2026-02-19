@@ -1,8 +1,8 @@
 # Ireland Subdivisions ![](https://flagcdn.com/h40/ie.png)
 
 - **ISO Code**: IE
-- **Number of subdivisions**: 30
-- **Subdivision Type**: County, Province
+- **Number of subdivisions**: 30, with 4 official flags
+- **Subdivision Types**: County (26), Province (4)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IE
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

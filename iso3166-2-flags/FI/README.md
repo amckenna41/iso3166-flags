@@ -1,8 +1,8 @@
 # Finland Subdivisions ![](https://flagcdn.com/h40/fi.png)
 
 - **ISO Code**: FI
-- **Number of subdivisions**: 19
-- **Subdivision Type**: Region
+- **Number of subdivisions**: 19, with 19 official flags
+- **Subdivision Types**: Region (19)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/FI
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

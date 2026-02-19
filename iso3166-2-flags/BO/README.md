@@ -1,8 +1,8 @@
 # Bolivia, Plurinational State of Subdivisions ![](https://flagcdn.com/h40/bo.png)
 
 - **ISO Code**: BO
-- **Number of subdivisions**: 9
-- **Subdivision Type**: Department
+- **Number of subdivisions**: 9, with 9 official flags
+- **Subdivision Types**: Department (9)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BO
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

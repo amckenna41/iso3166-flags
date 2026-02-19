@@ -1,8 +1,8 @@
 # Venezuela, Bolivarian Republic of Subdivisions ![](https://flagcdn.com/h40/ve.png)
 
 - **ISO Code**: VE
-- **Number of subdivisions**: 25
-- **Subdivision Type**: Capital district, Federal dependency, State
+- **Number of subdivisions**: 25, with 25 official flags
+- **Subdivision Types**: State (23), Capital district (1), Federal dependency (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/VE
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

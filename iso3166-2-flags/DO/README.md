@@ -1,8 +1,8 @@
 # Dominican Republic Subdivisions ![](https://flagcdn.com/h40/do.png)
 
 - **ISO Code**: DO
-- **Number of subdivisions**: 42
-- **Subdivision Type**: District, Province, Region
+- **Number of subdivisions**: 42, with 16 official flags
+- **Subdivision Types**: Province (31), Region (10), District (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/DO
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
@@ -54,4 +54,4 @@ Dominican Republic ISO 3166-2 subdivisions with no available flags:
 * **DO-42: Yuma (Region)**
 
 ## Notes
-Some provinces have official flags. Many provinces and all macro-regions (DO-33 to DO-42) do not have flags, some use administrative logos or seals. Source: https://commons.wikimedia.org/wiki/Flags_of_provinces_of_the_Dominican_Republic **
+Some provinces have official flags. Many provinces and all macro-regions (DO-33 to DO-42) do not have flags, some use administrative logos or seals. Source: https://commons.wikimedia.org/wiki/Flags_of_provinces_of_the_Dominican_Republic

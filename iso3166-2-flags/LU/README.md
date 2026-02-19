@@ -1,8 +1,8 @@
 # Luxembourg Subdivisions ![](https://flagcdn.com/h40/lu.png)
 
 - **ISO Code**: LU
-- **Number of subdivisions**: 12
-- **Subdivision Type**: Canton
+- **Number of subdivisions**: 12, with 1 official flags
+- **Subdivision Types**: Canton (12)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LU
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

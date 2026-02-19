@@ -1,8 +1,8 @@
 # Cuba Subdivisions ![](https://flagcdn.com/h40/cu.png)
 
 - **ISO Code**: CU
-- **Number of subdivisions**: 16
-- **Subdivision Type**: Province, Special municipality
+- **Number of subdivisions**: 16, with 3 official flags
+- **Subdivision Types**: Province (15), Special municipality (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CU
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

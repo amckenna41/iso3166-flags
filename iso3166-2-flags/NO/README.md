@@ -1,8 +1,8 @@
 # Norway Subdivisions ![](https://flagcdn.com/h40/no.png)
 
 - **ISO Code**: NO
-- **Number of subdivisions**: 13
-- **Subdivision Type**: Arctic region, County
+- **Number of subdivisions**: 13, with 10 official flags
+- **Subdivision Types**: County (11), Arctic region (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/NO
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

@@ -1,8 +1,8 @@
 # Belarus Subdivisions ![](https://flagcdn.com/h40/by.png)
 
 - **ISO Code**: BY
-- **Number of subdivisions**: 7
-- **Subdivision Type**: City, Oblast
+- **Number of subdivisions**: 7, with 7 official flags
+- **Subdivision Types**: Oblast (6), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BY
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

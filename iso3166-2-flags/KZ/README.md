@@ -1,8 +1,8 @@
 # Kazakhstan Subdivisions ![](https://flagcdn.com/h40/kz.png)
 
 - **ISO Code**: KZ
-- **Number of subdivisions**: 20
-- **Subdivision Type**: City, Region
+- **Number of subdivisions**: 20, with 8 official flags
+- **Subdivision Types**: Region (17), City (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KZ
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

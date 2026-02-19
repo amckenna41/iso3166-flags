@@ -1,8 +1,8 @@
 # South Sudan Subdivisions ![](https://flagcdn.com/h40/ss.png)
 
 - **ISO Code**: SS
-- **Number of subdivisions**: 10
-- **Subdivision Type**: State
+- **Number of subdivisions**: 10, with 10 official flags
+- **Subdivision Types**: State (10)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SS
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

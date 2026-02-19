@@ -1,8 +1,8 @@
 # Sri Lanka Subdivisions ![](https://flagcdn.com/h40/lk.png)
 
 - **ISO Code**: LK
-- **Number of subdivisions**: 34
-- **Subdivision Type**: District, Province
+- **Number of subdivisions**: 34, with 9 official flags
+- **Subdivision Types**: District (25), Province (9)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LK
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

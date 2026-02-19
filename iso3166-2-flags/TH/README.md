@@ -1,8 +1,8 @@
 # Thailand Subdivisions ![](https://flagcdn.com/h40/th.png)
 
 - **ISO Code**: TH
-- **Number of subdivisions**: 78
-- **Subdivision Type**: Metropolitan administration, Province, Special administrative city
+- **Number of subdivisions**: 78, with 78 official flags
+- **Subdivision Types**: Province (76), Metropolitan administration (1), Special administrative city (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/TH
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

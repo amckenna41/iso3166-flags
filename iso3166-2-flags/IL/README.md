@@ -1,8 +1,8 @@
 # Israel Subdivisions ![](https://flagcdn.com/h40/il.png)
 
 - **ISO Code**: IL
-- **Number of subdivisions**: 6
-- **Subdivision Type**: District
+- **Number of subdivisions**: 6, with 2 official flags
+- **Subdivision Types**: District (6)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IL
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

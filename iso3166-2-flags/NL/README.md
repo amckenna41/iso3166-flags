@@ -1,8 +1,8 @@
 # Netherlands Subdivisions ![](https://flagcdn.com/h40/nl.png)
 
 - **ISO Code**: NL
-- **Number of subdivisions**: 18
-- **Subdivision Type**: Country, Province, Special municipality
+- **Number of subdivisions**: 18, with 18 official flags
+- **Subdivision Types**: Province (12), Country (3), Special municipality (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/NL
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

@@ -1,8 +1,8 @@
 # North Macedonia Subdivisions ![](https://flagcdn.com/h40/mk.png)
 
 - **ISO Code**: MK
-- **Number of subdivisions**: 80
-- **Subdivision Type**: Municipality
+- **Number of subdivisions**: 80, with 80 official flags
+- **Subdivision Types**: Municipality (80)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MK
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

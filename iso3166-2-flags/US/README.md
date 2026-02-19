@@ -1,8 +1,8 @@
 # United States of America Subdivisions ![](https://flagcdn.com/h40/us.png)
 
 - **ISO Code**: US
-- **Number of subdivisions**: 57
-- **Subdivision Type**: District, Outlying area, State
+- **Number of subdivisions**: 57, with 57 official flags
+- **Subdivision Types**: State (50), Outlying area (6), District (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/US
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

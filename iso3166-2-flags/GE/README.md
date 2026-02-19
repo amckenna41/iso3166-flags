@@ -1,8 +1,8 @@
 # Georgia Subdivisions ![](https://flagcdn.com/h40/ge.png)
 
 - **ISO Code**: GE
-- **Number of subdivisions**: 12
-- **Subdivision Type**: Autonomous republic, City, Region
+- **Number of subdivisions**: 12, with 12 official flags
+- **Subdivision Types**: Region (9), Autonomous republic (2), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GE
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

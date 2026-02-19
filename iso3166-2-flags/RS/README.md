@@ -1,8 +1,8 @@
 # Serbia Subdivisions ![](https://flagcdn.com/h40/rs.png)
 
 - **ISO Code**: RS
-- **Number of subdivisions**: 32
-- **Subdivision Type**: Autonomous province, City, District
+- **Number of subdivisions**: 32, with 8 official flags
+- **Subdivision Types**: District (29), Autonomous province (2), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/RS
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

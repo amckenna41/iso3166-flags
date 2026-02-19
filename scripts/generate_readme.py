@@ -75,12 +75,19 @@ def create_markdown_str(country_code: str, input_folder: str) -> None:
     output_str = f"# {country_name} Subdivisions ![](https://flagcdn.com/h40/{country_code.lower()}.png)\n\n"
     output_str += f"- **ISO Code**: {country_code}\n"
 
-    #get list of all subdivision types for country
-    subdivision_types = sorted({entry["type"] for entry in all_subdivisions.values() if "type" in entry})
+    #count subdivisions by type
+    subdivision_type_counts = {}
+    for entry in all_subdivisions.values():
+        if "type" in entry:
+            type_name = entry["type"]
+            subdivision_type_counts[type_name] = subdivision_type_counts.get(type_name, 0) + 1
+    
+    #format subdivision types with counts, sorted by count descending
+    subdivision_types_str = ', '.join([f"{type_name} ({count})" for type_name, count in sorted(subdivision_type_counts.items(), key=lambda x: x[1], reverse=True)])
 
     #add some useful data about the country's subdivision 
-    output_str += f"- **Number of subdivisions**: {len(all_subdivisions)}\n"
-    output_str += f"- **Subdivision Type**: {', '.join(subdivision_types)}\n"
+    output_str += f"- **Number of subdivisions**: {len(all_subdivisions)}, with {len(all_files)} official flags\n"
+    output_str += f"- **Subdivision Types**: {subdivision_types_str}\n"
     output_str += f"- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/{country_code}\n\n"
 
     #create table that will display each subdivisions code, name, type, flag & link on repo

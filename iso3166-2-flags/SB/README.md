@@ -1,8 +1,8 @@
 # Solomon Islands Subdivisions ![](https://flagcdn.com/h40/sb.png)
 
 - **ISO Code**: SB
-- **Number of subdivisions**: 10
-- **Subdivision Type**: Capital territory, Province
+- **Number of subdivisions**: 10, with 10 official flags
+- **Subdivision Types**: Province (9), Capital territory (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SB
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

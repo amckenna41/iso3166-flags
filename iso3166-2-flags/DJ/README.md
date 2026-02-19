@@ -1,8 +1,8 @@
 # Djibouti Subdivisions ![](https://flagcdn.com/h40/dj.png)
 
 - **ISO Code**: DJ
-- **Number of subdivisions**: 6
-- **Subdivision Type**: City, Region
+- **Number of subdivisions**: 6, with 1 official flags
+- **Subdivision Types**: Region (5), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/DJ
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

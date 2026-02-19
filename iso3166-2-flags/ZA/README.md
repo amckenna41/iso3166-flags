@@ -1,8 +1,8 @@
 # South Africa Subdivisions ![](https://flagcdn.com/h40/za.png)
 
 - **ISO Code**: ZA
-- **Number of subdivisions**: 9
-- **Subdivision Type**: Province
+- **Number of subdivisions**: 9, with 9 official flags
+- **Subdivision Types**: Province (9)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ZA
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

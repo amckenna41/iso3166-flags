@@ -1,8 +1,8 @@
 # Czechia Subdivisions ![](https://flagcdn.com/h40/cz.png)
 
 - **ISO Code**: CZ
-- **Number of subdivisions**: 90
-- **Subdivision Type**: Capital city, District, Region
+- **Number of subdivisions**: 90, with 14 official flags
+- **Subdivision Types**: District (76), Region (13), Capital city (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CZ
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

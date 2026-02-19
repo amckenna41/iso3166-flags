@@ -1,8 +1,8 @@
 # Kyrgyzstan Subdivisions ![](https://flagcdn.com/h40/kg.png)
 
 - **ISO Code**: KG
-- **Number of subdivisions**: 9
-- **Subdivision Type**: City, Region
+- **Number of subdivisions**: 9, with 9 official flags
+- **Subdivision Types**: Region (7), City (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KG
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

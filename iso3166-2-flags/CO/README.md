@@ -1,8 +1,8 @@
 # Colombia Subdivisions ![](https://flagcdn.com/h40/co.png)
 
 - **ISO Code**: CO
-- **Number of subdivisions**: 33
-- **Subdivision Type**: Capital district, Department
+- **Number of subdivisions**: 33, with 33 official flags
+- **Subdivision Types**: Department (32), Capital district (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CO
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

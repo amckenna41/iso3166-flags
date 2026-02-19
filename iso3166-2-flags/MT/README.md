@@ -1,8 +1,8 @@
 # Malta Subdivisions ![](https://flagcdn.com/h40/mt.png)
 
 - **ISO Code**: MT
-- **Number of subdivisions**: 68
-- **Subdivision Type**: Local council
+- **Number of subdivisions**: 68, with 68 official flags
+- **Subdivision Types**: Local council (68)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MT
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

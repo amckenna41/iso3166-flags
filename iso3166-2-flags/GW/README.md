@@ -1,8 +1,8 @@
 # Guinea-Bissau Subdivisions ![](https://flagcdn.com/h40/gw.png)
 
 - **ISO Code**: GW
-- **Number of subdivisions**: 12
-- **Subdivision Type**: Autonomous sector, Province, Region
+- **Number of subdivisions**: 12, with 1 official flags
+- **Subdivision Types**: Region (8), Province (3), Autonomous sector (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GW
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

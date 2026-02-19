@@ -1,8 +1,8 @@
 # Côte d'Ivoire Subdivisions ![](https://flagcdn.com/h40/ci.png)
 
 - **ISO Code**: CI
-- **Number of subdivisions**: 14
-- **Subdivision Type**: Autonomous district, District
+- **Number of subdivisions**: 14, with 1 official flags
+- **Subdivision Types**: District (12), Autonomous district (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CI
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

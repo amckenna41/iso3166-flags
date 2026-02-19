@@ -1,8 +1,8 @@
 # Saint Kitts and Nevis Subdivisions ![](https://flagcdn.com/h40/kn.png)
 
 - **ISO Code**: KN
-- **Number of subdivisions**: 16
-- **Subdivision Type**: Parish, State
+- **Number of subdivisions**: 16, with 1 official flags
+- **Subdivision Types**: Parish (14), State (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KN
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

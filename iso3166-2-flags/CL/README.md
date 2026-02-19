@@ -1,8 +1,8 @@
 # Chile Subdivisions ![](https://flagcdn.com/h40/cl.png)
 
 - **ISO Code**: CL
-- **Number of subdivisions**: 16
-- **Subdivision Type**: Region
+- **Number of subdivisions**: 16, with 16 official flags
+- **Subdivision Types**: Region (16)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CL
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

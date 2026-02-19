@@ -1,8 +1,8 @@
 # Argentina Subdivisions ![](https://flagcdn.com/h40/ar.png)
 
 - **ISO Code**: AR
-- **Number of subdivisions**: 24
-- **Subdivision Type**: City, Province
+- **Number of subdivisions**: 24, with 24 official flags
+- **Subdivision Types**: Province (23), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AR
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

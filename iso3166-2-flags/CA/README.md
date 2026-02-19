@@ -1,8 +1,8 @@
 # Canada Subdivisions ![](https://flagcdn.com/h40/ca.png)
 
 - **ISO Code**: CA
-- **Number of subdivisions**: 13
-- **Subdivision Type**: Province, Territory
+- **Number of subdivisions**: 13, with 13 official flags
+- **Subdivision Types**: Province (10), Territory (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CA
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

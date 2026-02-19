@@ -1,8 +1,8 @@
 # Vanuatu Subdivisions ![](https://flagcdn.com/h40/vu.png)
 
 - **ISO Code**: VU
-- **Number of subdivisions**: 6
-- **Subdivision Type**: Province
+- **Number of subdivisions**: 6, with 6 official flags
+- **Subdivision Types**: Province (6)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/VU
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

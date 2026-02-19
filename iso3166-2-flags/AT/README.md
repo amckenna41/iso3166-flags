@@ -1,8 +1,8 @@
 # Austria Subdivisions ![](https://flagcdn.com/h40/at.png)
 
 - **ISO Code**: AT
-- **Number of subdivisions**: 9
-- **Subdivision Type**: State
+- **Number of subdivisions**: 9, with 9 official flags
+- **Subdivision Types**: State (9)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AT
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

@@ -1,8 +1,8 @@
 # Greece Subdivisions ![](https://flagcdn.com/h40/gr.png)
 
 - **ISO Code**: GR
-- **Number of subdivisions**: 14
-- **Subdivision Type**: Administrative region, Self-governed part
+- **Number of subdivisions**: 14, with 4 official flags
+- **Subdivision Types**: Administrative region (13), Self-governed part (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GR
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

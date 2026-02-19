@@ -1,8 +1,8 @@
 # Papua New Guinea Subdivisions ![](https://flagcdn.com/h40/pg.png)
 
 - **ISO Code**: PG
-- **Number of subdivisions**: 22
-- **Subdivision Type**: Autonomous region, District, Province
+- **Number of subdivisions**: 22, with 22 official flags
+- **Subdivision Types**: Province (20), District (1), Autonomous region (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PG
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

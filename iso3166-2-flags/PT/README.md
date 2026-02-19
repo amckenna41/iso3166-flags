@@ -1,8 +1,8 @@
 # Portugal Subdivisions ![](https://flagcdn.com/h40/pt.png)
 
 - **ISO Code**: PT
-- **Number of subdivisions**: 20
-- **Subdivision Type**: Autonomous region, District
+- **Number of subdivisions**: 20, with 20 official flags
+- **Subdivision Types**: District (18), Autonomous region (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PT
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

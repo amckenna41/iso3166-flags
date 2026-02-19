@@ -1,8 +1,8 @@
 # Iceland Subdivisions ![](https://flagcdn.com/h40/is.png)
 
 - **ISO Code**: IS
-- **Number of subdivisions**: 72
-- **Subdivision Type**: Municipality, Region
+- **Number of subdivisions**: 72, with 50 official flags
+- **Subdivision Types**: Municipality (64), Region (8)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IS
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

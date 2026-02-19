@@ -1,8 +1,8 @@
 # Armenia Subdivisions ![](https://flagcdn.com/h40/am.png)
 
 - **ISO Code**: AM
-- **Number of subdivisions**: 11
-- **Subdivision Type**: City, Region
+- **Number of subdivisions**: 11, with 1 official flags
+- **Subdivision Types**: Region (10), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AM
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

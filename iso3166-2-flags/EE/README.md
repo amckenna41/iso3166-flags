@@ -1,8 +1,8 @@
 # Estonia Subdivisions ![](https://flagcdn.com/h40/ee.png)
 
 - **ISO Code**: EE
-- **Number of subdivisions**: 94
-- **Subdivision Type**: County, Rural municipality, Urban municipality
+- **Number of subdivisions**: 94, with 94 official flags
+- **Subdivision Types**: Rural municipality (64), Urban municipality (15), County (15)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/EE
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

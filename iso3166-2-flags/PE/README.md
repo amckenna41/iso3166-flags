@@ -1,8 +1,8 @@
 # Peru Subdivisions ![](https://flagcdn.com/h40/pe.png)
 
 - **ISO Code**: PE
-- **Number of subdivisions**: 26
-- **Subdivision Type**: Municipality, Region
+- **Number of subdivisions**: 26, with 26 official flags
+- **Subdivision Types**: Region (25), Municipality (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PE
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

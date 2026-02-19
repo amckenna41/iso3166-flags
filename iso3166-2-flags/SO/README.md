@@ -1,8 +1,8 @@
 # Somalia Subdivisions ![](https://flagcdn.com/h40/so.png)
 
 - **ISO Code**: SO
-- **Number of subdivisions**: 18
-- **Subdivision Type**: Region
+- **Number of subdivisions**: 18, with 13 official flags
+- **Subdivision Types**: Region (18)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SO
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

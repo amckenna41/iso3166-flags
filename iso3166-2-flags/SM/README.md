@@ -1,8 +1,8 @@
 # San Marino Subdivisions ![](https://flagcdn.com/h40/sm.png)
 
 - **ISO Code**: SM
-- **Number of subdivisions**: 9
-- **Subdivision Type**: Municipality
+- **Number of subdivisions**: 9, with 9 official flags
+- **Subdivision Types**: Municipality (9)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SM
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

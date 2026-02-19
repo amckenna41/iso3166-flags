@@ -1,8 +1,8 @@
 # El Salvador Subdivisions ![](https://flagcdn.com/h40/sv.png)
 
 - **ISO Code**: SV
-- **Number of subdivisions**: 14
-- **Subdivision Type**: Department
+- **Number of subdivisions**: 14, with 14 official flags
+- **Subdivision Types**: Department (14)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SV
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

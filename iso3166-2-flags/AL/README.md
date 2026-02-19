@@ -1,8 +1,8 @@
 # Albania Subdivisions ![](https://flagcdn.com/h40/al.png)
 
 - **ISO Code**: AL
-- **Number of subdivisions**: 12
-- **Subdivision Type**: County
+- **Number of subdivisions**: 12, with 12 official flags
+- **Subdivision Types**: County (12)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AL
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

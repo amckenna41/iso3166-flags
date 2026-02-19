@@ -1,8 +1,8 @@
 # Liberia Subdivisions ![](https://flagcdn.com/h40/lr.png)
 
 - **ISO Code**: LR
-- **Number of subdivisions**: 15
-- **Subdivision Type**: County
+- **Number of subdivisions**: 15, with 15 official flags
+- **Subdivision Types**: County (15)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LR
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

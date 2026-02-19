@@ -1,8 +1,8 @@
 # Kenya Subdivisions ![](https://flagcdn.com/h40/ke.png)
 
 - **ISO Code**: KE
-- **Number of subdivisions**: 47
-- **Subdivision Type**: County
+- **Number of subdivisions**: 47, with 47 official flags
+- **Subdivision Types**: County (47)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KE
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

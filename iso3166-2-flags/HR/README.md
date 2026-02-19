@@ -1,8 +1,8 @@
 # Croatia Subdivisions ![](https://flagcdn.com/h40/hr.png)
 
 - **ISO Code**: HR
-- **Number of subdivisions**: 21
-- **Subdivision Type**: City, County
+- **Number of subdivisions**: 21, with 21 official flags
+- **Subdivision Types**: County (20), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/HR
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

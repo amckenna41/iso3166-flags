@@ -1,8 +1,8 @@
 # Morocco Subdivisions ![](https://flagcdn.com/h40/ma.png)
 
 - **ISO Code**: MA
-- **Number of subdivisions**: 87
-- **Subdivision Type**: Prefecture, Province, Region
+- **Number of subdivisions**: 87, with 1 official flags
+- **Subdivision Types**: Province (62), Prefecture (13), Region (12)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MA
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

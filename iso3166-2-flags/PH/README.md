@@ -1,8 +1,8 @@
 # Philippines Subdivisions ![](https://flagcdn.com/h40/ph.png)
 
 - **ISO Code**: PH
-- **Number of subdivisions**: 99
-- **Subdivision Type**: Province, Region
+- **Number of subdivisions**: 99, with 84 official flags
+- **Subdivision Types**: Province (82), Region (17)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PH
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

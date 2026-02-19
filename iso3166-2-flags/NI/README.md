@@ -1,8 +1,8 @@
 # Nicaragua Subdivisions ![](https://flagcdn.com/h40/ni.png)
 
 - **ISO Code**: NI
-- **Number of subdivisions**: 17
-- **Subdivision Type**: Autonomous region, Department
+- **Number of subdivisions**: 17, with 17 official flags
+- **Subdivision Types**: Department (15), Autonomous region (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/NI
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

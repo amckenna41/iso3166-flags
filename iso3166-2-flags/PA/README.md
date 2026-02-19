@@ -1,8 +1,8 @@
 # Panama Subdivisions ![](https://flagcdn.com/h40/pa.png)
 
 - **ISO Code**: PA
-- **Number of subdivisions**: 14
-- **Subdivision Type**: Indigenous region, Province
+- **Number of subdivisions**: 14, with 13 official flags
+- **Subdivision Types**: Province (10), Indigenous region (4)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PA
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

@@ -1,8 +1,8 @@
 # Marshall Islands Subdivisions ![](https://flagcdn.com/h40/mh.png)
 
 - **ISO Code**: MH
-- **Number of subdivisions**: 26
-- **Subdivision Type**: Chain (of islands), Municipality
+- **Number of subdivisions**: 26, with 21 official flags
+- **Subdivision Types**: Municipality (24), Chain (of islands) (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MH
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

@@ -1,8 +1,8 @@
 # Cabo Verde Subdivisions ![](https://flagcdn.com/h40/cv.png)
 
 - **ISO Code**: CV
-- **Number of subdivisions**: 24
-- **Subdivision Type**: Geographical region, Municipality
+- **Number of subdivisions**: 24, with 22 official flags
+- **Subdivision Types**: Municipality (22), Geographical region (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CV
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

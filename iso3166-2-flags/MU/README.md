@@ -1,8 +1,8 @@
 # Mauritius Subdivisions ![](https://flagcdn.com/h40/mu.png)
 
 - **ISO Code**: MU
-- **Number of subdivisions**: 12
-- **Subdivision Type**: Dependency, District
+- **Number of subdivisions**: 12, with 2 official flags
+- **Subdivision Types**: District (9), Dependency (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MU
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

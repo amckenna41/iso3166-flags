@@ -1,8 +1,8 @@
 # Paraguay Subdivisions ![](https://flagcdn.com/h40/py.png)
 
 - **ISO Code**: PY
-- **Number of subdivisions**: 18
-- **Subdivision Type**: Capital, Department
+- **Number of subdivisions**: 18, with 18 official flags
+- **Subdivision Types**: Department (17), Capital (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PY
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |

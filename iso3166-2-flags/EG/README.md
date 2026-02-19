@@ -1,8 +1,8 @@
 # Egypt Subdivisions ![](https://flagcdn.com/h40/eg.png)
 
 - **ISO Code**: EG
-- **Number of subdivisions**: 27
-- **Subdivision Type**: Governorate
+- **Number of subdivisions**: 27, with 27 official flags
+- **Subdivision Types**: Governorate (27)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/EG
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
