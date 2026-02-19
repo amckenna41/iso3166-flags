@@ -1,7 +1,7 @@
 # Dominican Republic Subdivisions ![](https://flagcdn.com/h40/do.png)
 
 - **ISO Code**: DO
-- **Number of subdivisions**: 42, with 16 official flags
+- **Number of subdivisions**: 42, with 16 official flag(s)
 - **Subdivision Types**: Province (31), Region (10), District (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/DO
 

@@ -1,7 +1,7 @@
 # Australia Subdivisions ![](https://flagcdn.com/h40/au.png)
 
 - **ISO Code**: AU
-- **Number of subdivisions**: 8, with 8 official flags
+- **Number of subdivisions**: 8, with 8 official flag(s)
 - **Subdivision Types**: State (6), Territory (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AU
 

@@ -1,7 +1,7 @@
 # Gabon Subdivisions ![](https://flagcdn.com/h40/ga.png)
 
 - **ISO Code**: GA
-- **Number of subdivisions**: 9, with 9 official flags
+- **Number of subdivisions**: 9, with 9 official flag(s)
 - **Subdivision Types**: Province (9)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GA
 

@@ -1,7 +1,7 @@
 # Japan Subdivisions ![](https://flagcdn.com/h40/jp.png)
 
 - **ISO Code**: JP
-- **Number of subdivisions**: 47, with 47 official flags
+- **Number of subdivisions**: 47, with 47 official flag(s)
 - **Subdivision Types**: Prefecture (47)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/JP
 

@@ -1,7 +1,7 @@
 # France Subdivisions ![](https://flagcdn.com/h40/fr.png)
 
 - **ISO Code**: FR
-- **Number of subdivisions**: 124, with 124 official flags
+- **Number of subdivisions**: 124, with 124 official flag(s)
 - **Subdivision Types**: Metropolitan department (95), Metropolitan region (12), Overseas collectivity (5), Metropolitan collectivity with special status (3), Overseas departmental collectivity (3), Overseas unique territorial collectivity (2), European collectivity (1), Dependency (1), Overseas collectivity with special status (1), Overseas territory (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/FR
 

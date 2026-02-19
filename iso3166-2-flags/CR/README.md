@@ -1,7 +1,7 @@
 # Costa Rica Subdivisions ![](https://flagcdn.com/h40/cr.png)
 
 - **ISO Code**: CR
-- **Number of subdivisions**: 7, with 7 official flags
+- **Number of subdivisions**: 7, with 7 official flag(s)
 - **Subdivision Types**: Province (7)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CR
 

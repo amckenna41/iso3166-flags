@@ -1,7 +1,7 @@
 # Liechtenstein Subdivisions ![](https://flagcdn.com/h40/li.png)
 
 - **ISO Code**: LI
-- **Number of subdivisions**: 11, with 11 official flags
+- **Number of subdivisions**: 11, with 11 official flag(s)
 - **Subdivision Types**: Commune (11)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LI
 

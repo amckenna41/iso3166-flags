@@ -1,7 +1,7 @@
 # Denmark Subdivisions ![](https://flagcdn.com/h40/dk.png)
 
 - **ISO Code**: DK
-- **Number of subdivisions**: 5, with 5 official flags
+- **Number of subdivisions**: 5, with 5 official flag(s)
 - **Subdivision Types**: Region (5)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/DK
 

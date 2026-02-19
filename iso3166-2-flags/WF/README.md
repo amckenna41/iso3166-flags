@@ -1,7 +1,7 @@
 # Wallis and Futuna Subdivisions ![](https://flagcdn.com/h40/wf.png)
 
 - **ISO Code**: WF
-- **Number of subdivisions**: 3, with 3 official flags
+- **Number of subdivisions**: 3, with 3 official flag(s)
 - **Subdivision Types**: Administrative precinct (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/WF
 

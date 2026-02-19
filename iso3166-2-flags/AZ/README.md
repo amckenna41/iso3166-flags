@@ -1,7 +1,7 @@
 # Azerbaijan Subdivisions ![](https://flagcdn.com/h40/az.png)
 
 - **ISO Code**: AZ
-- **Number of subdivisions**: 78, with 4 official flags
+- **Number of subdivisions**: 78, with 4 official flag(s)
 - **Subdivision Types**: Rayon (66), Municipality (11), Autonomous republic (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AZ
 

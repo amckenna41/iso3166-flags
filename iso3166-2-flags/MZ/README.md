@@ -1,7 +1,7 @@
 # Mozambique Subdivisions ![](https://flagcdn.com/h40/mz.png)
 
 - **ISO Code**: MZ
-- **Number of subdivisions**: 11, with 1 official flags
+- **Number of subdivisions**: 11, with 1 official flag(s)
 - **Subdivision Types**: Province (10), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MZ
 

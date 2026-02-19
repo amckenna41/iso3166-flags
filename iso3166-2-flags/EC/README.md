@@ -1,7 +1,7 @@
 # Ecuador Subdivisions ![](https://flagcdn.com/h40/ec.png)
 
 - **ISO Code**: EC
-- **Number of subdivisions**: 24, with 24 official flags
+- **Number of subdivisions**: 24, with 24 official flag(s)
 - **Subdivision Types**: Province (24)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/EC
 

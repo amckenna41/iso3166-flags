@@ -1,7 +1,7 @@
 # Ukraine Subdivisions ![](https://flagcdn.com/h40/ua.png)
 
 - **ISO Code**: UA
-- **Number of subdivisions**: 27, with 27 official flags
+- **Number of subdivisions**: 27, with 27 official flag(s)
 - **Subdivision Types**: Region (24), City (2), Republic (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/UA
 

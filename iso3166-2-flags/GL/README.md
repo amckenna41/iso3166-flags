@@ -1,7 +1,7 @@
 # Greenland Subdivisions ![](https://flagcdn.com/h40/gl.png)
 
 - **ISO Code**: GL
-- **Number of subdivisions**: 5, with 5 official flags
+- **Number of subdivisions**: 5, with 5 official flag(s)
 - **Subdivision Types**: Municipality (5)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GL
 

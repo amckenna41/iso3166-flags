@@ -1,7 +1,7 @@
 # Poland Subdivisions ![](https://flagcdn.com/h40/pl.png)
 
 - **ISO Code**: PL
-- **Number of subdivisions**: 16, with 16 official flags
+- **Number of subdivisions**: 16, with 16 official flag(s)
 - **Subdivision Types**: Voivodship (16)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PL
 

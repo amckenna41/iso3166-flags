@@ -1,7 +1,7 @@
 # Slovakia Subdivisions ![](https://flagcdn.com/h40/sk.png)
 
 - **ISO Code**: SK
-- **Number of subdivisions**: 8, with 8 official flags
+- **Number of subdivisions**: 8, with 8 official flag(s)
 - **Subdivision Types**: Region (8)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SK
 

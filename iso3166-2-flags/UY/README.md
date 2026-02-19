@@ -1,7 +1,7 @@
 # Uruguay Subdivisions ![](https://flagcdn.com/h40/uy.png)
 
 - **ISO Code**: UY
-- **Number of subdivisions**: 19, with 19 official flags
+- **Number of subdivisions**: 19, with 19 official flag(s)
 - **Subdivision Types**: Department (19)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/UY
 

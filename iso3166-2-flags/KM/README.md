@@ -1,7 +1,7 @@
 # Comoros Subdivisions ![](https://flagcdn.com/h40/km.png)
 
 - **ISO Code**: KM
-- **Number of subdivisions**: 3, with 3 official flags
+- **Number of subdivisions**: 3, with 3 official flag(s)
 - **Subdivision Types**: Island (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KM
 

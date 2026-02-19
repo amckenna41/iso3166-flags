@@ -1,7 +1,7 @@
 # Sweden Subdivisions ![](https://flagcdn.com/h40/se.png)
 
 - **ISO Code**: SE
-- **Number of subdivisions**: 21, with 21 official flags
+- **Number of subdivisions**: 21, with 21 official flag(s)
 - **Subdivision Types**: County (21)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SE
 

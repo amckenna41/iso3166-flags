@@ -1,7 +1,7 @@
 # Saint Helena, Ascension and Tristan da Cunha Subdivisions ![](https://flagcdn.com/h40/sh.png)
 
 - **ISO Code**: SH
-- **Number of subdivisions**: 3, with 3 official flags
+- **Number of subdivisions**: 3, with 3 official flag(s)
 - **Subdivision Types**: Geographical entity (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SH
 

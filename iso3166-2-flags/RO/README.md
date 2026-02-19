@@ -1,7 +1,7 @@
 # Romania Subdivisions ![](https://flagcdn.com/h40/ro.png)
 
 - **ISO Code**: RO
-- **Number of subdivisions**: 42, with 42 official flags
+- **Number of subdivisions**: 42, with 42 official flag(s)
 - **Subdivision Types**: Department (41), Municipality (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/RO
 

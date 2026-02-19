@@ -1,7 +1,7 @@
 # Uzbekistan Subdivisions ![](https://flagcdn.com/h40/uz.png)
 
 - **ISO Code**: UZ
-- **Number of subdivisions**: 14, with 2 official flags
+- **Number of subdivisions**: 14, with 2 official flag(s)
 - **Subdivision Types**: Region (12), Republic (1), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/UZ
 

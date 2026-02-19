@@ -1,7 +1,7 @@
 # Ethiopia Subdivisions ![](https://flagcdn.com/h40/et.png)
 
 - **ISO Code**: ET
-- **Number of subdivisions**: 13, with 13 official flags
+- **Number of subdivisions**: 13, with 13 official flag(s)
 - **Subdivision Types**: Regional state (11), Administration (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ET
 

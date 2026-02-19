@@ -1,7 +1,7 @@
 # Germany Subdivisions ![](https://flagcdn.com/h40/de.png)
 
 - **ISO Code**: DE
-- **Number of subdivisions**: 16, with 16 official flags
+- **Number of subdivisions**: 16, with 16 official flag(s)
 - **Subdivision Types**: Land (16)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/DE
 

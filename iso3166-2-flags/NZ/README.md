@@ -1,7 +1,7 @@
 # New Zealand Subdivisions ![](https://flagcdn.com/h40/nz.png)
 
 - **ISO Code**: NZ
-- **Number of subdivisions**: 17, with 5 official flags
+- **Number of subdivisions**: 17, with 5 official flag(s)
 - **Subdivision Types**: Region (16), Special island authority (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/NZ
 

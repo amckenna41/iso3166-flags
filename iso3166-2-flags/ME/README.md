@@ -1,7 +1,7 @@
 # Montenegro Subdivisions ![](https://flagcdn.com/h40/me.png)
 
 - **ISO Code**: ME
-- **Number of subdivisions**: 25, with 24 official flags
+- **Number of subdivisions**: 25, with 24 official flag(s)
 - **Subdivision Types**: Municipality (25)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ME
 

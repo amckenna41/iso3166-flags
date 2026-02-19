@@ -1,7 +1,7 @@
 # Lithuania Subdivisions ![](https://flagcdn.com/h40/lt.png)
 
 - **ISO Code**: LT
-- **Number of subdivisions**: 70, with 70 official flags
+- **Number of subdivisions**: 70, with 70 official flag(s)
 - **Subdivision Types**: District municipality (44), County (10), Municipality (9), City municipality (7)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LT
 

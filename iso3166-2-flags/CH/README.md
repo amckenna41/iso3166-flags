@@ -1,7 +1,7 @@
 # Switzerland Subdivisions ![](https://flagcdn.com/h40/ch.png)
 
 - **ISO Code**: CH
-- **Number of subdivisions**: 26, with 26 official flags
+- **Number of subdivisions**: 26, with 26 official flag(s)
 - **Subdivision Types**: Canton (26)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CH
 

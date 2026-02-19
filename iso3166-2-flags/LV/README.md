@@ -1,7 +1,7 @@
 # Latvia Subdivisions ![](https://flagcdn.com/h40/lv.png)
 
 - **ISO Code**: LV
-- **Number of subdivisions**: 43, with 43 official flags
+- **Number of subdivisions**: 43, with 43 official flag(s)
 - **Subdivision Types**: Municipality (36), State city (7)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/LV
 

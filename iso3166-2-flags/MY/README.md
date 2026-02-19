@@ -1,7 +1,7 @@
 # Malaysia Subdivisions ![](https://flagcdn.com/h40/my.png)
 
 - **ISO Code**: MY
-- **Number of subdivisions**: 16, with 16 official flags
+- **Number of subdivisions**: 16, with 16 official flag(s)
 - **Subdivision Types**: State (13), Federal territory (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MY
 

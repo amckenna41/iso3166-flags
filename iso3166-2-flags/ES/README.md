@@ -1,7 +1,7 @@
 # Spain Subdivisions ![](https://flagcdn.com/h40/es.png)
 
 - **ISO Code**: ES
-- **Number of subdivisions**: 69, with 68 official flags
+- **Number of subdivisions**: 69, with 68 official flag(s)
 - **Subdivision Types**: Province (50), Autonomous community (17), Autonomous city in north africa (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ES
 

@@ -1,7 +1,7 @@
 # Botswana Subdivisions ![](https://flagcdn.com/h40/bw.png)
 
 - **ISO Code**: BW
-- **Number of subdivisions**: 16, with 6 official flags
+- **Number of subdivisions**: 16, with 6 official flag(s)
 - **Subdivision Types**: District (10), Town (4), City (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BW
 

@@ -1,7 +1,7 @@
 # Indonesia Subdivisions ![](https://flagcdn.com/h40/id.png)
 
 - **ISO Code**: ID
-- **Number of subdivisions**: 45, with 38 official flags
+- **Number of subdivisions**: 45, with 38 official flag(s)
 - **Subdivision Types**: Province (36), Geographical unit (7), Capital district (1), Special region (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/ID
 

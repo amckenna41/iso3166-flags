@@ -1,7 +1,7 @@
 # Nigeria Subdivisions ![](https://flagcdn.com/h40/ng.png)
 
 - **ISO Code**: NG
-- **Number of subdivisions**: 37, with 37 official flags
+- **Number of subdivisions**: 37, with 37 official flag(s)
 - **Subdivision Types**: State (36), Capital territory (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/NG
 

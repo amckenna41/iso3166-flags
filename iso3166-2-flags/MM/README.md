@@ -1,7 +1,7 @@
 # Myanmar Subdivisions ![](https://flagcdn.com/h40/mm.png)
 
 - **ISO Code**: MM
-- **Number of subdivisions**: 15, with 15 official flags
+- **Number of subdivisions**: 15, with 15 official flag(s)
 - **Subdivision Types**: Region (7), State (7), Union territory (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MM
 

@@ -1,7 +1,7 @@
 # Andorra Subdivisions ![](https://flagcdn.com/h40/ad.png)
 
 - **ISO Code**: AD
-- **Number of subdivisions**: 7, with 7 official flags
+- **Number of subdivisions**: 7, with 7 official flag(s)
 - **Subdivision Types**: Parish (7)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/AD
 

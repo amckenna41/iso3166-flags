@@ -1,7 +1,7 @@
 # Micronesia, Federated States of Subdivisions ![](https://flagcdn.com/h40/fm.png)
 
 - **ISO Code**: FM
-- **Number of subdivisions**: 4, with 4 official flags
+- **Number of subdivisions**: 4, with 4 official flag(s)
 - **Subdivision Types**: State (4)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/FM
 

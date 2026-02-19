@@ -1,7 +1,7 @@
 # Russian Federation Subdivisions ![](https://flagcdn.com/h40/ru.png)
 
 - **ISO Code**: RU
-- **Number of subdivisions**: 83, with 83 official flags
+- **Number of subdivisions**: 83, with 83 official flag(s)
 - **Subdivision Types**: Administrative region (46), Republic (21), Administrative territory (9), Autonomous district (4), Autonomous city (2), Autonomous region (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/RU
 

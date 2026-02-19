@@ -1,7 +1,7 @@
 # Sudan Subdivisions ![](https://flagcdn.com/h40/sd.png)
 
 - **ISO Code**: SD
-- **Number of subdivisions**: 18, with 18 official flags
+- **Number of subdivisions**: 18, with 18 official flag(s)
 - **Subdivision Types**: State (18)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SD
 

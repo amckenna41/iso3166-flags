@@ -1,7 +1,7 @@
 # Belgium Subdivisions ![](https://flagcdn.com/h40/be.png)
 
 - **ISO Code**: BE
-- **Number of subdivisions**: 13, with 13 official flags
+- **Number of subdivisions**: 13, with 13 official flag(s)
 - **Subdivision Types**: Province (10), Region (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BE
 

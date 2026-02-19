@@ -1,7 +1,7 @@
 # Honduras Subdivisions ![](https://flagcdn.com/h40/hn.png)
 
 - **ISO Code**: HN
-- **Number of subdivisions**: 18, with 11 official flags
+- **Number of subdivisions**: 18, with 11 official flag(s)
 - **Subdivision Types**: Department (18)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/HN
 

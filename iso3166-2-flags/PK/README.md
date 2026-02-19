@@ -1,7 +1,7 @@
 # Pakistan Subdivisions ![](https://flagcdn.com/h40/pk.png)
 
 - **ISO Code**: PK
-- **Number of subdivisions**: 7, with 6 official flags
+- **Number of subdivisions**: 7, with 6 official flag(s)
 - **Subdivision Types**: Province (4), Pakistan administered area (2), Federal capital territory (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/PK
 

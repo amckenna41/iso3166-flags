@@ -86,7 +86,7 @@ def create_markdown_str(country_code: str, input_folder: str) -> None:
     subdivision_types_str = ', '.join([f"{type_name} ({count})" for type_name, count in sorted(subdivision_type_counts.items(), key=lambda x: x[1], reverse=True)])
 
     #add some useful data about the country's subdivision 
-    output_str += f"- **Number of subdivisions**: {len(all_subdivisions)}, with {len(all_files)} official flags\n"
+    output_str += f"- **Number of subdivisions**: {len(all_subdivisions)}, with {len(all_files)} official flag(s)\n"
     output_str += f"- **Subdivision Types**: {subdivision_types_str}\n"
     output_str += f"- **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/{country_code}\n\n"
 

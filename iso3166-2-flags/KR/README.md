@@ -1,7 +1,7 @@
 # Korea, Republic of Subdivisions ![](https://flagcdn.com/h40/kr.png)
 
 - **ISO Code**: KR
-- **Number of subdivisions**: 17, with 17 official flags
+- **Number of subdivisions**: 17, with 17 official flag(s)
 - **Subdivision Types**: Province (7), Metropolitan city (6), Special city (1), special self-governing province (1), Special self-governing province (1), Special self-governing city (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KR
 

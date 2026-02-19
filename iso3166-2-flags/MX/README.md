@@ -1,7 +1,7 @@
 # Mexico Subdivisions ![](https://flagcdn.com/h40/mx.png)
 
 - **ISO Code**: MX
-- **Number of subdivisions**: 32, with 32 official flags
+- **Number of subdivisions**: 32, with 32 official flag(s)
 - **Subdivision Types**: State (31), Federal entity (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MX
 

@@ -1,7 +1,7 @@
 # Guyana Subdivisions ![](https://flagcdn.com/h40/gy.png)
 
 - **ISO Code**: GY
-- **Number of subdivisions**: 10, with 10 official flags
+- **Number of subdivisions**: 10, with 10 official flag(s)
 - **Subdivision Types**: Region (10)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/GY
 

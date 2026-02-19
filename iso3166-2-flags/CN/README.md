@@ -1,7 +1,7 @@
 # China Subdivisions ![](https://flagcdn.com/h40/cn.png)
 
 - **ISO Code**: CN
-- **Number of subdivisions**: 34, with 2 official flags
+- **Number of subdivisions**: 34, with 2 official flag(s)
 - **Subdivision Types**: Province (23), Autonomous region (5), Municipality (4), Special administrative region (2)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CN
 

@@ -1,7 +1,7 @@
 # Bonaire, Sint Eustatius and Saba Subdivisions ![](https://flagcdn.com/h40/bq.png)
 
 - **ISO Code**: BQ
-- **Number of subdivisions**: 3, with 3 official flags
+- **Number of subdivisions**: 3, with 3 official flag(s)
 - **Subdivision Types**: Special municipality (3)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BQ
 

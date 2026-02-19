@@ -1,7 +1,7 @@
 # Bosnia and Herzegovina Subdivisions ![](https://flagcdn.com/h40/ba.png)
 
 - **ISO Code**: BA
-- **Number of subdivisions**: 3, with 2 official flags
+- **Number of subdivisions**: 3, with 2 official flag(s)
 - **Subdivision Types**: Entity (2), District with special status (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/BA
 

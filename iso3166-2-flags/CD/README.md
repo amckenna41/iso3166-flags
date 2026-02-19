@@ -1,7 +1,7 @@
 # Congo, Democratic Republic of the Subdivisions ![](https://flagcdn.com/h40/cd.png)
 
 - **ISO Code**: CD
-- **Number of subdivisions**: 26, with 2 official flags
+- **Number of subdivisions**: 26, with 2 official flag(s)
 - **Subdivision Types**: Province (25), City (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CD
 

@@ -1,7 +1,7 @@
 # Congo Subdivisions ![](https://flagcdn.com/h40/cg.png)
 
 - **ISO Code**: CG
-- **Number of subdivisions**: 12, with 1 official flags
+- **Number of subdivisions**: 12, with 1 official flag(s)
 - **Subdivision Types**: Department (12)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/CG
 

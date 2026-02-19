@@ -1,7 +1,7 @@
 # Iraq Subdivisions ![](https://flagcdn.com/h40/iq.png)
 
 - **ISO Code**: IQ
-- **Number of subdivisions**: 19, with 12 official flags
+- **Number of subdivisions**: 19, with 12 official flag(s)
 - **Subdivision Types**: Governorate (18), Region (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/IQ
 

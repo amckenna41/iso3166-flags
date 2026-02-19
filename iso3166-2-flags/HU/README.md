@@ -1,7 +1,7 @@
 # Hungary Subdivisions ![](https://flagcdn.com/h40/hu.png)
 
 - **ISO Code**: HU
-- **Number of subdivisions**: 43, with 43 official flags
+- **Number of subdivisions**: 43, with 43 official flag(s)
 - **Subdivision Types**: City with county rights (23), County (19), Capital city (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/HU
 

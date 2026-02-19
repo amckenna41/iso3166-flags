@@ -1,7 +1,7 @@
 # Slovenia Subdivisions ![](https://flagcdn.com/h40/si.png)
 
 - **ISO Code**: SI
-- **Number of subdivisions**: 212, with 212 official flags
+- **Number of subdivisions**: 212, with 212 official flag(s)
 - **Subdivision Types**: Municipality (200), Urban municipality (12)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/SI
 
