@@ -10,7 +10,8 @@
 <!-- [![npm version](https://badge.fury.io/js/iso3166-flags.svg)](https://badge.fury.io/js/iso3166-flags) -->
 <!-- [![codecov](https://codecov.io/gh/amckenna41/iso3166-flags/branch/main/graph/badge.svg)](https://codecov.io/gh/amckenna41/iso3166-flags) -->
 
-> **iso3166-flags** is a bespoke, verbose and comprehensive dataset of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country and regional/subdivision codes flag icons in SVG format. The dataset currently has **250** country/territorial flags and **2,843** regional/subdivision flags.
+> **iso3166-flags** is a bespoke, verbose and comprehensive dataset of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country and regional/subdivision codes flag icons in SVG format. The dataset currently has **250** country/territorial flags and **2,843** regional/subdivision flags. A front-end interactive map of the flag dataset is available here: 
+https://iso3166-flags.vercel.app/
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Flag-map_of_the_world_%282017%29.png" alt="globe" height="400" width="700"/>
