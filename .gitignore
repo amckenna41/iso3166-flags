@@ -181,7 +181,7 @@ ToDo.md
 iso3166_2_flag_list_check.csv
 git_status_logs*.csv
 /scripts/git_status_logs*.csv
-missing_subdivision_flags.csv
+/missing_subdivision_flags.csv
 repo_metadata.json
 proposed_flags.csv
 missing_flags_search.py
