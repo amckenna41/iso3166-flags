@@ -77,7 +77,7 @@ def update_everything(output_folder: str="") -> None:
     export_repo_metadata(export_json=True, export_filename=os.path.join(iso3166_metadata_dir, "iso3166_flags_metadata.json"), exclude_readme=True)
 
     #export list of missing subdivision flags
-    export_missing_flags("iso3166-2-flags", export=True, export_filename="missing_subdivision_flags.csv")
+    export_missing_flags("iso3166-2-flags", export=True, export_filename=os.path.join(iso3166_metadata_dir, "missing_subdivision_flags.csv"))
 
     #stop counter and calculate elapsed time
     end = time.time()

@@ -120,7 +120,7 @@ Directories
 * [`/css`](https://github.com/amckenna41/iso3166-flags/tree/main/css) - css scripts for integrating the flags into front-end projects.
 * [`/scripts`](https://github.com/amckenna41/iso3166-flags/tree/main/scripts) - a series of Python and bash scripts created for generating the CSS and README files for each country folder, as well as to export various metdata for the datasets.
 * [`/tests`](https://github.com/amckenna41/iso3166-flags/tree/main/tests) - unit tests for scripts and flags.
-* [`/iso3166-flags-metadata`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-flags-metadata) - metadata files for the ISO 3166-1 and ISO 3166-2 flags.
+* [`/iso3166-flags-metadata`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-flags-metadata) - metadata files for the ISO 3166-1 and ISO 3166-2 flags, including a list of all ISO 3166-2 subdivision codes that do not have an associated flag in the repository ([`missing_subdivision_flags.csv`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-flags-metadata/missing_subdivision_flags.csv)).
 
 <!-- * `iso3166-1.json` - json containing all ISO 3166-1 country names, 2 letter codes and relative path to flag icon in repo.
 * `iso3166-2.json` - json containing all ISO 3166-2 country names, 2 letter codes, all subdivision codes and common names as well as all info pulled per country via the restcountries api (https://restcountries.com/). 
