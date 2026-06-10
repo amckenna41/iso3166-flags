@@ -1,696 +1,81 @@
-.fib { 
-	background-size: contain; 
-	background-position: 50%; 
-	background-repeat: no-repeat; 
-}                 
-
-.fi { 
-	background-size: contain; 
-	background-position: 50%; 
-	background-repeat: no-repeat; 
-	position: relative;                 
-	display: inline-block; 
-	width: 1.33333333em; 
-	line-height: 1em; 
-}                 
-
-.fi.fis { 
-	width: 1em; 
-}
-.fib { 
-	background-size: contain; 
-	background-position: 50%; 
-	background-repeat: no-repeat; 
-}                 
-
-.fi { 
-	background-size: contain; 
-	background-position: 50%; 
-	background-repeat: no-repeat; 
-	position: relative;                 
-	display: inline-block; 
-	width: 1.33333333em; 
-	line-height: 1em; 
-}                 
-
-.fi.fis { 
-	width: 1em; 
-}
-
-.fi-hn {
-	background-image: url(iso3166-1-flags/hn.svg);
-}
-
-.fi-dm {
-	background-image: url(iso3166-1-flags/dm.svg);
-}
-
-.fi-fr {
-	background-image: url(iso3166-1-flags/fr.svg);
-}
-
-.fi-dz {
-	background-image: url(iso3166-1-flags/dz.svg);
-}
-
-.fi-ga {
-	background-image: url(iso3166-1-flags/ga.svg);
-}
-
-.fi-ph {
-	background-image: url(iso3166-1-flags/ph.svg);
-}
-
-.fi-ss {
-	background-image: url(iso3166-1-flags/ss.svg);
-}
-
-.fi-rw {
-	background-image: url(iso3166-1-flags/rw.svg);
-}
-
-.fi-sd {
-	background-image: url(iso3166-1-flags/sd.svg);
-}
-
-.fi-se {
-	background-image: url(iso3166-1-flags/se.svg);
-}
-
-.fi-sr {
-	background-image: url(iso3166-1-flags/sr.svg);
-}
-
-.fi-eh {
-	background-image: url(iso3166-1-flags/eh.svg);
-}
-
-.fi-gw {
-	background-image: url(iso3166-1-flags/gw.svg);
-}
-
-.fi-jp {
-	background-image: url(iso3166-1-flags/jp.svg);
-}
-
-.fi-hm {
-	background-image: url(iso3166-1-flags/hm.svg);
-}
-
-.fi-je {
-	background-image: url(iso3166-1-flags/je.svg);
-}
-
-.fi-gu {
-	background-image: url(iso3166-1-flags/gu.svg);
-}
-
-.fi-gb {
-	background-image: url(iso3166-1-flags/gb.svg);
-}
-
-.fi-pk {
-	background-image: url(iso3166-1-flags/pk.svg);
-}
-
-.fi-sg {
-	background-image: url(iso3166-1-flags/sg.svg);
-}
-
-.fi-ru {
-	background-image: url(iso3166-1-flags/ru.svg);
-}
-
-.fi-do {
-	background-image: url(iso3166-1-flags/do.svg);
-}
-
-.fi-gt {
-	background-image: url(iso3166-1-flags/gt.svg);
-}
-
-.fi-kw {
-	background-image: url(iso3166-1-flags/kw.svg);
-}
-
-.fi-il {
-	background-image: url(iso3166-1-flags/il.svg);
-}
-
-.fi-gg {
-	background-image: url(iso3166-1-flags/gg.svg);
-}
-
-.fi-gp {
-	background-image: url(iso3166-1-flags/gp.svg);
-}
-
-.fi-dk {
-	background-image: url(iso3166-1-flags/dk.svg);
-}
-
-.fi-sb {
-	background-image: url(iso3166-1-flags/sb.svg);
-}
-
-.fi-py {
-	background-image: url(iso3166-1-flags/py.svg);
-}
-
-.fi-pn {
-	background-image: url(iso3166-1-flags/pn.svg);
-}
-
-.fi-st {
-	background-image: url(iso3166-1-flags/st.svg);
-}
-
-.fi-sc {
-	background-image: url(iso3166-1-flags/sc.svg);
-}
-
-.fi-dj {
-	background-image: url(iso3166-1-flags/dj.svg);
-}
-
-.fi-gq {
-	background-image: url(iso3166-1-flags/gq.svg);
-}
-
-.fi-gf {
-	background-image: url(iso3166-1-flags/gf.svg);
-}
-
-.fi-kr {
-	background-image: url(iso3166-1-flags/kr.svg);
-}
-
-.fi-im {
-	background-image: url(iso3166-1-flags/im.svg);
-}
-
-.fi-ke {
-	background-image: url(iso3166-1-flags/ke.svg);
-}
-
-.fi-kg {
-	background-image: url(iso3166-1-flags/kg.svg);
-}
-
-.fi-hk {
-	background-image: url(iso3166-1-flags/hk.svg);
-}
-
-.fi-kp {
-	background-image: url(iso3166-1-flags/kp.svg);
-}
-
-.fi-io {
-	background-image: url(iso3166-1-flags/io.svg);
-}
-
-.fi-gd {
-	background-image: url(iso3166-1-flags/gd.svg);
-}
-
-.fi-gs {
-	background-image: url(iso3166-1-flags/gs.svg);
-}
-
-.fi-sa {
-	background-image: url(iso3166-1-flags/sa.svg);
-}
-
-.fi-re {
-	background-image: url(iso3166-1-flags/re.svg);
-}
-
-.fi-pm {
-	background-image: url(iso3166-1-flags/pm.svg);
-}
-
-.fi-sv {
-	background-image: url(iso3166-1-flags/sv.svg);
-}
-
-.fi-rs {
-	background-image: url(iso3166-1-flags/rs.svg);
-}
-
-.fi-pl {
-	background-image: url(iso3166-1-flags/pl.svg);
-}
-
-.fi-gr {
-	background-image: url(iso3166-1-flags/gr.svg);
-}
-
-.fi-ge {
-	background-image: url(iso3166-1-flags/ge.svg);
-}
-
-.fi-in {
-	background-image: url(iso3166-1-flags/in.svg);
-}
-
-.fi-mv {
-	background-image: url(iso3166-1-flags/mv.svg);
-}
-
-.fi-lr {
-	background-image: url(iso3166-1-flags/lr.svg);
-}
-
-.fi-ma {
-	background-image: url(iso3166-1-flags/ma.svg);
-}
-
-.fi-nz {
-	background-image: url(iso3166-1-flags/nz.svg);
-}
-
-.fi-au {
-	background-image: url(iso3166-1-flags/au.svg);
-}
-
-.fi-bn {
-	background-image: url(iso3166-1-flags/bn.svg);
-}
-
-.fi-by {
-	background-image: url(iso3166-1-flags/by.svg);
-}
-
-.fi-tt {
-	background-image: url(iso3166-1-flags/tt.svg);
-}
-
-.fi-ug {
-	background-image: url(iso3166-1-flags/ug.svg);
-}
-
-.fi-tc {
-	background-image: url(iso3166-1-flags/tc.svg);
-}
-
-.fi-ye {
-	background-image: url(iso3166-1-flags/ye.svg);
-}
-
-.fi-ck {
-	background-image: url(iso3166-1-flags/ck.svg);
-}
-
-.fi-bo {
-	background-image: url(iso3166-1-flags/bo.svg);
-}
-
-.fi-at {
-	background-image: url(iso3166-1-flags/at.svg);
-}
-
-.fi-ls {
-	background-image: url(iso3166-1-flags/ls.svg);
-}
-
-.fi-mw {
-	background-image: url(iso3166-1-flags/mw.svg);
-}
-
-.fi-nl {
-	background-image: url(iso3166-1-flags/nl.svg);
-}
-
-.fi-mu {
-	background-image: url(iso3166-1-flags/mu.svg);
-}
-
-.fi-ci {
-	background-image: url(iso3166-1-flags/ci.svg);
-}
-
-.fi-bm {
-	background-image: url(iso3166-1-flags/bm.svg);
-}
-
-.fi-bz {
-	background-image: url(iso3166-1-flags/bz.svg);
-}
-
-.fi-tw {
-	background-image: url(iso3166-1-flags/tw.svg);
-}
-
-.fi-us {
-	background-image: url(iso3166-1-flags/us.svg);
-}
-
-.fi-vi {
-	background-image: url(iso3166-1-flags/vi.svg);
-}
-
-.fi-tv {
-	background-image: url(iso3166-1-flags/tv.svg);
-}
-
-.fi-bl {
-	background-image: url(iso3166-1-flags/bl.svg);
-}
-
-.fi-aw {
-	background-image: url(iso3166-1-flags/aw.svg);
-}
-
-.fi-ch {
-	background-image: url(iso3166-1-flags/ch.svg);
-}
-
-.fi-mc {
-	background-image: url(iso3166-1-flags/mc.svg);
-}
-
-.fi-mt {
-	background-image: url(iso3166-1-flags/mt.svg);
-}
-
-.fi-no {
-	background-image: url(iso3166-1-flags/no.svg);
-}
-
-.fi-lc {
-	background-image: url(iso3166-1-flags/lc.svg);
-}
-
-.fi-mg {
-	background-image: url(iso3166-1-flags/mg.svg);
-}
-
-.fi-lt {
-	background-image: url(iso3166-1-flags/lt.svg);
-}
-
-.fi-mp {
-	background-image: url(iso3166-1-flags/mp.svg);
+.fib {
+	background-size: contain;
+	background-position: 50%;
+	background-repeat: no-repeat;
+}
+
+.fi {
+	background-size: contain;
+	background-position: 50%;
+	background-repeat: no-repeat;
+	position: relative;
+	display: inline-block;
+	width: 1.33333333em;
+	line-height: 1em;
+}
+
+.fi.fis {
+	width: 1em;
 }
 
 .fi-ad {
 	background-image: url(iso3166-1-flags/ad.svg);
 }
 
-.fi-cl {
-	background-image: url(iso3166-1-flags/cl.svg);
-}
-
-.fi-as {
-	background-image: url(iso3166-1-flags/as.svg);
-}
-
-.fi-bh {
-	background-image: url(iso3166-1-flags/bh.svg);
-}
-
-.fi-ua {
-	background-image: url(iso3166-1-flags/ua.svg);
-}
-
-.fi-tr {
-	background-image: url(iso3166-1-flags/tr.svg);
-}
-
-.fi-yt {
-	background-image: url(iso3166-1-flags/yt.svg);
-}
-
-.fi-td {
-	background-image: url(iso3166-1-flags/td.svg);
-}
-
-.fi-bi {
-	background-image: url(iso3166-1-flags/bi.svg);
-}
-
-.fi-ar {
-	background-image: url(iso3166-1-flags/ar.svg);
-}
-
-.fi-cm {
-	background-image: url(iso3166-1-flags/cm.svg);
-}
-
 .fi-ae {
 	background-image: url(iso3166-1-flags/ae.svg);
-}
-
-.fi-cz {
-	background-image: url(iso3166-1-flags/cz.svg);
-}
-
-.fi-mq {
-	background-image: url(iso3166-1-flags/mq.svg);
-}
-
-.fi-lu {
-	background-image: url(iso3166-1-flags/lu.svg);
-}
-
-.fi-mf {
-	background-image: url(iso3166-1-flags/mf.svg);
-}
-
-.fi-lb {
-	background-image: url(iso3166-1-flags/lb.svg);
-}
-
-.fi-md {
-	background-image: url(iso3166-1-flags/md.svg);
-}
-
-.fi-ms {
-	background-image: url(iso3166-1-flags/ms.svg);
-}
-
-.fi-ag {
-	background-image: url(iso3166-1-flags/ag.svg);
-}
-
-.fi-cx {
-	background-image: url(iso3166-1-flags/cx.svg);
-}
-
-.fi-co {
-	background-image: url(iso3166-1-flags/co.svg);
-}
-
-.fi-tf {
-	background-image: url(iso3166-1-flags/tf.svg);
-}
-
-.fi-vn {
-	background-image: url(iso3166-1-flags/vn.svg);
-}
-
-.fi-zm {
-	background-image: url(iso3166-1-flags/zm.svg);
-}
-
-.fi-tg {
-	background-image: url(iso3166-1-flags/tg.svg);
-}
-
-.fi-cn {
-	background-image: url(iso3166-1-flags/cn.svg);
-}
-
-.fi-bj {
-	background-image: url(iso3166-1-flags/bj.svg);
-}
-
-.fi-aq {
-	background-image: url(iso3166-1-flags/aq.svg);
-}
-
-.fi-cy {
-	background-image: url(iso3166-1-flags/cy.svg);
 }
 
 .fi-af {
 	background-image: url(iso3166-1-flags/af.svg);
 }
 
-.fi-lv {
-	background-image: url(iso3166-1-flags/lv.svg);
-}
-
-.fi-om {
-	background-image: url(iso3166-1-flags/om.svg);
-}
-
-.fi-mr {
-	background-image: url(iso3166-1-flags/mr.svg);
-}
-
-.fi-ni {
-	background-image: url(iso3166-1-flags/ni.svg);
-}
-
-.fi-la {
-	background-image: url(iso3166-1-flags/la.svg);
-}
-
-.fi-me {
-	background-image: url(iso3166-1-flags/me.svg);
-}
-
-.fi-mh {
-	background-image: url(iso3166-1-flags/mh.svg);
-}
-
-.fi-cc {
-	background-image: url(iso3166-1-flags/cc.svg);
-}
-
-.fi-bg {
-	background-image: url(iso3166-1-flags/bg.svg);
-}
-
-.fi-tj {
-	background-image: url(iso3166-1-flags/tj.svg);
-}
-
-.fi-vu {
-	background-image: url(iso3166-1-flags/vu.svg);
-}
-
-.fi-wf {
-	background-image: url(iso3166-1-flags/wf.svg);
-}
-
-.fi-uy {
-	background-image: url(iso3166-1-flags/uy.svg);
-}
-
-.fi-za {
-	background-image: url(iso3166-1-flags/za.svg);
-}
-
-.fi-zw {
-	background-image: url(iso3166-1-flags/zw.svg);
-}
-
-.fi-vc {
-	background-image: url(iso3166-1-flags/vc.svg);
-}
-
-.fi-tk {
-	background-image: url(iso3166-1-flags/tk.svg);
-}
-
-.fi-bf {
-	background-image: url(iso3166-1-flags/bf.svg);
-}
-
-.fi-bq {
-	background-image: url(iso3166-1-flags/bq.svg);
-}
-
-.fi-cu {
-	background-image: url(iso3166-1-flags/cu.svg);
-}
-
-.fi-ne {
-	background-image: url(iso3166-1-flags/ne.svg);
-}
-
-.fi-nr {
-	background-image: url(iso3166-1-flags/nr.svg);
-}
-
-.fi-mk {
-	background-image: url(iso3166-1-flags/mk.svg);
-}
-
-.fi-np {
-	background-image: url(iso3166-1-flags/np.svg);
-}
-
-.fi-ng {
-	background-image: url(iso3166-1-flags/ng.svg);
-}
-
-.fi-bs {
-	background-image: url(iso3166-1-flags/bs.svg);
-}
-
-.fi-cw {
-	background-image: url(iso3166-1-flags/cw.svg);
-}
-
-.fi-bd {
-	background-image: url(iso3166-1-flags/bd.svg);
-}
-
-.fi-um {
-	background-image: url(iso3166-1-flags/um.svg);
-}
-
-.fi-va {
-	background-image: url(iso3166-1-flags/va.svg);
-}
-
-.fi-uz {
-	background-image: url(iso3166-1-flags/uz.svg);
-}
-
-.fi-xk {
-	background-image: url(iso3166-1-flags/xk.svg);
-}
-
-.fi-ws {
-	background-image: url(iso3166-1-flags/ws.svg);
-}
-
-.fi-th {
-	background-image: url(iso3166-1-flags/th.svg);
-}
-
-.fi-ca {
-	background-image: url(iso3166-1-flags/ca.svg);
-}
-
-.fi-be {
-	background-image: url(iso3166-1-flags/be.svg);
-}
-
-.fi-cv {
-	background-image: url(iso3166-1-flags/cv.svg);
+.fi-ag {
+	background-image: url(iso3166-1-flags/ag.svg);
 }
 
 .fi-ai {
 	background-image: url(iso3166-1-flags/ai.svg);
 }
 
-.fi-br {
-	background-image: url(iso3166-1-flags/br.svg);
+.fi-al {
+	background-image: url(iso3166-1-flags/al.svg);
 }
 
-.fi-ly {
-	background-image: url(iso3166-1-flags/ly.svg);
+.fi-am {
+	background-image: url(iso3166-1-flags/am.svg);
 }
 
-.fi-nf {
-	background-image: url(iso3166-1-flags/nf.svg);
+.fi-ao {
+	background-image: url(iso3166-1-flags/ao.svg);
 }
 
-.fi-my {
-	background-image: url(iso3166-1-flags/my.svg);
+.fi-aq {
+	background-image: url(iso3166-1-flags/aq.svg);
 }
 
-.fi-mn {
-	background-image: url(iso3166-1-flags/mn.svg);
+.fi-ar {
+	background-image: url(iso3166-1-flags/ar.svg);
 }
 
-.fi-nu {
-	background-image: url(iso3166-1-flags/nu.svg);
+.fi-as {
+	background-image: url(iso3166-1-flags/as.svg);
+}
+
+.fi-at {
+	background-image: url(iso3166-1-flags/at.svg);
+}
+
+.fi-au {
+	background-image: url(iso3166-1-flags/au.svg);
+}
+
+.fi-aw {
+	background-image: url(iso3166-1-flags/aw.svg);
+}
+
+.fi-ax {
+	background-image: url(iso3166-1-flags/ax.svg);
 }
 
 .fi-az {
@@ -701,16 +86,816 @@
 	background-image: url(iso3166-1-flags/ba.svg);
 }
 
+.fi-bb {
+	background-image: url(iso3166-1-flags/bb.svg);
+}
+
+.fi-bd {
+	background-image: url(iso3166-1-flags/bd.svg);
+}
+
+.fi-be {
+	background-image: url(iso3166-1-flags/be.svg);
+}
+
+.fi-bf {
+	background-image: url(iso3166-1-flags/bf.svg);
+}
+
+.fi-bg {
+	background-image: url(iso3166-1-flags/bg.svg);
+}
+
+.fi-bh {
+	background-image: url(iso3166-1-flags/bh.svg);
+}
+
+.fi-bi {
+	background-image: url(iso3166-1-flags/bi.svg);
+}
+
+.fi-bj {
+	background-image: url(iso3166-1-flags/bj.svg);
+}
+
+.fi-bl {
+	background-image: url(iso3166-1-flags/bl.svg);
+}
+
+.fi-bm {
+	background-image: url(iso3166-1-flags/bm.svg);
+}
+
+.fi-bn {
+	background-image: url(iso3166-1-flags/bn.svg);
+}
+
+.fi-bo {
+	background-image: url(iso3166-1-flags/bo.svg);
+}
+
+.fi-bq {
+	background-image: url(iso3166-1-flags/bq.svg);
+}
+
+.fi-br {
+	background-image: url(iso3166-1-flags/br.svg);
+}
+
+.fi-bs {
+	background-image: url(iso3166-1-flags/bs.svg);
+}
+
+.fi-bt {
+	background-image: url(iso3166-1-flags/bt.svg);
+}
+
 .fi-bv {
 	background-image: url(iso3166-1-flags/bv.svg);
 }
 
-.fi-am {
-	background-image: url(iso3166-1-flags/am.svg);
+.fi-bw {
+	background-image: url(iso3166-1-flags/bw.svg);
+}
+
+.fi-by {
+	background-image: url(iso3166-1-flags/by.svg);
+}
+
+.fi-bz {
+	background-image: url(iso3166-1-flags/bz.svg);
+}
+
+.fi-ca {
+	background-image: url(iso3166-1-flags/ca.svg);
+}
+
+.fi-cc {
+	background-image: url(iso3166-1-flags/cc.svg);
+}
+
+.fi-cd {
+	background-image: url(iso3166-1-flags/cd.svg);
+}
+
+.fi-cf {
+	background-image: url(iso3166-1-flags/cf.svg);
+}
+
+.fi-cg {
+	background-image: url(iso3166-1-flags/cg.svg);
+}
+
+.fi-ch {
+	background-image: url(iso3166-1-flags/ch.svg);
+}
+
+.fi-ci {
+	background-image: url(iso3166-1-flags/ci.svg);
+}
+
+.fi-ck {
+	background-image: url(iso3166-1-flags/ck.svg);
+}
+
+.fi-cl {
+	background-image: url(iso3166-1-flags/cl.svg);
+}
+
+.fi-cm {
+	background-image: url(iso3166-1-flags/cm.svg);
+}
+
+.fi-cn {
+	background-image: url(iso3166-1-flags/cn.svg);
+}
+
+.fi-co {
+	background-image: url(iso3166-1-flags/co.svg);
 }
 
 .fi-cr {
 	background-image: url(iso3166-1-flags/cr.svg);
+}
+
+.fi-cu {
+	background-image: url(iso3166-1-flags/cu.svg);
+}
+
+.fi-cv {
+	background-image: url(iso3166-1-flags/cv.svg);
+}
+
+.fi-cw {
+	background-image: url(iso3166-1-flags/cw.svg);
+}
+
+.fi-cx {
+	background-image: url(iso3166-1-flags/cx.svg);
+}
+
+.fi-cy {
+	background-image: url(iso3166-1-flags/cy.svg);
+}
+
+.fi-cz {
+	background-image: url(iso3166-1-flags/cz.svg);
+}
+
+.fi-de {
+	background-image: url(iso3166-1-flags/de.svg);
+}
+
+.fi-dj {
+	background-image: url(iso3166-1-flags/dj.svg);
+}
+
+.fi-dk {
+	background-image: url(iso3166-1-flags/dk.svg);
+}
+
+.fi-dm {
+	background-image: url(iso3166-1-flags/dm.svg);
+}
+
+.fi-do {
+	background-image: url(iso3166-1-flags/do.svg);
+}
+
+.fi-dz {
+	background-image: url(iso3166-1-flags/dz.svg);
+}
+
+.fi-ec {
+	background-image: url(iso3166-1-flags/ec.svg);
+}
+
+.fi-ee {
+	background-image: url(iso3166-1-flags/ee.svg);
+}
+
+.fi-eg {
+	background-image: url(iso3166-1-flags/eg.svg);
+}
+
+.fi-eh {
+	background-image: url(iso3166-1-flags/eh.svg);
+}
+
+.fi-er {
+	background-image: url(iso3166-1-flags/er.svg);
+}
+
+.fi-es {
+	background-image: url(iso3166-1-flags/es.svg);
+}
+
+.fi-et {
+	background-image: url(iso3166-1-flags/et.svg);
+}
+
+.fi-fi {
+	background-image: url(iso3166-1-flags/fi.svg);
+}
+
+.fi-fj {
+	background-image: url(iso3166-1-flags/fj.svg);
+}
+
+.fi-fk {
+	background-image: url(iso3166-1-flags/fk.svg);
+}
+
+.fi-fm {
+	background-image: url(iso3166-1-flags/fm.svg);
+}
+
+.fi-fo {
+	background-image: url(iso3166-1-flags/fo.svg);
+}
+
+.fi-fr {
+	background-image: url(iso3166-1-flags/fr.svg);
+}
+
+.fi-ga {
+	background-image: url(iso3166-1-flags/ga.svg);
+}
+
+.fi-gb {
+	background-image: url(iso3166-1-flags/gb.svg);
+}
+
+.fi-gd {
+	background-image: url(iso3166-1-flags/gd.svg);
+}
+
+.fi-ge {
+	background-image: url(iso3166-1-flags/ge.svg);
+}
+
+.fi-gf {
+	background-image: url(iso3166-1-flags/gf.svg);
+}
+
+.fi-gg {
+	background-image: url(iso3166-1-flags/gg.svg);
+}
+
+.fi-gh {
+	background-image: url(iso3166-1-flags/gh.svg);
+}
+
+.fi-gi {
+	background-image: url(iso3166-1-flags/gi.svg);
+}
+
+.fi-gl {
+	background-image: url(iso3166-1-flags/gl.svg);
+}
+
+.fi-gm {
+	background-image: url(iso3166-1-flags/gm.svg);
+}
+
+.fi-gn {
+	background-image: url(iso3166-1-flags/gn.svg);
+}
+
+.fi-gp {
+	background-image: url(iso3166-1-flags/gp.svg);
+}
+
+.fi-gq {
+	background-image: url(iso3166-1-flags/gq.svg);
+}
+
+.fi-gr {
+	background-image: url(iso3166-1-flags/gr.svg);
+}
+
+.fi-gs {
+	background-image: url(iso3166-1-flags/gs.svg);
+}
+
+.fi-gt {
+	background-image: url(iso3166-1-flags/gt.svg);
+}
+
+.fi-gu {
+	background-image: url(iso3166-1-flags/gu.svg);
+}
+
+.fi-gw {
+	background-image: url(iso3166-1-flags/gw.svg);
+}
+
+.fi-gy {
+	background-image: url(iso3166-1-flags/gy.svg);
+}
+
+.fi-hk {
+	background-image: url(iso3166-1-flags/hk.svg);
+}
+
+.fi-hm {
+	background-image: url(iso3166-1-flags/hm.svg);
+}
+
+.fi-hn {
+	background-image: url(iso3166-1-flags/hn.svg);
+}
+
+.fi-hr {
+	background-image: url(iso3166-1-flags/hr.svg);
+}
+
+.fi-ht {
+	background-image: url(iso3166-1-flags/ht.svg);
+}
+
+.fi-hu {
+	background-image: url(iso3166-1-flags/hu.svg);
+}
+
+.fi-id {
+	background-image: url(iso3166-1-flags/id.svg);
+}
+
+.fi-ie {
+	background-image: url(iso3166-1-flags/ie.svg);
+}
+
+.fi-il {
+	background-image: url(iso3166-1-flags/il.svg);
+}
+
+.fi-im {
+	background-image: url(iso3166-1-flags/im.svg);
+}
+
+.fi-in {
+	background-image: url(iso3166-1-flags/in.svg);
+}
+
+.fi-io {
+	background-image: url(iso3166-1-flags/io.svg);
+}
+
+.fi-iq {
+	background-image: url(iso3166-1-flags/iq.svg);
+}
+
+.fi-ir {
+	background-image: url(iso3166-1-flags/ir.svg);
+}
+
+.fi-is {
+	background-image: url(iso3166-1-flags/is.svg);
+}
+
+.fi-it {
+	background-image: url(iso3166-1-flags/it.svg);
+}
+
+.fi-je {
+	background-image: url(iso3166-1-flags/je.svg);
+}
+
+.fi-jm {
+	background-image: url(iso3166-1-flags/jm.svg);
+}
+
+.fi-jo {
+	background-image: url(iso3166-1-flags/jo.svg);
+}
+
+.fi-jp {
+	background-image: url(iso3166-1-flags/jp.svg);
+}
+
+.fi-ke {
+	background-image: url(iso3166-1-flags/ke.svg);
+}
+
+.fi-kg {
+	background-image: url(iso3166-1-flags/kg.svg);
+}
+
+.fi-kh {
+	background-image: url(iso3166-1-flags/kh.svg);
+}
+
+.fi-ki {
+	background-image: url(iso3166-1-flags/ki.svg);
+}
+
+.fi-km {
+	background-image: url(iso3166-1-flags/km.svg);
+}
+
+.fi-kn {
+	background-image: url(iso3166-1-flags/kn.svg);
+}
+
+.fi-kp {
+	background-image: url(iso3166-1-flags/kp.svg);
+}
+
+.fi-kr {
+	background-image: url(iso3166-1-flags/kr.svg);
+}
+
+.fi-kw {
+	background-image: url(iso3166-1-flags/kw.svg);
+}
+
+.fi-ky {
+	background-image: url(iso3166-1-flags/ky.svg);
+}
+
+.fi-kz {
+	background-image: url(iso3166-1-flags/kz.svg);
+}
+
+.fi-la {
+	background-image: url(iso3166-1-flags/la.svg);
+}
+
+.fi-lb {
+	background-image: url(iso3166-1-flags/lb.svg);
+}
+
+.fi-lc {
+	background-image: url(iso3166-1-flags/lc.svg);
+}
+
+.fi-li {
+	background-image: url(iso3166-1-flags/li.svg);
+}
+
+.fi-lk {
+	background-image: url(iso3166-1-flags/lk.svg);
+}
+
+.fi-lr {
+	background-image: url(iso3166-1-flags/lr.svg);
+}
+
+.fi-ls {
+	background-image: url(iso3166-1-flags/ls.svg);
+}
+
+.fi-lt {
+	background-image: url(iso3166-1-flags/lt.svg);
+}
+
+.fi-lu {
+	background-image: url(iso3166-1-flags/lu.svg);
+}
+
+.fi-lv {
+	background-image: url(iso3166-1-flags/lv.svg);
+}
+
+.fi-ly {
+	background-image: url(iso3166-1-flags/ly.svg);
+}
+
+.fi-ma {
+	background-image: url(iso3166-1-flags/ma.svg);
+}
+
+.fi-mc {
+	background-image: url(iso3166-1-flags/mc.svg);
+}
+
+.fi-md {
+	background-image: url(iso3166-1-flags/md.svg);
+}
+
+.fi-me {
+	background-image: url(iso3166-1-flags/me.svg);
+}
+
+.fi-mf {
+	background-image: url(iso3166-1-flags/mf.svg);
+}
+
+.fi-mg {
+	background-image: url(iso3166-1-flags/mg.svg);
+}
+
+.fi-mh {
+	background-image: url(iso3166-1-flags/mh.svg);
+}
+
+.fi-mk {
+	background-image: url(iso3166-1-flags/mk.svg);
+}
+
+.fi-ml {
+	background-image: url(iso3166-1-flags/ml.svg);
+}
+
+.fi-mm {
+	background-image: url(iso3166-1-flags/mm.svg);
+}
+
+.fi-mn {
+	background-image: url(iso3166-1-flags/mn.svg);
+}
+
+.fi-mo {
+	background-image: url(iso3166-1-flags/mo.svg);
+}
+
+.fi-mp {
+	background-image: url(iso3166-1-flags/mp.svg);
+}
+
+.fi-mq {
+	background-image: url(iso3166-1-flags/mq.svg);
+}
+
+.fi-mr {
+	background-image: url(iso3166-1-flags/mr.svg);
+}
+
+.fi-ms {
+	background-image: url(iso3166-1-flags/ms.svg);
+}
+
+.fi-mt {
+	background-image: url(iso3166-1-flags/mt.svg);
+}
+
+.fi-mu {
+	background-image: url(iso3166-1-flags/mu.svg);
+}
+
+.fi-mv {
+	background-image: url(iso3166-1-flags/mv.svg);
+}
+
+.fi-mw {
+	background-image: url(iso3166-1-flags/mw.svg);
+}
+
+.fi-mx {
+	background-image: url(iso3166-1-flags/mx.svg);
+}
+
+.fi-my {
+	background-image: url(iso3166-1-flags/my.svg);
+}
+
+.fi-mz {
+	background-image: url(iso3166-1-flags/mz.svg);
+}
+
+.fi-na {
+	background-image: url(iso3166-1-flags/na.svg);
+}
+
+.fi-nc {
+	background-image: url(iso3166-1-flags/nc.svg);
+}
+
+.fi-ne {
+	background-image: url(iso3166-1-flags/ne.svg);
+}
+
+.fi-nf {
+	background-image: url(iso3166-1-flags/nf.svg);
+}
+
+.fi-ng {
+	background-image: url(iso3166-1-flags/ng.svg);
+}
+
+.fi-ni {
+	background-image: url(iso3166-1-flags/ni.svg);
+}
+
+.fi-nl {
+	background-image: url(iso3166-1-flags/nl.svg);
+}
+
+.fi-no {
+	background-image: url(iso3166-1-flags/no.svg);
+}
+
+.fi-np {
+	background-image: url(iso3166-1-flags/np.svg);
+}
+
+.fi-nr {
+	background-image: url(iso3166-1-flags/nr.svg);
+}
+
+.fi-nu {
+	background-image: url(iso3166-1-flags/nu.svg);
+}
+
+.fi-nz {
+	background-image: url(iso3166-1-flags/nz.svg);
+}
+
+.fi-om {
+	background-image: url(iso3166-1-flags/om.svg);
+}
+
+.fi-pa {
+	background-image: url(iso3166-1-flags/pa.svg);
+}
+
+.fi-pe {
+	background-image: url(iso3166-1-flags/pe.svg);
+}
+
+.fi-pf {
+	background-image: url(iso3166-1-flags/pf.svg);
+}
+
+.fi-pg {
+	background-image: url(iso3166-1-flags/pg.svg);
+}
+
+.fi-ph {
+	background-image: url(iso3166-1-flags/ph.svg);
+}
+
+.fi-pk {
+	background-image: url(iso3166-1-flags/pk.svg);
+}
+
+.fi-pl {
+	background-image: url(iso3166-1-flags/pl.svg);
+}
+
+.fi-pm {
+	background-image: url(iso3166-1-flags/pm.svg);
+}
+
+.fi-pn {
+	background-image: url(iso3166-1-flags/pn.svg);
+}
+
+.fi-pr {
+	background-image: url(iso3166-1-flags/pr.svg);
+}
+
+.fi-ps {
+	background-image: url(iso3166-1-flags/ps.svg);
+}
+
+.fi-pt {
+	background-image: url(iso3166-1-flags/pt.svg);
+}
+
+.fi-pw {
+	background-image: url(iso3166-1-flags/pw.svg);
+}
+
+.fi-py {
+	background-image: url(iso3166-1-flags/py.svg);
+}
+
+.fi-qa {
+	background-image: url(iso3166-1-flags/qa.svg);
+}
+
+.fi-re {
+	background-image: url(iso3166-1-flags/re.svg);
+}
+
+.fi-ro {
+	background-image: url(iso3166-1-flags/ro.svg);
+}
+
+.fi-rs {
+	background-image: url(iso3166-1-flags/rs.svg);
+}
+
+.fi-ru {
+	background-image: url(iso3166-1-flags/ru.svg);
+}
+
+.fi-rw {
+	background-image: url(iso3166-1-flags/rw.svg);
+}
+
+.fi-sa {
+	background-image: url(iso3166-1-flags/sa.svg);
+}
+
+.fi-sb {
+	background-image: url(iso3166-1-flags/sb.svg);
+}
+
+.fi-sc {
+	background-image: url(iso3166-1-flags/sc.svg);
+}
+
+.fi-sd {
+	background-image: url(iso3166-1-flags/sd.svg);
+}
+
+.fi-se {
+	background-image: url(iso3166-1-flags/se.svg);
+}
+
+.fi-sg {
+	background-image: url(iso3166-1-flags/sg.svg);
+}
+
+.fi-sh {
+	background-image: url(iso3166-1-flags/sh.svg);
+}
+
+.fi-si {
+	background-image: url(iso3166-1-flags/si.svg);
+}
+
+.fi-sj {
+	background-image: url(iso3166-1-flags/sj.svg);
+}
+
+.fi-sk {
+	background-image: url(iso3166-1-flags/sk.svg);
+}
+
+.fi-sl {
+	background-image: url(iso3166-1-flags/sl.svg);
+}
+
+.fi-sm {
+	background-image: url(iso3166-1-flags/sm.svg);
+}
+
+.fi-sn {
+	background-image: url(iso3166-1-flags/sn.svg);
+}
+
+.fi-so {
+	background-image: url(iso3166-1-flags/so.svg);
+}
+
+.fi-sr {
+	background-image: url(iso3166-1-flags/sr.svg);
+}
+
+.fi-ss {
+	background-image: url(iso3166-1-flags/ss.svg);
+}
+
+.fi-st {
+	background-image: url(iso3166-1-flags/st.svg);
+}
+
+.fi-sv {
+	background-image: url(iso3166-1-flags/sv.svg);
+}
+
+.fi-sx {
+	background-image: url(iso3166-1-flags/sx.svg);
+}
+
+.fi-sy {
+	background-image: url(iso3166-1-flags/sy.svg);
+}
+
+.fi-sz {
+	background-image: url(iso3166-1-flags/sz.svg);
+}
+
+.fi-tc {
+	background-image: url(iso3166-1-flags/tc.svg);
+}
+
+.fi-td {
+	background-image: url(iso3166-1-flags/td.svg);
+}
+
+.fi-tf {
+	background-image: url(iso3166-1-flags/tf.svg);
+}
+
+.fi-tg {
+	background-image: url(iso3166-1-flags/tg.svg);
+}
+
+.fi-th {
+	background-image: url(iso3166-1-flags/th.svg);
+}
+
+.fi-tj {
+	background-image: url(iso3166-1-flags/tj.svg);
+}
+
+.fi-tk {
+	background-image: url(iso3166-1-flags/tk.svg);
 }
 
 .fi-tl {
@@ -721,318 +906,114 @@
 	background-image: url(iso3166-1-flags/tm.svg);
 }
 
-.fi-tz {
-	background-image: url(iso3166-1-flags/tz.svg);
-}
-
-.fi-ve {
-	background-image: url(iso3166-1-flags/ve.svg);
-}
-
-.fi-al {
-	background-image: url(iso3166-1-flags/al.svg);
-}
-
-.fi-bw {
-	background-image: url(iso3166-1-flags/bw.svg);
-}
-
-.fi-cd {
-	background-image: url(iso3166-1-flags/cd.svg);
-}
-
-.fi-lk {
-	background-image: url(iso3166-1-flags/lk.svg);
-}
-
-.fi-mo {
-	background-image: url(iso3166-1-flags/mo.svg);
-}
-
-.fi-mx {
-	background-image: url(iso3166-1-flags/mx.svg);
-}
-
-.fi-nc {
-	background-image: url(iso3166-1-flags/nc.svg);
-}
-
-.fi-na {
-	background-image: url(iso3166-1-flags/na.svg);
-}
-
-.fi-mz {
-	background-image: url(iso3166-1-flags/mz.svg);
-}
-
-.fi-li {
-	background-image: url(iso3166-1-flags/li.svg);
-}
-
-.fi-mm {
-	background-image: url(iso3166-1-flags/mm.svg);
-}
-
-.fi-cf {
-	background-image: url(iso3166-1-flags/cf.svg);
-}
-
-.fi-bb {
-	background-image: url(iso3166-1-flags/bb.svg);
-}
-
-.fi-vg {
-	background-image: url(iso3166-1-flags/vg.svg);
+.fi-tn {
+	background-image: url(iso3166-1-flags/tn.svg);
 }
 
 .fi-to {
 	background-image: url(iso3166-1-flags/to.svg);
 }
 
-.fi-tn {
-	background-image: url(iso3166-1-flags/tn.svg);
+.fi-tr {
+	background-image: url(iso3166-1-flags/tr.svg);
 }
 
-.fi-ao {
-	background-image: url(iso3166-1-flags/ao.svg);
+.fi-tt {
+	background-image: url(iso3166-1-flags/tt.svg);
 }
 
-.fi-bt {
-	background-image: url(iso3166-1-flags/bt.svg);
+.fi-tv {
+	background-image: url(iso3166-1-flags/tv.svg);
 }
 
-.fi-ax {
-	background-image: url(iso3166-1-flags/ax.svg);
+.fi-tw {
+	background-image: url(iso3166-1-flags/tw.svg);
 }
 
-.fi-cg {
-	background-image: url(iso3166-1-flags/cg.svg);
+.fi-tz {
+	background-image: url(iso3166-1-flags/tz.svg);
 }
 
-.fi-ml {
-	background-image: url(iso3166-1-flags/ml.svg);
+.fi-ua {
+	background-image: url(iso3166-1-flags/ua.svg);
 }
 
-.fi-jo {
-	background-image: url(iso3166-1-flags/jo.svg);
+.fi-ug {
+	background-image: url(iso3166-1-flags/ug.svg);
 }
 
-.fi-it {
-	background-image: url(iso3166-1-flags/it.svg);
+.fi-um {
+	background-image: url(iso3166-1-flags/um.svg);
 }
 
-.fi-gh {
-	background-image: url(iso3166-1-flags/gh.svg);
+.fi-us {
+	background-image: url(iso3166-1-flags/us.svg);
 }
 
-.fi-sm {
-	background-image: url(iso3166-1-flags/sm.svg);
+.fi-uy {
+	background-image: url(iso3166-1-flags/uy.svg);
 }
 
-.fi-pa {
-	background-image: url(iso3166-1-flags/pa.svg);
+.fi-uz {
+	background-image: url(iso3166-1-flags/uz.svg);
 }
 
-.fi-sz {
-	background-image: url(iso3166-1-flags/sz.svg);
+.fi-va {
+	background-image: url(iso3166-1-flags/va.svg);
 }
 
-.fi-pw {
-	background-image: url(iso3166-1-flags/pw.svg);
+.fi-vc {
+	background-image: url(iso3166-1-flags/vc.svg);
 }
 
-.fi-sl {
-	background-image: url(iso3166-1-flags/sl.svg);
+.fi-ve {
+	background-image: url(iso3166-1-flags/ve.svg);
 }
 
-.fi-de {
-	background-image: url(iso3166-1-flags/de.svg);
+.fi-vg {
+	background-image: url(iso3166-1-flags/vg.svg);
 }
 
-.fi-gi {
-	background-image: url(iso3166-1-flags/gi.svg);
+.fi-vi {
+	background-image: url(iso3166-1-flags/vi.svg);
 }
 
-.fi-fm {
-	background-image: url(iso3166-1-flags/fm.svg);
+.fi-vn {
+	background-image: url(iso3166-1-flags/vn.svg);
 }
 
-.fi-kh {
-	background-image: url(iso3166-1-flags/kh.svg);
+.fi-vu {
+	background-image: url(iso3166-1-flags/vu.svg);
 }
 
-.fi-et {
-	background-image: url(iso3166-1-flags/et.svg);
+.fi-wf {
+	background-image: url(iso3166-1-flags/wf.svg);
 }
 
-.fi-fo {
-	background-image: url(iso3166-1-flags/fo.svg);
+.fi-ws {
+	background-image: url(iso3166-1-flags/ws.svg);
 }
 
-.fi-ec {
-	background-image: url(iso3166-1-flags/ec.svg);
+.fi-xk {
+	background-image: url(iso3166-1-flags/xk.svg);
 }
 
-.fi-sn {
-	background-image: url(iso3166-1-flags/sn.svg);
+.fi-ye {
+	background-image: url(iso3166-1-flags/ye.svg);
 }
 
-.fi-sy {
-	background-image: url(iso3166-1-flags/sy.svg);
+.fi-yt {
+	background-image: url(iso3166-1-flags/yt.svg);
 }
 
-.fi-sx {
-	background-image: url(iso3166-1-flags/sx.svg);
+.fi-za {
+	background-image: url(iso3166-1-flags/za.svg);
 }
 
-.fi-pt {
-	background-image: url(iso3166-1-flags/pt.svg);
+.fi-zm {
+	background-image: url(iso3166-1-flags/zm.svg);
 }
 
-.fi-so {
-	background-image: url(iso3166-1-flags/so.svg);
-}
-
-.fi-jm {
-	background-image: url(iso3166-1-flags/jm.svg);
-}
-
-.fi-hr {
-	background-image: url(iso3166-1-flags/hr.svg);
-}
-
-.fi-ki {
-	background-image: url(iso3166-1-flags/ki.svg);
-}
-
-.fi-kz {
-	background-image: url(iso3166-1-flags/kz.svg);
-}
-
-.fi-ie {
-	background-image: url(iso3166-1-flags/ie.svg);
-}
-
-.fi-km {
-	background-image: url(iso3166-1-flags/km.svg);
-}
-
-.fi-ir {
-	background-image: url(iso3166-1-flags/ir.svg);
-}
-
-.fi-gy {
-	background-image: url(iso3166-1-flags/gy.svg);
-}
-
-.fi-gn {
-	background-image: url(iso3166-1-flags/gn.svg);
-}
-
-.fi-fj {
-	background-image: url(iso3166-1-flags/fj.svg);
-}
-
-.fi-pg {
-	background-image: url(iso3166-1-flags/pg.svg);
-}
-
-.fi-sk {
-	background-image: url(iso3166-1-flags/sk.svg);
-}
-
-.fi-ro {
-	background-image: url(iso3166-1-flags/ro.svg);
-}
-
-.fi-sj {
-	background-image: url(iso3166-1-flags/sj.svg);
-}
-
-.fi-pf {
-	background-image: url(iso3166-1-flags/pf.svg);
-}
-
-.fi-fk {
-	background-image: url(iso3166-1-flags/fk.svg);
-}
-
-.fi-eg {
-	background-image: url(iso3166-1-flags/eg.svg);
-}
-
-.fi-is {
-	background-image: url(iso3166-1-flags/is.svg);
-}
-
-.fi-id {
-	background-image: url(iso3166-1-flags/id.svg);
-}
-
-.fi-ky {
-	background-image: url(iso3166-1-flags/ky.svg);
-}
-
-.fi-iq {
-	background-image: url(iso3166-1-flags/iq.svg);
-}
-
-.fi-kn {
-	background-image: url(iso3166-1-flags/kn.svg);
-}
-
-.fi-hu {
-	background-image: url(iso3166-1-flags/hu.svg);
-}
-
-.fi-ee {
-	background-image: url(iso3166-1-flags/ee.svg);
-}
-
-.fi-er {
-	background-image: url(iso3166-1-flags/er.svg);
-}
-
-.fi-fi {
-	background-image: url(iso3166-1-flags/fi.svg);
-}
-
-.fi-gm {
-	background-image: url(iso3166-1-flags/gm.svg);
-}
-
-.fi-sh {
-	background-image: url(iso3166-1-flags/sh.svg);
-}
-
-.fi-ps {
-	background-image: url(iso3166-1-flags/ps.svg);
-}
-
-.fi-pr {
-	background-image: url(iso3166-1-flags/pr.svg);
-}
-
-.fi-si {
-	background-image: url(iso3166-1-flags/si.svg);
-}
-
-.fi-pe {
-	background-image: url(iso3166-1-flags/pe.svg);
-}
-
-.fi-qa {
-	background-image: url(iso3166-1-flags/qa.svg);
-}
-
-.fi-gl {
-	background-image: url(iso3166-1-flags/gl.svg);
-}
-
-.fi-es {
-	background-image: url(iso3166-1-flags/es.svg);
-}
-
-.fi-ht {
-	background-image: url(iso3166-1-flags/ht.svg);
+.fi-zw {
+	background-image: url(iso3166-1-flags/zw.svg);
 }

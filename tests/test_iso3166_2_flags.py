@@ -1,6 +1,7 @@
 import unittest
 import os
 import re
+import json
 from lxml import etree
 from iso3166_2 import Subdivisions
 import warnings
@@ -41,6 +42,10 @@ class ISO3166_2_Flags_Tests(unittest.TestCase):
         """ Initialise test variables. """
         self.test_input_flag_folder = "iso3166-2-flags"
 
+        #load expected counts from metadata JSON
+        with open("iso3166-flags-metadata/iso3166_flags_metadata.json") as f:
+            self._metadata = json.load(f)
+
         #list of all ISO 3166-2 subdivision flags
         self.iso3166_2_files = [
             f
@@ -61,7 +66,8 @@ class ISO3166_2_Flags_Tests(unittest.TestCase):
     def test_iso3166_2_flags_total(self):
         """ Test total number of subdivision flags. """
 #1.)
-        self.assertEqual(len(self.iso3166_2_files), 2843, f"Expected there to be 2843 flags in the ISO 3166-2 folder, got {len(self.iso3166_2_files)}.")
+        expected = self._metadata["iso3166_2_total"]
+        self.assertEqual(len(self.iso3166_2_files), expected, f"Expected there to be {expected} flags in the ISO 3166-2 folder, got {len(self.iso3166_2_files)}.")
 
     # @unittest.skip("")
     def test_iso3166_2_flags_file_extensions(self):
@@ -94,7 +100,7 @@ class ISO3166_2_Flags_Tests(unittest.TestCase):
                 f"Expected subdivision code of flag file to be in list of subdivision codes: {all_subdivision_codes[country_code]}.")
 
     # @unittest.skip("")
-    def test_valiate_svg_file(self):
+    def test_validate_svg_file(self):
         """ Testing that each SVG file is a valid and parseable XML file. """
         for filename in self.iso3166_2_files:
             if filename.endswith(".svg"):

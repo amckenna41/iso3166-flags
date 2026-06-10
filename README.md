@@ -32,7 +32,9 @@ Table of Contents
 -----------------
   * [Introduction](#introduction)
   * [Installation](#installation)
+  * [CDN](#cdn)
   * [Usage](#usage)
+  * [Comparison](#comparison)
   * [Updates](#updates)
   * [Directories](#directories)
   * [Issues or Contributing](#issues-or-contributing)
@@ -85,9 +87,23 @@ Alternatively, each of the flag datasets are available as releases on the repo w
 https://github.com/amckenna41/iso3166-flags/releases
 ```
 
+## CDN
+
+Every file is accessible instantly via [jsDelivr](https://www.jsdelivr.com/) — no installation or local clone required:
+
+```html
+<!-- ISO 3166-1 CSS (country flags) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/iso3166-flags@1.0.2/css/iso3166-1.css">
+
+<!-- ISO 3166-2 CSS (subdivision flags) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/iso3166-flags@1.0.2/css/iso3166-2.css">
+```
+
+Replace `1.0.2` with the [latest version](https://www.npmjs.com/package/iso3166-flags).
+
 Usage
 -----
-The flags can be implemented in-line by referencing the CSS class of the respective flag using the [`ISO 3166-1`](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-1.css) or [`ISO 3166-2`](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-2.css) CSS file. For ISO 3166-1 icons add the classes `.fi` and `.fi-xx` (where `xx` is the ISO 3166-1-alpha-2 code of a country) to an empty `<span>` [[5]](#references). To add a squared version flag additionally add the class `fis`. 
+The flags can be implemented in-line by referencing the CSS class of the respective flag using the [`ISO 3166-1`](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-1.css) or [`ISO 3166-2`](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-2.css) CSS file. For ISO 3166-1 icons add the classes `.fi` and `.fi-xx` (where `xx` is the ISO 3166-1-alpha-2 code of a country) to an empty `<span>` [[3]](#references). To add a squared version flag additionally add the class `fis`. 
 
 For example, adding the normal and squared flags for Andorra, Denmark & Panama:
 ```html
@@ -104,6 +120,32 @@ For example, adding the Hungarian county of Heves (HU-HE), the South Sudanese st
 <span class="fi fi-ss-ee"></span> <span class="fi fi-ss-ee fis"></span>
 <span class="fi fi-tw-mia"></span> <span class="fi fi-tw-mia fis"></span>
 ```
+
+### Accessibility
+
+Flag `<span>` elements are visually empty by default. For accessible applications, add `role="img"` and `aria-label` with the country or subdivision name:
+
+```html
+<span class="fi fi-gb" role="img" aria-label="Flag of the United Kingdom"></span>
+<span class="fi fi-gb-sct" role="img" aria-label="Flag of Scotland"></span>
+```
+
+## Comparison
+
+`iso3166-flags` is the only open dataset that combines comprehensive ISO 3166-1 **and** ISO 3166-2 flag coverage in a single, CSS-ready package:
+
+| Feature | iso3166-flags | [lipis/flag-icons][flag-icons-repo] |
+|---|:---:|:---:|
+| ISO 3166-1 country flags | **250** | 258 (incl. extras) |
+| **ISO 3166-2 subdivision flags** | **2,843** | **0** |
+| SVG format | ✅ | ✅ |
+| CSS sprite | ✅ | ✅ |
+| Minified CSS | ✅ | ✅ |
+| npm package | ✅ | ✅ |
+| CDN via jsDelivr | ✅ | ✅ |
+| Per-flag metadata (dimensions, quality, colours) | ✅ | — |
+
+> The defining differentiator is the **2,843 ISO 3166-2 subdivision flags** — no other single dataset or package provides this breadth of regional flag coverage.
 
 Updates
 -------

@@ -2,7 +2,11 @@
     "name": "iso3166-flags",
     "version": "1.0.2",
     "description": "A comprehensive library of ISO 3166-1 & ISO 3166-2 country/subdivision codes and their corresponding flag icons.",
-    "main": "css/iso3166-flags.css",
+    "style": "css/iso3166-1.css",
+    "exports": {
+        "./css/iso3166-1.css": "./css/iso3166-1.css",
+        "./css/iso3166-2.css": "./css/iso3166-2.css"
+    },
     "author": {
         "name": "AJ McKenna",
         "email": "amckenna41@qub.ac.uk"
@@ -20,11 +24,8 @@
     ],
     "files": [
         "css",
-        "iso3166-1-icons",
-        "iso3166-2-icons",
-        "iso3166-1.json",
-        "iso3166-2.json",
-        "iso3166-2_min.json"
+        "iso3166-1-flags",
+        "iso3166-2-flags"
     ],
     "repository": {
         "type": "git",

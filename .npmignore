@@ -2,3 +2,16 @@ node_modules/
 scripts/
 downloads/
 old/
+iso3166-2-flags-backup/
+iso3166-2-icons-extras/
+iso3166-2-icons-original/
+iso3166-flags-metadata/
+tests/
+.github/
+*.csv
+*.txt
+*.py
+*.sh
+repo_metadata.json
+CHANGELOG.md
+.gitignore

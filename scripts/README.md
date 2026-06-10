@@ -56,6 +56,9 @@ python3 scripts/generate_css.py --iso3166_1_country_input_folder="../iso3166-1-f
 --export_iso3166_1_css_filepath: export filename for ISO 3166-1 CSS
 --export_iso3166_2_css_filepath: export filename for ISO 3166-2 CSS
 --iso3166_type: create ISO3166-1 or ISO3166-2 CSS file, by default both will be created
+--minify: additionally generate a .min.css minified version of each CSS file
+--sprite: generate an SVG sprite file (css/iso3166-1-sprite.svg) for all ISO 3166-1 flags
+--export_sprite_filepath: output path for the SVG sprite file (default: css/iso3166-1-sprite.svg)
 ```
 
 ### Export flag metadata for ISO 3166-1 and ISO 3166-2 flags:

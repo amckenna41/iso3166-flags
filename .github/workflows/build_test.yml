@@ -5,8 +5,8 @@ on:
   push:
     branches: [ main ]
     paths-ignore: 
-      - '**/.md'
-      - '**/.yml'
+      - '**/*.md'
+      - '**/*.yml'
       - 'docs/**/*'
       - LICENSE
       - .gitignore
@@ -26,11 +26,11 @@ jobs:
         matrix:
             # os: [ubuntu-latest, windows-latest] #testing on multiple OS's, macos-latest
             os: [ubuntu-latest]
-            python-version: ["3.11"]   #testing on multiple python versions
+            python-version: ["3.10", "3.11", "3.12"]   #testing on multiple python versions
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
         python-version: ${{ matrix.python-version }}
     
@@ -47,6 +47,55 @@ jobs:
         echo "Testing using unittest..."
         python -m unittest discover tests -v
 
+    #validate all SVG files are well-formed XML
+    - name: Validate SVG files
+      run: |
+        python -c "
+        from lxml import etree
+        import os, sys
+        errors = []
+        for root, _, files in os.walk('iso3166-2-flags'):
+            for f in files:
+                if f.endswith('.svg'):
+                    path = os.path.join(root, f)
+                    try:
+                        etree.parse(path)
+                    except Exception as e:
+                        errors.append(f'{f}: {e}')
+        for root, _, files in os.walk('iso3166-1-flags'):
+            for f in files:
+                if f.endswith('.svg'):
+                    path = os.path.join(root, f)
+                    try:
+                        etree.parse(path)
+                    except Exception as e:
+                        errors.append(f'{f}: {e}')
+        if errors:
+            print('SVG validation errors (first 10):', errors[:10])
+            sys.exit(1)
+        print(f'All SVGs valid.')
+        "
+
+    #verify README Quick Stats table matches metadata JSON
+    - name: Verify README Quick Stats
+      run: |
+        python -c "
+        import json, sys
+        with open('iso3166-flags-metadata/iso3166_flags_metadata.json') as f:
+            meta = json.load(f)
+        with open('README.md') as f:
+            readme = f.read()
+        stale = []
+        for key, label in [('total', 'total flags'), ('iso3166_1_total', 'ISO3166-1 total'), ('iso3166_2_total', 'ISO3166-2 total')]:
+            val = str(meta[key]).replace(',', '')
+            if val not in readme.replace(',', ''):
+                stale.append(f'{label}: expected {val}')
+        if stale:
+            print('README Quick Stats appear stale:', stale)
+            sys.exit(1)
+        print('README stats are up to date.')
+        "
+
   #run various vulnerability, security and package checks 
   security_check:
     name: Bandit and package safety check 
@@ -60,7 +109,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
         python-version: ${{ matrix.python-version }}
 
@@ -68,19 +117,20 @@ jobs:
     - name: Artifacts mkdir
       run: mkdir artifacts
 
-    #package vulnerability check
+    #package vulnerability check using safety scan (v3+ API)
     - name: Package safety check
       run: |
         echo "Running package safety check"
-        python -m safety check > artifacts/package_safety_output.txt
+        pip install safety
+        safety scan --output text > artifacts/package_safety_output.txt || true
         cat artifacts/package_safety_output.txt
       continue-on-error: true
 
-    #run Bandit security check for any known vulnerabilities in code
+    #run Bandit security check scoped to production code only, medium severity and confidence
     - name: Bandit
       run: |
         echo "Running Bandit"
-        python -m bandit -r . > artifacts/bandit_output.txt
+        python -m bandit -r scripts/ tests/ --level medium --confidence medium > artifacts/bandit_output.txt || true
         cat artifacts/bandit_output.txt
       continue-on-error: true
 

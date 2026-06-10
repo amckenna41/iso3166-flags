@@ -2,14 +2,13 @@ import argparse
 import os
 import csv
 import re
-import cv2  
+import cv2
 import iso3166
 from iso3166_2 import Subdivisions
 from PIL import Image, UnidentifiedImageError
 from lxml import etree
 import pandas as pd
 import json
-import xml.etree.ElementTree as ET
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module="PIL") #ignore any warnings from Pillow module
 warnings.filterwarnings("ignore", message=".*iCCP.*") #suppress libpng iCCP warnings
@@ -47,7 +46,7 @@ def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metad
         country_subdivision_code = "subdivision_code"        
 
     #get list of columns in csv output - first column can be country_code or subdivision_code
-    attribute_list = [country_subdivision_code, 'file_name', 'file_size_kb', 'file_extension', 'dimensions', 'aspect_ratio', 'flag_type', 'quality']
+    attribute_list = [country_subdivision_code, 'file_name', 'file_size_kb', 'file_extension', 'dimensions', 'aspect_ratio', 'flag_type', 'quality', 'source_url', 'dominant_colours']
 
     #list of each row
     file_info_list = []
@@ -203,24 +202,60 @@ def calculate_svg_quality(svg_path):
         raise FileNotFoundError(f"SVG not found at: {svg_path}")
 
     try:
-        tree = ET.parse(svg_path)
+        tree = etree.parse(svg_path)
         root = tree.getroot()
 
-        #each SVG should have a namespace at the top as they are XML
-        namespace = {'svg': 'http://www.w3.org/2000/svg'}
-        ET.register_namespace('', namespace['svg'])
-
         #get count of common vector elements
+        namespace = {'svg': 'http://www.w3.org/2000/svg'}
         elements = ['path', 'rect', 'circle', 'line', 'polygon', 'polyline', 'ellipse']
         count = sum(len(root.findall(f".//svg:{el}", namespace)) for el in elements)
 
-        #normalize to 0–100 scale
+        #normalize to 0-100 scale
         quality = min(100, count * 2)  #50 elements = 100 quality
         return round(quality, 2)
 
-    #raise ElementTree parsing error
-    except ET.ParseError:
-        raise ET.ParseError(f"Could not parse SVG at: {svg_path}.")
+    #raise lxml parsing error
+    except etree.XMLSyntaxError as e:
+        raise etree.XMLSyntaxError(f"Could not parse SVG at: {svg_path}.")
+
+def extract_dominant_colours(svg_path: str) -> str:
+    """
+    Extract unique fill colours declared in an SVG file by parsing all element
+    fill attributes (both inline and via the style attribute) using lxml.
+    Returns a comma-separated, sorted string of unique hex/rgb colour values.
+
+    Parameters
+    ==========
+    :svg_path: str
+        path to the SVG file.
+
+    Returns
+    =======
+    :colours: str
+        comma-separated string of unique fill colours found in the SVG.
+    """
+    if not os.path.isfile(svg_path):
+        return ""
+    try:
+        tree = etree.parse(svg_path)
+        root = tree.getroot()
+        colours = set()
+        EXCLUDED = {"none", "transparent", "inherit", "currentcolor", ""}
+        for elem in root.iter():
+            #check fill attribute directly
+            fill = (elem.get("fill") or "").strip().lower()
+            if fill not in EXCLUDED and (fill.startswith("#") or fill.startswith("rgb")):
+                colours.add(fill)
+            #check fill within style attribute
+            for part in (elem.get("style") or "").split(";"):
+                part = part.strip()
+                if part.lower().startswith("fill:"):
+                    val = part[5:].strip().lower()
+                    if val not in EXCLUDED and (val.startswith("#") or val.startswith("rgb")):
+                        colours.add(val)
+        return ",".join(sorted(colours))
+    except Exception:
+        return ""
 
 def get_file_info(image_file_path: str) -> dict:
     """
@@ -274,7 +309,9 @@ def get_file_info(image_file_path: str) -> dict:
         'dimensions': dimensions,
         'aspect_ratio': aspect_ratio,
         'flag_type': None,
-        'quality': quality
+        'quality': quality,
+        'source_url': '',
+        'dominant_colours': extract_dominant_colours(image_file_path) if file_extension == 'svg' else ''
     }
 
 def calculate_svg_dimension(svg_file_path: str) -> tuple:
@@ -555,7 +592,8 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     #convert all the folder size attributes to KB, round to 3d.p
     flag_metadata_master["iso3166_1_flags_size"] = f"{round(flag_metadata_master['iso3166_1_flags_size'] / 1024, 3):,.3f}KB"
     flag_metadata_master["iso3166_2_flags_size"] = f"{round(flag_metadata_master['iso3166_2_flags_size'] / 1024, 3):,.3f}KB"
-    flag_metadata_master["average_flag_size"] = f"{round(flag_metadata_master['total_repo_size'] / total_flag_count, 3):,.3f}KB"
+    # Calculate average flag size in KB (convert bytes to KB before dividing)
+    flag_metadata_master["average_flag_size"] = f"{round((flag_metadata_master['total_repo_size'] / 1024) / total_flag_count, 3):,.3f}KB"
     flag_metadata_master["total_repo_size"] = f"{round(flag_metadata_master['total_repo_size'] / 1024, 3):,.3f}KB"
 
     ### Get list of any missing ISO 3166-1 flags not in flag directory ###

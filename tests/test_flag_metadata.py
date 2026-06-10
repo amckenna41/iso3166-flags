@@ -77,12 +77,12 @@ class Flag_Metadata_Tests(unittest.TestCase):
         self.assertTrue(os.path.isfile(self.test_flag_metadata_output), "Expected output metadata file to be exported.")  
 #2.)  
         test_flag_metadata_expected = pd.DataFrame([
-            ["FI-07", "FI-07.svg", 30.95, "SVG", "(700, 1000)", 1.43, np.nan, 100.0],
-            ["IQ-AR", "IQ-AR.png", 156.844, "PNG", "(1200, 1800)", 1.50, np.nan, 3.9],
-            ["KM-A",  "KM-A.svg", 0.502, "SVG", "(400, 600)", 1.5, np.nan, 8.0],
-            ["SB-ML", "SB-ML.svg", 35.128, "SVG", "(256, 512)", 2.0, np.nan, 100.0],
-            ["SH-HL", "SH-HL.svg", 84.881, "SVG", "(600, 1200)", 2.0, np.nan, 100.0],
-            ["WF-UV", "WF-UV.svg", 0.851, "SVG", "(600, 900)", 1.5, np.nan, 12.0],
+            ["FI-07", "FI-07.svg", 30.95, "SVG", "(700, 1000)", 1.43, np.nan, 100.0, np.nan, "#1153d4,#155bdb,#d5a92d,#ffffff"],
+            ["IQ-AR", "IQ-AR.png", 156.844, "PNG", "(1200, 1800)", 1.50, np.nan, 3.9, np.nan, np.nan],
+            ["KM-A",  "KM-A.svg", 0.502, "SVG", "(400, 600)", 1.5, np.nan, 8.0, np.nan, "#ce1126,#fff"],
+            ["SB-ML", "SB-ML.svg", 35.128, "SVG", "(256, 512)", 2.0, np.nan, 100.0, np.nan, "#1f9bde,#8c6c23,#d0112b,#f6b332,#ffffff"],
+            ["SH-HL", "SH-HL.svg", 84.881, "SVG", "(600, 1200)", 2.0, np.nan, 100.0, np.nan, "#012169,#128bbf,#333,#472b1f,#66452b,#666,#69522b,#69737c,#7fb8c1,#bca76b,#c8102e,#cfa763,#d7c99c,#e8ece9,#fff"],
+            ["WF-UV", "WF-UV.svg", 0.851, "SVG", "(600, 900)", 1.5, np.nan, 12.0, np.nan, "#002654,#ce1126,#fff"],
         ], columns=test_flag_metadata_observed.columns)
         
         try:
@@ -162,22 +162,26 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #1.)
         test_flag_info = get_file_info(test_flag_filepath1)
         test_flag_info_expected = {'subdivision_code': 'FI-09', 'file_name': 'FI-09.svg', 'file_size_kb': 15.111, 'file_extension': 'SVG', 
-                                   'dimensions': (624, 566), 'aspect_ratio': 0.91, 'flag_type': None, 'quality': 24}
+                                   'dimensions': (624, 566), 'aspect_ratio': 0.91, 'flag_type': None, 'quality': 24,
+                                   'source_url': '', 'dominant_colours': '#0032ab,#f0d258,#ffffff'}
         self.assertEqual(test_flag_info, test_flag_info_expected, f"Expected and observed flag info object do not match:\n{test_flag_info}.")
 #2.)
         test_flag_info = get_file_info(test_flag_filepath2)
         test_flag_info_expected = {'subdivision_code': 'KM-M', 'file_name': 'KM-M.svg', 'file_size_kb': 0.457, 'file_extension': 'SVG', 
-                                   'dimensions': (400, 600), 'aspect_ratio': 1.5, 'flag_type': None, 'quality': 4}
+                                   'dimensions': (400, 600), 'aspect_ratio': 1.5, 'flag_type': None, 'quality': 4,
+                                   'source_url': '', 'dominant_colours': '#ce1126,#ffe01e'}
         self.assertEqual(test_flag_info, test_flag_info_expected, f"Expected and observed flag info object do not match:\n{test_flag_info}.")
 #3.)
         test_flag_info = get_file_info(test_flag_filepath3)
         test_flag_info_expected = {'subdivision_code': 'SB-TE', 'file_name': 'SB-TE.svg', 'file_size_kb': 6.034, 'file_extension': 'SVG', 
-                                   'dimensions': (600, 1200), 'aspect_ratio': 2.0, 'flag_type': None, 'quality': 18}
+                                   'dimensions': (600, 1200), 'aspect_ratio': 2.0, 'flag_type': None, 'quality': 18,
+                                   'source_url': '', 'dominant_colours': '#0051ba,#215b33,#cc0001,#ffffff'}
         self.assertEqual(test_flag_info, test_flag_info_expected, f"Expected and observed flag info object do not match:\n{test_flag_info}.")
 #4.)
         test_flag_info = get_file_info(test_flag_filepath4)
         test_flag_info_expected = {'subdivision_code': 'WF-UV', 'file_name': 'WF-UV.svg', 'file_size_kb': 0.851, 'file_extension': 'SVG', 
-                                   'dimensions': (600, 900), 'aspect_ratio': 1.5, 'flag_type': None, 'quality': 12}
+                                   'dimensions': (600, 900), 'aspect_ratio': 1.5, 'flag_type': None, 'quality': 12,
+                                   'source_url': '', 'dominant_colours': '#002654,#ce1126,#fff'}
         self.assertEqual(test_flag_info, test_flag_info_expected, f"Expected and observed flag info object do not match:\n{test_flag_info}.")
 #5.)
         with self.assertRaises(OSError):
@@ -235,7 +239,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_repo_metadata = export_repo_metadata(export_json=True, export_filename=self.test_repo_metadata_output)
         test_repo_metadata_expected = {'total': 3093, 'iso3166_1_total': 250, 'iso3166_2_total': 2843, 'svg': 2241, 'png': 798, 'jpg/jpeg': 54, 
                                        'other': 0, 'duplicates': 0, 'subdivisions_other': [], 'duplicate_list': [], 'total_repo_size': '341,261.141KB', 
-                                       'iso3166_1_flags_size': '1,611.863KB', 'iso3166_2_flags_size': '339,649.277KB', 'average_flag_size': '112,981.380KB', 
+                                       'iso3166_1_flags_size': '1,611.863KB', 'iso3166_2_flags_size': '339,649.277KB', 'average_flag_size': '110.333KB', 
                                        'missing_iso3166_1_count': 0, 'missing_iso3166_2_count': 2203}
 
         self.assertTrue(os.path.isfile(self.test_repo_metadata_output), "Expected flag metadata format output file to be exported.")
@@ -349,15 +353,15 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_metadata_df = pd.read_csv(self.test_flag_metadata_output)
         
         #expected columns
-        expected_columns = ['subdivision_code', 'file_name', 'file_size_kb', 'file_extension', 
-                          'dimensions', 'aspect_ratio', 'flag_type', 'quality']
+        expected_columns = ['subdivision_code', 'file_name', 'file_size_kb', 'file_extension',
+                          'dimensions', 'aspect_ratio', 'flag_type', 'quality', 'source_url', 'dominant_colours']
 #1.)        
         self.assertEqual(list(test_metadata_df.columns), expected_columns, 
                         f"CSV columns don't match expected: {list(test_metadata_df.columns)}")
         
         #verify no completely empty columns
         for col in expected_columns:
-            if col not in ['flag_type']:  # flag_type can be None
+            if col not in ['flag_type', 'source_url']:  # flag_type and source_url are optional/not always populated
                 non_null_count = test_metadata_df[col].notna().sum()
                 self.assertGreater(non_null_count, 0, f"Column {col} should have some non-null values.")
 

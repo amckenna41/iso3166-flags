@@ -26,7 +26,7 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
     test_iso3166_1_flag_duplicates:
         testing there are no duplicate country flags, mainly looking for similar flags
         but with different extension.
-    test_valiate_svg_file:
+    test_validate_svg_file:
         testing that each SVG file is a valid and parseable XML file.
     test_iso3166_1_flag_duplicates:
         testing there are no duplicate country flags, including those with different file extension.
@@ -114,7 +114,7 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
         self.assertFalse(duplicates, f"Expected no flags with no duplicate base names across extensions, got: {duplicates}.")
 
     # @unittest.skip("")
-    def test_valiate_svg_file(self):
+    def test_validate_svg_file(self):
         """ Testing that each SVG file is a valid and parseable XML file. """
         for filename in self.iso3166_1_files:
             if filename.endswith(".svg"):

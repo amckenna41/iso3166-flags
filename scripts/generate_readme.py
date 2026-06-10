@@ -2,7 +2,7 @@ import os
 import argparse
 import pandas as pd
 import iso3166
-from iso3166_2 import *
+from iso3166_2 import Subdivisions
 
 #base URL to iso3166-2-flags folder in repo
 base_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags"
