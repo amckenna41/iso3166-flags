@@ -93,13 +93,18 @@ Every file is accessible instantly via [jsDelivr](https://www.jsdelivr.com/) —
 
 ```html
 <!-- ISO 3166-1 CSS (country flags) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/iso3166-flags@1.0.2/css/iso3166-1.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-1.css">
 
 <!-- ISO 3166-2 CSS (subdivision flags) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/iso3166-flags@1.0.2/css/iso3166-2.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-2.css">
 ```
 
-Replace `1.0.2` with the [latest version](https://www.npmjs.com/package/iso3166-flags).
+Minified versions are also available:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-1.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-2.min.css">
+```
 
 Usage
 -----

@@ -1,0 +1,237 @@
+name: Check Upstream Flag Icons Updates
+
+# Runs quarterly to detect new releases of lipis/flag-icons.
+# When a new release is found, the iso3166-1-flags folder is synced and a PR is opened.
+# Whether a release has already been processed is determined by checking if a PR for
+# the release's branch name already exists (in any state), so no tracking file is needed.
+on:
+  schedule:
+    - cron: '0 0 1 */3 *'  # 00:00 UTC on the 1st of every third month
+  workflow_dispatch:        # allow manual trigger from the Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-and-sync:
+    name: Check and sync lipis/flag-icons
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # -------------------------------------------------------
+      # 1. Fetch the latest release tag from lipis/flag-icons
+      # -------------------------------------------------------
+      - name: Get latest lipis/flag-icons release
+        id: get_release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          LATEST_TAG=$(gh api repos/lipis/flag-icons/releases/latest --jq '.tag_name')
+          RELEASE_URL=$(gh api repos/lipis/flag-icons/releases/latest --jq '.html_url')
+          RELEASE_DATE=$(gh api repos/lipis/flag-icons/releases/latest --jq '.published_at' | cut -c1-10)
+          echo "latest_tag=$LATEST_TAG"     >> "$GITHUB_OUTPUT"
+          echo "release_url=$RELEASE_URL"   >> "$GITHUB_OUTPUT"
+          echo "release_date=$RELEASE_DATE" >> "$GITHUB_OUTPUT"
+          echo "Latest lipis/flag-icons release: $LATEST_TAG ($RELEASE_DATE)"
+
+      # -------------------------------------------------------
+      # 2. Check whether we have already processed this release.
+      #    A PR branch named upstream/lipis-flag-icons-<tag>
+      #    existing in any state (open, merged, closed) means
+      #    this version has already been handled.
+      # -------------------------------------------------------
+      - name: Check if this release was already processed
+        id: check_release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
+        run: |
+          BRANCH="upstream/lipis-flag-icons-${LATEST_TAG}"
+          EXISTING=$(gh pr list \
+            --repo "$GITHUB_REPOSITORY" \
+            --state all \
+            --head "$BRANCH" \
+            --json number \
+            --jq '.[0].number // empty')
+
+          if [ -n "$EXISTING" ]; then
+            echo "Release $LATEST_TAG already processed (PR #$EXISTING) — nothing to do."
+            echo "new_release=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "No existing PR for $LATEST_TAG — will sync flags."
+            echo "new_release=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # -------------------------------------------------------
+      # 3. Download the release tarball and sync iso3166-1-flags
+      # -------------------------------------------------------
+      - name: Download and sync flags
+        if: steps.check_release.outputs.new_release == 'true'
+        env:
+          LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
+        run: |
+          python3 - <<'PYEOF'
+          import os, tarfile, urllib.request, shutil, json
+
+          latest_tag = os.environ["LATEST_TAG"]
+          tarball_url = (
+              f"https://github.com/lipis/flag-icons/archive/refs/tags/{latest_tag}.tar.gz"
+          )
+          target_dir = "iso3166-1-flags"
+
+          print(f"Downloading {tarball_url} ...")
+          urllib.request.urlretrieve(tarball_url, "flag-icons.tar.gz")
+
+          print("Extracting archive ...")
+          with tarfile.open("flag-icons.tar.gz", "r:gz") as tar:
+              tar.extractall("flag-icons-tmp")
+
+          # Locate the extracted root directory (e.g. flag-icons-7.5.0/)
+          extracted_dir = next(
+              (
+                  os.path.join("flag-icons-tmp", d)
+                  for d in os.listdir("flag-icons-tmp")
+                  if d.startswith("flag-icons-")
+              ),
+              None,
+          )
+          if not extracted_dir:
+              raise RuntimeError("Could not locate extracted flag-icons directory")
+
+          source_dir = os.path.join(extracted_dir, "flags", "4x3")
+          if not os.path.isdir(source_dir):
+              raise RuntimeError(f"Expected flags/4x3/ not found in archive: {source_dir}")
+
+          current_flags  = {f for f in os.listdir(target_dir)  if f.endswith(".svg")}
+          upstream_flags = {f for f in os.listdir(source_dir) if f.endswith(".svg")}
+
+          added, updated, removed = [], [], []
+
+          # Add new flags / overwrite changed flags
+          for fname in upstream_flags:
+              src = os.path.join(source_dir, fname)
+              dst = os.path.join(target_dir, fname)
+              if fname not in current_flags:
+                  shutil.copy2(src, dst)
+                  added.append(fname)
+              else:
+                  with open(src, "rb") as fh: new_bytes = fh.read()
+                  with open(dst, "rb") as fh: old_bytes = fh.read()
+                  if new_bytes != old_bytes:
+                      shutil.copy2(src, dst)
+                      updated.append(fname)
+
+          # Remove flags that no longer exist upstream
+          for fname in current_flags - upstream_flags:
+              os.remove(os.path.join(target_dir, fname))
+              removed.append(fname)
+
+          summary = {
+              "added":   sorted(added),
+              "updated": sorted(updated),
+              "removed": sorted(removed),
+          }
+          print(
+              f"Sync complete — "
+              f"added: {len(added)}, updated: {len(updated)}, removed: {len(removed)}"
+          )
+          if added:   print("  Added  :", added)
+          if updated: print("  Updated:", updated)
+          if removed: print("  Removed:", removed)
+
+          with open("flag_sync_summary.json", "w") as fh:
+              json.dump(summary, fh, indent=2)
+
+          # Clean up download artefacts
+          os.remove("flag-icons.tar.gz")
+          shutil.rmtree("flag-icons-tmp")
+          PYEOF
+
+      # -------------------------------------------------------
+      # 4. Build the pull-request body from the sync summary
+      # -------------------------------------------------------
+      - name: Build PR body
+        if: steps.check_release.outputs.new_release == 'true'
+        run: |
+          ADDED_COUNT=0; UPDATED_COUNT=0; REMOVED_COUNT=0
+          ADDED_LIST="None"; UPDATED_LIST="None"; REMOVED_LIST="None"
+
+          if [ -f flag_sync_summary.json ]; then
+            ADDED_COUNT=$(python3   -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['added']))")
+            UPDATED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['updated']))")
+            REMOVED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['removed']))")
+
+            ADDED_LIST=$(python3 -c "
+          import json
+          d = json.load(open('flag_sync_summary.json'))
+          items = d['added']
+          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
+          ")
+            UPDATED_LIST=$(python3 -c "
+          import json
+          d = json.load(open('flag_sync_summary.json'))
+          items = d['updated']
+          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
+          ")
+            REMOVED_LIST=$(python3 -c "
+          import json
+          d = json.load(open('flag_sync_summary.json'))
+          items = d['removed']
+          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
+          ")
+          fi
+
+          # Write body to a file to avoid shell-escaping issues
+          cat > pr_body.md << MDEOF
+          ## Upstream Flag Icons Sync — ${{ steps.get_release.outputs.latest_tag }}
+
+          A new release of [**lipis/flag-icons**](${{ steps.get_release.outputs.release_url }}) was published on ${{ steps.get_release.outputs.release_date }}.
+
+          This PR syncs the \`iso3166-1-flags\` folder with the upstream \`flags/4x3/\` directory from that release.
+
+          ### Changes to \`iso3166-1-flags/\`
+
+          | | Count | Flags |
+          |---|---|---|
+          | ✅ Added   | $ADDED_COUNT   | $ADDED_LIST |
+          | 🔄 Updated | $UPDATED_COUNT | $UPDATED_LIST |
+          | ❌ Removed | $REMOVED_COUNT | $REMOVED_LIST |
+
+          ### Review checklist
+          - [ ] Spot-check changed SVGs against the [upstream release](${{ steps.get_release.outputs.release_url }})
+          - [ ] Confirm no custom / curated flags were accidentally overwritten
+          - [ ] Verify counts in \`repo_metadata.json\` are still accurate after merge
+          - [ ] Run the full test suite (\`python -m unittest discover tests -v\`)
+
+          ---
+          *Automatically created by the [check-upstream-flags](.github/workflows/check_upstream_flags.yml) workflow.*
+          MDEOF
+
+          # Remove the ephemeral summary so it is not committed
+          rm -f flag_sync_summary.json
+
+      # -------------------------------------------------------
+      # 5. Open a pull request with all changed SVG files
+      # -------------------------------------------------------
+      - name: Create Pull Request
+        if: steps.check_release.outputs.new_release == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: upstream/lipis-flag-icons-${{ steps.get_release.outputs.latest_tag }}
+          commit-message: "chore: sync iso3166-1-flags from lipis/flag-icons ${{ steps.get_release.outputs.latest_tag }}"
+          title: "[Upstream] New lipis/flag-icons release: ${{ steps.get_release.outputs.latest_tag }}"
+          body-path: pr_body.md
+          labels: |
+            upstream-sync
+            iso3166-1
+          delete-branch: true

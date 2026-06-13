@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="750" height="500" viewBox="0 0 324 216">
+  <metadata><rdf:RDF>
+    <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:title>Flag of Sikkim (1967-1975)</dc:title>
+      <dc:date>2005-12-04</dc:date>
+      <dc:creator>
+        <cc:Agent>
+          <dc:title>Nicholas</dc:title>
+        </cc:Agent>
+      </dc:creator>
+      <dc:rights>
+        <cc:Agent>
+          <dc:title>ccy-by-sa-2.5</dc:title>
+        </cc:Agent>
+      </dc:rights>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>Flag</rdf:li>
+          <rdf:li>Sikkim</rdf:li>
+          <rdf:li>Chogyal</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:description>Flag of the former monarchy of Sikkim</dc:description>
+      <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/"/>
+    </cc:Work>
+    <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+      <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+      <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+      <cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+      <cc:requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+      <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+      <cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+    </cc:License>
+  </rdf:RDF></metadata>
+  <rect
+     width="324" height="216"
+     id="rect16"
+     style="fill:#fd241e;fill-opacity:1"/>
+  <rect
+     width="271.73105" height="163.64471"
+     x="26.134476" y="26.177643"
+     id="rect18"
+     style="fill:#ffffff;fill-opacity:1"/>
+  <path
+     d="m 179.62234,98.846626 c -0.70133,-0.706069 -2.44908,-2.563864 -5.99059,-2.855978 -3.54151,-0.292114 -7.02583,1.119037 -8.809,2.950952 -1.78316,1.83191 -2.4241,4.10418 -0.81553,6.51138 1.60856,2.40721 3.64319,3.91037 4.99869,3.00896 1.35551,-0.90141 0.85913,-2.83804 -0.68232,-3.67964 -1.3116,-0.71611 -2.74706,-2.02398 -1.08511,-4.04908 1.66195,-2.025107 5.78197,-2.521644 7.27247,-1.688559 1.4905,0.833086 6.27486,4.758789 6.72689,5.635819 -0.30703,-2.40881 -1.6155,-5.833854 -1.6155,-5.833854 z"
+     id="path6108"
+     style="fill:#f1c91a;fill-opacity:1;stroke:#80370b;stroke-width:0.43200001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
+  <g transform="translate(-0.1590737,-0.34465977)"
+     id="g5802">
+    <path
+       d="m 368.375,150.57153 0,14.92847 -6.625,6.625 6.625,6.625 0,13.20972 14.0625,0 0,-13.20972 6.625,-6.625 -6.625,-6.625 0,-14.92847 z"
+       transform="scale(0.432)"
+       id="rect5795"
+       style="fill:#f1c91a;fill-opacity:1;stroke:#80370b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
+    <path
+       d="m 162.18069,65.039048 0,17.869281"
+       id="path5799"
+       style="fill:none;stroke:#80370b;stroke-width:0.43200001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
+    <rect
+       width="2.7745583" height="2.7745583"
+       x="60.708378" y="165.87518"
+       transform="matrix(1,-1,1,1,0,0)scale(0.70710678)"
+       id="rect5793"
+       style="fill:#f1c91a;fill-opacity:1;stroke:#80370b;stroke-width:0.43200001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
+  </g>
+  <g transform="translate(0,-0.37117199)"
+     style="fill:#f1c91a;fill-opacity:1;stroke:#80370b;stroke-width:1.15308547;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     id="g5735">
+    <circle cx="200.560532" cy="163.44127" r="13.010658"
+       transform="translate(91.214397,-5.7649747)scale(0.3318723)"
+       id="path5690-1"/>
+    <circle cx="200.560532" cy="163.44127" r="13.010658"
+       transform="translate(99.875519,-5.7649747)scale(0.3318723)"
+       id="path5731"/>
+    <circle cx="200.560532" cy="163.44127" r="13.010658"
+       transform="translate(95.638693,-13.376263)scale(0.3318723)"
+       id="path5733"/>
+  </g>
+  <circle cx="200.560532" cy="163.44127" r="13.010658"
+     transform="translate(52.91244,11.580173)scale(0.3318723)"
+     id="path5690"
+     style="fill:#f1c91a;fill-opacity:1;stroke:#80370b;stroke-width:1.15308547;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"/>
+  <circle cx="163.39218" cy="108.41875" r="3.0304577"
+     transform="translate(10.04345,6.7982002)scale(0.93001114)"
+     id="circle88"
+     style="fill:#f1c91a;stroke:#80370b;stroke-width:0.46451059;stroke-miterlimit:4;stroke-opacity:1"/>
+  <use
+     transform="matrix(0,-1,1,0,54.372135,269.66072)"
+     id="use3078"
+     xlink:href="#g5802"/>
+  <use
+     transform="matrix(1,-1,1,1,-28.662496,146.0912)scale(0.70710678)"
+     id="use3080"
+     xlink:href="#g5802"/>
+  <use
+     transform="matrix(-1,-1,1,-1,200.46333,298.32321)scale(0.70710678)"
+     id="use3082"
+     xlink:href="#g5802"/>
+  <use
+     transform="matrix(-1,0,0,-1,324.03285,215.28858)"
+     id="use3084"
+     xlink:href="#g5802"/>
+  <use
+     transform="matrix(-1,1,-1,-1,352.69535,69.197386)scale(0.70710678)"
+     id="use3086"
+     xlink:href="#g5802"/>
+  <use
+     transform="matrix(0,1,-1,0,269.66072,-54.372135)"
+     xlink:href="#g5802"/>
+  <use
+     transform="matrix(1,1,-1,1,123.56952,-83.034631)scale(0.70710678)"
+     id="use3090"
+     xlink:href="#g5802"/>
+  <use
+     transform="matrix(0,1,-1,0,269.66087,-54.372285)"
+     id="use3094"
+     xlink:href="#path5690"/>
+  <use
+     transform="matrix(0,-1,1,0,54.372285,269.66087)"
+     id="use3096"
+     xlink:href="#path5690"/>
+  <use
+     transform="matrix(-1,0,0,-1,324.03315,215.28858)"
+     id="use3098"
+     xlink:href="#path5690"/>
+  <use
+     transform="matrix(0,-1,1,0,54.461156,269.74974)"
+     id="use3100"
+     xlink:href="#g5735"/>
+  <use
+     transform="matrix(-1,0,0,-1,324.2109,215.28859)"
+     id="use3102"
+     xlink:href="#g5735"/>
+  <use
+     transform="matrix(0,1,-1,0,269.74974,-54.461156)"
+     id="use3104"
+     xlink:href="#g5735"/>
+  <use
+     transform="matrix(-0.71981046,-0.69417065,0.69417065,-0.71981046,203.91429,297.59493)"
+     id="use3110"
+     xlink:href="#path6108"/>
+  <use
+     transform="matrix(-0.25190168,0.96775283,-0.96775283,-0.25190168,307.00189,-22.031931)"
+     id="use3112"
+     xlink:href="#path6108"/>
+  <path
+     d="m 162,52.265325 c -30.57291,0 -55.3635,24.790592 -55.3635,55.363535 0,30.57291 24.79059,55.3635 55.3635,55.3635 30.57291,0 55.3635,-24.79059 55.3635,-55.3635 0,-30.572943 -24.79059,-55.363535 -55.3635,-55.363535 z m 0.216,12.582 c 23.1224,0.10911 42.0727,18.652563 42.552,41.904035 0.48691,23.6205 -18.27,43.15859 -41.8905,43.6455 -23.6205,0.48691 -43.15859,-18.27 -43.6455,-41.8905 -0.48691,-23.620538 18.27,-43.158623 41.8905,-43.645535 0.36907,-0.0076 0.72648,-0.01523 1.0935,-0.0135 z"
+     id="circle54"
+     style="fill:#f1c91a;fill-opacity:1;stroke:#80370b;stroke-width:0.43200001;stroke-miterlimit:4;stroke-opacity:1"/>
+  <path
+     d="m 373.78125,190.65625 c -32.30162,0.66586 -57.94711,27.38588 -57.28125,59.6875 0.66586,32.30162 27.41713,57.94711 59.71875,57.28125 32.30162,-0.66586 57.94711,-27.38588 57.28125,-59.6875 -0.66586,-32.30162 -27.41713,-57.94711 -59.71875,-57.28125 z M 375,204.5 c 24.65557,0 44.65625,20.00068 44.65625,44.65625 0,24.65557 -20.00068,44.625 -44.65625,44.625 -24.65557,0 -44.65625,-19.96943 -44.65625,-44.625 C 330.34375,224.50068 350.34443,204.5 375,204.5 z"
+     transform="scale(0.432)"
+     id="circle58"
+     style="fill:#f1c91a;stroke:#80370b;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1"/>
+  <circle cx="161.78572" cy="107.42857" r="55.357143"
+     transform="matrix(0.379717,-0.00782744,0.00782744,0.379717,99.72632,68.102755)"
+     id="circle60"
+     style="fill:none;stroke:#80370b;stroke-width:1.13744771;stroke-miterlimit:4;stroke-opacity:1"/>
+  <circle cx="179.10715" cy="109.39286" r="41.607143"
+     transform="matrix(1.102389,0,0,1.102389,-35.445749,-12.964643)"
+     id="circle64"
+     style="fill:none;stroke:#80370b;stroke-width:0.39187619;stroke-miterlimit:4;stroke-opacity:1"/>
+</svg>

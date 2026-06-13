@@ -4,9 +4,13 @@ All notable changes to the **iso3166-flags** project are documented in this file
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## []
 
 ### Added
+- `iso3166-3-flags/` directory containing 24 SVG flag icons for former countries and territories withdrawn from ISO 3166-1, identified by their ISO 3166-3 alpha-4 codes (e.g. `SUHH.svg` for the Soviet Union, `YUCS.svg` for Yugoslavia, `DDDE.svg` for East Germany)
+- `iso3166-3-flags/README.MD` documenting the purpose of the folder, the ISO 3166-3 standard, the alpha-4 code naming convention, a full table of all 24 entries with their successor states and active periods, and usage examples
+- `tests/test_iso3166_3_flags.py` test module with 10 tests covering flag count, file extensions, alpha-4 naming format, validity against the known ISO 3166-3 code set, duplicate detection, SVG integrity, image dimensions, file size limits, path complexity, and broken image detection
+- `check_upstream_flags.yml` GitHub Actions workflow that runs quarterly, detects new releases of [lipis/flag-icons](https://github.com/lipis/flag-icons), syncs `iso3166-1-flags/` with the upstream `flags/4x3/` directory, and automatically opens a pull request summarising added, updated, and removed flags
 - --dry-run flag to `update_everything.py` for previewing changes without modifications
 - Edge case tests for invalid/empty subdivisions in test suite
 - Performance tests for CSS generation with 3,000+ flags
