@@ -229,8 +229,9 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_svg_dimesion_output3 = parse_svg_dimension(test_svg_dimesion_3)
         self.assertEqual(test_svg_dimesion_output3, 144.0, f"Expected and observed SVG dimension ouput do not match: {test_svg_dimesion_output3}.")
 #4.)
-        with self.assertRaises(ValueError):
-                test_svg_dimesion_output4 = parse_svg_dimension(test_svg_dimesion_4)
+        #percentage-based dimensions are relative, not absolute, so None is returned, letting the caller fall back to the viewBox
+        test_svg_dimesion_output4 = parse_svg_dimension(test_svg_dimesion_4)
+        self.assertIsNone(test_svg_dimesion_output4, f"Expected SVG dimension output to be None for percentage-based input: {test_svg_dimesion_output4}.")
 
 #     @unittest.skip("")
     def test_export_repo_metadata(self):
