@@ -374,26 +374,26 @@ def calculate_svg_dimension(svg_file_path: str) -> tuple:
 
 def parse_svg_dimension(dimension: str):
     """
-    Convert dimension strings in an image into pixel-based float values, 
-    e.g 100px, 5cm, 1.5in etc. Percentage based dimension units are 
-    not supported as they are relative, not absolute. 
-    
+    Convert dimension strings in an image into pixel-based float values,
+    e.g 100px, 5cm, 1.5in etc. Percentage based dimension units are
+    not supported as they are relative, not absolute, so None is
+    returned for them, letting the caller fall back to the viewBox.
+
     Parameters
     ==========
     :dimension: str
         dimension string of SVG.
-    
+
     Returns
     =======
     :value: float
-        pixel-based float conversion of SVG dimension string.
-    
+        pixel-based float conversion of SVG dimension string, or None
+        if dimension is unset or percentage-based.
+
     Raises
     ======
     IOError:
         Error converting SVG file dimension to float.
-    ValueError:
-        Percentage based dimension unit input for SVG which is not supported.
     """
     #return None if input is None
     if dimension is None:
@@ -417,7 +417,8 @@ def parse_svg_dimension(dimension: str):
             elif unit == 'pc':
                 value *= 16  #1pc = 12pt = 16px
             elif unit == '%':
-                raise ValueError(f"Percentage-based dimensions '{dimension}' are not supported.")
+                #percentage is relative, not absolute - treat as undefined so caller falls back to viewBox
+                return None
             
             #round value to 3 d.p
             value = round(value, 3)
