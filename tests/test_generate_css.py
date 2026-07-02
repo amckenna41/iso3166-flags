@@ -33,6 +33,10 @@ class Generate_CSS_Tests(unittest.TestCase):
         testing background-image URLs are correct/accessible.
     test_empty_directory_handling:
         testing handling of empty directories.
+    test_create_iso3166_2_svg_sprite_global:
+        testing generating a single global ISO 3166-2 SVG sprite file.
+    test_create_iso3166_2_svg_sprite_per_country:
+        testing generating one smaller ISO 3166-2 SVG sprite file per country.
     """
     @classmethod
     def setUp(self):
@@ -200,6 +204,37 @@ class Generate_CSS_Tests(unittest.TestCase):
         #should contain base styles but no flag-specific selectors
         self.assertIn(".fib", content, "Should contain base .fib class.")
         self.assertIn(".fi", content, "Should contain base .fi class.")
+
+    # @unittest.skip("")
+    def test_create_iso3166_2_svg_sprite_global(self):
+        """ Testing generating a single global ISO 3166-2 SVG sprite file. """
+        sprite_path = os.path.join(self.test_output_dir, "iso3166-2-sprite.svg")
+#1.)
+        create_iso3166_2_svg_sprite(country_input_folder=os.path.join("tests", "test_flags"), export_sprite_filepath=sprite_path)
+
+        self.assertTrue(os.path.isfile(sprite_path), "Expected a single global ISO 3166-2 sprite file to be created.")
+
+        from lxml import etree
+        symbol_ids = {symbol.get("id") for symbol in etree.parse(sprite_path).getroot()}
+#2.)
+        self.assertIn("fi-fi-fi-01", symbol_ids, "Expected symbol for FI-01 to be present in the global sprite, prefixed by its country code.")
+        self.assertIn("fi-sb-sb-ml", symbol_ids, "Expected symbol for SB-ML to be present in the global sprite, prefixed by its country code.")
+
+    # @unittest.skip("")
+    def test_create_iso3166_2_svg_sprite_per_country(self):
+        """ Testing generating one smaller ISO 3166-2 SVG sprite file per country. """
+        sprite_dir = os.path.join(self.test_output_dir, "iso3166-2-sprites")
+#1.)
+        create_iso3166_2_svg_sprite(country_input_folder=os.path.join("tests", "test_flags"), per_country=True, export_sprite_dir=sprite_dir)
+
+        #FI, IQ, KM, SB & SH sub-folders have SVG flags in the test fixture, KW only has PNGs so should be skipped
+        self.assertTrue(os.path.isfile(os.path.join(sprite_dir, "fi.svg")), "Expected a per-country sprite file for FI.")
+        self.assertFalse(os.path.isfile(os.path.join(sprite_dir, "kw.svg")), "Expected no sprite file for KW as it has no SVG flags.")
+
+        from lxml import etree
+        symbol_ids = {symbol.get("id") for symbol in etree.parse(os.path.join(sprite_dir, "fi.svg")).getroot()}
+#2.)
+        self.assertIn("fi-fi-fi-01", symbol_ids, "Expected symbol for FI-01 to be present in the FI sprite file.")
 
     @classmethod
     def tearDown(self):

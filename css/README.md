@@ -22,3 +22,27 @@ For example, adding the Hungarian county of Heves (HU-HE), the South Sudanese st
 <span class="fi fi-ss-ee"></span> <span class="fi fi-ss-ee fis"></span>
 <span class="fi fi-tw-mia"></span> <span class="fi fi-tw-mia fis"></span>
 ```
+
+SVG Sprites
+-----------
+As an alternative to the CSS `background-image` classes above, `scripts/generate_css.py` can generate SVG sprite files, embedding each flag as a `<symbol>` referenced with `<use>` - useful for inlining flags directly as scalable, styleable SVG elements rather than background images.
+
+For ISO 3166-1, generate a single sprite file for all country flags with symbol ids in the form `fi-xx`:
+```bash
+python3 scripts/generate_css.py --sprite --export_sprite_filepath="css/iso3166-1-sprite.svg"
+```
+
+For ISO 3166-2, given the dataset spans ~2,800 flags, a single combined sprite can get impractically large for web delivery. By default a single global sprite is still generated (symbol ids in the form `fi-xx-yy`), but pass `--iso3166_2_sprite_per_country` to instead generate one smaller sprite file per country (`css/iso3166-2-sprites/{xx}.svg`) so a UI only has to load the subdivisions it needs:
+```bash
+# Single global sprite
+python3 scripts/generate_css.py --iso3166_2_sprite --export_iso3166_2_sprite_filepath="css/iso3166-2-sprite.svg"
+
+# One sprite file per country instead (recommended)
+python3 scripts/generate_css.py --iso3166_2_sprite --iso3166_2_sprite_per_country --export_iso3166_2_sprite_dir="css/iso3166-2-sprites"
+```
+
+Once a sprite file is included in the page, reference a flag with:
+```html
+<svg><use href="#fi-gb"/></svg>
+<svg><use href="#fi-hu-he"/></svg>
+```

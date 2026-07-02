@@ -50,11 +50,8 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
     result = subprocess.run(["git", "status"], stdout=subprocess.PIPE, text=True)
     lines = result.stdout.splitlines()
 
-    #vars to track the specific changes
+    #var to track the current git status section being parsed
     section = None
-    modified = []
-    deleted = []
-    added = []
 
     #returning the logs for a specific subset of folders in the repo
     if folders_to_check:
@@ -101,7 +98,7 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
                 original_path = path
                 if folder_regex.match(path):
                     #get timestamp for committed file
-                    timestamp = get_git_timestamp(original_path) if include_timestamp else ""
+                    timestamp = get_git_timestamp(original_path, status.strip()) if include_timestamp else ""
                     #remove prefix from folders e.g remove "../"
                     if strip_prefix:
                         path = re.sub(r'^(\.\.?/)+', '', path)
@@ -122,12 +119,6 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
                     path = re.sub(r'^(\.\.?/)+', '', path)
                 #append relevant attributes & data to change log list 
                 change_log.append([path, "added", timestamp, folder, filename, extension])
-
-    #set all lists to the same length
-    max_len = max(len(modified), len(added), len(deleted))
-    modified += [''] * (max_len - len(modified))
-    added += [''] * (max_len - len(added))
-    deleted += [''] * (max_len - len(deleted))
 
     #filter by commit status, accepted values are 'added', 'modified' or 'deleted'
     if filter_status:

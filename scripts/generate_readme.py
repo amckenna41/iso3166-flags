@@ -7,10 +7,8 @@ from iso3166_2 import Subdivisions
 #base URL to iso3166-2-flags folder in repo
 base_url = "https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags"
 
-#read in the CSV that has the notes section data, if applicable, for each markdown file, reindex and assign
+#read in the CSV that has the notes section data, if applicable, for each markdown file
 notes_df = pd.read_csv(os.path.join("iso3166-flags-metadata", "iso3166_flag_notes.csv"), header=0).fillna("")
-notes_df = notes_df.reset_index()
-notes_df = notes_df.assign(countryCode=notes_df["index"], notes=notes_df["countryCode"])[["countryCode", "notes"]]
 
 def create_markdown_str(country_code: str, input_folder: str) -> None:
     """
@@ -131,12 +129,12 @@ def create_markdown_str(country_code: str, input_folder: str) -> None:
                     output_str += f"\n* **{subd.upper()}: {all_subdivisions[subdiv].name} ({all_subdivisions[subdiv].type})**"
 
     #get the row data for the current country code
-    country_code_notes = notes_df[notes_df['countryCode'] == country_code]
+    country_code_notes = notes_df[notes_df['countryCode'] == country_code]['notes'].values
 
     #append any notes for the country/subdivisions, if applicable
-    if (country_code_notes['notes'].values != ""):
+    if (len(country_code_notes) > 0 and country_code_notes[0] != ""):
         output_str += "\n\n## Notes\n"
-        output_str += country_code_notes['notes'].values[0]
+        output_str += country_code_notes[0]
 
     return output_str
 

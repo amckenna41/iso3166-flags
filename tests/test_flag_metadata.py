@@ -237,33 +237,39 @@ class Flag_Metadata_Tests(unittest.TestCase):
         """ Testing getting a plethora of data attributes for the repo. """
 #1.)    
         test_repo_metadata = export_repo_metadata(export_json=True, export_filename=self.test_repo_metadata_output)
-        test_repo_metadata_expected = {'total': 3093, 'iso3166_1_total': 250, 'iso3166_2_total': 2843, 'svg': 2241, 'png': 798, 'jpg/jpeg': 54, 
-                                       'other': 0, 'duplicates': 0, 'subdivisions_other': [], 'duplicate_list': [], 'total_repo_size': '341,261.141KB', 
-                                       'iso3166_1_flags_size': '1,611.863KB', 'iso3166_2_flags_size': '339,649.277KB', 'average_flag_size': '110.333KB', 
-                                       'missing_iso3166_1_count': 0, 'missing_iso3166_2_count': 2203}
+
+        #totals sourced from the reference packages rather than hardcoded, so new flags/subdivisions don't break this test
+        expected_iso3166_1_total = len(iso3166.countries_by_alpha2)
+        expected_iso3166_2_total = len([code for codes in Subdivisions().subdivision_codes().values() for code in codes])
+        expected_keys = {'total', 'iso3166_1_total', 'iso3166_2_total', 'svg', 'png', 'jpg/jpeg', 'other', 'duplicates',
+                          'subdivisions_other', 'duplicate_list', 'total_repo_size', 'iso3166_1_flags_size',
+                          'iso3166_2_flags_size', 'average_flag_size', 'missing_iso3166_1_count', 'missing_iso3166_2_count'}
 
         self.assertTrue(os.path.isfile(self.test_repo_metadata_output), "Expected flag metadata format output file to be exported.")
         #open exported metadata json
         with open(self.test_repo_metadata_output) as output_json:
             test_repo_metadata_output_json = json.load(output_json)
 
-        self.assertEqual(test_repo_metadata_output_json, test_repo_metadata_expected, f"Expected and observed metadata object do not match:\n{test_repo_metadata_output_json}")
-        self.assertEqual(test_repo_metadata_output_json["total"], (test_repo_metadata_output_json["iso3166_1_total"] + test_repo_metadata_output_json["iso3166_2_total"]), 
+        self.assertEqual(set(test_repo_metadata_output_json.keys()), expected_keys, f"Expected and observed metadata object keys do not match:\n{test_repo_metadata_output_json}")
+        self.assertEqual(test_repo_metadata_output_json["duplicates"], 0, "Expected no duplicate flags in the repo.")
+        self.assertEqual(test_repo_metadata_output_json["subdivisions_other"], [], "Expected no subdivisions with an unsupported flag format.")
+        self.assertEqual(test_repo_metadata_output_json["duplicate_list"], [], "Expected no duplicate flags listed.")
+        self.assertEqual(test_repo_metadata_output_json["total"], (test_repo_metadata_output_json["iso3166_1_total"] + test_repo_metadata_output_json["iso3166_2_total"]),
                 "Expected 'iso3166_1_total' and 'iso3166_2_total' attributes to summate to the value of the 'total' attribute.")
         self.assertEqual(test_repo_metadata_output_json["total"], (test_repo_metadata_output_json["svg"] + test_repo_metadata_output_json["png"] + test_repo_metadata_output_json["jpg/jpeg"]
                 + test_repo_metadata_output_json["other"]), "Expected individual count of the image formats to summate to the total number of files in the repo.")
-        self.assertAlmostEqual(float(test_repo_metadata_output_json["total_repo_size"].replace('KB', '').replace(',', '')), (float(test_repo_metadata_output_json["iso3166_1_flags_size"].replace('KB', '').replace(',', '')) + 
+        self.assertAlmostEqual(float(test_repo_metadata_output_json["total_repo_size"].replace('KB', '').replace(',', '')), (float(test_repo_metadata_output_json["iso3166_1_flags_size"].replace('KB', '').replace(',', '')) +
                 float(test_repo_metadata_output_json["iso3166_2_flags_size"].replace('KB', '').replace(',', ''))), places=2, msg="Expected the individual directory sizes in KB to add up to the 'total' folder size attribute.")
-        self.assertEqual((test_repo_metadata_output_json["missing_iso3166_1_count"] + (test_repo_metadata_output_json["iso3166_1_total"])), 250, 
-                "Expected the missing number of ISO 3166-1 flags and total number of flags found to add up to 250.")
-        self.assertEqual((test_repo_metadata_output_json["missing_iso3166_2_count"] + (test_repo_metadata_output_json["iso3166_2_total"])), 5046,
-                "Expected the missing number of ISO 3166-2 flags and total number of flags found to add up to 5,046.")
-        
-        #test the full repo metadata dataframe
+        self.assertEqual((test_repo_metadata_output_json["missing_iso3166_1_count"] + (test_repo_metadata_output_json["iso3166_1_total"])), expected_iso3166_1_total,
+                f"Expected the missing number of ISO 3166-1 flags and total number of flags found to add up to {expected_iso3166_1_total}.")
+        self.assertEqual((test_repo_metadata_output_json["missing_iso3166_2_count"] + (test_repo_metadata_output_json["iso3166_2_total"])), expected_iso3166_2_total,
+                f"Expected the missing number of ISO 3166-2 flags and total number of flags found to add up to {expected_iso3166_2_total}.")
+
+        #cross check the returned dataframe/series matches the exported JSON, rather than a hardcoded snapshot
         try:
-            assert_frame_equal(test_repo_metadata.reset_index(drop=True), pd.DataFrame([test_repo_metadata_expected]).reset_index(drop=True))
+            assert_frame_equal(test_repo_metadata.reset_index(drop=True), pd.DataFrame([test_repo_metadata_output_json]).reset_index(drop=True), check_dtype=False)
         except AssertionError as e:
-            self.fail(f"Expected and observed DataFrame values do not match:\n{test_repo_metadata}.")
+            self.fail(f"Expected returned DataFrame to match the exported JSON metadata:\n{test_repo_metadata}.")
 
 #     @unittest.skip("")
     def test_export_flag_list(self):
@@ -272,8 +278,9 @@ class Flag_Metadata_Tests(unittest.TestCase):
         export_flag_list(iso3166_2_flag_dir="iso3166-2-flags", export_csv_filename=os.path.join(self.test_output_dir, "test_iso3166_2_flag_list.csv"))
         test_flag_list_df = pd.read_csv(os.path.join(self.test_output_dir, "test_iso3166_2_flag_list.csv"))
         subdivisions = Subdivisions()
+        expected_subdivision_total = len([code for codes in subdivisions.subdivision_codes().values() for code in codes])
 
-        self.assertEqual(len(test_flag_list_df), 5046, f"Expected 5046 rows in output CSV, got {len(test_flag_list_df)}.")                
+        self.assertEqual(len(test_flag_list_df), expected_subdivision_total, f"Expected {expected_subdivision_total} rows in output CSV, got {len(test_flag_list_df)}.")
         self.assertEqual(test_flag_list_df.columns.tolist(), ["subdivisionCode", "subdivisionName", "subdivisionType", "hasFlag", "extension", "flagChecked"], 
                 f"Expected and observed output columns do not match:\n{test_flag_list_df.columns}.")
         self.assertFalse(test_flag_list_df[["subdivisionCode", "subdivisionName", "subdivisionType", "hasFlag"]].isna().any().any(),

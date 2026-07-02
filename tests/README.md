@@ -8,6 +8,7 @@
 * `test_generate_css.py` - testing the `generate_css` script, that exports the ISO 3166-1 and ISO 3166-2 CSS files.
 * `test_generate_readme.py` - testing the `generate_readme` script, that exports the ISO 3166-2 markdown files per subdivision sub-folder.
 * `test_get_missing_flags.py` - testing the `get_missing_flags` script, that exports list of all subdivisions that don't have an associated flag on the repo.
+* `test_get_git_flag_logs.py` - testing the `get_git_flag_logs` script, that exports the list of flag additions, modifications and deletions from the git status command.
 * `test_convert_images.py` - testing the `convert_images` script, that converts the flag images into different format.
 
 ## Advanced Tests

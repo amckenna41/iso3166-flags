@@ -20,6 +20,8 @@ class Generate_Readme_Tests(unittest.TestCase):
     ==========
     test_create_markdown_str:
         testing the function that creates the markdown string per subfolder.
+    test_create_markdown_str_missing_notes_row:
+        testing the notes lookup doesn't crash for a country with no matching row in the notes CSV.
     test_create_readme:
         testing the function that generates the full markdown file per subfolder.
     test_markdown_syntax_validity:
@@ -106,7 +108,7 @@ class Generate_Readme_Tests(unittest.TestCase):
 
         - **ISO Code**: MU
         - **Number of subdivisions**: 12, with 2 official flag(s)
-        - **Subdivision Types**: District (1), Dependency (1)
+        - **Subdivision Types**: District (9), Dependency (3)
         - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/MU
 
         | Code  | Subdivision Name         | Type | Flag Preview | Link |
@@ -131,7 +133,7 @@ class Generate_Readme_Tests(unittest.TestCase):
         Only two of the districts have official flags, the others usually only have coat of arms.
         """).rstrip("\n")
 
-        # self.assertEqual(test_mu_markdown, test_mu_markdown_expected, f"Expected and observed markdown string output do not match:\n{test_mu_markdown}")
+        self.assertEqual(test_mu_markdown, test_mu_markdown_expected, f"Expected and observed markdown string output do not match:\n{test_mu_markdown}")
 #4.)
         test_pa_markdown = create_markdown_str(test_markdown_pa, "iso3166-2-flags/PA")
         test_pa_markdown_expected = textwrap.dedent("""\
@@ -176,6 +178,20 @@ class Generate_Readme_Tests(unittest.TestCase):
         with self.assertRaises(OSError):
             test_error3_markdown = create_markdown_str("HU", "blahblah/HU")
             test_error4_markdown = create_markdown_str("HU", "iso3166-2-flags/ZZ")
+
+    # @unittest.skip("")
+    def test_create_markdown_str_missing_notes_row(self):
+        """ Testing create_markdown_str doesn't crash for a country with no matching row in the notes CSV (regression test). """
+        import scripts.generate_readme as generate_readme_module
+        original_notes_df = generate_readme_module.notes_df
+        try:
+            #simulate a country code with zero matching rows in the notes CSV
+            generate_readme_module.notes_df = original_notes_df[original_notes_df["countryCode"] != "AD"]
+#1.)
+            markdown = create_markdown_str("AD", "iso3166-2-flags/AD")
+            self.assertNotIn("## Notes", markdown, "Expected no Notes section for a country with no notes CSV entry.")
+        finally:
+            generate_readme_module.notes_df = original_notes_df
 
     # @unittest.skip("")
     def test_create_readme(self):

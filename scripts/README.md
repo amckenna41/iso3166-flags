@@ -59,6 +59,10 @@ python3 scripts/generate_css.py --iso3166_1_country_input_folder="../iso3166-1-f
 --minify: additionally generate a .min.css minified version of each CSS file
 --sprite: generate an SVG sprite file (css/iso3166-1-sprite.svg) for all ISO 3166-1 flags
 --export_sprite_filepath: output path for the SVG sprite file (default: css/iso3166-1-sprite.svg)
+--iso3166_2_sprite: generate an SVG sprite file for all ISO 3166-2 flags
+--iso3166_2_sprite_per_country: generate one smaller SVG sprite file per country instead of a single global sprite (recommended given the ~2,800 flag ISO 3166-2 dataset)
+--export_iso3166_2_sprite_filepath: output path for the global ISO 3166-2 SVG sprite file (default: css/iso3166-2-sprite.svg), used unless --iso3166_2_sprite_per_country is set
+--export_iso3166_2_sprite_dir: output directory for the per-country ISO 3166-2 SVG sprite files (default: css/iso3166-2-sprites), used when --iso3166_2_sprite_per_country is set
 ```
 
 ### Export flag metadata for ISO 3166-1 and ISO 3166-2 flags:
@@ -84,6 +88,10 @@ python3 scripts/get_missing_flags.py --flag_icons_dir="iso3166-2-flags" --export
 
 ```bash
 python3 scripts/update_everything.py
+
+--dry-run: preview changes without modifying any files - outputs are written to a temporary directory (cleaned up after) and a summary of what would change is printed
+--check: like --dry-run, but also diffs the generated CSS/README/metadata files against what's currently committed and exits non-zero if anything is stale; useful as a CI gate to catch flags being added/changed without regenerating the derived files
+-o, --output: output folder for storing metadata and other generated files (optional)
 ```
 
 

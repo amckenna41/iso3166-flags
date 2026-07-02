@@ -86,5 +86,9 @@ python3 scripts/get_flag_metadata.py --flag_folder iso3166-1-flags --flag_metada
 python3 scripts/get_flag_metadata.py --flag_folder iso3166-2-flags --flag_metadata_output iso3166-flags-metadata/iso3166_2_flag_metadata.csv
 
 # Preview changes without writing to real files (dry run)
-python3 scripts/update_everything.py --dry_run
+python3 scripts/update_everything.py --dry-run
+
+# Check whether the committed CSS/README/metadata files are stale relative to the flag directories,
+# without modifying anything - exits non-zero if anything is stale (used as a CI gate)
+python3 scripts/update_everything.py --check
 ```

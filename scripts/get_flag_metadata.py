@@ -514,17 +514,17 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
                 #get full filepath to flag
                 fpath = os.path.join(folder_path, filename)
                 
-                #increment file type counter and append to object
+                #increment file type counter and append to object - "other" mirrors the same md/DS_Store
+                #exclusion as the total counter below so total always equals the sum of the format counts
                 if (ext == '.svg'):
                     flag_metadata["svg"] += 1
                 elif (ext == '.png'):
                     flag_metadata["png"] += 1
                 elif (ext == '.jpg' or ext == '.jpeg'):
                     flag_metadata["jpg/jpeg"] += 1
-                else:
-                    if (exclude_readme):
-                        flag_metadata["other"] += 1
-                        flag_metadata["subdivisions_other"].append(filename)    
+                elif not (ext == ".md" or name == ".DS_Store"):
+                    flag_metadata["other"] += 1
+                    flag_metadata["subdivisions_other"].append(filename)
 
                 #increment total file counter, don't include readme in total regardless if parameter is set
                 if not (ext == ".md" or name == ".DS_Store"):
@@ -543,7 +543,7 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
                     #use the os.path module to get the current file size
                     try:
                         file_sizes = os.path.getsize(fpath)
-                    except OSError(f"Error getting size of file: {fpath}"):
+                    except OSError:
                         file_sizes = 0
                     #append individual file size to total var
                     total_size_bytes += file_sizes

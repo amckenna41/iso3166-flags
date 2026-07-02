@@ -39,7 +39,15 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
     test_iso3166_1_missing_broken_images:
         testing for missing or broken image data.
     """
-    def setUp(self):      
+    #non-official flags (regional orgs, constituent countries, exception codes) kept alongside the official ISO 3166-1 codes
+    EXCEPTION_FLAGS = {
+        "gb-sct", "gb-nir", "gb-eng", "gb-wls",
+        "es-ct", "es-ga", "es-pv",
+        "arab", "asean", "cefta", "eac",
+        "sh-ac", "sh-hl", "sh-ta"
+    }
+
+    def setUp(self):
         """ Initialise test variables. """
         self.test_input_flag_folder = "iso3166-1-flags"
         self.max_file_size_kb = 500  # 500KB max file size
@@ -49,11 +57,17 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
         #list of all ISO 3166-1 flags
         self.iso3166_1_files = [i for i in os.listdir(self.test_input_flag_folder) if i != "README.md" and i != ".DS_Store"]
 
+        #official ISO 3166-1 country codes, sourced from the iso3166 package rather than hardcoded
+        self.official_codes = {code.lower() for code in iso3166.countries_by_alpha2.keys()}
+
     # @unittest.skip("")
     def test_iso3166_1_flags_total(self):
         """ Test total number of country flags. """
+        #folder may also contain non-official exception flags (self.EXCEPTION_FLAGS); everything else should be exactly the official codes
+        observed_codes = {os.path.splitext(f)[0] for f in self.iso3166_1_files} - self.EXCEPTION_FLAGS
 #1.)
-        self.assertEqual(len(self.iso3166_1_files), 250, f"Expected there to be 250 flag icons in the ISO 3166-1 folder, got {len(self.iso3166_1_files)}.")
+        self.assertEqual(observed_codes, self.official_codes,
+                f"Expected ISO 3166-1 folder to contain exactly the official country codes (plus known exception flags).\nMissing: {self.official_codes - observed_codes}\nUnexpected: {observed_codes - self.official_codes}.")
 
     # @unittest.skip("")
     def test_iso3166_1_flags_file_extensions(self):
@@ -67,13 +81,7 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
         """ Testing correct file naming conventions  """
 #1.)
         #get list of all filenames, exclude the list of exception flags
-        excluded_files = {
-            "README.md", ".DS_Store",
-            "gb-sct.svg", "gb-nir.svg", "gb-eng.svg", "gb-wls.svg",
-            "es-ct.svg", "es-ga.svg", "es-pv.svg",
-            "arab.svg", "asean.svg", "cefta.svg", "eac.svg",
-            "sh-ac.svg", "sh-hl.svg", "sh-ta.svg"
-        }
+        excluded_files = {"README.md", ".DS_Store"} | {f"{code}.svg" for code in self.EXCEPTION_FLAGS}
         iso3166_1_files = [
             fname for fname in os.listdir(self.test_input_flag_folder)
             if fname not in excluded_files
@@ -86,10 +94,8 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
     # @unittest.skip("")
     def test_iso3166_1_flags_completeness(self):
         """ Testing the list of country flags against the list of ISO 3166-1 country codes. """
-        expected_codes = list(iso3166.countries_by_alpha2.keys())
-        expected_codes = [i.lower() for i in expected_codes]
         observed_codes = [os.path.splitext(f)[0] for f in self.iso3166_1_files]
-        missing_codes = set(expected_codes) - set(observed_codes)
+        missing_codes = self.official_codes - set(observed_codes)
 #1.)
         self.assertFalse(missing_codes, f"Expected no missing ISO 3166-1 country flags, got {missing_codes}.")
     

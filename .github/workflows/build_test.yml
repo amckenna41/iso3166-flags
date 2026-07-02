@@ -96,7 +96,12 @@ jobs:
         print('README stats are up to date.')
         "
 
-  #run various vulnerability, security and package checks 
+    #verify the generated CSS, per-country README and metadata files are in sync with the flag directories -
+    #fails if flags were added/changed without regenerating the derived files via scripts/update_everything.py
+    - name: Check generated CSS/README/metadata files are up to date
+      run: python -m scripts.update_everything --check
+
+  #run various vulnerability, security and package checks
   security_check:
     name: Bandit and package safety check 
     timeout-minutes: 15
