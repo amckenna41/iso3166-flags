@@ -240,7 +240,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_repo_metadata = export_repo_metadata(export_json=True, export_filename=self.test_repo_metadata_output)
 
         #totals sourced from the reference packages rather than hardcoded, so new flags/subdivisions don't break this test
-        expected_iso3166_1_total = len(iso3166.countries_by_alpha2)
+        expected_iso3166_1_total = len(iso3166.countries_by_alpha2) + 21  #official codes + 21 non-official exception flags from upstream
         expected_iso3166_2_total = len([code for codes in Subdivisions().subdivision_codes().values() for code in codes])
         expected_keys = {'total', 'iso3166_1_total', 'iso3166_2_total', 'svg', 'png', 'jpg/jpeg', 'other', 'duplicates',
                           'subdivisions_other', 'duplicate_list', 'total_repo_size', 'iso3166_1_flags_size',
