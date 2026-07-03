@@ -72,8 +72,10 @@ jobs:
         env:
           LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
         run: |
+          pip install iso3166
           python3 - <<'PYEOF'
-          import os, tarfile, urllib.request, shutil, json
+          import os, tarfile, urllib.request, shutil, json, re
+          import iso3166
 
           latest_tag = os.environ["LATEST_TAG"]
           tarball_url = (
@@ -128,10 +130,56 @@ jobs:
               os.remove(os.path.join(target_dir, fname))
               removed.append(fname)
 
+          # Patch the unit tests in this same PR so they recognise the synced dataset:
+          # any synced flag whose code isn't an official ISO 3166-1 alpha-2 code
+          # (eu, un, gb-sct, ...) is an "exception flag" the tests must allow for.
+          official_codes = {code.lower() for code in iso3166.countries_by_alpha2}
+          synced_codes = {os.path.splitext(f)[0].lower() for f in upstream_flags}
+          exception_flags = sorted(synced_codes - official_codes)
+
+          tests_updated = []
+
+          # 1. Rewrite the EXCEPTION_FLAGS set literal in tests/test_iso3166_1_flags.py
+          flags_test_path = os.path.join("tests", "test_iso3166_1_flags.py")
+          with open(flags_test_path) as fh:
+              src = fh.read()
+          set_literal = "{\n        " + ", ".join(f'"{c}"' for c in exception_flags) + "\n    }"
+          new_src, n = re.subn(r"EXCEPTION_FLAGS = \{[^}]*\}", "EXCEPTION_FLAGS = " + set_literal, src, count=1)
+          if n != 1:
+              raise RuntimeError(f"Could not locate EXCEPTION_FLAGS set in {flags_test_path}")
+          if new_src != src:
+              with open(flags_test_path, "w") as fh:
+                  fh.write(new_src)
+              tests_updated.append(flags_test_path)
+
+          # 2. Rewrite the expected ISO 3166-1 total in tests/test_flag_metadata.py —
+          # iso3166_1_total counts every file in the folder, so the expected total is
+          # the official codes plus the exception flags now present.
+          metadata_test_path = os.path.join("tests", "test_flag_metadata.py")
+          with open(metadata_test_path) as fh:
+              src = fh.read()
+          expected_total_line = (
+              f"expected_iso3166_1_total = len(iso3166.countries_by_alpha2) + {len(exception_flags)}"
+              f"  #official codes + {len(exception_flags)} non-official exception flags from upstream"
+          )
+          new_src, n = re.subn(r"expected_iso3166_1_total = len\(iso3166\.countries_by_alpha2\)[^\n]*", expected_total_line, src, count=1)
+          if n != 1:
+              raise RuntimeError(f"Could not locate expected_iso3166_1_total in {metadata_test_path}")
+          if new_src != src:
+              with open(metadata_test_path, "w") as fh:
+                  fh.write(new_src)
+              tests_updated.append(metadata_test_path)
+
+          if tests_updated:
+              print(f"Patched unit tests for {len(exception_flags)} exception flags: {exception_flags}")
+              print("  Updated:", tests_updated)
+
           summary = {
               "added":   sorted(added),
               "updated": sorted(updated),
               "removed": sorted(removed),
+              "exception_flags": exception_flags,
+              "tests_updated":   tests_updated,
           }
           print(
               f"Sync complete — "
@@ -156,6 +204,7 @@ jobs:
         run: |
           ADDED_COUNT=0; UPDATED_COUNT=0; REMOVED_COUNT=0
           ADDED_LIST="None"; UPDATED_LIST="None"; REMOVED_LIST="None"
+          EXCEPTION_NOTE=""
 
           if [ -f flag_sync_summary.json ]; then
             ADDED_COUNT=$(python3   -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['added']))")
@@ -180,6 +229,12 @@ jobs:
           items = d['removed']
           print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
           ")
+            EXCEPTION_NOTE=$(python3 -c "
+          import json
+          d = json.load(open('flag_sync_summary.json'))
+          tests, flags = d.get('tests_updated', []), d.get('exception_flags', [])
+          print('Unit tests (' + ', '.join('\`' + t + '\`' for t in tests) + ') were updated in this PR to account for the ' + str(len(flags)) + ' non-official exception flags in the synced dataset: ' + ', '.join(flags) + '.' if tests else '')
+          ")
           fi
 
           # Write body to a file to avoid shell-escaping issues
@@ -197,6 +252,8 @@ jobs:
           | ✅ Added   | $ADDED_COUNT   | $ADDED_LIST |
           | 🔄 Updated | $UPDATED_COUNT | $UPDATED_LIST |
           | ❌ Removed | $REMOVED_COUNT | $REMOVED_LIST |
+
+          $EXCEPTION_NOTE
 
           ### Review checklist
           - [ ] Spot-check changed SVGs against the [upstream release](${{ steps.get_release.outputs.release_url }})
