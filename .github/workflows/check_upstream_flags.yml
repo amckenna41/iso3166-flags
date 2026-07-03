@@ -2,8 +2,8 @@ name: Check Upstream Flag Icons Updates
 
 # Runs quarterly to detect new releases of lipis/flag-icons.
 # When a new release is found, the iso3166-1-flags folder is synced and a PR is opened.
-# Whether a release has already been processed is determined by checking if a PR for
-# the release's branch name already exists (in any state), so no tracking file is needed.
+# A new PR is created on every run (branch is suffixed with the run number), even if a
+# PR for the same release already exists. No PR is opened when the sync produces no changes.
 on:
   schedule:
     - cron: '0 0 1 */3 *'  # 00:00 UTC on the 1st of every third month
@@ -44,38 +44,31 @@ jobs:
           echo "Latest lipis/flag-icons release: $LATEST_TAG ($RELEASE_DATE)"
 
       # -------------------------------------------------------
-      # 2. Check whether we have already processed this release.
-      #    A PR branch named upstream/lipis-flag-icons-<tag>
-      #    existing in any state (open, merged, closed) means
-      #    this version has already been handled.
+      # 2. Log any existing PRs for this release (informational
+      #    only — a new PR is created on every run regardless).
       # -------------------------------------------------------
       - name: Check if this release was already processed
-        id: check_release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
         run: |
-          BRANCH="upstream/lipis-flag-icons-${LATEST_TAG}"
           EXISTING=$(gh pr list \
             --repo "$GITHUB_REPOSITORY" \
             --state all \
-            --head "$BRANCH" \
+            --search "head:upstream/lipis-flag-icons-${LATEST_TAG}" \
             --json number \
             --jq '.[0].number // empty')
 
           if [ -n "$EXISTING" ]; then
-            echo "Release $LATEST_TAG already processed (PR #$EXISTING) — nothing to do."
-            echo "new_release=false" >> "$GITHUB_OUTPUT"
+            echo "Release $LATEST_TAG was already processed (PR #$EXISTING) — creating a new PR anyway."
           else
-            echo "No existing PR for $LATEST_TAG — will sync flags."
-            echo "new_release=true" >> "$GITHUB_OUTPUT"
+            echo "No existing PR for $LATEST_TAG."
           fi
 
       # -------------------------------------------------------
       # 3. Download the release tarball and sync iso3166-1-flags
       # -------------------------------------------------------
       - name: Download and sync flags
-        if: steps.check_release.outputs.new_release == 'true'
         env:
           LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
         run: |
@@ -160,7 +153,6 @@ jobs:
       # 4. Build the pull-request body from the sync summary
       # -------------------------------------------------------
       - name: Build PR body
-        if: steps.check_release.outputs.new_release == 'true'
         run: |
           ADDED_COUNT=0; UPDATED_COUNT=0; REMOVED_COUNT=0
           ADDED_LIST="None"; UPDATED_LIST="None"; REMOVED_LIST="None"
@@ -223,11 +215,11 @@ jobs:
       # 5. Open a pull request with all changed SVG files
       # -------------------------------------------------------
       - name: Create Pull Request
-        if: steps.check_release.outputs.new_release == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: upstream/lipis-flag-icons-${{ steps.get_release.outputs.latest_tag }}
+          # run_number suffix keeps the branch unique so each run opens a new PR
+          branch: upstream/lipis-flag-icons-${{ steps.get_release.outputs.latest_tag }}-run${{ github.run_number }}
           commit-message: "chore: sync iso3166-1-flags from lipis/flag-icons ${{ steps.get_release.outputs.latest_tag }}"
           title: "[Upstream] New lipis/flag-icons release: ${{ steps.get_release.outputs.latest_tag }}"
           body-path: pr_body.md
