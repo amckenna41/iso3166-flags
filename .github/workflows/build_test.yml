@@ -131,11 +131,13 @@ jobs:
         cat artifacts/package_safety_output.txt
       continue-on-error: true
 
-    #run Bandit security check scoped to production code only, medium severity and confidence
+    #run Bandit security check scoped to production code only, medium severity and confidence.
+    #the flags are --severity-level/--confidence-level - the shorter --level/--confidence are not
+    #valid Bandit options and made the step exit on a usage error while still reporting success
     - name: Bandit
       run: |
         echo "Running Bandit"
-        python -m bandit -r scripts/ tests/ --level medium --confidence medium > artifacts/bandit_output.txt || true
+        python -m bandit -r scripts/ tests/ --severity-level medium --confidence-level medium > artifacts/bandit_output.txt || true
         cat artifacts/bandit_output.txt
       continue-on-error: true
 

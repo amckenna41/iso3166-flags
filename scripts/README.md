@@ -67,10 +67,13 @@ python3 scripts/generate_css.py --iso3166_1_country_input_folder="../iso3166-1-f
 
 ### Export flag metadata for ISO 3166-1 and ISO 3166-2 flags:
 ```bash
-python3 scripts/export_flag_metadata.py --flag_folder="../iso3166-1-flags" --flag_metadata_output="subdivision_flag_metadata.csv"
+python3 scripts/get_flag_metadata.py --flag_folder="iso3166-1-flags" --flag_metadata_output="subdivision_flag_metadata.csv"
 
 --flag_folder: file path to folder of nested subdivision flags
 --flag_metadata_output: output file name for metadata csv
+--export_repo_metadata: additionally export the whole-repo metadata object (flag counts, formats, folder sizes, missing flag counts)
+--repo_metadata_output: output file name/path for the whole-repo metadata export
+--exclude_readme: exclude the country markdown files from the overall file count and metadata calculation (default)
 ```
 
 
@@ -91,7 +94,6 @@ python3 scripts/update_everything.py
 
 --dry-run: preview changes without modifying any files - outputs are written to a temporary directory (cleaned up after) and a summary of what would change is printed
 --check: like --dry-run, but also diffs the generated CSS/README/metadata files against what's currently committed and exits non-zero if anything is stale; useful as a CI gate to catch flags being added/changed without regenerating the derived files
--o, --output: output folder for storing metadata and other generated files (optional)
 ```
 
 
@@ -102,7 +104,7 @@ python3 scripts/convert_images.py
 
 --flag_folder: input folder of ISO 3166 flag icons to convert to specified format
 --archvive_folder: optional archive folder that maintains the original unconverted ISO 3166 flag icons
---img_file_path: filepath to individual image to convert. The file will take precedence over a folder of images input
+--img_filepath: filepath to individual image to convert. The file will take precedence over a folder of images input
 --img_format: file format to convert the images into, accepted formats are png, jpg or jpeg (png by default)
 ```
 

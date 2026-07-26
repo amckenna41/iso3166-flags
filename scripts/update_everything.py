@@ -22,7 +22,7 @@ except ImportError:
     from get_missing_flags import *
     from convert_images import *
 
-def update_everything(output_folder: str="", dry_run: bool=False, check: bool=False) -> list:
+def update_everything(dry_run: bool=False, check: bool=False) -> list:
     """
     Script that ensures all the data files and metadata objects used throughout
     the iso3166-flags project are kept up-to-date when any flags have been
@@ -37,8 +37,6 @@ def update_everything(output_folder: str="", dry_run: bool=False, check: bool=Fa
 
     Parameters
     ==========
-    :output_folder: str (default="")
-        folder to store all the outputs and metadata.
     :dry_run: bool (default=False)
         If True, preview changes without modifying actual files. Files are written
         to a temporary directory and differences are shown. Use this to verify
@@ -214,11 +212,6 @@ if __name__ == '__main__':
         help='Preview changes without modifying files. Files are written to a temporary directory and cleaned up after.'
     )
     parser.add_argument(
-        '-o', '--output',
-        default='',
-        help='Output folder for storing metadata and other generated files (optional).'
-    )
-    parser.add_argument(
         '--check',
         action='store_true',
         help='Check whether the committed CSS/README/metadata files are stale relative to the flag directories, '
@@ -226,7 +219,7 @@ if __name__ == '__main__':
     )
 
     args = parser.parse_args()
-    stale_files = update_everything(output_folder=args.output, dry_run=args.dry_run, check=args.check)
+    stale_files = update_everything(dry_run=args.dry_run, check=args.check)
 
     if args.check and stale_files:
         sys.exit(1)

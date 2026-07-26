@@ -46,12 +46,10 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
     OSError:
         Input folders in folders_to_check parameter do not exist.
     """
-    #run git status command using subprocess and get the full output
-    result = subprocess.run(["git", "status"], stdout=subprocess.PIPE, text=True)
-    lines = result.stdout.splitlines()
-
-    #var to track the current git status section being parsed
-    section = None
+    #run git status using the machine-readable porcelain format - the human-readable output is
+    #localised and omits staged changes entirely, so it can't be parsed reliably. -z gives
+    #NUL-separated, unquoted paths so filenames containing spaces or quotes survive intact
+    result = subprocess.run(["git", "status", "--porcelain=v1", "-z"], stdout=subprocess.PIPE, text=True)
 
     #returning the logs for a specific subset of folders in the repo
     if folders_to_check:
@@ -74,51 +72,24 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
     #list of all changes
     change_log = []
 
-    #iterate over each line in output of git status command
-    for line in lines:
-        line = line.strip()
-
-        #headers in git status output
-        if "Changes not staged for commit:" in line:
-            section = "not_staged"
-            continue
-        elif "Untracked files:" in line:
-            section = "untracked"
-            continue
-        elif not line or line.startswith("("):
-            #skip empty lines and hints like "(use 'git add'...)"
+    #iterate over each porcelain entry, parsing its status code and path
+    for status, path in parse_porcelain_status(result.stdout):
+        if not folder_regex.match(path):
             continue
 
-        #process files based on section - not-staged & untracked
-        if section == "not_staged":
-            if line.startswith("modified:") or line.startswith("deleted:"):
-                #extract status and path from lines
-                status, path = line.split(":", 1)
-                path = path.strip()
-                original_path = path
-                if folder_regex.match(path):
-                    #get timestamp for committed file
-                    timestamp = get_git_timestamp(original_path, status.strip()) if include_timestamp else ""
-                    #remove prefix from folders e.g remove "../"
-                    if strip_prefix:
-                        path = re.sub(r'^(\.\.?/)+', '', path)
-                    #extract the individual file info given a full path - name folder & extension, append relevant attributes & data to change log list
-                    folder, filename, extension = extract_file_metadata(path)                    
-                    change_log.append([path, status.strip(), timestamp, folder, filename, extension])
+        #get the change timestamp - get_git_timestamp falls back to the filesystem timestamp for
+        #untracked/added files, which have no commit history to look up
+        timestamp = get_git_timestamp(path, status) if include_timestamp else ""
 
-        #parse untracked files list that haven't been added from local to git repo
-        elif section == "untracked":
-            path = line.strip()
-            if folder_regex.match(path):
-                #for untracked files, there is no commit timestamp so try and parse timestamp from local machine
-                timestamp = get_filesystem_timestamp(path) if include_timestamp else ""
-                #extract the individual file info given a full path - name folder & extension, append to change log list
-                folder, filename, extension = extract_file_metadata(path)
-                #remove prefix from folders e.g remove "../"
-                if strip_prefix:
-                    path = re.sub(r'^(\.\.?/)+', '', path)
-                #append relevant attributes & data to change log list 
-                change_log.append([path, "added", timestamp, folder, filename, extension])
+        #extract the individual file info given a full path - folder, name & extension
+        folder, filename, extension = extract_file_metadata(path)
+
+        #remove prefix from folders e.g remove "../"
+        if strip_prefix:
+            path = re.sub(r'^(\.\.?/)+', '', path)
+
+        #append relevant attributes & data to change log list
+        change_log.append([path, status, timestamp, folder, filename, extension])
 
     #filter by commit status, accepted values are 'added', 'modified' or 'deleted'
     if filter_status:
@@ -159,6 +130,57 @@ def export_git_flag_logs(export_filename: str="git_status_logs.csv", folders_to_
 
     print(f"CSV written to {export_filename}.")
 
+def parse_porcelain_status(porcelain_output: str) -> list[tuple[str, str]]:
+    """
+    Parse the output of 'git status --porcelain=v1 -z' into a list of (status, path)
+    tuples, where status is one of "added", "modified" or "deleted".
+
+    Unlike the human-readable 'git status' output, the porcelain format is stable,
+    not localised and reports staged changes as well as unstaged and untracked ones.
+
+    Parameters
+    ==========
+    :porcelain_output: str
+        raw stdout from 'git status --porcelain=v1 -z'.
+
+    Returns
+    =======
+    :changes: list[tuple[str, str]]
+        list of (status, path) tuples for every reported change.
+    """
+    #map a porcelain status character onto the status names used in the export
+    status_names = {"A": "added", "?": "added", "M": "modified", "R": "modified", "C": "modified", "D": "deleted"}
+
+    #NUL-separated entries, trailing separator produces a final empty token
+    entries = [entry for entry in porcelain_output.split("\0") if entry]
+
+    changes = []
+    index = 0
+    while index < len(entries):
+        entry = entries[index]
+        index += 1
+
+        #each entry is 2 status characters, a space, then the path
+        if len(entry) < 4:
+            continue
+        index_status, worktree_status, path = entry[0], entry[1], entry[3:]
+
+        #renames/copies are followed by a second entry holding the original path, which is skipped
+        if index_status in ("R", "C") or worktree_status in ("R", "C"):
+            index += 1
+
+        #the worktree status takes precedence when set, otherwise fall back to the index status,
+        #so a file staged as added then deleted on disk is reported as deleted
+        status_char = worktree_status if worktree_status != " " else index_status
+
+        #ignore anything that isn't an add/modify/delete, e.g ignored (!) or unmerged (U) entries
+        if status_char not in status_names:
+            continue
+
+        changes.append((status_names[status_char], path))
+
+    return changes
+
 def get_git_timestamp(file_path: str, status: str="") -> str:
     """
     Return last Git commit timestamp or 'not-committed' for uncommitted modified/deleted files.
@@ -195,24 +217,39 @@ def get_git_timestamp(file_path: str, status: str="") -> str:
                 #for untracked files (e.g., added), fallback to filesystem timestamp 
                 return get_filesystem_timestamp(file_path)
 
-        #get timestamp in correct format via the datetime library 
-        dt = datetime.strptime(raw_timestamp, "%Y-%m-%d %H:%M:%S")
-        weekday = dt.strftime('%a') + 's'
-        day = dt.day
-        suffix = 'th' if 11 <= day <= 13 else {1: 'st', 2: 'nd', 3: 'rd'}.get(day % 10, 'th')
-
-        return f"{weekday} {day}{suffix} {dt.strftime('%B %Y %H:%M')}"
+        #get timestamp in correct format via the datetime library
+        return format_timestamp(datetime.strptime(raw_timestamp, "%Y-%m-%d %H:%M:%S"))
 
     #return empty string if issue parsing the timestamp
     except Exception as e:
         return ""
 
+def format_timestamp(dt: datetime) -> str:
+    """
+    Format a datetime as 'Tue 15th July 2025 17:54' - abbreviated weekday, ordinal
+    day of the month, full month name, year and 24-hour time.
+
+    Parameters
+    ==========
+    :dt: datetime
+        datetime to format.
+
+    Returns
+    =======
+    :formatted_date: str
+        formatted timestamp.
+    """
+    day = dt.day
+    suffix = 'th' if 11 <= day <= 13 else {1: 'st', 2: 'nd', 3: 'rd'}.get(day % 10, 'th')
+
+    return f"{dt.strftime('%a')} {day}{suffix} {dt.strftime('%B %Y %H:%M')}"
+
 def get_filesystem_timestamp(file_path: str) -> str:
     """ 
-    Return filesystem-modified timestamp for input filename formatted as 'Tues 15th July 2025 17:54'.
-    
+    Return filesystem-modified timestamp for input filename formatted as 'Tue 15th July 2025 17:54'.
+
     Parameters
-    ========== 
+    ==========
     :file_path: str
         path to file to get the change timestamp for.
 
@@ -224,15 +261,9 @@ def get_filesystem_timestamp(file_path: str) -> str:
     try:
         #parse modification timestamp
         mod_time = os.path.getmtime(file_path)
-        dt = datetime.fromtimestamp(mod_time)
 
-        #get timestamp in correct format via the datetime library 
-        weekday = dt.strftime('%a') + 's'  # 'Tue' -> 'Tues'
-        day = dt.day
-        suffix = 'th' if 11 <= day <= 13 else {1: 'st', 2: 'nd', 3: 'rd'}.get(day % 10, 'th')
-        formatted_date = f"{weekday} {day}{suffix} {dt.strftime('%B %Y %H:%M')}"
-
-        return formatted_date
+        #get timestamp in correct format via the datetime library
+        return format_timestamp(datetime.fromtimestamp(mod_time))
 
     #return empty string if issue parsing the timestamp
     except Exception:
@@ -248,6 +279,9 @@ def extract_file_metadata(path: str) -> tuple[str, str, str]:
     :file_path: str
         path to file to get the change timestamp for.
 
+    The path is parsed as a string and does not need to exist on disk - deleted files
+    are reported by 'git status' precisely because they are no longer there.
+
     Returns
     =======
     :folder: str
@@ -256,16 +290,7 @@ def extract_file_metadata(path: str) -> tuple[str, str, str]:
         filename.
     :extension: str
         filename extension.
-
-    Raises
-    ======
-    OSError:
-        File path doesn't exist.
     """
-    #raise error if file path doesn't exist
-    if not (os.path.isfile(path)):
-        raise OSError(f"Filepath not found: {path}.")
-    
     #parse filename, extension and folder from input file path
     folder = Path(path).parts[-2] if len(Path(path).parts) >= 2 else ""
     filename = os.path.basename(path)

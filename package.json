@@ -1,6 +1,6 @@
 {
     "name": "iso3166-flags",
-    "version": "1.0.2",
+    "version": "2.4.1",
     "description": "A comprehensive library of ISO 3166-1 & ISO 3166-2 country/subdivision codes and their corresponding flag icons.",
     "style": "css/iso3166-1.css",
     "exports": {

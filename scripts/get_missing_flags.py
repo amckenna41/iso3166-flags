@@ -3,7 +3,7 @@ import pandas as pd
 import argparse
 import os
 
-def export_missing_flags(flag_icons_dir: str, export: bool=True, export_filename: str="missing_subdivision_flags.csv") -> None:
+def export_missing_flags(flag_icons_dir: str, export: bool=True, export_filename: str="missing_subdivision_flags.csv") -> pd.DataFrame:
     """
     Export a list of subdivisions that do not have a supported flag in the inputted folder, 
     using the custom-built iso3166-2 software package. Many subdivisions do not have an 
@@ -72,9 +72,8 @@ def export_missing_flags(flag_icons_dir: str, export: bool=True, export_filename
             if (country not in all_files or subd not in all_files[country]):
                 subdivision_name = subdivisions[country][subd]["name"]
                 subdivision_type = subdivisions[country][subd]["type"]
-                #wrap in double quotes subdivision names with commas in them 
-                if ("," in subdivision_name):
-                    subdivision_name = f'"{subdivision_name}"'  #wrap in double quotes
+                #names containing commas are quoted by the CSV writer itself - quoting them here
+                #as well produces doubly-escaped values e.g """Bournemouth, Christchurch and Poole"""
 
                 #add subdivision data to object
                 new_row = {"subdivisionCode": subd, "subdivisionName": subdivision_name, "subdivisionType": subdivision_type}

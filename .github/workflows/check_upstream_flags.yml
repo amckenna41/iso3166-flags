@@ -88,7 +88,22 @@ jobs:
 
           print("Extracting archive ...")
           with tarfile.open("flag-icons.tar.gz", "r:gz") as tar:
-              tar.extractall("flag-icons-tmp")
+              #the "data" filter rejects absolute paths, ".." traversal, links pointing outside the
+              #destination and special files, so a malicious or compromised upstream release can't
+              #write outside flag-icons-tmp/ in a runner that holds contents/pull-requests write access
+              try:
+                  tar.extractall("flag-icons-tmp", filter="data")
+              except TypeError:
+                  #the filter argument was added in Python 3.12 (and backported to 3.9.17+/3.10.12+/3.11.4+),
+                  #fall back to validating each member by hand on older interpreters
+                  destination = os.path.abspath("flag-icons-tmp")
+                  for member in tar.getmembers():
+                      if not member.isfile() and not member.isdir():
+                          raise RuntimeError(f"Refusing to extract non-regular archive member: {member.name}")
+                      target = os.path.abspath(os.path.join(destination, member.name))
+                      if target != destination and not target.startswith(destination + os.sep):
+                          raise RuntimeError(f"Refusing to extract archive member outside destination: {member.name}")
+                  tar.extractall("flag-icons-tmp")
 
           # Locate the extracted root directory (e.g. flag-icons-7.5.0/)
           extracted_dir = next(
@@ -109,13 +124,22 @@ jobs:
           current_flags  = {f for f in os.listdir(target_dir)  if f.endswith(".svg")}
           upstream_flags = {f for f in os.listdir(source_dir) if f.endswith(".svg")}
 
-          added, updated, removed = [], [], []
+          official_codes = {code.lower() for code in iso3166.countries_by_alpha2}
 
-          # Add new flags / overwrite changed flags
+          added, updated, removed, skipped = [], [], [], []
+
+          # Add new flags / overwrite changed flags.
+          # A *new* upstream flag is only added if its filename is an official ISO 3166-1
+          # alpha-2 code — upstream also ships non-official flags (arab, es-ct, eu, un,
+          # gb-sct, ...) which do not belong in this repo. Files already present are
+          # still updated, so previously-synced exception flags stay in step with upstream.
           for fname in upstream_flags:
               src = os.path.join(source_dir, fname)
               dst = os.path.join(target_dir, fname)
               if fname not in current_flags:
+                  if os.path.splitext(fname)[0].lower() not in official_codes:
+                      skipped.append(fname)
+                      continue
                   shutil.copy2(src, dst)
                   added.append(fname)
               else:
@@ -133,8 +157,10 @@ jobs:
           # Patch the unit tests in this same PR so they recognise the synced dataset:
           # any synced flag whose code isn't an official ISO 3166-1 alpha-2 code
           # (eu, un, gb-sct, ...) is an "exception flag" the tests must allow for.
-          official_codes = {code.lower() for code in iso3166.countries_by_alpha2}
-          synced_codes = {os.path.splitext(f)[0].lower() for f in upstream_flags}
+          synced_codes = {
+              os.path.splitext(f)[0].lower()
+              for f in os.listdir(target_dir) if f.endswith(".svg")
+          }
           exception_flags = sorted(synced_codes - official_codes)
 
           tests_updated = []
@@ -178,6 +204,7 @@ jobs:
               "added":   sorted(added),
               "updated": sorted(updated),
               "removed": sorted(removed),
+              "skipped": sorted(skipped),
               "exception_flags": exception_flags,
               "tests_updated":   tests_updated,
           }
@@ -188,6 +215,7 @@ jobs:
           if added:   print("  Added  :", added)
           if updated: print("  Updated:", updated)
           if removed: print("  Removed:", removed)
+          if skipped: print(f"  Skipped {len(skipped)} new non-official flag(s):", sorted(skipped))
 
           with open("flag_sync_summary.json", "w") as fh:
               json.dump(summary, fh, indent=2)
@@ -202,14 +230,15 @@ jobs:
       # -------------------------------------------------------
       - name: Build PR body
         run: |
-          ADDED_COUNT=0; UPDATED_COUNT=0; REMOVED_COUNT=0
-          ADDED_LIST="None"; UPDATED_LIST="None"; REMOVED_LIST="None"
+          ADDED_COUNT=0; UPDATED_COUNT=0; REMOVED_COUNT=0; SKIPPED_COUNT=0
+          ADDED_LIST="None"; UPDATED_LIST="None"; REMOVED_LIST="None"; SKIPPED_LIST="None"
           EXCEPTION_NOTE=""
 
           if [ -f flag_sync_summary.json ]; then
             ADDED_COUNT=$(python3   -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['added']))")
             UPDATED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['updated']))")
             REMOVED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['removed']))")
+            SKIPPED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['skipped']))")
 
             ADDED_LIST=$(python3 -c "
           import json
@@ -227,6 +256,12 @@ jobs:
           import json
           d = json.load(open('flag_sync_summary.json'))
           items = d['removed']
+          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
+          ")
+            SKIPPED_LIST=$(python3 -c "
+          import json
+          d = json.load(open('flag_sync_summary.json'))
+          items = d['skipped']
           print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
           ")
             EXCEPTION_NOTE=$(python3 -c "
@@ -252,6 +287,9 @@ jobs:
           | ✅ Added   | $ADDED_COUNT   | $ADDED_LIST |
           | 🔄 Updated | $UPDATED_COUNT | $UPDATED_LIST |
           | ❌ Removed | $REMOVED_COUNT | $REMOVED_LIST |
+          | ⏭️ Skipped (not official ISO 3166-1) | $SKIPPED_COUNT | $SKIPPED_LIST |
+
+          Skipped files are new upstream flags whose filename is not an official ISO 3166-1 alpha-2 code (e.g. \`arab.svg\`, \`es-ct.svg\`) — they are deliberately **not** added to this repo.
 
           $EXCEPTION_NOTE
 

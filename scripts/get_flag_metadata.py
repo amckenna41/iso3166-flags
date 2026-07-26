@@ -39,11 +39,12 @@ def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metad
     if not (os.path.isdir(flag_folder)):
         raise OSError(f"Folder of subdivision flag images not found: {flag_folder}.")
     
-    #var to delineate whether iso3166-1-flags or iso3166-2-flags folder is being used to determine 1st column
-    if (flag_folder == "iso3166-1-flags"):
+    #var to delineate whether iso3166-1-flags or iso3166-2-flags folder is being used to determine 1st column -
+    #compare the normalised folder name so "./iso3166-1-flags", a trailing slash or an absolute path all match
+    if (os.path.basename(os.path.normpath(flag_folder)) == "iso3166-1-flags"):
         country_subdivision_code = "country_code"
     else:
-        country_subdivision_code = "subdivision_code"        
+        country_subdivision_code = "subdivision_code"
 
     #get list of columns in csv output - first column can be country_code or subdivision_code
     attribute_list = [country_subdivision_code, 'file_name', 'file_size_kb', 'file_extension', 'dimensions', 'aspect_ratio', 'flag_type', 'quality', 'source_url', 'dominant_colours']
@@ -79,7 +80,7 @@ def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metad
         for file_info in file_info_list:
             writer.writerow(file_info)
 
-def calculate_dimension(image_path: str) -> tuple[int, int]:
+def calculate_dimension(image_path: str) -> tuple[int, int, float]:
     """
     Calculate the dimensions of the image, getting its
     height, width and aspect ratio.
@@ -392,8 +393,9 @@ def parse_svg_dimension(dimension: str):
 
     Raises
     ======
-    IOError:
-        Error converting SVG file dimension to float.
+    None:
+        Malformed dimension strings return None rather than raising, letting the caller
+        fall back to the viewBox.
     """
     #return None if input is None
     if dimension is None:
@@ -427,7 +429,8 @@ def parse_svg_dimension(dimension: str):
         else:
             print(f"Unable to parse dimension: {dimension}")
             return None
-    except IOError:
+    #malformed numeric parts e.g "1.2.3" or "." raise ValueError from float(), not IOError
+    except ValueError:
         print(f"Error converting dimension to float: {dimension}")
         return None
 
@@ -593,8 +596,10 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     #convert all the folder size attributes to KB, round to 3d.p
     flag_metadata_master["iso3166_1_flags_size"] = f"{round(flag_metadata_master['iso3166_1_flags_size'] / 1024, 3):,.3f}KB"
     flag_metadata_master["iso3166_2_flags_size"] = f"{round(flag_metadata_master['iso3166_2_flags_size'] / 1024, 3):,.3f}KB"
-    # Calculate average flag size in KB (convert bytes to KB before dividing)
-    flag_metadata_master["average_flag_size"] = f"{round((flag_metadata_master['total_repo_size'] / 1024) / total_flag_count, 3):,.3f}KB"
+    #calculate average flag size in KB (convert bytes to KB before dividing), guarding against
+    #a division by zero when both flag folders are empty
+    average_flag_size = (flag_metadata_master['total_repo_size'] / 1024) / total_flag_count if total_flag_count else 0
+    flag_metadata_master["average_flag_size"] = f"{round(average_flag_size, 3):,.3f}KB"
     flag_metadata_master["total_repo_size"] = f"{round(flag_metadata_master['total_repo_size'] / 1024, 3):,.3f}KB"
 
     ### Get list of any missing ISO 3166-1 flags not in flag directory ###
@@ -777,28 +782,32 @@ def filter_by_size(flag_dir: str="iso3166-2-flags", threshold: float=1.0, above_
     OSError:
         Error trying to find input flag directory.
     """
+    #raise error if folder of images not found
+    if not (os.path.isdir(flag_dir)):
+        raise OSError(f"Folder of flag images not found: {flag_dir}.")
+
     #output file dict
     file_size_dict = {}
 
-    #iterate over all images in folder, converting them into the specified format and archiving the original image, if applicable
-    for item in os.listdir(flag_dir):
-        if os.path.isdir(os.path.join(flag_dir, item)):
-            for nested_item in os.listdir(os.path.join(flag_dir, item)):
-                input_img_path = os.path.join(flag_dir, item, nested_item)
-                
-                #skip any non-image files in dir
-                if (ignore_other_files and os.path.splitext(os.path.basename(input_img_path))[1] not in [".svg", ".png", ".jpg", ".jpeg"]):
-                    continue
-                    
-                #get file size in bytes - used for calculating image quality, also get file size in KB, round to 3.dp
-                file_size_kb = round((os.path.getsize(input_img_path) / 1024), 3)
+    #walk the folder recursively so both the flat iso3166-1-flags layout and the nested
+    #iso3166-2-flags layout are covered
+    for folder_path, _, filenames in os.walk(flag_dir):
+        for filename in filenames:
+            input_img_path = os.path.join(folder_path, filename)
 
-                if (above_threshold):
-                    if (file_size_kb >= threshold):
-                        file_size_dict[nested_item] = file_size_kb
-                else:
-                    if (file_size_kb < threshold):
-                        file_size_dict[nested_item] = file_size_kb
+            #skip any non-image files in dir
+            if (ignore_other_files and os.path.splitext(filename)[1].lower() not in [".svg", ".png", ".jpg", ".jpeg"]):
+                continue
+
+            #get file size in bytes - used for calculating image quality, also get file size in KB, round to 3.dp
+            file_size_kb = round((os.path.getsize(input_img_path) / 1024), 3)
+
+            if (above_threshold):
+                if (file_size_kb >= threshold):
+                    file_size_dict[filename] = file_size_kb
+            else:
+                if (file_size_kb < threshold):
+                    file_size_dict[filename] = file_size_kb
 
     #convert dict to dataframe
     file_size_df = pd.DataFrame(file_size_dict.items(), columns=['fileName', 'size (KB)'])
@@ -819,17 +828,21 @@ if __name__ == '__main__':
         help='Output file name/path for subdivision flag metadata export.')
     parser.add_argument('-export_json', '--export_json', required=False, action=argparse.BooleanOptionalAction, default=1, 
         help='Set to 1 to export the metadata output to json.')
-    parser.add_argument('-exclude_readme', '--exclude_readme', required=False, action=argparse.BooleanOptionalAction, default=1, 
+    parser.add_argument('-exclude_readme', '--exclude_readme', required=False, action=argparse.BooleanOptionalAction, default=1,
         help='Set to 1 to exclude the country markdown files in the overall file count and metadata calculation.')
-    
+    parser.add_argument('-export_repo_metadata', '--export_repo_metadata', required=False, action=argparse.BooleanOptionalAction, default=0,
+        help='Set to 1 to additionally export the whole-repo metadata object rather than the per-flag metadata.')
+    parser.add_argument('-repo_metadata_output', '--repo_metadata_output', type=str, required=False, default="repo_metadata.json",
+        help='Output file name/path for the whole-repo metadata export.')
+
     #parse input args
     args = parser.parse_args()
-    flag_folder = args.flag_folder
-    flag_metadata_output = args.flag_metadata_output
-    export_json = args.export_json
-    exclude_readme = args.exclude_readme
 
-    #call main export function
-    # export_flag_metadata(flag_folder, flag_metadata_output=flag_metadata_output)
-    # export_flag_list(export_csv_filename="iso3166_2_flag_list.csv")
-    filter_by_size(above_threshold=True)
+    #export the per-flag metadata for the input flag folder
+    export_flag_metadata(args.flag_folder, flag_metadata_output=args.flag_metadata_output)
+    print(f"Flag metadata exported to {args.flag_metadata_output}.")
+
+    #export the whole-repo metadata object, if applicable
+    if (args.export_repo_metadata):
+        export_repo_metadata(export_json=args.export_json, export_filename=args.repo_metadata_output, exclude_readme=args.exclude_readme)
+        print(f"Repo metadata exported to {args.repo_metadata_output}.")

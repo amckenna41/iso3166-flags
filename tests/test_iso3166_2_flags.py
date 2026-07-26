@@ -37,8 +37,22 @@ class ISO3166_2_Flags_Tests(unittest.TestCase):
         testing consistent aspect ratios per country.
     test_iso3166_2_flag_naming_matches_folder:
         testing flag naming matches parent folder.
+    test_iso3166_2_file_size_limits:
+        testing file size limits to prevent accidentally huge files, ratcheted against the
+        current number of oversized flags so no new ones can be added.
     """
-    def setUp(self):      
+    #target per-file size, matching the ISO 3166-1 suite's cap. The ISO 3166-2 folder is ~332MB
+    #and predates this limit, so the test ratchets rather than enforcing the target outright
+    MAX_FILE_SIZE_KB = 500
+
+    #no single subdivision flag may ever exceed this, regardless of the ratchet below
+    HARD_MAX_FILE_SIZE_KB = 7500
+
+    #number of flags currently above MAX_FILE_SIZE_KB. This is a debt ceiling, not a target -
+    #lower it as oversized rasters are converted/optimised. It must never be raised
+    MAX_OVERSIZED_FILES = 143
+
+    def setUp(self):
         """ Initialise test variables. """
         self.test_input_flag_folder = "iso3166-2-flags"
 
@@ -229,8 +243,38 @@ class ISO3166_2_Flags_Tests(unittest.TestCase):
             if country_code_from_file != parent_folder:
                 mismatched_flags.append(f"{filename} in {parent_folder}/")
 #1.)        
-        self.assertEqual(len(mismatched_flags), 0, 
+        self.assertEqual(len(mismatched_flags), 0,
                         f"Found {len(mismatched_flags)} flags in wrong folders: {mismatched_flags[:10]}")
+
+    # @unittest.skip("")
+    def test_iso3166_2_file_size_limits(self):
+        """ Testing file size limits to prevent accidentally huge files. """
+        #size in KB of every subdivision flag, largest first
+        flag_sizes = sorted(
+            (
+                (os.path.getsize(os.path.join(self.test_input_flag_folder, parent_folder, filename)) / 1024, f"{parent_folder}/{filename}")
+                for filename, parent_folder in self.file_folder_map.items()
+            ),
+            reverse=True,
+        )
+#1.)
+        #no single flag may exceed the hard ceiling
+        over_hard_limit = [f"{path} ({size_kb:.1f}KB)" for size_kb, path in flag_sizes if size_kb > self.HARD_MAX_FILE_SIZE_KB]
+        self.assertFalse(over_hard_limit,
+            f"Expected no ISO 3166-2 flag to exceed the hard limit of {self.HARD_MAX_FILE_SIZE_KB}KB, got: {over_hard_limit}.")
+#2.)
+        #the number of flags above the target size must not grow - this blocks new oversized flags
+        #being added while the existing oversized rasters are worked through
+        oversized = [f"{path} ({size_kb:.1f}KB)" for size_kb, path in flag_sizes if size_kb > self.MAX_FILE_SIZE_KB]
+        self.assertLessEqual(len(oversized), self.MAX_OVERSIZED_FILES,
+            f"Expected no more than {self.MAX_OVERSIZED_FILES} ISO 3166-2 flags above {self.MAX_FILE_SIZE_KB}KB, got {len(oversized)}. "
+            f"Largest offenders: {oversized[:10]}.")
+#3.)
+        #keep the ratchet tight - if flags have been optimised, MAX_OVERSIZED_FILES must come down
+        #with them, otherwise the ceiling silently drifts back into slack
+        self.assertEqual(len(oversized), self.MAX_OVERSIZED_FILES,
+            f"Only {len(oversized)} ISO 3166-2 flags now exceed {self.MAX_FILE_SIZE_KB}KB, so lower "
+            f"MAX_OVERSIZED_FILES from {self.MAX_OVERSIZED_FILES} to {len(oversized)}.")
 
 if __name__ == '__main__':
     #run all unit tests
