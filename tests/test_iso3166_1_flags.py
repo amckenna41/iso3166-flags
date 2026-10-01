@@ -41,10 +41,7 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
     """
     #non-official flags (regional orgs, constituent countries, exception codes) kept alongside the official ISO 3166-1 codes
     EXCEPTION_FLAGS = {
-        "gb-sct", "gb-nir", "gb-eng", "gb-wls",
-        "es-ct", "es-ga", "es-pv",
-        "arab", "asean", "cefta", "eac",
-        "sh-ac", "sh-hl", "sh-ta"
+        
     }
 
     def setUp(self):
