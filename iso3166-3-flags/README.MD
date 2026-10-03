@@ -21,6 +21,8 @@ The alpha-4 code is constructed from two parts:
 
 There are currently **24** ISO 3166-3 flags in this folder. All flags are in **SVG** format and named using the ISO 3166-3 alpha-4 code (uppercase), e.g. `SUHH.svg`.
 
+The flags can be used via the [`css/iso3166-3.css`](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-3.css) file by adding the classes `.fi` and `.fi-xxxx` (the alpha-4 code in lower-case) to an empty `<span>`, e.g. `<span class="fi fi-suhh"></span>`. Per-flag metadata is in [`iso3166_3_flag_metadata.csv`](https://github.com/amckenna41/iso3166-flags/blob/main/iso3166-flags-metadata/iso3166_3_flag_metadata.csv).
+
 | Alpha-4 | Former Country / Territory | Successor(s) | Period |
 |---|---|---|---|
 | `AIDJ` | French Territory of the Afars and Issas | Djibouti (`DJ`) | 1967–1977 |

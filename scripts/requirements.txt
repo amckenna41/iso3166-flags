@@ -1,9 +1,10 @@
 #external Python packages for iso3166-flags script
-Pillow>=10.0.0,<12
+Pillow>=12.3.0,<13
 iso3166>=2.1.0
-iso3166-2>=1.8.1
+iso3166-2==1.8.4  #pinned: subdivision name/type changes upstream alter the generated READMEs and fail the CI --check gate
 opencv-python>=4.8.0,<5
-lxml>=4.9.0,<6
+lxml>=5.0.0,<7
 pandas>=2.0.0,<3
 beautifulsoup4>=4.12.0,<5
 requests>=2.31.0,<3
+scour>=0.38.2

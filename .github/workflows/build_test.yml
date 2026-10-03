@@ -28,9 +28,9 @@ jobs:
             os: [ubuntu-latest]
             python-version: ["3.10", "3.11", "3.12"]   #testing on multiple python versions
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
       with:
         python-version: ${{ matrix.python-version }}
     
@@ -76,22 +76,23 @@ jobs:
         print(f'All SVGs valid.')
         "
 
-    #verify README Quick Stats table matches metadata JSON
+    #verify the README Quick Stats table row matches the metadata JSON - compares the actual table cells
+    #rather than searching for each number anywhere in the README, which could match by coincidence
     - name: Verify README Quick Stats
       run: |
         python -c "
-        import json, sys
+        import json, re, sys
         with open('iso3166-flags-metadata/iso3166_flags_metadata.json') as f:
             meta = json.load(f)
         with open('README.md') as f:
             readme = f.read()
-        stale = []
-        for key, label in [('total', 'total flags'), ('iso3166_1_total', 'ISO3166-1 total'), ('iso3166_2_total', 'ISO3166-2 total')]:
-            val = str(meta[key]).replace(',', '')
-            if val not in readme.replace(',', ''):
-                stale.append(f'{label}: expected {val}')
+        section = readme.split('## Quick Stats', 1)[1]
+        row = [line for line in section.splitlines() if re.match(r'^\|\s*[\d,]+\s*\|', line)][0]
+        cells = [c.strip().replace(',', '') for c in row.strip('|').split('|')]
+        expected = [meta['total'], meta['iso3166_1_total'], meta['iso3166_2_total'], meta['svg'], meta['png'], meta['jpg/jpeg'], meta['other']]
+        stale = [f'column {i + 1}: README has {c}, metadata has {e}' for i, (c, e) in enumerate(zip(cells, expected)) if c != str(e)]
         if stale:
-            print('README Quick Stats appear stale:', stale)
+            print('README Quick Stats are stale:', stale)
             sys.exit(1)
         print('README stats are up to date.')
         "
@@ -112,9 +113,9 @@ jobs:
             os: [ubuntu-latest]
             python-version: ["3.11"]   #testing on multiple python versions
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
       with:
         python-version: ${{ matrix.python-version }}
 
@@ -122,28 +123,25 @@ jobs:
     - name: Artifacts mkdir
       run: mkdir artifacts
 
-    #package vulnerability check using safety scan (v3+ API)
-    - name: Package safety check
+    #package vulnerability check of the pinned requirements using pip-audit (no account/API key needed,
+    #unlike safety v3) - fails the job on any known vulnerability
+    - name: Package vulnerability check
       run: |
-        echo "Running package safety check"
-        pip install safety
-        safety scan --output text > artifacts/package_safety_output.txt || true
-        cat artifacts/package_safety_output.txt
-      continue-on-error: true
+        pip install pip-audit
+        set -o pipefail
+        pip-audit -r scripts/requirements.txt -r tests/requirements.txt --progress-spinner off | tee artifacts/package_safety_output.txt
 
-    #run Bandit security check scoped to production code only, medium severity and confidence.
-    #the flags are --severity-level/--confidence-level - the shorter --level/--confidence are not
-    #valid Bandit options and made the step exit on a usage error while still reporting success
+    #run Bandit security check scoped to production code only, failing on medium+ severity and confidence findings
     - name: Bandit
       run: |
-        echo "Running Bandit"
-        python -m bandit -r scripts/ tests/ --severity-level medium --confidence-level medium > artifacts/bandit_output.txt || true
-        cat artifacts/bandit_output.txt
-      continue-on-error: true
+        pip install bandit
+        set -o pipefail
+        python -m bandit -r scripts/ --severity-level medium --confidence-level medium | tee artifacts/bandit_output.txt
 
-    #upload test artifacts to workflow
+    #upload test artifacts to workflow, even when a check above failed
     - name: Upload Test Artifacts
-      uses: actions/upload-artifact@v4
+      if: always()
+      uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
       with:
         name: test_artifacts
         path: |
@@ -160,8 +158,7 @@ jobs:
     steps:
       #checkout repo
       - name: Checkout repo
-        uses: actions/checkout@v4
-
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       # install all required modules and dependencies using pip installation
       - name: Install dependencies
         run: |
@@ -184,7 +181,7 @@ jobs:
       
       #upload artifacts to repo
       - name: Upload flake8 Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: flake8_artifact
           path: flake8_artifacts/flake8_output.txt
@@ -200,8 +197,7 @@ jobs:
     steps:
       #checkout repo
       - name: Checkout repo
-        uses: actions/checkout@v4
-
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       # install all required coverage test modules and dependencies 
       - name: Install dependencies
         run: |
@@ -215,7 +211,7 @@ jobs:
 
       #upload to Code Coverage, only if matrix python version is 3.11
       - name: Upload Coverage Report to Codecov
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@b9fd7d16f6d7d1b5d2bec1a2887e65ceed900238 # v4
         with:
           files: coverage.xml
           flags: iso3166_flags_workflow

@@ -1,23 +1,24 @@
 # Test scripts for testing the flags and various utility scripts in iso3166-flags 🧪
 
-## Core Tests
+## Flag Dataset Tests
 
-* `test_iso3166_1_flags.py` - testing the ISO 3166-1 flag directory.
-* `test_iso3166_2_flags.py` - testing the ISO 3166-2 flag directory.
-* `test_flag_metadata.py` - testing the `get_flag_metadata` script, that calculates a plethora of metadata for each of the ISO 3166-1 and ISO 3166-2 flags.
-* `test_generate_css.py` - testing the `generate_css` script, that exports the ISO 3166-1 and ISO 3166-2 CSS files.
+* `test_iso3166_1_flags.py` - testing the ISO 3166-1 flag directory: completeness against the official ISO 3166-1 codes, file formats/sizes and SVG validity. Non-official flags, including the 13 reserved-code flags (`ac`, `cp`, `cq`, `dg`, `ea`, `eu`, `ez`, `fx`, `ic`, `su`, `ta`, `uk`, `un`), are listed in `EXCEPTION_FLAGS`.
+* `test_iso3166_2_flags.py` - testing the ISO 3166-2 flag directory. `MAX_OVERSIZED_FILES` caps the number of flags over 500KB and should be lowered whenever flags are compressed (the test tells you the new value).
+* `test_iso3166_3_flags.py` - testing the ISO 3166-3 (former country) flag directory.
+
+## Script Tests
+
+* `test_flag_metadata.py` - testing the `get_flag_metadata` script, that calculates a plethora of metadata for each of the ISO 3166-1, ISO 3166-2 and ISO 3166-3 flags, including malformed SVG handling.
+* `test_generate_css.py` - testing the `generate_css` script, that exports the ISO 3166-1, ISO 3166-2 and ISO 3166-3 CSS files and the SVG sprites - including that every flag `url()` resolves relative to the stylesheet, the `.fi::before` rule, and unique/namespaced sprite ids.
 * `test_generate_readme.py` - testing the `generate_readme` script, that exports the ISO 3166-2 markdown files per subdivision sub-folder.
 * `test_get_missing_flags.py` - testing the `get_missing_flags` script, that exports list of all subdivisions that don't have an associated flag on the repo.
 * `test_get_git_flag_logs.py` - testing the `get_git_flag_logs` script, that exports the list of flag additions, modifications and deletions from the git status command.
 * `test_convert_images.py` - testing the `convert_images` script, that converts the flag images into different format.
+* `test_svg_compress.py` - testing the `svg_compress.sh` script on both flat and nested flag folders (skipped if `scour` isn't installed).
 
-## Advanced Tests
+`tests/test_flags/` is a small fixture of subdivision flags used by the script tests.
 
-* `test_edge_cases_and_performance.py` - comprehensive test suite covering:
-  * **Edge Cases**: Empty subdivisions, malformed CSVs, special characters, non-existent flag references, mixed format directories
-  * **Performance Tests**: Metadata export benchmarking, CSS generation speed testing with 3,000+ flags, README generation performance
-  * **Integration Tests**: Metadata consistency across multiple runs, repo metadata validation, CSS completeness verification, average flag size calculation accuracy
-  * **Data Validation Tests**: Subdivision code format validation, flag file organization verification
+The committed CSS, sprite, README and metadata files are checked against the flag folders separately in CI via `python -m scripts.update_everything --check`.
 
 ## Running Tests
 
@@ -28,14 +29,11 @@ python -m pytest tests/
 # Run specific test file
 python -m pytest tests/test_flag_metadata.py
 
-# Run specific test class
-python -m pytest tests/test_edge_cases_and_performance.py::EdgeCasesTests
+# Run a single test
+python -m pytest tests/test_generate_css.py::Generate_CSS_Tests::test_background_image_urls
 
 # Run with verbose output
 python -m pytest tests/ -v
-
-# Run performance tests only
-python -m pytest tests/test_edge_cases_and_performance.py::PerformanceTests -v
 
 # Run tests with coverage report
 python -m pytest tests/ --cov=scripts --cov-report=html

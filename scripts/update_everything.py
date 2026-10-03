@@ -64,13 +64,14 @@ def update_everything(dry_run: bool=False, check: bool=False) -> list:
     #iso3166-1/2 folder names
     iso3166_1_dir = "iso3166-1-flags"
     iso3166_2_dir = "iso3166-2-flags"
+    iso3166_3_dir = "iso3166-3-flags"
     iso3166_metadata_dir = "iso3166-flags-metadata"
 
     #path to CSS directory
     css_dir = "css"
 
     #raise OSError if the flag or CSS directories aren't found
-    if not (os.path.isdir(iso3166_1_dir) and os.path.isdir(iso3166_2_dir) and os.path.isdir(css_dir)):
+    if not (os.path.isdir(iso3166_1_dir) and os.path.isdir(iso3166_2_dir) and os.path.isdir(iso3166_3_dir) and os.path.isdir(css_dir)):
         raise OSError("Flag or CSS directories not found, double check they are on the path.")
 
     #list of committed files found to be out of sync with their freshly generated counterpart, only populated if check=True
@@ -109,9 +110,15 @@ def update_everything(dry_run: bool=False, check: bool=False) -> list:
             #convert any gif or webp files to PNG
             convert_img(flag_folder=iso3166_2_dir, img_format="png", delete_original=1)
 
-        #create the iso3166-1 and iso3166-2 CSS files (and their minified counterparts)
-        create_iso3166_1_css(country_input_folder=iso3166_1_dir, export_css_filepath=os.path.join(css_dir, "iso3166-1.css"), minify=True)
-        create_iso3166_2_css(country_input_folder=iso3166_2_dir, export_css_filepath=os.path.join(css_dir, "iso3166-2.css"), minify=True)
+        #create the iso3166-1 and iso3166-2 CSS files (and their minified counterparts) - flag urls are always relative
+        #to the committed css/ dir, even when generating into a temp dir for --dry-run/--check
+        create_iso3166_1_css(country_input_folder=iso3166_1_dir, export_css_filepath=os.path.join(css_dir, "iso3166-1.css"), minify=True, css_dir="css")
+        create_iso3166_2_css(country_input_folder=iso3166_2_dir, export_css_filepath=os.path.join(css_dir, "iso3166-2.css"), minify=True, css_dir="css")
+        #ISO 3166-3 (former countries) is a flat folder like ISO 3166-1, so the same generator applies - selectors e.g .fi-csxx
+        create_iso3166_1_css(country_input_folder=iso3166_3_dir, export_css_filepath=os.path.join(css_dir, "iso3166-3.css"), minify=True, css_dir="css")
+
+        #ISO 3166-1 SVG sprite (<symbol id="fi-xx">), the ISO 3166-2 sprites are left on-demand given the dataset size
+        create_svg_sprite(country_input_folder=iso3166_1_dir, export_sprite_filepath=os.path.join(css_dir, "iso3166-1-sprite.svg"))
 
         #create markdown file for each country subfolder for subdivision flags - in dry-run mode, write each
         #country's README into the temp directory instead of its real subfolder so no files are touched
@@ -125,6 +132,7 @@ def update_everything(dry_run: bool=False, check: bool=False) -> list:
         #export individual flag metadata for the ISO 3166-1 and ISO 3166-2 flags 
         export_flag_metadata("iso3166-1-flags", flag_metadata_output=os.path.join(iso3166_metadata_dir, "iso3166_1_flag_metadata.csv"))
         export_flag_metadata("iso3166-2-flags", flag_metadata_output=os.path.join(iso3166_metadata_dir, "iso3166_2_flag_metadata.csv"))
+        export_flag_metadata(iso3166_3_dir, flag_metadata_output=os.path.join(iso3166_metadata_dir, "iso3166_3_flag_metadata.csv"))
 
         #export metadata on full repo
         export_repo_metadata(export_json=True, export_filename=os.path.join(iso3166_metadata_dir, "iso3166_flags_metadata.json"), exclude_readme=True)
@@ -140,6 +148,10 @@ def update_everything(dry_run: bool=False, check: bool=False) -> list:
                 (os.path.join(actual_css_dir, "iso3166-1.min.css"), os.path.join(css_dir, "iso3166-1.min.css")),
                 (os.path.join(actual_css_dir, "iso3166-2.css"), os.path.join(css_dir, "iso3166-2.css")),
                 (os.path.join(actual_css_dir, "iso3166-2.min.css"), os.path.join(css_dir, "iso3166-2.min.css")),
+                (os.path.join(actual_css_dir, "iso3166-3.css"), os.path.join(css_dir, "iso3166-3.css")),
+                (os.path.join(actual_css_dir, "iso3166-3.min.css"), os.path.join(css_dir, "iso3166-3.min.css")),
+                (os.path.join(actual_css_dir, "iso3166-1-sprite.svg"), os.path.join(css_dir, "iso3166-1-sprite.svg")),
+                (os.path.join(actual_metadata_dir, "iso3166_3_flag_metadata.csv"), os.path.join(iso3166_metadata_dir, "iso3166_3_flag_metadata.csv")),
                 (os.path.join(actual_metadata_dir, "iso3166_1_flag_metadata.csv"), os.path.join(iso3166_metadata_dir, "iso3166_1_flag_metadata.csv")),
                 (os.path.join(actual_metadata_dir, "iso3166_2_flag_metadata.csv"), os.path.join(iso3166_metadata_dir, "iso3166_2_flag_metadata.csv")),
                 (os.path.join(actual_metadata_dir, "iso3166_flags_metadata.json"), os.path.join(iso3166_metadata_dir, "iso3166_flags_metadata.json")),
@@ -175,8 +187,12 @@ def update_everything(dry_run: bool=False, check: bool=False) -> list:
             print(f"  - {os.path.join(actual_css_dir, 'iso3166-1.min.css')}")
             print(f"  - {os.path.join(actual_css_dir, 'iso3166-2.css')}")
             print(f"  - {os.path.join(actual_css_dir, 'iso3166-2.min.css')}")
+            print(f"  - {os.path.join(actual_css_dir, 'iso3166-3.css')}")
+            print(f"  - {os.path.join(actual_css_dir, 'iso3166-3.min.css')}")
+            print(f"  - {os.path.join(actual_css_dir, 'iso3166-1-sprite.svg')}")
             print(f"  - {os.path.join(actual_metadata_dir, 'iso3166_1_flag_metadata.csv')}")
             print(f"  - {os.path.join(actual_metadata_dir, 'iso3166_2_flag_metadata.csv')}")
+            print(f"  - {os.path.join(actual_metadata_dir, 'iso3166_3_flag_metadata.csv')}")
             print(f"  - {os.path.join(actual_metadata_dir, 'iso3166_flags_metadata.json')}")
             print(f"  - missing_subdivision_flags.csv")
             print(f"  - Markdown files in {iso3166_2_dir}/*/ subdirectories")

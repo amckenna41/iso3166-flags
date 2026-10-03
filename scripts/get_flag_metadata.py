@@ -13,6 +13,10 @@ import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module="PIL") #ignore any warnings from Pillow module
 warnings.filterwarnings("ignore", message=".*iCCP.*") #suppress libpng iCCP warnings
 
+#flags arrive from upstream syncs and contributors, so parse them without resolving external entities or touching
+#the network (XXE). Internal entities stay enabled as some Illustrator-exported flags declare their namespaces with them
+SAFE_XML_PARSER = etree.XMLParser(resolve_entities="internal", no_network=True)
+
 def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metadata.csv") -> None:
     """
     Export flag image file metadata for all of the subdivision and country flags in the flag folder. The metadata per 
@@ -39,9 +43,9 @@ def export_flag_metadata(flag_folder: str, flag_metadata_output: str="flag_metad
     if not (os.path.isdir(flag_folder)):
         raise OSError(f"Folder of subdivision flag images not found: {flag_folder}.")
     
-    #var to delineate whether iso3166-1-flags or iso3166-2-flags folder is being used to determine 1st column -
+    #var to delineate whether a country (iso3166-1/iso3166-3) or subdivision (iso3166-2) folder is being used to determine 1st column -
     #compare the normalised folder name so "./iso3166-1-flags", a trailing slash or an absolute path all match
-    if (os.path.basename(os.path.normpath(flag_folder)) == "iso3166-1-flags"):
+    if (os.path.basename(os.path.normpath(flag_folder)) in ("iso3166-1-flags", "iso3166-3-flags")):
         country_subdivision_code = "country_code"
     else:
         country_subdivision_code = "subdivision_code"
@@ -196,14 +200,14 @@ def calculate_svg_quality(svg_path):
     ======
     FileNotFoundError:
         If the SVG file is not found.
-    ET.ParseError:
+    ValueError:
         If the file is not a valid SVG/XML.
     """
     if not os.path.isfile(svg_path):
         raise FileNotFoundError(f"SVG not found at: {svg_path}")
 
     try:
-        tree = etree.parse(svg_path)
+        tree = etree.parse(svg_path, SAFE_XML_PARSER)  # nosec B320
         root = tree.getroot()
 
         #get count of common vector elements
@@ -215,9 +219,9 @@ def calculate_svg_quality(svg_path):
         quality = min(100, count * 2)  #50 elements = 100 quality
         return round(quality, 2)
 
-    #raise lxml parsing error
+    #XMLSyntaxError can't be constructed from just a message (it raised a TypeError), so wrap it in a ValueError
     except etree.XMLSyntaxError as e:
-        raise etree.XMLSyntaxError(f"Could not parse SVG at: {svg_path}.")
+        raise ValueError(f"Could not parse SVG at: {svg_path}: {e}") from e
 
 def extract_dominant_colours(svg_path: str) -> str:
     """
@@ -238,7 +242,7 @@ def extract_dominant_colours(svg_path: str) -> str:
     if not os.path.isfile(svg_path):
         return ""
     try:
-        tree = etree.parse(svg_path)
+        tree = etree.parse(svg_path, SAFE_XML_PARSER)  # nosec B320
         root = tree.getroot()
         colours = set()
         EXCLUDED = {"none", "transparent", "inherit", "currentcolor", ""}
@@ -345,7 +349,7 @@ def calculate_svg_dimension(svg_file_path: str) -> tuple:
     
     try:
         #traverse svg object data, getting the dimensions
-        tree = etree.parse(svg_file_path)
+        tree = etree.parse(svg_file_path, SAFE_XML_PARSER)  # nosec B320
         root = tree.getroot()
         width = root.get("width")
         height = root.get("height")

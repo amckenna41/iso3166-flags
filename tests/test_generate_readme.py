@@ -170,14 +170,14 @@ class Generate_Readme_Tests(unittest.TestCase):
 
         self.assertEqual(test_pa_markdown, test_pa_markdown_expected, f"Expected and observed markdown string output do not match:\n{test_pa_markdown}")
 #5.)
-        with self.assertRaises(ValueError):
-            test_error_markdown = create_markdown_str("ad,de,fr", "iso3166-2-flags/AD")
-            test_error1_markdown = create_markdown_str("ug,us", "iso3166-2-flags/UG")
-            test_error2_markdown = create_markdown_str("abc", "iso3166-2-flags/AD")
+        #one call per assertRaises block - any calls after the first raising one would never run
+        for invalid_code, folder in [("ad,de,fr", "iso3166-2-flags/AD"), ("ug,us", "iso3166-2-flags/UG"), ("abc", "iso3166-2-flags/AD")]:
+            with self.subTest(code=invalid_code), self.assertRaises(ValueError):
+                create_markdown_str(invalid_code, folder)
 #6.)
-        with self.assertRaises(OSError):
-            test_error3_markdown = create_markdown_str("HU", "blahblah/HU")
-            test_error4_markdown = create_markdown_str("HU", "iso3166-2-flags/ZZ")
+        for invalid_folder in ["blahblah/HU", "iso3166-2-flags/ZZ"]:
+            with self.subTest(folder=invalid_folder), self.assertRaises(OSError):
+                create_markdown_str("HU", invalid_folder)
 
     # @unittest.skip("")
     def test_create_markdown_str_missing_notes_row(self):
@@ -215,6 +215,7 @@ class Generate_Readme_Tests(unittest.TestCase):
 #5.)
         with self.assertRaises(ValueError):
             create_readme(self.test_input_flag_folder, "ABC")
+        with self.assertRaises(ValueError):
             create_readme(self.test_input_flag_folder, "123")
 #6.)
         with self.assertRaises(OSError):

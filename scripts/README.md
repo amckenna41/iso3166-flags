@@ -9,13 +9,13 @@
 Scripts
 -------
 * [`generate_readme.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/generate_readme.py) - create README files for each ISO 3166-2 subfolder, displaying a plethora of useful data per subdivision including the subdivision codes, names, types, flag previews & link to the flag on the repo. 
-* [`generate_css.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/generate_css.py) - create CSS files with respective CSS selectors/classes for both ISO 3166-1 and ISO 3166-2 flag icons, stored in `/css` folder.
+* [`generate_css.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/generate_css.py) - create CSS files with respective CSS selectors/classes for the ISO 3166-1, ISO 3166-2 and ISO 3166-3 flag icons, plus SVG sprites, stored in `/css` folder. Flag `url()` paths are written relative to the directory the CSS is served from (`css/` -> `../iso3166-1-flags/...`).
 * [`get_flag_metadata`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/get_flag_metadata.py) - export a plethora of useful and relevant metadata for the flag images including name, dimensions, file size, type & quality.
 * [`get_missing_flags.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/get_missing_flags.py) - script for exporting a list of subdivisions that have missing or no supported subdivision flags on the repo.
 * [`get_git_flag_logs.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/get_git_flag_logs.py) - small script that exports the list of flag additions, modifications and deletions to the repo, exported from the git status command. This is useful to track when a lot of changes have been made to the flags folder.
-* [`update_everything.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/update_everything.py) - script that ensures all the data files and metadata objects used throughout the iso3166-flags project are kept up-to-date when any flags have been added, changed or deleted.
+* [`update_everything.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/update_everything.py) - script that ensures all the data files and metadata objects used throughout the iso3166-flags project are kept up-to-date when any flags have been added, changed or deleted - the ISO 3166-1/2/3 CSS files (+ minified), the ISO 3166-1 SVG sprite, the per-country ISO 3166-2 READMEs, the ISO 3166-1/2/3 flag metadata CSVs, the repo metadata JSON and the missing subdivision flags list.
 * [`convert_images.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/convert_images.py) - script for converting all non-jpg/jpeg/png/svg images to the desired formats.
-* [`svg_compress.sh`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/svg_compress.sh) - script for compressing folder of image flags in SVG format, reducing the total size of the dataset.
+* [`svg_compress.sh`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/svg_compress.sh) - script for compressing folder of image flags in SVG format, reducing the total size of the dataset. Works on both the flat `iso3166-1-flags` layout and the nested `iso3166-2-flags/<country>/` layout, e.g. `bash scripts/svg_compress.sh --input=iso3166-1-flags --output=compressed --filesize=100`.
 
 <!-- * `get_all_subdivision_flags.py` - downloading all ISO3166-2 subdivision flags from the main subdivisions wiki (https://en.wikipedia.org/wiki/Flags_of_country_subdivisions) as well as using country's respective wiki URL's.  -->
 <!-- * `generate_json.py` - create JSON files of flag files, their name and ISO code for both ISO3166-1 and ISO3166-2 folders. 
@@ -24,13 +24,16 @@ Scripts
 Requirements
 ------------
 
-* [python][python] >= 3.9
-* [iso3166-2][iso3166_2] >= 1.8.1
-* [pandas][pandas] >= 1.4.3
-* [iso3166][iso3166] >= 2.1.1
-* [pillow][pillow] >= 11.3.0
-* [opencv-python][opencv-python] >= 4.12.0.88
-* [lxml][lxml] >= 6.0.0
+See [`requirements.txt`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/requirements.txt) for the exact version constraints.
+
+* [python][python] >= 3.10
+* [iso3166-2][iso3166_2] == 1.8.4 (pinned - subdivision name/type changes in newer versions alter the generated READMEs)
+* [pandas][pandas] >= 2.0.0
+* [iso3166][iso3166] >= 2.1.0
+* [pillow][pillow] >= 12.3.0 (earlier versions have known vulnerabilities)
+* [opencv-python][opencv-python] >= 4.8.0
+* [lxml][lxml] >= 5.0.0
+* [scour][scour] >= 0.38.2 (for `svg_compress.sh`)
 
 Usage
 -----
@@ -39,23 +42,26 @@ Usage
 ### Create README files for each ISO 3166-2 subdivision flags in iso3166-2-flags dir:
 
 ```bash
-python3 scripts/generate_readme.py --flag_input_folder="../iso3166-2-flags"
+python3 scripts/generate_readme.py --flag_input_folder="iso3166-2-flags"
 
 --flag_input_folder: input folder of ISO 3166-2 flag icons to generate README for
 --country_subfolder: optional input parameter for a specific country subfolder to create markdown file for
 --output_readme_folder: optional output folder to store the generated markdown files, by default they will be stored within the countrys subfolder
 ```
 
-### Create CSS files for both ISO 3166-1 and ISO 3166-2 flags:
+### Create CSS files for the ISO 3166-1, ISO 3166-2 and ISO 3166-3 flags:
 
 ```bash
-python3 scripts/generate_css.py --iso3166_1_country_input_folder="../iso3166-1-flags" --iso3166_2_country_input_folder="../iso3166-2-flags" --export_iso3166_1_css_filepath="iso3166-1-flags.css"  --export_iso3166_1_css_filepath="iso3166-2-flags.css"
+python3 scripts/generate_css.py --export_iso3166_1_css_filepath="css/iso3166-1.css" --export_iso3166_2_css_filepath="css/iso3166-2.css" --export_iso3166_3_css_filepath="css/iso3166-3.css" --minify
 
 --iso3166_1_country_input_folder: input folder of ISO 3166-1 flags
 --iso3166_2_country_input_folder: input folder of ISO 3166-2 flags
+--iso3166_3_country_input_folder: input folder of ISO 3166-3 (former country) flags
 --export_iso3166_1_css_filepath: export filename for ISO 3166-1 CSS
 --export_iso3166_2_css_filepath: export filename for ISO 3166-2 CSS
---iso3166_type: create ISO3166-1 or ISO3166-2 CSS file, by default both will be created
+--export_iso3166_3_css_filepath: export filename for ISO 3166-3 CSS
+--iso3166_type: create only the iso3166-1, iso3166-2 or iso3166-3 CSS file, by default all three will be created
+--css_dir: directory the CSS will be served from, which flag url() paths are made relative to (default: the directory of each export filepath)
 --minify: additionally generate a .min.css minified version of each CSS file
 --sprite: generate an SVG sprite file (css/iso3166-1-sprite.svg) for all ISO 3166-1 flags
 --export_sprite_filepath: output path for the SVG sprite file (default: css/iso3166-1-sprite.svg)
@@ -65,11 +71,11 @@ python3 scripts/generate_css.py --iso3166_1_country_input_folder="../iso3166-1-f
 --export_iso3166_2_sprite_dir: output directory for the per-country ISO 3166-2 SVG sprite files (default: css/iso3166-2-sprites), used when --iso3166_2_sprite_per_country is set
 ```
 
-### Export flag metadata for ISO 3166-1 and ISO 3166-2 flags:
+### Export flag metadata for ISO 3166-1, ISO 3166-2 or ISO 3166-3 flags:
 ```bash
-python3 scripts/get_flag_metadata.py --flag_folder="iso3166-1-flags" --flag_metadata_output="subdivision_flag_metadata.csv"
+python3 scripts/get_flag_metadata.py --flag_folder="iso3166-1-flags" --flag_metadata_output="iso3166_1_flag_metadata.csv"
 
---flag_folder: file path to folder of nested subdivision flags
+--flag_folder: file path to folder of flags - iso3166-1-flags and iso3166-3-flags are keyed by a country_code column, iso3166-2-flags by subdivision_code
 --flag_metadata_output: output file name for metadata csv
 --export_repo_metadata: additionally export the whole-repo metadata object (flag counts, formats, folder sizes, missing flag counts)
 --repo_metadata_output: output file name/path for the whole-repo metadata export
@@ -103,7 +109,7 @@ python3 scripts/update_everything.py
 python3 scripts/convert_images.py 
 
 --flag_folder: input folder of ISO 3166 flag icons to convert to specified format
---archvive_folder: optional archive folder that maintains the original unconverted ISO 3166 flag icons
+--archive_folder: optional archive folder that maintains the original unconverted ISO 3166 flag icons
 --img_filepath: filepath to individual image to convert. The file will take precedence over a folder of images input
 --img_format: file format to convert the images into, accepted formats are png, jpg or jpeg (png by default)
 ```
@@ -111,11 +117,11 @@ python3 scripts/convert_images.py
 ### Compress all SVG flag icon files in output folder:
 
 ```bash
-./scripts/svgCompress.sh --input="../iso3166-2-flags/" --output="../output/" --filesize=50
+bash scripts/svg_compress.sh --input="iso3166-2-flags" --output="output" --filesize=50
 
---input: input folder of SVG files to compress
---output: output folder to store compressed SVG files
---filesize_threshold: all SVG files above this threshold will go through the compression algorithm. 
+--input: input folder of flags to compress, either flat (iso3166-1-flags) or nested by country (iso3166-2-flags) - sub-folders are mirrored in the output
+--output: output folder to store the compressed SVG files (non-SVG files are copied across unchanged)
+--filesize: all SVG files above this threshold (KB) will go through the compression algorithm
 ```
 
 <!-- 3511 seconds total-->
@@ -127,6 +133,7 @@ python3 scripts/convert_images.py
 [pillow]: https://pypi.org/project/pillow/
 [opencv-python]: https://pypi.org/project/opencv-python/
 [lxml]: https://pypi.org/project/lxml/
+[scour]: https://pypi.org/project/scour/
 [unittest]: https://docs.python.org/3/library/unittest.html
 
 [Back to top](#TOP)

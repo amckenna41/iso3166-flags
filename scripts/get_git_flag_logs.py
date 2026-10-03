@@ -221,7 +221,7 @@ def get_git_timestamp(file_path: str, status: str="") -> str:
         return format_timestamp(datetime.strptime(raw_timestamp, "%Y-%m-%d %H:%M:%S"))
 
     #return empty string if issue parsing the timestamp
-    except Exception as e:
+    except Exception:
         return ""
 
 def format_timestamp(dt: datetime) -> str:

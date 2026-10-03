@@ -2,32 +2,33 @@
 
 ############################## SVG Compress ##############################
 
-# SVG files can be quite large in size but a lot of its data can be 
+# SVG files can be quite large in size but a lot of its data can be
 # redundant or unnecessary information so I created this script to help
 # maximise the storage of the files, especially since the output folder may
-# contain thousands of files. The script utilises the scour Python library 
-# to compress the output SVG files if they meet a specific threshold of 
-# file size. These files are then copied to the output folder. If file size 
-# threshold is not met or the file is not an SVG then the original file is 
+# contain thousands of files. The script utilises the scour Python library
+# to compress the output SVG files if they meet a specific threshold of
+# file size. These files are then copied to the output folder. If file size
+# threshold is not met or the file is not an SVG then the original file is
 # copied to the output. Any other image file types such as png, jpg or gif
 # are copied to the output folder.
+#
+# Works on both the flat iso3166-1-flags layout and the nested
+# iso3166-2-flags/<country>/ layout - the input's sub-folder structure
+# is mirrored in the output folder.
 
 ##########################################################################
-
-### check current version of pip and update, if neccessry ###
-python3 -m pip install --user --upgrade pip
 
 #Help Funtion showing script usage
 Help()
 {
    echo "Bash Script for compressing SVG files if they are above certain file size threshold."
    echo ""
-   echo "Basic Usage, using default parameters: ./svgCompress.sh "
-   echo "Usage: ./svgCompress.sh [--input --output --filesize]"
+   echo "Basic Usage, using default parameters: ./svg_compress.sh "
+   echo "Usage: ./svg_compress.sh [--input --output --filesize]"
    echo ""
    echo "Options:"
    echo "-h          help"
-   echo "-input      Path to input directory of country flags to compress."
+   echo "-input      Path to input directory of flags to compress (flat or nested by country)."
    echo "-output     Path to output directory to store compressed SVG files."
    echo "-filesize   File size threshold in KB, if file above it then execute compression algorithm."
    exit
@@ -39,71 +40,40 @@ do
 case $i in
     -i=*|--input=*)
     INPUT="${i#*=}"
-    shift # past argument=value
     ;;
     -o=*|--output=*)
     OUTPUT="${i#*=}"
-    shift # past argument=value
     ;;
     -f=*|--filesize=*)
     FILESIZE_THRESHOLD="${i#*=}"
-    shift # past argument=value
     ;;
-    -h|--h)
+    -h|--h|--help)
     Help
-    shift # past argument=value
-    ;;
-    --default)
-    DEFAULT=YES
-    shift # past argument with no value
     ;;
     *)
-          # unknown option
+    echo "Unknown option: $i" && exit 1
     ;;
 esac
 done
 
-if [[ -n $1 ]]; then
-    echo "Last line of file specified as non-opt/last argument:"
-    tail -1 $1
-fi
+#set default values for input parameters if empty, strip any trailing slash
+INPUT="${INPUT:-countries}"; INPUT="${INPUT%/}"
+OUTPUT="${OUTPUT:-outputs}"; OUTPUT="${OUTPUT%/}"
+FILESIZE_THRESHOLD="${FILESIZE_THRESHOLD:-50}"
 
-#set default values for input parameters if empty
-if [ -z "$INPUT" ]; then
-  INPUT="countries/"
-fi
-
-if [ -z "$OUTPUT" ]; then
-  OUTPUT="outputs/"
-fi
-
-if [ -z "$FILESIZE_THRESHOLD" ]; then
-  FILESIZE_THRESHOLD=50
-fi
-
-#verifying that both input and output args are folders
-length=${#INPUT}
-((length--))
-if [ "${INPUT:$length:1}" != "/" ]; then
-  INPUT="${INPUT}/"
-fi
-
-length=${#OUTPUT}
-((length--))
-if [ "${OUTPUT:$length:1}" != "/" ]; then
-  OUTPUT="${OUTPUT}/"
-fi
-
-
-#check if input and output dirs exist
+#check input dir exists and scour is available, create output dir
 [ ! -d "$INPUT" ] && echo "Input directory path does not exist." && exit 1
-[ ! -d "$OUTPUT" ] && mkdir $OUTPUT
+#use the scour CLI if it runs, otherwise fall back to the Python module (e.g. a stale/wrong-arch CLI on the PATH)
+SCOUR=(scour)
+"${SCOUR[@]}" --version >/dev/null 2>&1 || SCOUR=(python3 -m scour.scour)
+"${SCOUR[@]}" --version >/dev/null 2>&1 || { echo "scour not found, install with: pip install scour"; exit 1; }
+mkdir -p "$OUTPUT"
 
-#calculate output filesize before and after compression script
-OUTPUT_FOLDERSIZE_PRE=$(du -sh $INPUT | cut -f1 | rev | cut -c 2- | rev)
+#input folder size in KB, before compression
+INPUT_SIZE_KB=$(du -sk "$INPUT" | cut -f1)
 
 #start time of script
-start=`date +%s`
+start=$(date +%s)
 
 echo ""
 echo "##############################################"
@@ -116,126 +86,71 @@ echo ""
 echo "#############################################"
 echo ""
 
+totalInputFiles=0
 
-#iterate through all svg's in dir, compressing if over the KB threshold and copy to output folder
-for dir in $INPUT*; do 
+#iterate through every file in the input dir (any depth), compressing SVGs over the KB threshold and copying everything to the output dir
+while IFS= read -r -d '' file; do
 
-  #go to next iteration if current dir == output dir
-  if [[ "$dir" == "$OUTPUT" ]]; then
+  #skip README/DS_Store files
+  bname="$(basename -- "$file")"
+  [[ "$bname" == "README.md" || "$bname" == ".DS_Store" ]] && continue
+  totalInputFiles=$((totalInputFiles+1))
+
+  #mirror the file's sub-folder (if any) in the output dir
+  relPath="${file#"$INPUT"/}"
+  outputPath="$OUTPUT/$relPath"
+  mkdir -p "$(dirname -- "$outputPath")"
+  extension="${bname##*.}"
+
+  #if output file already exists then skip to next file
+  if [ -f "$outputPath" ]; then
+    echo "Output File $outputPath already exists."
     continue
   fi
-  
-  #create country name folder in output dir if not already created
-  countryFolder="$(basename -- "$dir")/"
-  [ ! -d "$OUTPUT/$countryFolder" ] && mkdir "$OUTPUT/$countryFolder"
 
-  echo ""
-  echo "##### "$(basename -- "$dir")" #####"
-  echo ""
+  #if input file is gif, convert to png (requires ImageMagick)
+  if [[ "$extension" == "gif" ]] && command -v convert >/dev/null 2>&1; then
+    convert "$file" "${outputPath%.*}.png"
+    continue
+  fi
 
-  #iterate through all sub-folders and files in input dir, calculate their file size and compress using SVG algorithm
-  for file in "$dir"/*; do
+  #if file type != .svg (is png or jpg) then continue but still copy file to outputs
+  if [[ "$extension" != "svg" ]]; then
+    cp "$file" "$outputPath"
+    continue
+  fi
 
-    #get basename and extension of file
-    bname="$(basename -- "$file")"
-    extension="${bname##*.}"
-    filename_no_extension="${file%.*}"
+  #get file size in KB
+  filesize=$(( $(wc -c < "$file") / 1024 ))
 
-    #output filepath for compressed file
-    outputPath="$OUTPUT$countryFolder$bname"
+  #if file size > threshold, compress SVG using scour library
+  if (( filesize > FILESIZE_THRESHOLD )); then
+    echo "Compressing $relPath (${filesize}KB)"
+    "${SCOUR[@]}" -i "$file" -o "$outputPath" --enable-viewboxing --enable-id-stripping \
+      --enable-comment-stripping --shorten-ids --indent=none -q
+  else
+    #copy files less than threshold to outputs folder
+    cp "$file" "$outputPath"
+  fi
 
-    #if output file already exists then skip to next file
-    if [ -f "$outputPath" ]; then
-      echo "Output File "$outputPath" already exists."
-      continue
-    fi
+done < <(find "$INPUT" -type f -not -path "$OUTPUT/*" -print0)
 
-    #if input file is gif, convert to png
-    if [[ "$extension" == "gif" ]]; then
-      convert "$file" "$filename_no_extension".png 
-      cp "$filename_no_extension".png "$OUTPUT$countryFolder"
-      continue
-    fi
-
-    #if file type != .svg (is png or jpg) then continue but still copy file to outputs
-    if [[ "$extension" != "svg" ]]; then
-      cp "$file" "$outputPath"
-      continue
-    fi
-    
-    #get file size in bytes
-    filesize=$(wc -c "$file" | awk '{print $1}')
-    
-    #get file size in KB
-    filesize=$(expr $filesize / 1024)
-
-    #if file size > threshold, compress SVG using scour library
-    if (("$filesize" > "$FILESIZE_THRESHOLD")); then
-        scour -i "$file" -o "$outputPath" --enable-viewboxing --enable-id-stripping \
-        --enable-comment-stripping --shorten-ids --indent=none
-    else
-        #copy files less than threshold to outputs folder
-        cp "$file" "$outputPath"
-    fi  
-      
-    done
-
-done
-
-#end time of script
-end=`date +%s`
-#calculate total runtime
+#end time of script, calculate total runtime
+end=$(date +%s)
 runtime=$((end-start))
 
-#validating correct num files is the same in INPUT and OUTPUT folders,
-#ensures all files are compressed and or copied over 
-
-totalInputFolders=0
-totalInputFiles=0
-totalOutputFolders=0
-totalOutputFiles=0
-
-for dir in $INPUT*; do 
-
-    totalInputFolders=$((totalInputFolders+1))
-
-  for file in "$dir"/*; do
-
-    totalInputFiles=$((totalInputFiles+1))
-
-  done
-
-done
-
-for dir in $OUTPUT*; do 
-
-    totalOutputFolders=$((totalOutputFolders+1))
-
-  for file in "$dir"/*; do
-
-    totalOutputFiles=$((totalOutputFiles+1))
-
-  done
-  
-done
-
+#validate the same number of files are in the INPUT and OUTPUT folders, ensuring all files are compressed and/or copied over
+totalOutputFiles=$(find "$OUTPUT" -type f -not -name README.md -not -name .DS_Store | wc -l | tr -d ' ')
 echo ""
-
-#all files and sub-folders successfully copied or not
-if [ $totalInputFolders -eq $totalOutputFolders ] &&  [ $totalInputFiles -eq $totalOutputFiles ]; then
-  echo ""
-  echo "All files and folders successfully compressed and copied."
+if [ "$totalInputFiles" -eq "$totalOutputFiles" ]; then
+  echo "All $totalInputFiles files successfully compressed and copied."
 else
-  echo "Number of input and output files/dirs do not match"
+  echo "Number of input ($totalInputFiles) and output ($totalOutputFiles) files do not match."
 fi
 
-#calculate output file size before and after compression script
-OUTPUT_FOLDERSIZE_POST=$(du -sh $OUTPUT | cut -f1 | rev | cut -c 2- | rev)
-
-#calculate compression ratio
-COMPRESSION_RATIO=$(bc <<<"scale=2; $OUTPUT_FOLDERSIZE_POST / $OUTPUT_FOLDERSIZE_PRE")
-COMPRESSION_RATIO="${COMPRESSION_RATIO:1}"
+#calculate the size reduction - du -sk gives both sizes in KB so they're directly comparable
+OUTPUT_SIZE_KB=$(du -sk "$OUTPUT" | cut -f1)
+REDUCTION=$(awk -v pre="$INPUT_SIZE_KB" -v post="$OUTPUT_SIZE_KB" 'BEGIN { printf "%.1f", pre ? (pre - post) * 100 / pre : 0 }')
 
 echo ""
-echo "Script executed in $runtime seconds. Input folder - $INPUT - compressed to output folder - $OUTPUT - by ${COMPRESSION_RATIO}%, from ${OUTPUT_FOLDERSIZE_PRE}MB -> ${OUTPUT_FOLDERSIZE_POST}MB."
-echo ""
+echo "Script executed in $runtime seconds. Input folder - $INPUT - compressed to output folder - $OUTPUT - reduced by ${REDUCTION}%, from ${INPUT_SIZE_KB}KB -> ${OUTPUT_SIZE_KB}KB."

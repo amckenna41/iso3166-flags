@@ -37,6 +37,12 @@ class Generate_CSS_Tests(unittest.TestCase):
         testing generating a single global ISO 3166-2 SVG sprite file.
     test_create_iso3166_2_svg_sprite_per_country:
         testing generating one smaller ISO 3166-2 SVG sprite file per country.
+    test_create_iso3166_3_css:
+        testing generating the ISO 3166-3 (former country) CSS file.
+    test_css_dir_relative_urls:
+        testing flag url() paths are relative to the css_dir the CSS is served from.
+    test_create_svg_sprite:
+        testing generating the ISO 3166-1 SVG sprite file.
     """
     @classmethod
     def setUp(self):
@@ -68,7 +74,7 @@ class Generate_CSS_Tests(unittest.TestCase):
         
         #get list of country code & those selector exception codes
         all_country_codes = list(iso3166.countries_by_alpha2.keys())
-        country_code_exceptions = ["gb-nir", "gb-sct", "gb-wls", "gb-eng", "ac", "ta", "cp", "dg", "ic", "xk", "xx", "un", "eu", "pc"]
+        country_code_exceptions = ["gb-nir", "gb-sct", "gb-wls", "gb-eng", "ac", "ta", "cp", "cq", "dg", "ea", "ez", "fx", "ic", "su", "uk", "xk", "xx", "un", "eu", "pc"]
 
         #get regex pattern to match the required selectors
         selector_pattern = re.compile(r'\.fi-([a-z]{2})\s*\{[^}]*?background-image:', re.IGNORECASE)
@@ -178,15 +184,14 @@ class Generate_CSS_Tests(unittest.TestCase):
 #1.)        
         self.assertGreater(len(urls), 0, "CSS should contain background-image URLs.")
         
-        #verify URLs point to existing files
+        #CSS url() paths resolve relative to the stylesheet, so every URL must point at a real file from the CSS file's directory
         for url in urls:
-            #remove any quotes
             url = url.strip('\'"')
-            #construct full path
-            if not url.startswith('http'):
-                file_path = url
-                self.assertTrue(os.path.exists(file_path) or '/' in file_path, 
-                              f"Background-image URL path may be incorrect: {url}")
+            file_path = os.path.join(self.test_output_dir, url)
+            self.assertTrue(os.path.isfile(file_path), f"Background-image URL does not resolve relative to the stylesheet: {url}")
+
+        #without the ::before content the empty <span> collapses to 0px high and no flag renders
+        self.assertIn('.fi::before {\n\tcontent: "\\00a0";\n}', test_css_content, "Expected .fi::before rule giving flag spans a height.")
 
     # @unittest.skip("")
     def test_empty_directory_handling(self):
@@ -219,6 +224,12 @@ class Generate_CSS_Tests(unittest.TestCase):
 #2.)
         self.assertIn("fi-fi-fi-01", symbol_ids, "Expected symbol for FI-01 to be present in the global sprite, prefixed by its country code.")
         self.assertIn("fi-sb-sb-ml", symbol_ids, "Expected symbol for SB-ML to be present in the global sprite, prefixed by its country code.")
+#3.)
+        #SVG must be the default namespace (a "ns0:svg" root isn't SVG when inlined in HTML) and ids must be unique across flags
+        with open(sprite_path, encoding="utf-8") as f:
+            self.assertIn('<svg xmlns="http://www.w3.org/2000/svg"', f.read(), "Expected SVG as the sprite's default namespace.")
+        all_ids = [el.get("id") for el in etree.parse(sprite_path).getroot().iter() if isinstance(el.tag, str) and el.get("id")]
+        self.assertEqual(len(all_ids), len(set(all_ids)), "Expected every id in the sprite to be unique.")
 
     # @unittest.skip("")
     def test_create_iso3166_2_svg_sprite_per_country(self):
@@ -235,6 +246,61 @@ class Generate_CSS_Tests(unittest.TestCase):
         symbol_ids = {symbol.get("id") for symbol in etree.parse(os.path.join(sprite_dir, "fi.svg")).getroot()}
 #2.)
         self.assertIn("fi-fi-fi-01", symbol_ids, "Expected symbol for FI-01 to be present in the FI sprite file.")
+
+    # @unittest.skip("")
+    def test_create_iso3166_3_css(self):
+        """ Testing generating the ISO 3166-3 CSS file, which uses the flat-folder ISO 3166-1 generator. """
+        css_path = os.path.join(self.test_output_dir, "test-iso3166-3.css")
+#1.)
+        create_iso3166_1_css("iso3166-3-flags", export_css_filepath=css_path, minify=True)
+        with open(css_path, encoding="utf-8") as f:
+            test_css_content = f.read()
+
+        #one lower-case selector per 4-letter ISO 3166-3 code, README.MD excluded
+        expected_codes = sorted(os.path.splitext(f)[0].lower() for f in os.listdir("iso3166-3-flags") if f.lower().endswith(".svg"))
+        observed_codes = sorted(re.findall(r'\.fi-([a-z]{4})\s*\{', test_css_content))
+        self.assertEqual(observed_codes, expected_codes, "Expected one .fi-xxxx selector per ISO 3166-3 flag.")
+#2.)
+        self.assertIn('.fi-cshh {\n\tbackground-image: url("../../iso3166-3-flags/CSHH.svg");', test_css_content, "Expected Czechoslovakia selector with stylesheet-relative URL.")
+        self.assertTrue(os.path.isfile(os.path.join(self.test_output_dir, "test-iso3166-3.min.css")), "Expected minified ISO 3166-3 CSS file.")
+
+    # @unittest.skip("")
+    def test_css_dir_relative_urls(self):
+        """ Testing flag url() paths are made relative to css_dir rather than the export location when given. """
+        css_path = os.path.join(self.test_output_dir, "test-iso3166-1.css")
+#1.)
+        #generated into a temp location (as update_everything --check does) but served from css/
+        create_iso3166_1_css(self.test_iso3166_1_flag_folder, export_css_filepath=css_path, css_dir="css")
+        with open(css_path, encoding="utf-8") as f:
+            test_css_content = f.read()
+        self.assertIn('.fi-gb {\n\tbackground-image: url("../iso3166-1-flags/gb.svg");', test_css_content, "Expected URL relative to css_dir.")
+#2.)
+        create_iso3166_2_css(self.test_iso3166_2_flag_folder, export_css_filepath=css_path, css_dir="css")
+        with open(css_path, encoding="utf-8") as f:
+            test_css_content = f.read()
+        self.assertIn('url("../iso3166-2-flags/HU/HU-HE.', test_css_content, "Expected ISO 3166-2 URL relative to css_dir.")
+
+    # @unittest.skip("")
+    def test_create_svg_sprite(self):
+        """ Testing generating the ISO 3166-1 SVG sprite file. """
+        sprite_path = os.path.join(self.test_output_dir, "iso3166-1-sprite.svg")
+#1.)
+        create_svg_sprite(country_input_folder=self.test_iso3166_1_flag_folder, export_sprite_filepath=sprite_path)
+
+        from lxml import etree
+        root = etree.parse(sprite_path).getroot()
+        symbol_ids = {symbol.get("id") for symbol in root}
+        expected_ids = {"fi-" + os.path.splitext(f)[0].lower() for f in os.listdir(self.test_iso3166_1_flag_folder) if f.endswith(".svg")}
+        self.assertEqual(symbol_ids, expected_ids, "Expected one fi-xx symbol per ISO 3166-1 flag, including the reserved codes.")
+#2.)
+        #every symbol needs a viewBox to scale, and internal ids must be namespaced per flag with no dangling references
+        self.assertTrue(all(symbol.get("viewBox") for symbol in root), "Expected every symbol to have a viewBox.")
+        all_ids = [el.get("id") for el in root.iter() if isinstance(el.tag, str) and el.get("id")]
+        self.assertEqual(len(all_ids), len(set(all_ids)), "Expected every id in the sprite to be unique.")
+        with open(sprite_path, encoding="utf-8") as f:
+            sprite_content = f.read()
+        refs = set(re.findall(r'url\(\s*[\'"]?#([^\'")\s]+)', sprite_content)) | set(re.findall(r'href="#([^"]+)"', sprite_content))
+        self.assertFalse(refs - set(all_ids), f"Expected no references to missing ids: {sorted(refs - set(all_ids))[:5]}.")
 
     @classmethod
     def tearDown(self):

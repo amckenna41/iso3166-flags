@@ -1,0 +1,119 @@
+.fib {
+	background-size: contain;
+	background-position: 50%;
+	background-repeat: no-repeat;
+}
+
+.fi {
+	background-size: contain;
+	background-position: 50%;
+	background-repeat: no-repeat;
+	position: relative;
+	display: inline-block;
+	width: 1.33333333em;
+	line-height: 1em;
+}
+
+.fi::before {
+	content: "\00a0";
+}
+
+.fi.fis {
+	width: 1em;
+}
+
+.fi-aidj {
+	background-image: url("../iso3166-3-flags/AIDJ.svg");
+}
+
+.fi-anhh {
+	background-image: url("../iso3166-3-flags/ANHH.svg");
+}
+
+.fi-bqaq {
+	background-image: url("../iso3166-3-flags/BQAQ.svg");
+}
+
+.fi-bumm {
+	background-image: url("../iso3166-3-flags/BUMM.svg");
+}
+
+.fi-byaa {
+	background-image: url("../iso3166-3-flags/BYAA.svg");
+}
+
+.fi-cshh {
+	background-image: url("../iso3166-3-flags/CSHH.svg");
+}
+
+.fi-csxx {
+	background-image: url("../iso3166-3-flags/CSXX.svg");
+}
+
+.fi-ctki {
+	background-image: url("../iso3166-3-flags/CTKI.svg");
+}
+
+.fi-ddde {
+	background-image: url("../iso3166-3-flags/DDDE.svg");
+}
+
+.fi-dybj {
+	background-image: url("../iso3166-3-flags/DYBJ.svg");
+}
+
+.fi-fqhh {
+	background-image: url("../iso3166-3-flags/FQHH.svg");
+}
+
+.fi-fxfr {
+	background-image: url("../iso3166-3-flags/FXFR.svg");
+}
+
+.fi-hvbf {
+	background-image: url("../iso3166-3-flags/HVBF.svg");
+}
+
+.fi-nhvu {
+	background-image: url("../iso3166-3-flags/NHVU.svg");
+}
+
+.fi-pchh {
+	background-image: url("../iso3166-3-flags/PCHH.svg");
+}
+
+.fi-pzpa {
+	background-image: url("../iso3166-3-flags/PZPA.svg");
+}
+
+.fi-rhzw {
+	background-image: url("../iso3166-3-flags/RHZW.svg");
+}
+
+.fi-skin {
+	background-image: url("../iso3166-3-flags/SKIN.svg");
+}
+
+.fi-suhh {
+	background-image: url("../iso3166-3-flags/SUHH.svg");
+}
+
+.fi-tptl {
+	background-image: url("../iso3166-3-flags/TPTL.svg");
+}
+
+.fi-vdvn {
+	background-image: url("../iso3166-3-flags/VDVN.svg");
+}
+
+.fi-ydye {
+	background-image: url("../iso3166-3-flags/YDYE.svg");
+}
+
+.fi-yucs {
+	background-image: url("../iso3166-3-flags/YUCS.svg");
+}
+
+.fi-zrcd {
+	background-image: url("../iso3166-3-flags/ZRCD.svg");
+}

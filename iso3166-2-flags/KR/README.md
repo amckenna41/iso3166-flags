@@ -2,7 +2,7 @@
 
 - **ISO Code**: KR
 - **Number of subdivisions**: 17, with 17 official flag(s)
-- **Subdivision Types**: Province (7), Metropolitan city (6), Special city (1), special self-governing province (1), Special self-governing province (1), Special self-governing city (1)
+- **Subdivision Types**: Province (7), Metropolitan city (6), Special self-governing province (2), Special city (1), Special self-governing city (1)
 - **ISO 3166-2 API link**: https://iso3166-2-api.vercel.app/api/alpha/KR
 
 | Code  | Subdivision Name         | Type | Flag Preview | Link |
@@ -15,7 +15,7 @@
 | KR-30 | Daejeon-gwangyeoksi | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-30.svg' height='80'> | [KR-30.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-30.svg) |
 | KR-31 | Ulsan-gwangyeoksi | Metropolitan city | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-31.svg' height='80'> | [KR-31.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-31.svg) |
 | KR-41 | Gyeonggi-do | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-41.svg' height='80'> | [KR-41.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-41.svg) |
-| KR-42 | Gangwon-teukbyeoljachido | special self-governing province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-42.svg' height='80'> | [KR-42.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-42.svg) |
+| KR-42 | Gangwon-teukbyeoljachido | Special self-governing province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-42.svg' height='80'> | [KR-42.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-42.svg) |
 | KR-43 | Chungcheongbuk-do | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-43.svg' height='80'> | [KR-43.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-43.svg) |
 | KR-44 | Chungcheongnam-do | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-44.svg' height='80'> | [KR-44.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-44.svg) |
 | KR-45 | Jeollabuk-do | Province | <img src='https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-45.svg' height='80'> | [KR-45.svg](https://raw.githubusercontent.com/amckenna41/iso3166-flags/main/iso3166-2-flags/KR/KR-45.svg) |

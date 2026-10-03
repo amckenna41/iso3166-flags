@@ -50,7 +50,7 @@ class ISO3166_2_Flags_Tests(unittest.TestCase):
 
     #number of flags currently above MAX_FILE_SIZE_KB. This is a debt ceiling, not a target -
     #lower it as oversized rasters are converted/optimised. It must never be raised
-    MAX_OVERSIZED_FILES = 143
+    MAX_OVERSIZED_FILES = 125
 
     def setUp(self):
         """ Initialise test variables. """

@@ -3,7 +3,41 @@ import argparse
 import re
 import copy
 
-def create_iso3166_1_css(country_input_folder: str="iso3166-1-flags", export_css_filepath: str="iso3166-1-flags.css", minify: bool=False) -> None:
+#base selectors shared by every generated CSS file. The .fi::before non-breaking space gives the otherwise
+#empty <span> a line box - without it the inline-block collapses to 0px high and no flag is visible
+BASE_CSS = (
+    ".fib {\n"
+    "\tbackground-size: contain;\n"
+    "\tbackground-position: 50%;\n"
+    "\tbackground-repeat: no-repeat;\n"
+    "}\n\n"
+    ".fi {\n"
+    "\tbackground-size: contain;\n"
+    "\tbackground-position: 50%;\n"
+    "\tbackground-repeat: no-repeat;\n"
+    "\tposition: relative;\n"
+    "\tdisplay: inline-block;\n"
+    "\twidth: 1.33333333em;\n"
+    "\tline-height: 1em;\n"
+    "}\n\n"
+    ".fi::before {\n"
+    "\tcontent: \"\\00a0\";\n"
+    "}\n\n"
+    ".fi.fis {\n"
+    "\twidth: 1em;\n"
+    "}\n"
+)
+
+def css_rule(selector_code: str, flag_path: str, css_dir: str) -> str:
+    """
+    Return the CSS rule for one flag. CSS url() paths resolve relative to the stylesheet, not the page,
+    so the flag path is made relative to the directory the CSS file is served from (e.g. css/iso3166-1.css
+    -> ../iso3166-1-flags/ad.svg).
+    """
+    url = os.path.relpath(flag_path, css_dir or ".").replace(os.sep, "/")
+    return f'\n.fi-{selector_code.lower()} {{\n\tbackground-image: url("{url}");\n}}\n'
+
+def create_iso3166_1_css(country_input_folder: str="iso3166-1-flags", export_css_filepath: str="iso3166-1-flags.css", minify: bool=False, css_dir: str=None) -> None:
     """
     Create custom CSS file for all ISO 3166-1 flags. Each flag will have its own custom CSS 
     selector that is linked to the filepath of the flag within the repo, for example: ".fi-al", ".fi-vn"
@@ -19,6 +53,9 @@ def create_iso3166_1_css(country_input_folder: str="iso3166-1-flags", export_css
         export filename for generated ISO 3166-1 CSS file.
     :minify: bool (default=False)
         if True, also writes a minified version to <export_css_filepath>.min.css.
+    :css_dir: str (default=None)
+        directory the CSS file is served from, which the flag url() paths are made relative to.
+        Defaults to the directory of export_css_filepath.
 
     Returns
     =======
@@ -30,25 +67,7 @@ def create_iso3166_1_css(country_input_folder: str="iso3166-1-flags", export_css
         Input folder of ISO 3166-1 country flags not found.
     """
     #initial css attributes and selector data
-    css_output_str = (
-        ".fib {\n"
-        "\tbackground-size: contain;\n"
-        "\tbackground-position: 50%;\n"
-        "\tbackground-repeat: no-repeat;\n"
-        "}\n\n"
-        ".fi {\n"
-        "\tbackground-size: contain;\n"
-        "\tbackground-position: 50%;\n"
-        "\tbackground-repeat: no-repeat;\n"
-        "\tposition: relative;\n"
-        "\tdisplay: inline-block;\n"
-        "\twidth: 1.33333333em;\n"
-        "\tline-height: 1em;\n"
-        "}\n\n"
-        ".fi.fis {\n"
-        "\twidth: 1em;\n"
-        "}\n"
-    )
+    css_output_str = BASE_CSS
 
     #get list of all ISO 3166-1 flag files, sorted for deterministic output
     all_files = sorted([f for f in os.listdir(country_input_folder) if os.path.isfile(os.path.join(country_input_folder, f))])
@@ -58,7 +77,7 @@ def create_iso3166_1_css(country_input_folder: str="iso3166-1-flags", export_css
         #ignore readme and ds_store file
         if (os.path.splitext(code)[0].lower() == "readme" or code.lower() == ".ds_store"):
             continue
-        css_output_str += "\n.fi-" + os.path.splitext(code)[0] + " {\n" + "\tbackground-image: url(" + country_input_folder + "/" + code + ");\n}\n"
+        css_output_str += css_rule(os.path.splitext(code)[0], os.path.join(country_input_folder, code), css_dir if css_dir is not None else os.path.dirname(export_css_filepath))
 
     #write full CSS to file in one pass
     with open(export_css_filepath, "w") as css_file:
@@ -72,7 +91,7 @@ def create_iso3166_1_css(country_input_folder: str="iso3166-1-flags", export_css
         with open(min_filepath, "w") as min_file:
             min_file.write(minified)
 
-def create_iso3166_2_css(country_input_folder: str="iso3166-2-flags", export_css_filepath: str="iso3166-2-flags.css", minify: bool=False) -> None:
+def create_iso3166_2_css(country_input_folder: str="iso3166-2-flags", export_css_filepath: str="iso3166-2-flags.css", minify: bool=False, css_dir: str=None) -> None:
     """
     Create custom CSS file for all ISO 3166-2 flags. Each subdivision flag will have its own custom
     CSS selector that is linked to the filepath of the flag, for example: ".fi-us-tx", ".fi-ga-1"
@@ -89,6 +108,9 @@ def create_iso3166_2_css(country_input_folder: str="iso3166-2-flags", export_css
         export folder for generated ISO 3166-2 CSS file.
     :minify: bool (default=False)
         if True, also writes a minified version to <export_css_filepath>.min.css.
+    :css_dir: str (default=None)
+        directory the CSS file is served from, which the flag url() paths are made relative to.
+        Defaults to the directory of export_css_filepath.
 
     Returns
     =======
@@ -104,25 +126,7 @@ def create_iso3166_2_css(country_input_folder: str="iso3166-2-flags", export_css
         raise OSError(f"Folder of ISO 3166-2 country flags not found: {country_input_folder}.")
 
     #initial css attributes and selector data
-    css_output_str = (
-        ".fib {\n"
-        "\tbackground-size: contain;\n"
-        "\tbackground-position: 50%;\n"
-        "\tbackground-repeat: no-repeat;\n"
-        "}\n\n"
-        ".fi {\n"
-        "\tbackground-size: contain;\n"
-        "\tbackground-position: 50%;\n"
-        "\tbackground-repeat: no-repeat;\n"
-        "\tposition: relative;\n"
-        "\tdisplay: inline-block;\n"
-        "\twidth: 1.33333333em;\n"
-        "\tline-height: 1em;\n"
-        "}\n\n"
-        ".fi.fis {\n"
-        "\twidth: 1em;\n"
-        "}\n"
-    )
+    css_output_str = BASE_CSS
 
     #get list of all country sub-folders in ISO 3166-2 folder
     all_folders = sorted([f for f in os.listdir(country_input_folder) if os.path.isdir(os.path.join(country_input_folder, f))])
@@ -135,7 +139,7 @@ def create_iso3166_2_css(country_input_folder: str="iso3166-2-flags", export_css
             #ignore readme and ds_store file
             if (os.path.splitext(file)[0].lower() == "readme" or file.lower() == ".ds_store"):
                 continue
-            css_output_str += "\n.fi-" + os.path.splitext(file)[0].lower() + " {\n" + "\tbackground-image: url(" + country_input_folder + "/" + country + "/" + file + ");\n}\n"
+            css_output_str += css_rule(os.path.splitext(file)[0], os.path.join(country_input_folder, country, file), css_dir if css_dir is not None else os.path.dirname(export_css_filepath))
 
     #write full CSS to file in one pass
     with open(export_css_filepath, "w") as css_file:
@@ -155,11 +159,36 @@ XLINK_NS = "http://www.w3.org/1999/xlink"
 
 def _new_sprite_root(etree_module):
     """ Create the root <svg> element that <symbol> flags get appended to. """
-    sprite_root = etree_module.Element(f"{{{SVG_NS}}}svg", nsmap={"xlink": XLINK_NS})
-    sprite_root.set("style", "display:none")
+    #SVG must be the default namespace - a prefixed "ns0:svg" root isn't recognised as SVG when inlined in HTML
+    sprite_root = etree_module.Element(f"{{{SVG_NS}}}svg", nsmap={None: SVG_NS, "xlink": XLINK_NS})
+    #hidden without display:none, which stops gradients/clip-paths inside the symbols rendering in some browsers
+    sprite_root.set("style", "position:absolute;width:0;height:0;overflow:hidden")
     sprite_root.set("aria-hidden", "true")
     sprite_root.set("focusable", "false")
     return sprite_root
+
+def _namespace_ids(symbol, prefix: str) -> None:
+    """
+    Prefix every id inside a sprite <symbol>, and the url(#id)/href="#id" references to them, so internal
+    ids (clip paths, gradients etc.) from different flags don't collide once they share one document.
+    """
+    elements = [el for el in symbol.iter() if isinstance(el.tag, str) and el is not symbol]
+    ids = {el.get("id") for el in elements if el.get("id")}
+    if not ids:
+        return
+    url_ref = re.compile(r"url\(\s*(['\"]?)#([^'\")\s]+)\1\s*\)")
+    renamed = lambda m: f"url({m.group(1)}#{prefix}{m.group(2)}{m.group(1)})" if m.group(2) in ids else m.group(0)
+    for el in elements:
+        for attr, value in el.attrib.items():
+            if attr == "id":
+                el.set(attr, prefix + value)
+            elif attr in ("href", f"{{{XLINK_NS}}}href") and value.startswith("#") and value[1:] in ids:
+                el.set(attr, "#" + prefix + value[1:])
+            elif "url(" in value:
+                el.set(attr, url_ref.sub(renamed, value))
+        #url(#id) references inside <style> blocks
+        if el.text and "url(" in el.text:
+            el.text = url_ref.sub(renamed, el.text)
 
 def _append_svg_symbols(sprite_root, folder: str, id_prefix: str, etree_module) -> int:
     """
@@ -180,7 +209,8 @@ def _append_svg_symbols(sprite_root, folder: str, id_prefix: str, etree_module) 
         code = os.path.splitext(svg_file)[0].lower()
         svg_path = os.path.join(folder, svg_file)
         try:
-            tree = etree_module.parse(svg_path)
+            #no external entities/network access - flags come from upstream syncs and contributors
+            tree = etree_module.parse(svg_path, etree_module.XMLParser(resolve_entities="internal", no_network=True))  # nosec B320
             src_root = tree.getroot()
 
             symbol = etree_module.SubElement(sprite_root, f"{{{SVG_NS}}}symbol")
@@ -197,6 +227,7 @@ def _append_svg_symbols(sprite_root, folder: str, id_prefix: str, etree_module) 
 
             for child in src_root:
                 symbol.append(copy.deepcopy(child))
+            _namespace_ids(symbol, f"{id_prefix}{code}-")
         except Exception:
             skipped += 1
     return skipped
@@ -333,18 +364,24 @@ def create_iso3166_2_svg_sprite(country_input_folder: str="iso3166-2-flags", exp
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser(description='Script for generating the iso3166-1.css and iso3166-2.css files.')
+    parser = argparse.ArgumentParser(description='Script for generating the iso3166-1.css, iso3166-2.css and iso3166-3.css files.')
 
     parser.add_argument('-iso3166_1_country_input_folder', '--iso3166_1_country_input_folder', type=str, required=False, default="iso3166-1-flags",
         help='Input folder of ISO 3166-1 flags.')
     parser.add_argument('-iso3166_2_country_input_folder', '--iso3166_2_country_input_folder', type=str, required=False, default="iso3166-2-flags",
         help='Input folder of ISO 3166-2 flags.')
+    parser.add_argument('-iso3166_3_country_input_folder', '--iso3166_3_country_input_folder', type=str, required=False, default="iso3166-3-flags",
+        help='Input folder of ISO 3166-3 (former country) flags.')
     parser.add_argument('-export_iso3166_1_css_filepath', '--export_iso3166_1_css_filepath', type=str, required=False, default="iso3166-1-flags-test.css",
         help='Export filepath for generated ISO 3166-1 CSS file.')
     parser.add_argument('-export_iso3166_2_css_filepath', '--export_iso3166_2_css_filepath', type=str, required=False, default="iso3166-2-flags-test.css",
         help='Export filepath for generated ISO 3166-2 CSS file.')
+    parser.add_argument('-export_iso3166_3_css_filepath', '--export_iso3166_3_css_filepath', type=str, required=False, default="iso3166-3-flags-test.css",
+        help='Export filepath for generated ISO 3166-3 CSS file.')
     parser.add_argument('-iso3166_type', '--iso3166_type', type=str, required=False, default="",
-        help='Create ISO 3166-1 or ISO 3166-2 CSS file. If empty, both will be generated.')
+        help='Create the ISO 3166-1, ISO 3166-2 or ISO 3166-3 CSS file. If empty, all three will be generated.')
+    parser.add_argument('-css_dir', '--css_dir', type=str, required=False, default=None,
+        help='Directory the CSS files will be served from, which flag url() paths are made relative to. Defaults to the directory of each export filepath.')
     parser.add_argument('-minify', '--minify', action='store_true', default=False,
         help='Additionally generate a minified .min.css version of the output CSS file(s).')
     parser.add_argument('-sprite', '--sprite', action='store_true', default=False,
@@ -371,13 +408,15 @@ if __name__ == '__main__':
     iso3166_type = args.iso3166_type
     minify = args.minify
 
-    if (iso3166_type.lower() == "iso3166-1"):
-        create_iso3166_1_css(country_input_folder=iso3166_1_country_input_folder, export_css_filepath=export_iso3166_1_css_filepath, minify=minify)
-    elif (iso3166_type.lower() == "iso3166-2"):
-        create_iso3166_2_css(country_input_folder=iso3166_2_country_input_folder, export_css_filepath=export_iso3166_2_css_filepath, minify=minify)
-    else:
-        create_iso3166_1_css(country_input_folder=iso3166_1_country_input_folder, export_css_filepath=export_iso3166_1_css_filepath, minify=minify)
-        create_iso3166_2_css(country_input_folder=iso3166_2_country_input_folder, export_css_filepath=export_iso3166_2_css_filepath, minify=minify)
+    css_dir = args.css_dir
+
+    if (iso3166_type.lower() in ("", "iso3166-1")):
+        create_iso3166_1_css(country_input_folder=iso3166_1_country_input_folder, export_css_filepath=export_iso3166_1_css_filepath, minify=minify, css_dir=css_dir)
+    if (iso3166_type.lower() in ("", "iso3166-2")):
+        create_iso3166_2_css(country_input_folder=iso3166_2_country_input_folder, export_css_filepath=export_iso3166_2_css_filepath, minify=minify, css_dir=css_dir)
+    #ISO 3166-3 is a flat folder like ISO 3166-1, so the same generator applies
+    if (iso3166_type.lower() in ("", "iso3166-3")):
+        create_iso3166_1_css(country_input_folder=args.iso3166_3_country_input_folder, export_css_filepath=args.export_iso3166_3_css_filepath, minify=minify, css_dir=css_dir)
 
     if args.sprite:
         create_svg_sprite(country_input_folder=iso3166_1_country_input_folder,

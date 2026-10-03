@@ -44,7 +44,9 @@ class ISO3166_1_Flags_Tests(unittest.TestCase):
         "gb-sct", "gb-nir", "gb-eng", "gb-wls",
         "es-ct", "es-ga", "es-pv",
         "arab", "asean", "cefta", "eac",
-        "sh-ac", "sh-hl", "sh-ta"
+        "sh-ac", "sh-hl", "sh-ta",
+        #exceptionally/transitionally/indeterminately reserved ISO 3166-1 codes
+        "ac", "cp", "cq", "dg", "ea", "eu", "ez", "fx", "ic", "su", "ta", "uk", "un"
     }
 
     def setUp(self):

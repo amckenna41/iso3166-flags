@@ -1,11 +1,19 @@
 {
     "name": "iso3166-flags",
-    "version": "2.4.1",
+    "version": "2.5.0",
     "description": "A comprehensive library of ISO 3166-1 & ISO 3166-2 country/subdivision codes and their corresponding flag icons.",
     "style": "css/iso3166-1.css",
     "exports": {
         "./css/iso3166-1.css": "./css/iso3166-1.css",
-        "./css/iso3166-2.css": "./css/iso3166-2.css"
+        "./css/iso3166-1.min.css": "./css/iso3166-1.min.css",
+        "./css/iso3166-2.css": "./css/iso3166-2.css",
+        "./css/iso3166-2.min.css": "./css/iso3166-2.min.css",
+        "./css/iso3166-3.css": "./css/iso3166-3.css",
+        "./css/iso3166-3.min.css": "./css/iso3166-3.min.css",
+        "./css/iso3166-1-sprite.svg": "./css/iso3166-1-sprite.svg",
+        "./iso3166-1-flags/*": "./iso3166-1-flags/*",
+        "./iso3166-2-flags/*": "./iso3166-2-flags/*",
+        "./iso3166-3-flags/*": "./iso3166-3-flags/*"
     },
     "author": {
         "name": "AJ McKenna",
@@ -17,6 +25,7 @@
         "iso3166",
         "iso3166-1",
         "iso3166-2",
+        "iso3166-3",
         "world",
         "vector",
         "map",
@@ -25,7 +34,8 @@
     "files": [
         "css",
         "iso3166-1-flags",
-        "iso3166-2-flags"
+        "iso3166-2-flags",
+        "iso3166-3-flags"
     ],
     "repository": {
         "type": "git",

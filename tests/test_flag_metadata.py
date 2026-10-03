@@ -45,6 +45,10 @@ class Flag_Metadata_Tests(unittest.TestCase):
         testing quality scoring for PNG vs SVG files.
     test_csv_column_consistency:
         testing CSV column consistency in output.
+    test_export_flag_metadata_iso3166_3:
+        testing the ISO 3166-3 flag metadata export uses the country_code column.
+    test_corrupted_svg_handling:
+        testing a malformed SVG raises a ValueError.
     test_corrupted_image_handling:
         testing handling of corrupted images.
     """
@@ -78,7 +82,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #2.)  
         test_flag_metadata_expected = pd.DataFrame([
             ["FI-07", "FI-07.svg", 30.95, "SVG", "(700, 1000)", 1.43, np.nan, 100.0, np.nan, "#1153d4,#155bdb,#d5a92d,#ffffff"],
-            ["IQ-AR", "IQ-AR.png", 156.844, "PNG", "(1200, 1800)", 1.50, np.nan, 3.9, np.nan, np.nan],
+            ["IQ-AR", "IQ-AR.png", 152.856, "PNG", "(1200, 1800)", 1.50, np.nan, 3.9, np.nan, np.nan],
             ["KM-A",  "KM-A.svg", 0.502, "SVG", "(400, 600)", 1.5, np.nan, 8.0, np.nan, "#ce1126,#fff"],
             ["SB-ML", "SB-ML.svg", 35.128, "SVG", "(256, 512)", 2.0, np.nan, 100.0, np.nan, "#1f9bde,#8c6c23,#d0112b,#f6b332,#ffffff"],
             ["SH-HL", "SH-HL.svg", 84.881, "SVG", "(600, 1200)", 2.0, np.nan, 100.0, np.nan, "#012169,#128bbf,#333,#472b1f,#66452b,#666,#69522b,#69737c,#7fb8c1,#bca76b,#c8102e,#cfa763,#d7c99c,#e8ece9,#fff"],
@@ -92,6 +96,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #3.)
         with self.assertRaises(OSError):
             export_flag_metadata("invalid_folder")
+        with self.assertRaises(OSError):
             export_flag_metadata("invalid_folder1")
 
 #     @unittest.skip("")
@@ -116,11 +121,14 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #5.)
         with self.assertRaises(FileNotFoundError):
             calculate_dimension("invalid_filepath")
+        with self.assertRaises(FileNotFoundError):
             calculate_dimension("invalid_filepath2")
 #6.)
         with self.assertRaises(ValueError):
             calculate_dimension(self.test_flag_folder + "/FI/FI-02.svg")
+        with self.assertRaises(ValueError):
             calculate_dimension(self.test_flag_folder + "/IQ/IQ-SD.svg")
+        with self.assertRaises(ValueError):
             calculate_dimension(self.test_flag_folder + "/KM/KM-M.svg")
 
 #     @unittest.skip("")
@@ -145,11 +153,14 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #5.)
         with self.assertRaises(FileNotFoundError):
             calculate_quality("invalid_filepath")
+        with self.assertRaises(FileNotFoundError):
             calculate_quality("invalid_filepath2")
 #6.)
         with self.assertRaises(ValueError):
             calculate_dimension(self.test_flag_folder + "/FI/FI-02.svg")
+        with self.assertRaises(ValueError):
             calculate_dimension(self.test_flag_folder + "/IQ/IQ-SD.svg")
+        with self.assertRaises(ValueError):
             calculate_dimension(self.test_flag_folder + "/KM/KM-M.svg")
 
 #     @unittest.skip("")
@@ -186,6 +197,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #5.)
         with self.assertRaises(OSError):
             get_file_info("invalid_filepath.svg")
+        with self.assertRaises(OSError):
             get_file_info("invalid_filepath2.svg")
 
 #     @unittest.skip("")
@@ -210,6 +222,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
 #5.)
         with self.assertRaises(OSError):
             calculate_svg_dimension("invalid_filepath.svg")
+        with self.assertRaises(OSError):
             calculate_svg_dimension("invalid_filepath2.svg")
 
 #     @unittest.skip("")
@@ -240,7 +253,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_repo_metadata = export_repo_metadata(export_json=True, export_filename=self.test_repo_metadata_output)
 
         #totals sourced from the reference packages rather than hardcoded, so new flags/subdivisions don't break this test
-        expected_iso3166_1_total = len(iso3166.countries_by_alpha2)
+        expected_iso3166_1_total = len(iso3166.countries_by_alpha2) + 13  #official codes + 13 reserved-code flags (ac, cp, cq, dg, ea, eu, ez, fx, ic, su, ta, uk, un)
         expected_iso3166_2_total = len([code for codes in Subdivisions().subdivision_codes().values() for code in codes])
         expected_keys = {'total', 'iso3166_1_total', 'iso3166_2_total', 'svg', 'png', 'jpg/jpeg', 'other', 'duplicates',
                           'subdivisions_other', 'duplicate_list', 'total_repo_size', 'iso3166_1_flags_size',
@@ -269,7 +282,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         #cross check the returned dataframe/series matches the exported JSON, rather than a hardcoded snapshot
         try:
             assert_frame_equal(test_repo_metadata.reset_index(drop=True), pd.DataFrame([test_repo_metadata_output_json]).reset_index(drop=True), check_dtype=False)
-        except AssertionError as e:
+        except AssertionError:
             self.fail(f"Expected returned DataFrame to match the exported JSON metadata:\n{test_repo_metadata}.")
 
 #     @unittest.skip("")
@@ -289,7 +302,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         self.assertTrue(test_flag_list_df["hasFlag"].isin({"Yes", "No"}).all(), "Expected the hasFlag column to only contain the values Yes or No.")
         self.assertTrue(test_flag_list_df["extension"].dropna().isin({"SVG","PNG","JPG","JPEG"}).all(), 
                 "Expected the extension column to just have the following image formats: svg, png, jpg or jpeg.")
-        self.assertTrue(not (m := test_flag_list_df.duplicated(keep=False)).any(), "Expected each row to be unique.")
+        self.assertFalse(test_flag_list_df.duplicated(keep=False).any(), "Expected each row to be unique.")
         self.assertTrue(test_flag_list_df["subdivisionCode"].isin([code for codes in subdivisions.subdivision_codes().values() for code in codes]).all(), 
                 "Expected list of subdivision codes in column to be valid ISO 3166-2 codes.")
 
@@ -398,6 +411,27 @@ class Flag_Metadata_Tests(unittest.TestCase):
             #acceptable to raise an error for corrupted files
             self.assertIn("image", str(e).lower() or "invalid" in str(e).lower(), 
                          "Error should be related to image handling.")
+
+    def test_export_flag_metadata_iso3166_3(self):
+        """ Testing the ISO 3166-3 (former country) flag metadata export, which is keyed by country_code like ISO 3166-1. """
+        output = os.path.join(self.test_output_dir, "test_iso3166_3_flag_metadata.csv")
+        export_flag_metadata("iso3166-3-flags", output)
+        test_df = pd.read_csv(output)
+        expected_codes = sorted(os.path.splitext(f)[0] for f in os.listdir("iso3166-3-flags") if f.lower().endswith(".svg"))
+#1.)
+        self.assertEqual(test_df.columns[0], "country_code", "Expected ISO 3166-3 metadata to be keyed by country_code.")
+        self.assertNotIn("subdivision_code", test_df.columns, "Expected no subdivision_code column in ISO 3166-3 metadata.")
+#2.)
+        self.assertEqual(test_df["country_code"].tolist(), expected_codes, "Expected one sorted row per ISO 3166-3 flag, README excluded.")
+
+    def test_corrupted_svg_handling(self):
+        """ Testing a malformed SVG raises a ValueError rather than a TypeError (regression test). """
+        corrupted_svg = os.path.join(self.test_output_dir, "corrupted.svg")
+        with open(corrupted_svg, 'w') as f:
+            f.write('<svg xmlns="http://www.w3.org/2000/svg"><rect')
+#1.)
+        with self.assertRaises(ValueError):
+            calculate_svg_quality(corrupted_svg)
 
     @classmethod
     def tearDown(self):

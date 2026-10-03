@@ -10,7 +10,7 @@
 <!-- [![npm version](https://badge.fury.io/js/iso3166-flags.svg)](https://badge.fury.io/js/iso3166-flags) -->
 <!-- [![codecov](https://codecov.io/gh/amckenna41/iso3166-flags/branch/main/graph/badge.svg)](https://codecov.io/gh/amckenna41/iso3166-flags) -->
 
-> **iso3166-flags** is a bespoke, verbose and comprehensive dataset of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country and regional/subdivision codes flag icons in SVG format. The dataset currently has **250** country/territorial flags and **2,843** regional/subdivision flags. A front-end interactive map of the flag dataset is available here: 
+> **iso3166-flags** is a bespoke, verbose and comprehensive dataset of all <em>ISO 3166-1</em> & <em>ISO 3166-2</em> country and regional/subdivision codes flag icons in SVG format. The dataset currently has **250** country/territorial flags (plus 13 flags for reserved ISO 3166-1 codes) and **2,843** regional/subdivision flags. A front-end interactive map of the flag dataset is available here: 
 https://iso3166-flags.vercel.app/
 
 <p align="center">
@@ -25,7 +25,7 @@ https://iso3166-flags.vercel.app/
 
 | Total Flags |    ISO3166-1 Flags   |    ISO3166-2 Flags    |  SVG  |  PNG  | JPEG / JPG | Other | Total Dataset Size (MB) | ISO3166-1 Dataset Size (MB) | ISO3166-2 Dataset Size (MB) |
 |-------------|------------------------|------------------------|-------|-------|------------|-------|-------------------------|------------------------------|------------------------------|
-| 3,093       | 250                    | 2,843                  | 2,241 | 798   | 54         | 0     | 341.262                 | 1.611                        | 339.650                      |
+| 3,106       | 263                    | 2,843                  | 2,254 | 798   | 54         | 0     | 289.365                 | 2.803                        | 286.562                      |
 
 
 Table of Contents
@@ -51,7 +51,7 @@ A <b>Medium</b> article that dives deeper into `iso3166-flags` is available [her
 
 `iso3166-flags` is a **comprehensive**, **verbose** and **bespoke** repository of all ISO 3166-1 and ISO 3166-2 country and regional/subdivision flag icons, respectively. The flags list is according to the International Organisation for Standards that define codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions [[1]](#references). 
 
-**Currently the dataset contains <em>250</em> ISO 3166-1 country/territorial flag icons and <em>2,843</em> ISO 3166-2 regional/subdivision flags.** <br> 
+**Currently the dataset contains <em>250</em> ISO 3166-1 country/territorial flag icons (plus 13 flags for reserved ISO 3166-1 codes) and <em>2,843</em> ISO 3166-2 regional/subdivision flags.** <br> 
 
 The <b>ISO 3166-1</b> flags are those of the names of countries and their subdivisions that can be broken into three sets of country codes:
 * *ISO 3166-1 alpha-2* – two-letter country codes which are the most widely used of the three, and used most prominently for the Internet's country code top-level domains (with a few exceptions).
@@ -60,7 +60,7 @@ The <b>ISO 3166-1</b> flags are those of the names of countries and their subdiv
 
 The <b>ISO 3166-2</b> icons are those of the names of countries and their subdivisions – *Part 2: Country subdivision code, defines codes for identifying the principal subdivisions (e.g., provinces, states, departments, regions) of all countries coded in ISO 3166-1.* [[2]](#references). <br>
 
-The <b>ISO 3166-3</b> icons are those of countries and their subdivisions – Part 3: Code for formerly used names of countries, defines codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974. This section of the ISO 3166 is not utilised in this repo.
+The <b>ISO 3166-3</b> icons are those of countries and their subdivisions – Part 3: Code for formerly used names of countries, defines codes for country names which have been deleted from ISO 3166-1 since its first publication in 1974. The flags of these former countries are available in the [`/iso3166-3-flags`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-3-flags) folder, with CSS classes in [`css/iso3166-3.css`](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-3.css).
 
 ### Motivation
 `iso3166-flags` is a part of a larger suite of my **custom-built and bespoke applications** that utilise the ISO 3166 country and subdivision codes. The primary application is [`iso3166-2`][iso3166_2] which is is a structured lightweight custom-built Python package and dataset, and accompanying RESTful API, that can be used to access all of the world's ISO 3166-2 subdivision data. 
@@ -97,6 +97,9 @@ Every file is accessible instantly via [jsDelivr](https://www.jsdelivr.com/) —
 
 <!-- ISO 3166-2 CSS (subdivision flags) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-2.css">
+
+<!-- ISO 3166-3 CSS (former country flags) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-3.css">
 ```
 
 Minified versions are also available:
@@ -104,6 +107,7 @@ Minified versions are also available:
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-1.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-2.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/amckenna41/iso3166-flags@main/css/iso3166-3.min.css">
 ```
 
 Usage
@@ -126,6 +130,21 @@ For example, adding the Hungarian county of Heves (HU-HE), the South Sudanese st
 <span class="fi fi-tw-mia"></span> <span class="fi fi-tw-mia fis"></span>
 ```
 
+The exceptionally/transitionally reserved ISO 3166-1 codes use the same `.fi-xx` classes from the ISO 3166-1 CSS, e.g. the European Union, United Nations and Ascension Island:
+```html
+<span class="fi fi-eu"></span> <span class="fi fi-un"></span> <span class="fi fi-ac"></span>
+```
+
+For the former countries in ISO 3166-3, add the classes `.fi` and `.fi-xxxx` (the 4-letter ISO 3166-3 code in lower-case) using the ISO 3166-3 CSS file, e.g. Czechoslovakia (CSHH) and East Germany (DDDE):
+```html
+<span class="fi fi-cshh"></span> <span class="fi fi-ddde"></span>
+```
+
+An SVG sprite of all ISO 3166-1 flags is also provided at [`css/iso3166-1-sprite.svg`](https://github.com/amckenna41/iso3166-flags/blob/main/css/iso3166-1-sprite.svg) - include it once in the page, then reference a flag by its `fi-xx` symbol id:
+```html
+<svg width="40" height="30"><use href="#fi-gb"/></svg>
+```
+
 ### Accessibility
 
 Flag `<span>` elements are visually empty by default. For accessible applications, add `role="img"` and `aria-label` with the country or subdivision name:
@@ -141,10 +160,10 @@ Flag `<span>` elements are visually empty by default. For accessible application
 
 | Feature | iso3166-flags | [lipis/flag-icons][flag-icons-repo] |
 |---|:---:|:---:|
-| ISO 3166-1 country flags | **250** | 258 (incl. extras) |
+| ISO 3166-1 country flags | **250** (+13 reserved codes) | 258 (incl. extras) |
 | **ISO 3166-2 subdivision flags** | **2,843** | **0** |
 | SVG format | ✅ | ✅ |
-| CSS sprite | ✅ | ✅ |
+| SVG sprite | ✅ (ISO 3166-1) | ✅ |
 | Minified CSS | ✅ | ✅ |
 | npm package | ✅ | ✅ |
 | CDN via jsDelivr | ✅ | ✅ |
@@ -162,12 +181,13 @@ The list of ISO 3166 updates was last updated on <strong>November 2024</strong> 
 
 Directories 
 -----------
-* [`/iso3166-1-flags`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-1-flags) - flags of all country/territories according to the ISO 3166-1 standard.
+* [`/iso3166-1-flags`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-1-flags) - flags of all country/territories according to the ISO 3166-1 standard, plus flags for the exceptionally/transitionally reserved ISO 3166-1 codes: `AC`, `CP`, `CQ`, `DG`, `EA`, `EU`, `EZ`, `FX`, `IC`, `SU`, `TA`, `UK` & `UN`.
 * [`/iso3166-2-flags`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-2-flags)  - flags of all regions/subdivisions within countries/territories according to the ISO 3166-2 standard.
+* [`/iso3166-3-flags`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-3-flags) - flags of former countries whose codes have been deleted from ISO 3166-1, according to the ISO 3166-3 standard.
 * [`/css`](https://github.com/amckenna41/iso3166-flags/tree/main/css) - css scripts for integrating the flags into front-end projects.
-* [`/scripts`](https://github.com/amckenna41/iso3166-flags/tree/main/scripts) - a series of Python and bash scripts created for generating the CSS and README files for each country folder, as well as to export various metdata for the datasets.
+* [`/scripts`](https://github.com/amckenna41/iso3166-flags/tree/main/scripts) - a series of Python and bash scripts created for generating the CSS and README files for each country folder, as well as to export various metadata for the datasets.
 * [`/tests`](https://github.com/amckenna41/iso3166-flags/tree/main/tests) - unit tests for scripts and flags.
-* [`/iso3166-flags-metadata`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-flags-metadata) - metadata files for the ISO 3166-1 and ISO 3166-2 flags.
+* [`/iso3166-flags-metadata`](https://github.com/amckenna41/iso3166-flags/tree/main/iso3166-flags-metadata) - metadata files for the ISO 3166-1, ISO 3166-2 and ISO 3166-3 flags.
 
 <!-- * `iso3166-1.json` - json containing all ISO 3166-1 country names, 2 letter codes and relative path to flag icon in repo.
 * `iso3166-2.json` - json containing all ISO 3166-2 country names, 2 letter codes, all subdivision codes and common names as well as all info pulled per country via the restcountries api (https://restcountries.com/). 
@@ -186,6 +206,14 @@ Below are some of my other **custom-built** repositories that relate to the ISO 
 
 ## Issues or Contributing
 Any issues, bugs or enhancements can be raised via the [Issues][issues] tab in the repository. If you would like to contribute any functional/feature changes to the project, please make a Pull Request.
+
+When adding or changing flags, regenerate the derived CSS, sprite, README and metadata files and run the tests before opening the PR - CI fails if the committed files are out of date:
+```bash
+pip install -r tests/requirements.txt
+python3 scripts/update_everything.py
+python -m pytest tests/
+```
+New non-official ISO 3166-1 flags (e.g. reserved codes) also need adding to `EXCEPTION_FLAGS` in `tests/test_iso3166_1_flags.py` and the expected total in `tests/test_flag_metadata.py`.
 
 <!-- Also, due to the large amount of data and attributes in the dataset, please raise an Issue if you spot any missing or erroneous data. When raising this Issue please include the current subdivision object attribute values as well as the corrected/new version of them in an easy-to-read format.  -->
 
