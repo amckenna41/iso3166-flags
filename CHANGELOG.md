@@ -7,6 +7,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ## [Latest]
 
 ### Added
+- `scripts/validate_flags.py` (`python -m scripts.validate_flags`) - rejects SVG flags containing `<script>`, `on*` event handler attributes, `javascript:`/`vbscript:` URLs or remote `http(s)://` references in hrefs/CSS (unsafe once inlined, e.g via the sprite), and ISO 3166-2 flags that aren't a supported format or aren't named after a real subdivision code of the country sub-folder they sit in. Runs as a CI step in `build_test.yml` and in `check_upstream_flags.yml` before the PR is opened, failing the run on any problem
+- `tests/test_validate_flags.py` covering the SVG safety and ISO 3166-2 filename checks
+- `iso3166_3_total`/`iso3166_3_flags_size` in `iso3166_flags_metadata.json` - the ISO 3166-3 flags are now included in the repo metadata and its `total`, `svg`, size and average attributes, plus ISO 3166-3 count/size columns in the README Quick Stats table (also checked by CI)
+- `check_upstream_flags.yml` regenerates the CSS, README and metadata files (`update_everything.py`) so they're included in the upstream sync PR
+- Regression tests for upper-case image extensions in `test_convert_images.py` and committed-file timestamps in `test_get_git_flag_logs.py`
 - 13 flags for the exceptionally/transitionally reserved ISO 3166-1 codes in `iso3166-1-flags/`: `ac`, `cp`, `cq`, `dg`, `ea`, `eu`, `ez`, `fx`, `ic`, `su`, `ta`, `uk`, `un`
 - `css/iso3166-3.css` (+ minified) with `.fi-xxxx` classes for the ISO 3166-3 former-country flags, and `iso3166_3_flag_metadata.csv`
 - Committed ISO 3166-1 SVG sprite `css/iso3166-1-sprite.svg`, generated and staleness-checked by `update_everything.py`
@@ -41,6 +46,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - Data validation to ensure CSV and iso3166-2 package consistency
 
 ### Changed
+- Removed the Comparison section (and its table of contents entry) from the main README
+- `generate_readme.py` creates one cached `Subdivisions` object via `get_subdivisions()` rather than one per country README
+- `get_git_flag_logs.py` `--strip_prefix` CLI default changed to on, matching the function default
+- Upstream sync PR checklist asks to sanity-check the regenerated CSS/README/metadata files instead of manually verifying `repo_metadata.json`
 - Losslessly re-compressed 752 ISO 3166-2 PNGs (pixel-identical, 112.4MB -> 83.6MB) and 113 large SVGs via scour (render-verified, 52.3MB -> 28.9MB); `ac.svg`/`ta.svg` compressed under the 500KB limit
 - `svg_compress.sh` now handles both flat (`iso3166-1-flags`) and nested folders (mirroring sub-folders in the output), no longer upgrades pip on every run, reports a correct size reduction, falls back to `python3 -m scour.scour` when the `scour` CLI isn't runnable, and rejects unknown options
 - `MAX_OVERSIZED_FILES` in `tests/test_iso3166_2_flags.py` lowered from 143 to 125 after the dataset compression
@@ -48,7 +57,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - Generated CSS now quotes flag `url()` paths, shares one `BASE_CSS` block between the ISO 3166-1/2/3 files, and lower-cases ISO 3166-1/3 selectors (e.g. `CSHH.svg` -> `.fi-cshh`)
 - ISO 3166-1 SVG sprite root is hidden with `position:absolute;width:0;height:0;overflow:hidden` instead of `display:none`, which stops gradients/clip-paths inside symbols rendering in some browsers
 - `export_flag_metadata()` keys `iso3166-3-flags` metadata by `country_code` like ISO 3166-1, rather than `subdivision_code`
-- Regenerated the ISO 3166-1/2 CSS, flag metadata CSVs, repo metadata JSON and README Quick Stats (3,106 flags, 263 ISO 3166-1, 289.365MB), and the BY, CH, KG, KR, KZ and PE subdivision READMEs whose subdivision types changed in `iso3166-2` 1.8.4
+- Regenerated the ISO 3166-1/2 CSS, flag metadata CSVs, repo metadata JSON and README Quick Stats (3,130 flags, 263 ISO 3166-1, 24 ISO 3166-3, 289.990MB), and the BY, CH, KG, KR, KZ and PE subdivision READMEs whose subdivision types changed in `iso3166-2` 1.8.4
 - Tests updated for the 13 reserved-code flags: added to `EXCEPTION_FLAGS` in `test_iso3166_1_flags.py` and the allowed selectors in `test_generate_css.py`, and `expected_iso3166_1_total` in `test_flag_metadata.py` is now the official codes + 13; the `IQ-AR.png` size fixture updated after its lossless re-compression
 - Bandit in `build_test.yml` is now scoped to `scripts/` only, and the security artifacts upload even when a check fails
 - `generate_css.py` CLI generates all three CSS files when `--iso3166_type` is empty (previously ISO 3166-1 and ISO 3166-2 only)
@@ -77,6 +86,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - Corrected the Bandit invocation in `build_test.yml` from `--level`/`--confidence` to `--severity-level`/`--confidence-level`. The invalid flags made Bandit exit with a usage error that `|| true` and `continue-on-error` swallowed, so the security job had been reporting success without scanning anything
 
 ### Fixed
+- `convert_images.py` compared file extensions case-sensitively, so e.g `XX.PNG` was "converted" onto itself on a case-insensitive filesystem (macOS) and then deleted as the original - extensions are now lower-cased before comparison
+- `get_git_timestamp()` always returned an empty timestamp for committed files as the `--date=iso-local` UTC offset (e.g `+0100`) failed to parse; the format now includes `%z`
+- `calculate_svg_dimension()` failing to parse comma-separated `viewBox` values e.g `"0,0,640,480"`
+- `calculate_svg_quality()` scoring 0 for SVGs without the SVG namespace - elements are now matched on local name
+- `export_repo_metadata()` matched `.md` case-sensitively, which would have counted `iso3166-3-flags/README.MD` as a flag
 - CSS flag `url()` paths were relative to the repo root instead of the stylesheet, so every flag 404'd when loading `css/iso3166-*.css` (CDN or npm) - now `../iso3166-1-flags/...`
 - Flag `<span>`s rendered at 0px high as `.fi` had no content - added `.fi::before { content: "\00a0"; }`
 - Upstream sync workflow deleted/overwrote any curated non-official flag not in lipis/flag-icons (would have removed 8 of the reserved-code flags), committed `pr_body.md` into the PR, and opened PRs with no flag changes

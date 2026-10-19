@@ -12,9 +12,10 @@ Top-level repository statistics. Updated by running `scripts/update_everything.p
 
 | Field | Type | Description |
 |---|---|---|
-| `total` | int | Total number of flag files across ISO 3166-1 and ISO 3166-2 |
+| `total` | int | Total number of flag files across ISO 3166-1, ISO 3166-2 and ISO 3166-3 |
 | `iso3166_1_total` | int | Number of files in the ISO 3166-1 folder - the official country/territorial flags plus the 13 reserved-code flags (`ac`, `cp`, `eu`, `un`, ...) |
 | `iso3166_2_total` | int | Number of ISO 3166-2 subdivision flags |
+| `iso3166_3_total` | int | Number of ISO 3166-3 former country flags |
 | `svg` | int | Total count of SVG-format flags |
 | `png` | int | Total count of PNG-format flags |
 | `jpg/jpeg` | int | Total count of JPG/JPEG-format flags |
@@ -25,6 +26,7 @@ Top-level repository statistics. Updated by running `scripts/update_everything.p
 | `total_repo_size` | string | Combined size of all flag files (KB) |
 | `iso3166_1_flags_size` | string | Size of the ISO 3166-1 flags folder (KB) |
 | `iso3166_2_flags_size` | string | Size of the ISO 3166-2 flags folder (KB) |
+| `iso3166_3_flags_size` | string | Size of the ISO 3166-3 flags folder (KB) |
 | `average_flag_size` | string | Mean file size across all flags (KB) |
 | `missing_iso3166_1_count` | int | Number of official ISO 3166-1 codes without a flag file |
 | `missing_iso3166_2_count` | int | Number of ISO 3166-2 codes without a flag file |

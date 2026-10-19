@@ -31,6 +31,8 @@ class Convert_Images_Tests(unittest.TestCase):
         testing archive folder creation and file archiving.
     test_delete_original_option:
         testing delete original file functionality.
+    test_uppercase_extension_not_deleted:
+        testing an upper-case .PNG is skipped rather than deleted (regression test).
     test_invalid_format_error:
         testing error handling for invalid format.
     test_missing_file_error:
@@ -175,6 +177,16 @@ class Convert_Images_Tests(unittest.TestCase):
         #verify PNG exists
         png_path = os.path.join(self.test_flags_dir, "delete_test.png")
         self.assertTrue(os.path.isfile(png_path), "Converted PNG should exist.")
+
+    # @unittest.skip("")
+    def test_uppercase_extension_not_deleted(self):
+        """ Testing an upper-case .PNG is skipped rather than converted onto itself and deleted (regression test). """
+        test_png_path = os.path.join(self.test_flags_dir, "upper_test.PNG")
+        self.create_test_image(test_png_path, 'PNG')
+
+        convert_img(flag_folder=self.test_flags_dir, img_format="png", delete_original=True)
+#1.)
+        self.assertTrue(os.path.isfile(test_png_path), "Upper-case PNG should be skipped, not deleted.")
 
     # @unittest.skip("")
     def test_invalid_format_error(self):

@@ -255,9 +255,9 @@ class Flag_Metadata_Tests(unittest.TestCase):
         #totals sourced from the reference packages rather than hardcoded, so new flags/subdivisions don't break this test
         expected_iso3166_1_total = len(iso3166.countries_by_alpha2) + 13  #official codes + 13 non-official exception flags from upstream
         expected_iso3166_2_total = len([code for codes in Subdivisions().subdivision_codes().values() for code in codes])
-        expected_keys = {'total', 'iso3166_1_total', 'iso3166_2_total', 'svg', 'png', 'jpg/jpeg', 'other', 'duplicates',
+        expected_keys = {'total', 'iso3166_1_total', 'iso3166_2_total', 'iso3166_3_total', 'svg', 'png', 'jpg/jpeg', 'other', 'duplicates',
                           'subdivisions_other', 'duplicate_list', 'total_repo_size', 'iso3166_1_flags_size',
-                          'iso3166_2_flags_size', 'average_flag_size', 'missing_iso3166_1_count', 'missing_iso3166_2_count'}
+                          'iso3166_2_flags_size', 'iso3166_3_flags_size', 'average_flag_size', 'missing_iso3166_1_count', 'missing_iso3166_2_count'}
 
         self.assertTrue(os.path.isfile(self.test_repo_metadata_output), "Expected flag metadata format output file to be exported.")
         #open exported metadata json
@@ -268,12 +268,14 @@ class Flag_Metadata_Tests(unittest.TestCase):
         self.assertEqual(test_repo_metadata_output_json["duplicates"], 0, "Expected no duplicate flags in the repo.")
         self.assertEqual(test_repo_metadata_output_json["subdivisions_other"], [], "Expected no subdivisions with an unsupported flag format.")
         self.assertEqual(test_repo_metadata_output_json["duplicate_list"], [], "Expected no duplicate flags listed.")
-        self.assertEqual(test_repo_metadata_output_json["total"], (test_repo_metadata_output_json["iso3166_1_total"] + test_repo_metadata_output_json["iso3166_2_total"]),
-                "Expected 'iso3166_1_total' and 'iso3166_2_total' attributes to summate to the value of the 'total' attribute.")
+        self.assertEqual(test_repo_metadata_output_json["total"], (test_repo_metadata_output_json["iso3166_1_total"] + test_repo_metadata_output_json["iso3166_2_total"]
+                + test_repo_metadata_output_json["iso3166_3_total"]),
+                "Expected 'iso3166_1_total', 'iso3166_2_total' and 'iso3166_3_total' attributes to summate to the value of the 'total' attribute.")
         self.assertEqual(test_repo_metadata_output_json["total"], (test_repo_metadata_output_json["svg"] + test_repo_metadata_output_json["png"] + test_repo_metadata_output_json["jpg/jpeg"]
                 + test_repo_metadata_output_json["other"]), "Expected individual count of the image formats to summate to the total number of files in the repo.")
         self.assertAlmostEqual(float(test_repo_metadata_output_json["total_repo_size"].replace('KB', '').replace(',', '')), (float(test_repo_metadata_output_json["iso3166_1_flags_size"].replace('KB', '').replace(',', '')) +
-                float(test_repo_metadata_output_json["iso3166_2_flags_size"].replace('KB', '').replace(',', ''))), places=2, msg="Expected the individual directory sizes in KB to add up to the 'total' folder size attribute.")
+                float(test_repo_metadata_output_json["iso3166_2_flags_size"].replace('KB', '').replace(',', '')) +
+                float(test_repo_metadata_output_json["iso3166_3_flags_size"].replace('KB', '').replace(',', ''))), places=2, msg="Expected the individual directory sizes in KB to add up to the 'total' folder size attribute.")
         self.assertEqual((test_repo_metadata_output_json["missing_iso3166_1_count"] + (test_repo_metadata_output_json["iso3166_1_total"])), expected_iso3166_1_total,
                 f"Expected the missing number of ISO 3166-1 flags and total number of flags found to add up to {expected_iso3166_1_total}.")
         self.assertEqual((test_repo_metadata_output_json["missing_iso3166_2_count"] + (test_repo_metadata_output_json["iso3166_2_total"])), expected_iso3166_2_total,

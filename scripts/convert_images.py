@@ -119,7 +119,7 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
             raise OSError(f"File image not found: {img_filepath}.")
 
         #raise error if invalid file extension input
-        if ((os.path.splitext(img_filepath)[1] in skip_files) or (os.path.splitext(os.path.basename(img_filepath))[0] == ".DS_Store")):
+        if ((os.path.splitext(img_filepath)[1].lower() in skip_files) or (os.path.splitext(os.path.basename(img_filepath))[0] == ".DS_Store")):
             raise ValueError(f"Invalid file type inputted: {img_filepath}.")
 
         #only archive or delete the original once the conversion has actually succeeded, otherwise
@@ -141,8 +141,9 @@ def convert_img(flag_folder: str, archive_folder: str="", img_filepath: str="", 
             for filename in filenames:
                 input_img_path = os.path.join(folder_path, filename)
 
-                #skip svg, markdown, DS_Store as well as images in other supported formats
-                if ((os.path.splitext(filename)[1] in skip_files) or (os.path.splitext(filename)[0] == ".DS_Store")):
+                #skip svg, markdown, DS_Store as well as images in other supported formats - compared case-insensitively, otherwise
+                #XX.PNG gets "converted" onto itself on a case-insensitive filesystem (macOS) and then deleted as the original
+                if ((os.path.splitext(filename)[1].lower() in skip_files) or (os.path.splitext(filename)[0] == ".DS_Store")):
                     continue
 
                 #as above, the original is only archived or deleted after a successful conversion

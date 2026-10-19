@@ -210,10 +210,9 @@ def calculate_svg_quality(svg_path):
         tree = etree.parse(svg_path, SAFE_XML_PARSER)  # nosec B320
         root = tree.getroot()
 
-        #get count of common vector elements
-        namespace = {'svg': 'http://www.w3.org/2000/svg'}
-        elements = ['path', 'rect', 'circle', 'line', 'polygon', 'polyline', 'ellipse']
-        count = sum(len(root.findall(f".//svg:{el}", namespace)) for el in elements)
+        #get count of common vector elements, matched on local name so SVGs missing the SVG namespace are still counted
+        elements = {'path', 'rect', 'circle', 'line', 'polygon', 'polyline', 'ellipse'}
+        count = sum(1 for el in root.iter() if isinstance(el.tag, str) and etree.QName(el).localname in elements)
 
         #normalize to 0-100 scale
         quality = min(100, count * 2)  #50 elements = 100 quality
@@ -362,7 +361,8 @@ def calculate_svg_dimension(svg_file_path: str) -> tuple:
         if width is None or height is None:
             view_box = root.get("viewBox")
             if view_box:
-                _, _, width, height = map(float, view_box.split())
+                #viewBox values may be separated by whitespace and/or commas e.g "0,0,640,480"
+                _, _, width, height = map(float, re.split(r"[\s,]+", view_box.strip()))
 
         #if width or height is missing, extract from viewBox attribute
         if width is not None and height is not None:
@@ -447,8 +447,8 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     that don't have a supported flag. The function also counts the total number of 
     files and duplicates, returning the name of any duplicate subdivisions.
 
-    By default, the metadata will be exported for the iso3166-1-flags and iso3166-2-flags
-    directories.
+    By default, the metadata will be exported for the iso3166-1-flags, iso3166-2-flags and
+    iso3166-3-flags directories.
 
     Parameters
     ==========
@@ -472,13 +472,14 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     """
     #object holding metadata for repo
     flag_metadata_master = {
-        "total": 0, "iso3166_1_total": 0, "iso3166_2_total": 0, "svg": 0, "png": 0, "jpg/jpeg": 0,  
+        "total": 0, "iso3166_1_total": 0, "iso3166_2_total": 0, "iso3166_3_total": 0, "svg": 0, "png": 0, "jpg/jpeg": 0,
         "other": 0, "duplicates": 0, "subdivisions_other": [], "duplicate_list": [], "total_repo_size": 0, 
-        "iso3166_1_flags_size": 0, "iso3166_2_flags_size": 0, "average_flag_size": 0
+        "iso3166_1_flags_size": 0, "iso3166_2_flags_size": 0, "iso3166_3_flags_size": 0, "average_flag_size": 0
     }
     #flag directory names
     iso3166_1_dir = "iso3166-1-flags"
     iso3166_2_dir = "iso3166-2-flags"
+    iso3166_3_dir = "iso3166-3-flags"
 
     #list of valid flag extensions 
     valid_exts = ['.svg', '.png', '.jpg', '.jpeg', '.gif', '.webp']
@@ -486,7 +487,7 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
     def get_directory_metadata(path: str) -> dict:
         """ 
         Auxiliary function that exports the metadata per input folder. This function is called 
-        for each of the iso3166-1-flags and iso3166-2-flags directories. 
+        for each of the iso3166-1-flags, iso3166-2-flags and iso3166-3-flags directories. 
 
         Parameters
         ==========
@@ -513,6 +514,8 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
             for filename in filenames:
                 #extract filename and extension
                 name, ext = os.path.splitext(filename)
+                #lowercase so README.MD (iso3166-3-flags) and upper-case image extensions are matched too
+                ext = ext.lower()
 
                 #skip markdown & DS_Store files, if exclude_readme set to False then include in count
                 if (exclude_readme):
@@ -561,50 +564,30 @@ def export_repo_metadata(export_json: bool=True, export_filename: str="repo_meta
 
         return flag_metadata
 
-    #total number of flag across the 2 directories
-    total_flag_count = 0
+    #get the metadata for each flag directory, setting its total number of flags & total size (in bytes)
+    directory_metadata = [get_directory_metadata(d) for d in (iso3166_1_dir, iso3166_2_dir, iso3166_3_dir)]
+    for prefix, metadata in zip(("iso3166_1", "iso3166_2", "iso3166_3"), directory_metadata):
+        flag_metadata_master[f"{prefix}_total"] = metadata["total"]
+        flag_metadata_master[f"{prefix}_flags_size"] = metadata["total_folder_size"]
 
-    #get the metadata for the iso3166-1-flags flag
-    flag_metadata_iso3166_1 = get_directory_metadata(iso3166_1_dir)
+    #update the attribute values for the master object across the 3 directories
+    for attr in ("total", "svg", "png", "jpg/jpeg", "other", "duplicates", "subdivisions_other", "duplicate_list"):
+        flag_metadata_master[attr] = sum((metadata[attr] for metadata in directory_metadata), [] if isinstance(directory_metadata[0][attr], list) else 0)
 
-    #set the total number of flags & total size (in bytes)
-    flag_metadata_master["iso3166_1_total"] = flag_metadata_iso3166_1["total"]
-    flag_metadata_master["iso3166_1_flags_size"] = flag_metadata_iso3166_1["total_folder_size"] 
+    #total number of flags across the 3 directories
+    total_flag_count = flag_metadata_master["total"]
 
-    #increment the total flags counter
-    total_flag_count += flag_metadata_master["iso3166_1_total"]
-
-    #get the metadata for the iso3166-2-flags flag
-    flag_metadata_iso3166_2 = get_directory_metadata(iso3166_2_dir)
-
-    #set the total number of flags & total size (in bytes)
-    flag_metadata_master["iso3166_2_total"] = flag_metadata_iso3166_2["total"]
-    flag_metadata_master["iso3166_2_flags_size"] = flag_metadata_iso3166_2["total_folder_size"] 
-
-    #increment the total flags counter
-    total_flag_count += flag_metadata_master["iso3166_2_total"]
-
-    #update the attribute values for the master object across the 2 directories
-    flag_metadata_master["total"] = flag_metadata_iso3166_1["total"] + flag_metadata_iso3166_2["total"]
-    flag_metadata_master["svg"] = flag_metadata_iso3166_1["svg"] + flag_metadata_iso3166_2["svg"]
-    flag_metadata_master["png"] = flag_metadata_iso3166_1["png"] + flag_metadata_iso3166_2["png"]
-    flag_metadata_master["jpg/jpeg"] = flag_metadata_iso3166_1["jpg/jpeg"] + flag_metadata_iso3166_2["jpg/jpeg"]
-    flag_metadata_master["other"] = flag_metadata_iso3166_1["other"] + flag_metadata_iso3166_2["other"]
-    flag_metadata_master["duplicates"] = flag_metadata_iso3166_1["duplicates"] + flag_metadata_iso3166_2["duplicates"]
-    flag_metadata_master["subdivisions_other"] = flag_metadata_iso3166_1["subdivisions_other"] + flag_metadata_iso3166_2["subdivisions_other"]
-    flag_metadata_master["duplicate_list"] = flag_metadata_iso3166_1["duplicate_list"] + flag_metadata_iso3166_2["duplicate_list"]
-
-    #get the total size (in bytes) for the 2 flag directories
-    flag_metadata_master["total_repo_size"] = flag_metadata_master["iso3166_1_flags_size"] + flag_metadata_master["iso3166_2_flags_size"]
+    #get the total size (in bytes) for the 3 flag directories
+    total_repo_size = sum(metadata["total_folder_size"] for metadata in directory_metadata)
 
     #convert all the folder size attributes to KB, round to 3d.p
-    flag_metadata_master["iso3166_1_flags_size"] = f"{round(flag_metadata_master['iso3166_1_flags_size'] / 1024, 3):,.3f}KB"
-    flag_metadata_master["iso3166_2_flags_size"] = f"{round(flag_metadata_master['iso3166_2_flags_size'] / 1024, 3):,.3f}KB"
+    for prefix in ("iso3166_1", "iso3166_2", "iso3166_3"):
+        flag_metadata_master[f"{prefix}_flags_size"] = f"{round(flag_metadata_master[f'{prefix}_flags_size'] / 1024, 3):,.3f}KB"
     #calculate average flag size in KB (convert bytes to KB before dividing), guarding against
-    #a division by zero when both flag folders are empty
-    average_flag_size = (flag_metadata_master['total_repo_size'] / 1024) / total_flag_count if total_flag_count else 0
+    #a division by zero when all flag folders are empty
+    average_flag_size = (total_repo_size / 1024) / total_flag_count if total_flag_count else 0
     flag_metadata_master["average_flag_size"] = f"{round(average_flag_size, 3):,.3f}KB"
-    flag_metadata_master["total_repo_size"] = f"{round(flag_metadata_master['total_repo_size'] / 1024, 3):,.3f}KB"
+    flag_metadata_master["total_repo_size"] = f"{round(total_repo_size / 1024, 3):,.3f}KB"
 
     ### Get list of any missing ISO 3166-1 flags not in flag directory ###
 

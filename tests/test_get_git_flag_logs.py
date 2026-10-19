@@ -57,6 +57,10 @@ class Get_Git_Flag_Logs_Tests(unittest.TestCase):
         #an "added" file with no commit history falls back to a filesystem timestamp, empty if the file doesn't exist on disk either
         added_timestamp = get_git_timestamp(self.test_uncommitted_path, "added")
         self.assertEqual(added_timestamp, "", "Expected an added, non-existent file to fall back to an empty filesystem timestamp.")
+#4.)
+        #a committed file returns its formatted commit timestamp - the iso-local UTC offset previously made parsing fail silently (regression test)
+        committed_timestamp = get_git_timestamp("README.md", "modified")
+        self.assertRegex(committed_timestamp, r"^\w{3} \d{1,2}(st|nd|rd|th) \w+ \d{4} \d{2}:\d{2}$", "Expected a committed file to return a formatted commit timestamp.")
 
     # @unittest.skip("")
     def test_extract_file_metadata(self):

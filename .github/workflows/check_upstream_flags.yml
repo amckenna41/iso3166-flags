@@ -235,6 +235,18 @@ jobs:
           shutil.rmtree("flag-icons-tmp")
           PYEOF
 
+      # regenerate the derived CSS, README and metadata files so the PR passes the
+      # update_everything --check step in build_test.yml
+      - name: Regenerate CSS, README and metadata files
+        run: |
+          pip install -r scripts/requirements.txt
+          python -m scripts.update_everything
+
+      # PRs opened with GITHUB_TOKEN don't trigger build_test.yml, so the synced upstream SVGs are checked
+      # here - an unsafe flag (script, event handlers, remote references) fails the run before any PR is opened
+      - name: Check SVG safety and ISO 3166-2 filenames
+        run: python -m scripts.validate_flags
+
       # -------------------------------------------------------
       # 4. Build the pull-request body from the sync summary
       # -------------------------------------------------------
@@ -313,7 +325,7 @@ jobs:
           ### Review checklist
           - [ ] Spot-check changed SVGs against the [upstream release](${RELEASE_URL})
           - [ ] Confirm no custom / curated flags were accidentally overwritten
-          - [ ] Verify counts in \`repo_metadata.json\` are still accurate after merge
+          - [ ] Sanity-check the regenerated CSS, README and \`iso3166-flags-metadata/\` files in the diff
           - [ ] Run the full test suite (\`python -m unittest discover tests -v\`)
 
           ---

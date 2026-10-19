@@ -23,9 +23,9 @@ https://iso3166-flags.vercel.app/
 ------------- -->
 ## Quick Stats 🏃
 
-| Total Flags |    ISO3166-1 Flags   |    ISO3166-2 Flags    |  SVG  |  PNG  | JPEG / JPG | Other | Total Dataset Size (MB) | ISO3166-1 Dataset Size (MB) | ISO3166-2 Dataset Size (MB) |
-|-------------|------------------------|------------------------|-------|-------|------------|-------|-------------------------|------------------------------|------------------------------|
-| 3,106       | 263                    | 2,843                  | 2,254 | 798   | 54         | 0     | 289.365                 | 2.803                        | 286.562                      |
+| Total Flags |    ISO3166-1 Flags   |    ISO3166-2 Flags    |    ISO3166-3 Flags    |  SVG  |  PNG  | JPEG / JPG | Other | Total Dataset Size (MB) | ISO3166-1 Dataset Size (MB) | ISO3166-2 Dataset Size (MB) | ISO3166-3 Dataset Size (MB) |
+|-------------|------------------------|------------------------|------------------------|-------|-------|------------|-------|-------------------------|------------------------------|------------------------------|------------------------------|
+| 3,130       | 263                    | 2,843                  | 24                     | 2,278 | 798   | 54         | 0     | 289.990                 | 2.803                        | 286.562                      | 0.625                        |
 
 
 Table of Contents
@@ -34,7 +34,6 @@ Table of Contents
   * [Installation](#installation)
   * [CDN](#cdn)
   * [Usage](#usage)
-  * [Comparison](#comparison)
   * [Updates](#updates)
   * [Directories](#directories)
   * [Issues or Contributing](#issues-or-contributing)
@@ -154,23 +153,6 @@ Flag `<span>` elements are visually empty by default. For accessible application
 <span class="fi fi-gb-sct" role="img" aria-label="Flag of Scotland"></span>
 ```
 
-## Comparison
-
-`iso3166-flags` is the only open dataset that combines comprehensive ISO 3166-1 **and** ISO 3166-2 flag coverage in a single, CSS-ready package:
-
-| Feature | iso3166-flags | [lipis/flag-icons][flag-icons-repo] |
-|---|:---:|:---:|
-| ISO 3166-1 country flags | **250** (+13 reserved codes) | 258 (incl. extras) |
-| **ISO 3166-2 subdivision flags** | **2,843** | **0** |
-| SVG format | ✅ | ✅ |
-| SVG sprite | ✅ (ISO 3166-1) | ✅ |
-| Minified CSS | ✅ | ✅ |
-| npm package | ✅ | ✅ |
-| CDN via jsDelivr | ✅ | ✅ |
-| Per-flag metadata (dimensions, quality, colours) | ✅ | — |
-
-> The defining differentiator is the **2,843 ISO 3166-2 subdivision flags** — no other single dataset or package provides this breadth of regional flag coverage.
-
 Updates
 -------
 An important thing to note about the ISO 3166-2 and its subdivision codes/names is that changes are made consistently to it, from a small subdivision name change to an addition/deletion of a whole subdivision. These changes can happen due for a variety of geopolitical and administrative reasons. Therefore, it's important that this library and its JSON have the most **up-to-date, accurate and reliable data**. To achieve this, the custom-built [`iso3166-updates`](https://github.com/amckenna41/iso3166-updates) repo was created!
@@ -211,8 +193,10 @@ When adding or changing flags, regenerate the derived CSS, sprite, README and me
 ```bash
 pip install -r tests/requirements.txt
 python3 scripts/update_everything.py
+python3 -m scripts.validate_flags
 python -m pytest tests/
 ```
+`validate_flags` rejects SVGs containing scripts, event handlers or remote references, and ISO 3166-2 flags not named after a real subdivision code of their country sub-folder (e.g `iso3166-2-flags/GB/GB-ENG.svg`).
 New non-official ISO 3166-1 flags (e.g. reserved codes) also need adding to `EXCEPTION_FLAGS` in `tests/test_iso3166_1_flags.py` and the expected total in `tests/test_flag_metadata.py`.
 
 <!-- Also, due to the large amount of data and attributes in the dataset, please raise an Issue if you spot any missing or erroneous data. When raising this Issue please include the current subdivision object attribute values as well as the corrected/new version of them in an easy-to-read format.  -->

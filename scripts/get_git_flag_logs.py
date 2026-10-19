@@ -217,8 +217,8 @@ def get_git_timestamp(file_path: str, status: str="") -> str:
                 #for untracked files (e.g., added), fallback to filesystem timestamp 
                 return get_filesystem_timestamp(file_path)
 
-        #get timestamp in correct format via the datetime library
-        return format_timestamp(datetime.strptime(raw_timestamp, "%Y-%m-%d %H:%M:%S"))
+        #get timestamp in correct format via the datetime library - iso-local output ends in a UTC offset e.g +0100
+        return format_timestamp(datetime.strptime(raw_timestamp, "%Y-%m-%d %H:%M:%S %z"))
 
     #return empty string if issue parsing the timestamp
     except Exception:
@@ -313,7 +313,7 @@ if __name__ == '__main__':
         help='Filter the status column, only including those files that have been "added", "modified" or "deleted.')
     parser.add_argument('-include_timestamp', '--include_timestamp', required=False, action=argparse.BooleanOptionalAction, default=1, 
         help='Whether to include the timestamp attribute per file row. The timestamp functionality can take up a lot of time to generate.')
-    parser.add_argument('-strip_prefix', '--strip_prefix', required=False, action=argparse.BooleanOptionalAction, default=0, 
+    parser.add_argument('-strip_prefix', '--strip_prefix', required=False, action=argparse.BooleanOptionalAction, default=1, 
         help='Whether to remove the relative folder prefix from the flag files e.g remove "../" from the paths.')
     parser.add_argument('-filter_extensions', '--filter_extensions', type=str, required=False, default="", 
         help='Exclude a specific list of files from the output file via their extensions, e.g to exclude markdown files, pass in "md".')

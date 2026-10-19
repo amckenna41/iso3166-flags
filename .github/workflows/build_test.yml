@@ -76,6 +76,11 @@ jobs:
         print(f'All SVGs valid.')
         "
 
+    #reject SVGs that would run script or fetch remote resources once inlined (e.g via the sprite), and ISO 3166-2
+    #flags that aren't named after a real subdivision code of the country sub-folder they sit in
+    - name: Check SVG safety and ISO 3166-2 filenames
+      run: python -m scripts.validate_flags
+
     #verify the README Quick Stats table row matches the metadata JSON - compares the actual table cells
     #rather than searching for each number anywhere in the README, which could match by coincidence
     - name: Verify README Quick Stats
@@ -89,7 +94,7 @@ jobs:
         section = readme.split('## Quick Stats', 1)[1]
         row = [line for line in section.splitlines() if re.match(r'^\|\s*[\d,]+\s*\|', line)][0]
         cells = [c.strip().replace(',', '') for c in row.strip('|').split('|')]
-        expected = [meta['total'], meta['iso3166_1_total'], meta['iso3166_2_total'], meta['svg'], meta['png'], meta['jpg/jpeg'], meta['other']]
+        expected = [meta['total'], meta['iso3166_1_total'], meta['iso3166_2_total'], meta['iso3166_3_total'], meta['svg'], meta['png'], meta['jpg/jpeg'], meta['other']]
         stale = [f'column {i + 1}: README has {c}, metadata has {e}' for i, (c, e) in enumerate(zip(cells, expected)) if c != str(e)]
         if stale:
             print('README Quick Stats are stale:', stale)

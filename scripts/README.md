@@ -13,6 +13,7 @@ Scripts
 * [`get_flag_metadata`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/get_flag_metadata.py) - export a plethora of useful and relevant metadata for the flag images including name, dimensions, file size, type & quality.
 * [`get_missing_flags.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/get_missing_flags.py) - script for exporting a list of subdivisions that have missing or no supported subdivision flags on the repo.
 * [`get_git_flag_logs.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/get_git_flag_logs.py) - small script that exports the list of flag additions, modifications and deletions to the repo, exported from the git status command. This is useful to track when a lot of changes have been made to the flags folder.
+* [`validate_flags.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/validate_flags.py) - script that checks every flag SVG is safe to inline (no `<script>`, event handlers, `javascript:` or remote references) and every ISO 3166-2 flag is named after a real subdivision code of its country sub-folder. Run with `python3 -m scripts.validate_flags`, exits non-zero on any problem.
 * [`update_everything.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/update_everything.py) - script that ensures all the data files and metadata objects used throughout the iso3166-flags project are kept up-to-date when any flags have been added, changed or deleted - the ISO 3166-1/2/3 CSS files (+ minified), the ISO 3166-1 SVG sprite, the per-country ISO 3166-2 READMEs, the ISO 3166-1/2/3 flag metadata CSVs, the repo metadata JSON and the missing subdivision flags list.
 * [`convert_images.py`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/convert_images.py) - script for converting all non-jpg/jpeg/png/svg images to the desired formats.
 * [`svg_compress.sh`](https://github.com/amckenna41/iso3166-flags/blob/main/scripts/svg_compress.sh) - script for compressing folder of image flags in SVG format, reducing the total size of the dataset. Works on both the flat `iso3166-1-flags` layout and the nested `iso3166-2-flags/<country>/` layout, e.g. `bash scripts/svg_compress.sh --input=iso3166-1-flags --output=compressed --filesize=100`.
@@ -100,6 +101,16 @@ python3 scripts/update_everything.py
 
 --dry-run: preview changes without modifying any files - outputs are written to a temporary directory (cleaned up after) and a summary of what would change is printed
 --check: like --dry-run, but also diffs the generated CSS/README/metadata files against what's currently committed and exits non-zero if anything is stale; useful as a CI gate to catch flags being added/changed without regenerating the derived files
+```
+
+
+### Check the flag SVGs are safe and the ISO 3166-2 filenames are valid:
+
+```bash
+python3 -m scripts.validate_flags
+
+--flag_dirs: comma-separated list of flag folders whose SVGs are safety checked (default iso3166-1-flags,iso3166-2-flags,iso3166-3-flags)
+--iso3166_2_dir: ISO 3166-2 flag folder whose filenames are validated, pass an empty string to skip (default iso3166-2-flags)
 ```
 
 

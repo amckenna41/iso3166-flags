@@ -13,6 +13,19 @@ notes_csv_path = os.path.join("iso3166-flags-metadata", "iso3166_flag_notes.csv"
 #cache for the parsed notes CSV, populated on first use by get_notes_df()
 notes_df = None
 
+#cache for the Subdivisions object, populated on first use by get_subdivisions()
+subdivisions_cache = None
+
+def get_subdivisions() -> Subdivisions:
+    """
+    Create and cache a single Subdivisions object - loading it parses the full iso3166-2 dataset,
+    so building one per country README made generating all ~200 READMEs needlessly slow.
+    """
+    global subdivisions_cache
+    if subdivisions_cache is None:
+        subdivisions_cache = Subdivisions()
+    return subdivisions_cache
+
 def get_notes_df() -> pd.DataFrame:
     """
     Read and cache the CSV of per-country notes. The CSV is read on first use rather than
@@ -83,8 +96,8 @@ def create_markdown_str(country_code: str, input_folder: str) -> str:
                 key=str.casefold
             )     
 
-    #create instance of Subdivision class from amazingly perfect beautiful and wonderful iso3166-2 package
-    subdivisions = Subdivisions()
+    #get the cached instance of Subdivision class from amazingly perfect beautiful and wonderful iso3166-2 package
+    subdivisions = get_subdivisions()
 
     #get list of country's subdivisions
     all_subdivisions = subdivisions[country_code] 

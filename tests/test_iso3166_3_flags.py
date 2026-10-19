@@ -1,6 +1,7 @@
 import unittest
 import re
 import os
+import json
 import warnings
 from lxml import etree
 
@@ -91,6 +92,11 @@ class ISO3166_3_Flags_Tests(unittest.TestCase):
 #1.)
         self.assertEqual(len(self.iso3166_3_files), 24,
             f"Expected 24 flag icons in the ISO 3166-3 folder, got {len(self.iso3166_3_files)}.")
+#2.)
+        #the repo metadata JSON must count the same ISO 3166-3 flags
+        with open(os.path.join("iso3166-flags-metadata", "iso3166_flags_metadata.json")) as f:
+            expected = json.load(f)["iso3166_3_total"]
+        self.assertEqual(len(self.iso3166_3_files), expected, f"Expected the repo metadata iso3166_3_total ({expected}) to match the ISO 3166-3 folder.")
 
     # @unittest.skip("")
     def test_iso3166_3_flags_file_extensions(self):
