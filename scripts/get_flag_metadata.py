@@ -405,8 +405,9 @@ def parse_svg_dimension(dimension: str):
     if dimension is None:
         return None
     try:
-        #remove any non-numeric characters (like 'px', 'mm', etc.), extracting numeric part and unit
-        match = re.match(r"([0-9.]+)([a-zA-Z%]*)", dimension)
+        #remove any non-numeric characters (like 'px', 'mm', etc.), extracting numeric part and unit - the number may use
+        #scientific notation e.g "1.5e3", which would otherwise be read as 1.5 with an "e" unit
+        match = re.fullmatch(r"([0-9]*\.?[0-9]+(?:[eE][-+]?[0-9]+)?|[0-9]+\.)([a-zA-Z%]*)", dimension.strip())
         if match:
             value, unit = match.groups()
             value = float(value)
