@@ -47,6 +47,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - Data validation to ensure CSV and iso3166-2 package consistency
 
 ### Changed
+- The `pip-audit` package vulnerability check in `build_test.yml` no longer fails the workflow - findings are still shown on the step and uploaded in the `test_artifacts` artifact
 - Restored the pre-compression versions of `IT-FC`, `IT-PD`, `TH-67`, `TH-80` and `TH-84` - scour's id stripping removed gradients referenced only from `<style>` blocks, losing shading in `TH-67`/`TH-80`
 - Converted `LV-102.png` and `ST-05.png` from WEBP (saved with a `.png` extension) into real PNGs, pixel-identical
 - Removed contributors' local file paths (`inkscape:export-filename`) from 13 ISO 3166-2 SVGs and empty Adobe Illustrator `<foreignObject>` leftovers from 9, render-verified as unchanged
