@@ -245,6 +245,14 @@ class Flag_Metadata_Tests(unittest.TestCase):
         #percentage-based dimensions are relative, not absolute, so None is returned, letting the caller fall back to the viewBox
         test_svg_dimesion_output4 = parse_svg_dimension(test_svg_dimesion_4)
         self.assertIsNone(test_svg_dimesion_output4, f"Expected SVG dimension output to be None for percentage-based input: {test_svg_dimesion_output4}.")
+#5.)
+        #scientific notation e.g width="1.5e3" was previously read as 1.5 with an "e" unit (regression test)
+        self.assertEqual(parse_svg_dimension("1.5e3"), 1500.0, "Expected scientific notation dimension to be parsed in full.")
+        self.assertEqual(parse_svg_dimension("7e3"), 7000.0, "Expected scientific notation dimension to be parsed in full.")
+        self.assertEqual(parse_svg_dimension("2.5E+2px"), 250.0, "Expected scientific notation dimension with a unit to be parsed in full.")
+#6.)
+        #malformed numbers still return None rather than a partial value
+        self.assertIsNone(parse_svg_dimension("1.2.3"), "Expected a malformed dimension to return None.")
 
 #     @unittest.skip("")
     def test_export_repo_metadata(self):
@@ -253,7 +261,7 @@ class Flag_Metadata_Tests(unittest.TestCase):
         test_repo_metadata = export_repo_metadata(export_json=True, export_filename=self.test_repo_metadata_output)
 
         #totals sourced from the reference packages rather than hardcoded, so new flags/subdivisions don't break this test
-        expected_iso3166_1_total = len(iso3166.countries_by_alpha2) + 13  #official codes + 13 reserved-code flags (ac, cp, cq, dg, ea, eu, ez, fx, ic, su, ta, uk, un)
+        expected_iso3166_1_total = len(iso3166.countries_by_alpha2) + 13  #official codes + 13 non-official exception flags from upstream
         expected_iso3166_2_total = len([code for codes in Subdivisions().subdivision_codes().values() for code in codes])
         expected_keys = {'total', 'iso3166_1_total', 'iso3166_2_total', 'iso3166_3_total', 'svg', 'png', 'jpg/jpeg', 'other', 'duplicates',
                           'subdivisions_other', 'duplicate_list', 'total_repo_size', 'iso3166_1_flags_size',

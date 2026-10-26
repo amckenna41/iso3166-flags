@@ -25,7 +25,7 @@ https://iso3166-flags.vercel.app/
 
 | Total Flags |    ISO3166-1 Flags   |    ISO3166-2 Flags    |    ISO3166-3 Flags    |  SVG  |  PNG  | JPEG / JPG | Other | Total Dataset Size (MB) | ISO3166-1 Dataset Size (MB) | ISO3166-2 Dataset Size (MB) | ISO3166-3 Dataset Size (MB) |
 |-------------|------------------------|------------------------|------------------------|-------|-------|------------|-------|-------------------------|------------------------------|------------------------------|------------------------------|
-| 3,130       | 263                    | 2,843                  | 24                     | 2,278 | 798   | 54         | 0     | 289.990                 | 2.803                        | 286.562                      | 0.625                        |
+| 3,130       | 263                    | 2,843                  | 24                     | 2,278 | 798   | 54         | 0     | 292.388                 | 2.803                        | 288.960                      | 0.625                        |
 
 
 Table of Contents
@@ -196,7 +196,7 @@ python3 scripts/update_everything.py
 python3 -m scripts.validate_flags
 python -m pytest tests/
 ```
-`validate_flags` rejects SVGs containing scripts, event handlers or remote references, and ISO 3166-2 flags not named after a real subdivision code of their country sub-folder (e.g `iso3166-2-flags/GB/GB-ENG.svg`).
+`validate_flags` rejects SVGs containing scripts, event handlers, remote references or references to elements missing from the file, PNG/JPG flags whose content doesn't match their extension, and ISO 3166-2 flags not named after a real subdivision code of their country sub-folder (e.g `iso3166-2-flags/GB/GB-ENG.svg`).
 New non-official ISO 3166-1 flags (e.g. reserved codes) also need adding to `EXCEPTION_FLAGS` in `tests/test_iso3166_1_flags.py` and the expected total in `tests/test_flag_metadata.py`.
 
 <!-- Also, due to the large amount of data and attributes in the dataset, please raise an Issue if you spot any missing or erroneous data. When raising this Issue please include the current subdivision object attribute values as well as the corrected/new version of them in an easy-to-read format.  -->

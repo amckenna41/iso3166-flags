@@ -2,6 +2,7 @@ from scripts.validate_flags import *
 import os
 import shutil
 import unittest
+from PIL import Image
 unittest.TestLoader.sortTestMethodsUsing = None
 
 # @unittest.skip("Skipping tests.")
@@ -16,6 +17,10 @@ class Validate_Flags_Tests(unittest.TestCase):
         testing unsafe SVG content is reported and safe SVG content is not.
     test_check_iso3166_2_filenames:
         testing misnamed/misplaced ISO 3166-2 flags are reported and valid ones are not.
+    test_check_svg_references:
+        testing references to missing elements are reported and resolvable ones are not.
+    test_check_file_format:
+        testing a raster flag whose content doesn't match its extension is reported.
     """
     def setUp(self):
         """ Initialise test variables. """
@@ -68,6 +73,33 @@ class Validate_Flags_Tests(unittest.TestCase):
 #2.)
         for expected in ("US-TX.svg", "GB-XXX.svg", "GB-SCT.gif", "ZZ", "loose.svg"):
             self.assertTrue(any(expected in e for e in errors), f"Expected {expected} to be reported: {errors}.")
+
+    # @unittest.skip("")
+    def test_check_svg_references(self):
+        """ Testing references to missing elements are reported and resolvable ones are not. """
+#1.)
+        valid = self.write_svg("valid_refs.svg", '<defs><linearGradient id="g"/><path id="p" d="M0 0h1v1z"/></defs>'
+                               '<style>.a{fill:url(#g)}.unused{fill:url(#gone)}</style><use xlink:href="#p"/><rect class="a" fill="url(#g)"/>'
+                               '<text style="shape-inside:url(#flowregion)">x</text>')
+        self.assertEqual(check_svg_references(valid), [], "Expected resolvable references, unused CSS rules and shape-inside to pass.")
+#2.)
+        for name, body, ref in (("missing_use.svg", '<use xlink:href="#s"/>', "#s"),
+                                ("missing_fill.svg", '<rect fill="url(#grad)"/>', "#grad"),
+                                ("missing_class.svg", '<style>.st0{fill:url(#SVGID_1_)}</style><path class="st0"/>', "#SVGID_1_")):
+            errors = check_svg_references(self.write_svg(name, body))
+            self.assertTrue(any(ref in e for e in errors), f"Expected {name} to report missing {ref}: {errors}.")
+
+    # @unittest.skip("")
+    def test_check_file_format(self):
+        """ Testing a raster flag whose content doesn't match its extension is reported. """
+        png_path = os.path.join(self.test_output_dir, "real.png")
+        webp_path = os.path.join(self.test_output_dir, "fake.png")
+        Image.new("RGB", (4, 3), "red").save(png_path, "PNG")
+        Image.new("RGB", (4, 3), "red").save(webp_path, "WEBP")
+#1.)
+        self.assertEqual(check_file_format(png_path), [], "Expected a real PNG to pass.")
+#2.)
+        self.assertTrue(check_file_format(webp_path), "Expected a WEBP saved as .png to be reported.")
 
 if __name__ == '__main__':
     #run all unit tests

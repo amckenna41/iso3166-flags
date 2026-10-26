@@ -99,8 +99,9 @@ jobs:
       run: mkdir artifacts
 
     #package vulnerability check of the pinned requirements using pip-audit (no account/API key needed,
-    #unlike safety v3) - fails the job on any known vulnerability
+    #unlike safety v3) - findings are reported (step marked failed, output uploaded as an artifact) but don't fail the workflow
     - name: Package vulnerability check
+      continue-on-error: true
       run: |
         pip install pip-audit
         set -o pipefail

@@ -14,7 +14,7 @@
 * `test_get_missing_flags.py` - testing the `get_missing_flags` script, that exports list of all subdivisions that don't have an associated flag on the repo.
 * `test_get_git_flag_logs.py` - testing the `get_git_flag_logs` script, that exports the list of flag additions, modifications and deletions from the git status command.
 * `test_convert_images.py` - testing the `convert_images` script, that converts the flag images into different format.
-* `test_validate_flags.py` - testing the `validate_flags` script, that rejects unsafe SVG content (scripts, event handlers, `javascript:` and remote references) and misnamed/misplaced ISO 3166-2 flags.
+* `test_validate_flags.py` - testing the `validate_flags` script, that rejects unsafe SVG content (scripts, event handlers, `javascript:` and remote references), SVG references to missing elements, raster flags whose content doesn't match their extension, and misnamed/misplaced ISO 3166-2 flags.
 * `test_svg_compress.py` - testing the `svg_compress.sh` script on both flat and nested flag folders (skipped if `scour` isn't installed).
 
 `tests/test_flags/` is a small fixture of subdivision flags used by the script tests.

@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ## [Latest]
 
 ### Added
+- `validate_flags.py` now also fails on SVG references to elements missing from the file (`href="#id"`, `url(#id)` in attributes and used `<style>` rules) and on PNG/JPG flags whose content doesn't match their extension. 23 ISO 3166-2 flags whose artwork has always referenced missing symbols/gradients/clip paths are listed in `KNOWN_BROKEN_REFERENCES` until re-sourced, and the check reports any entry that no longer needs the exemption
 - `scripts/validate_flags.py` (`python -m scripts.validate_flags`) - rejects SVG flags containing `<script>`, `on*` event handler attributes, `javascript:`/`vbscript:` URLs or remote `http(s)://` references in hrefs/CSS (unsafe once inlined, e.g via the sprite), and ISO 3166-2 flags that aren't a supported format or aren't named after a real subdivision code of the country sub-folder they sit in. Runs as a CI step in `build_test.yml` and in `check_upstream_flags.yml` before the PR is opened, failing the run on any problem
 - `tests/test_validate_flags.py` covering the SVG safety and ISO 3166-2 filename checks
 - `iso3166_3_total`/`iso3166_3_flags_size` in `iso3166_flags_metadata.json` - the ISO 3166-3 flags are now included in the repo metadata and its `total`, `svg`, size and average attributes, plus ISO 3166-3 count/size columns in the README Quick Stats table (also checked by CI)
@@ -46,6 +47,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - Data validation to ensure CSV and iso3166-2 package consistency
 
 ### Changed
+- The `pip-audit` package vulnerability check in `build_test.yml` no longer fails the workflow - findings are still shown on the step and uploaded in the `test_artifacts` artifact
+- Restored the pre-compression versions of `IT-FC`, `IT-PD`, `TH-67`, `TH-80` and `TH-84` - scour's id stripping removed gradients referenced only from `<style>` blocks, losing shading in `TH-67`/`TH-80`
+- Converted `LV-102.png` and `ST-05.png` from WEBP (saved with a `.png` extension) into real PNGs, pixel-identical
+- Removed contributors' local file paths (`inkscape:export-filename`) from 13 ISO 3166-2 SVGs and empty Adobe Illustrator `<foreignObject>` leftovers from 9, render-verified as unchanged
 - Removed the Comparison section (and its table of contents entry) from the main README
 - `generate_readme.py` creates one cached `Subdivisions` object via `get_subdivisions()` rather than one per country README
 - `get_git_flag_logs.py` `--strip_prefix` CLI default changed to on, matching the function default
@@ -57,7 +62,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - Generated CSS now quotes flag `url()` paths, shares one `BASE_CSS` block between the ISO 3166-1/2/3 files, and lower-cases ISO 3166-1/3 selectors (e.g. `CSHH.svg` -> `.fi-cshh`)
 - ISO 3166-1 SVG sprite root is hidden with `position:absolute;width:0;height:0;overflow:hidden` instead of `display:none`, which stops gradients/clip-paths inside symbols rendering in some browsers
 - `export_flag_metadata()` keys `iso3166-3-flags` metadata by `country_code` like ISO 3166-1, rather than `subdivision_code`
-- Regenerated the ISO 3166-1/2 CSS, flag metadata CSVs, repo metadata JSON and README Quick Stats (3,130 flags, 263 ISO 3166-1, 24 ISO 3166-3, 289.990MB), and the BY, CH, KG, KR, KZ and PE subdivision READMEs whose subdivision types changed in `iso3166-2` 1.8.4
+- Regenerated the ISO 3166-1/2 CSS, flag metadata CSVs, repo metadata JSON and README Quick Stats (3,130 flags, 263 ISO 3166-1, 24 ISO 3166-3, 292.388MB), and the BY, CH, KG, KR, KZ and PE subdivision READMEs whose subdivision types changed in `iso3166-2` 1.8.4
 - Tests updated for the 13 reserved-code flags: added to `EXCEPTION_FLAGS` in `test_iso3166_1_flags.py` and the allowed selectors in `test_generate_css.py`, and `expected_iso3166_1_total` in `test_flag_metadata.py` is now the official codes + 13; the `IQ-AR.png` size fixture updated after its lossless re-compression
 - Bandit in `build_test.yml` is now scoped to `scripts/` only, and the security artifacts upload even when a check fails
 - `generate_css.py` CLI generates all three CSS files when `--iso3166_type` is empty (previously ISO 3166-1 and ISO 3166-2 only)
@@ -86,6 +91,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - Corrected the Bandit invocation in `build_test.yml` from `--level`/`--confidence` to `--severity-level`/`--confidence-level`. The invalid flags made Bandit exit with a usage error that `|| true` and `continue-on-error` swallowed, so the security job had been reporting success without scanning anything
 
 ### Fixed
+- `parse_svg_dimension()` read scientific-notation sizes such as `width="1.5e3"` as `1.5`, recording 41 flags in the metadata CSVs with dimensions like `(1, 1500)` and aspect ratios of `0.0`/`1500.0`
+- `ES-TO.svg` embedded 4 JPEGs with untyped `data:;base64` URIs, now `data:image/jpeg;base64`
+- `validate_flags.py` treated any attribute starting with "on" as an event handler, flagging Inkscape's `only_selected`
 - `convert_images.py` compared file extensions case-sensitively, so e.g `XX.PNG` was "converted" onto itself on a case-insensitive filesystem (macOS) and then deleted as the original - extensions are now lower-cased before comparison
 - `get_git_timestamp()` always returned an empty timestamp for committed files as the `--date=iso-local` UTC offset (e.g `+0100`) failed to parse; the format now includes `%z`
 - `calculate_svg_dimension()` failing to parse comma-separated `viewBox` values e.g `"0,0,640,480"`
