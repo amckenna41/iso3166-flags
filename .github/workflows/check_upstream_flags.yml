@@ -2,8 +2,8 @@ name: Check Upstream Flag Icons Updates
 
 # Runs quarterly to detect new releases of lipis/flag-icons.
 # When a new release is found, the iso3166-1-flags folder is synced and a PR is opened.
-# A new PR is created on every run (branch is suffixed with the run number), even if a
-# PR for the same release already exists. No PR is opened when the sync produces no changes.
+# The run is skipped if a PR for the same release is still open, or was merged and not since
+# reverted. Otherwise a new PR is opened (branch suffixed with the run number). No PR is opened when the sync produces no changes.
 on:
   schedule:
     - cron: '0 0 1 */3 *'  # 00:00 UTC on the 1st of every third month
@@ -24,7 +24,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
-          python-version: '3.11'
+          python-version: '3.13'
 
       # -------------------------------------------------------
       # 1. Fetch the latest release tag from lipis/flag-icons
@@ -43,35 +43,59 @@ jobs:
           echo "Latest lipis/flag-icons release: $LATEST_TAG ($RELEASE_DATE)"
 
       # -------------------------------------------------------
-      # 2. Log any existing PRs for this release (informational
-      #    only — a new PR is created on every run regardless).
+      # 2. Skip the rest of the run if a PR for this release is
+      #    still open, or was merged and hasn't since been reverted
+      #    (branch is upstream/lipis-flag-icons-<tag>[-runN]).
       # -------------------------------------------------------
-      - name: Check if this release was already processed
+      - name: Check for an existing PR for this release
+        id: check_existing
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
         run: |
-          EXISTING=$(gh pr list \
+          # tag comes from upstream, so it's passed to jq via --arg rather than interpolated
+          PRS=$(gh pr list \
             --repo "$GITHUB_REPOSITORY" \
             --state all \
-            --search "head:upstream/lipis-flag-icons-${LATEST_TAG}" \
-            --json number \
-            --jq '.[0].number // empty')
+            --limit 200 \
+            --json number,headRefName,state \
+            | jq -r --arg p "upstream/lipis-flag-icons-${LATEST_TAG}" \
+              '.[] | select(.state != "CLOSED") | select(.headRefName == $p or (.headRefName | startswith($p + "-run"))) | "\(.number) \(.state)"')
 
-          if [ -n "$EXISTING" ]; then
-            echo "Release $LATEST_TAG was already processed (PR #$EXISTING) — creating a new PR anyway."
-          else
-            echo "No existing PR for $LATEST_TAG."
-          fi
+          # a merged PR counts as reverted if a commit on the default branch reverts it - either a direct
+          # revert ('Revert "Merge pull request #N ...') or one made with GitHub's revert button ('Reverts owner/repo#N')
+          # ponytail: only the last 100 commits are scanned, a revert older than that is missed
+          COMMITS=$(gh api "repos/$GITHUB_REPOSITORY/commits?per_page=100" --jq '.[].commit.message')
+
+          SKIP=false
+          while read -r NUM STATE; do
+            [ -z "$NUM" ] && continue
+            if [ "$STATE" = "OPEN" ]; then
+              echo "PR #$NUM for $LATEST_TAG is still open — skipping."
+              SKIP=true
+            elif grep -qE "Revert \"Merge pull request #${NUM} |Reverts ${GITHUB_REPOSITORY}#${NUM}([^0-9]|$)" <<< "$COMMITS"; then
+              echo "PR #$NUM for $LATEST_TAG was merged but later reverted — ignoring it."
+            else
+              echo "PR #$NUM for $LATEST_TAG was already merged — skipping."
+              SKIP=true
+            fi
+          done <<< "$PRS"
+
+          [ "$SKIP" = false ] && echo "No open or merged PR for $LATEST_TAG."
+          echo "skip=$SKIP" >> "$GITHUB_OUTPUT"
 
       # -------------------------------------------------------
       # 3. Download the release tarball and sync iso3166-1-flags
       # -------------------------------------------------------
+      - name: Install dependencies
+        if: steps.check_existing.outputs.skip != 'true'
+        run: pip install -r scripts/requirements.txt -r tests/requirements.txt
+
       - name: Download and sync flags
+        if: steps.check_existing.outputs.skip != 'true'
         env:
           LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
         run: |
-          pip install iso3166
           python3 - <<'PYEOF'
           import os, tarfile, urllib.request, shutil, json, re
           import iso3166
@@ -90,19 +114,7 @@ jobs:
               #the "data" filter rejects absolute paths, ".." traversal, links pointing outside the
               #destination and special files, so a malicious or compromised upstream release can't
               #write outside flag-icons-tmp/ in a runner that holds contents/pull-requests write access
-              try:
-                  tar.extractall("flag-icons-tmp", filter="data")
-              except TypeError:
-                  #the filter argument was added in Python 3.12 (and backported to 3.9.17+/3.10.12+/3.11.4+),
-                  #fall back to validating each member by hand on older interpreters
-                  destination = os.path.abspath("flag-icons-tmp")
-                  for member in tar.getmembers():
-                      if not member.isfile() and not member.isdir():
-                          raise RuntimeError(f"Refusing to extract non-regular archive member: {member.name}")
-                      target = os.path.abspath(os.path.join(destination, member.name))
-                      if target != destination and not target.startswith(destination + os.sep):
-                          raise RuntimeError(f"Refusing to extract archive member outside destination: {member.name}")
-                  tar.extractall("flag-icons-tmp")
+              tar.extractall("flag-icons-tmp", filter="data")
 
           # Locate the extracted root directory (e.g. flag-icons-7.5.0/)
           extracted_dir = next(
@@ -238,14 +250,19 @@ jobs:
       # regenerate the derived CSS, README and metadata files so the PR passes the
       # update_everything --check step in build_test.yml
       - name: Regenerate CSS, README and metadata files
-        run: |
-          pip install -r scripts/requirements.txt
-          python -m scripts.update_everything
+        if: steps.check_existing.outputs.skip != 'true'
+        run: python -m scripts.update_everything
 
       # PRs opened with GITHUB_TOKEN don't trigger build_test.yml, so the synced upstream SVGs are checked
       # here - an unsafe flag (script, event handlers, remote references) fails the run before any PR is opened
       - name: Check SVG safety and ISO 3166-2 filenames
+        if: steps.check_existing.outputs.skip != 'true'
         run: python -m scripts.validate_flags
+
+      # the sync patches tests/*.py, and build_test.yml won't run on this PR, so run the suite here
+      - name: Run unit tests
+        if: steps.check_existing.outputs.skip != 'true'
+        run: python -m unittest discover tests -v
 
       # -------------------------------------------------------
       # 4. Build the pull-request body from the sync summary
@@ -253,92 +270,70 @@ jobs:
       # release values come from upstream, so they're passed via env rather than interpolated
       # into the script as expressions - a crafted tag name would otherwise be executed by the shell
       - name: Build PR body
+        if: steps.check_existing.outputs.skip != 'true'
         env:
           LATEST_TAG: ${{ steps.get_release.outputs.latest_tag }}
           RELEASE_URL: ${{ steps.get_release.outputs.release_url }}
           RELEASE_DATE: ${{ steps.get_release.outputs.release_date }}
         run: |
-          ADDED_COUNT=0; UPDATED_COUNT=0; REMOVED_COUNT=0; SKIPPED_COUNT=0
-          ADDED_LIST="None"; UPDATED_LIST="None"; REMOVED_LIST="None"; SKIPPED_LIST="None"
-          EXCEPTION_NOTE=""
+          python3 - <<'PYEOF'
+          import json, os
 
-          if [ -f flag_sync_summary.json ]; then
-            ADDED_COUNT=$(python3   -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['added']))")
-            UPDATED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['updated']))")
-            REMOVED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['removed']))")
-            SKIPPED_COUNT=$(python3 -c "import json; d=json.load(open('flag_sync_summary.json')); print(len(d['skipped']))")
+          with open("flag_sync_summary.json") as fh:
+              d = json.load(fh)
+          # remove the ephemeral summary so it is not committed
+          os.remove("flag_sync_summary.json")
 
-            ADDED_LIST=$(python3 -c "
-          import json
-          d = json.load(open('flag_sync_summary.json'))
-          items = d['added']
-          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
-          ")
-            UPDATED_LIST=$(python3 -c "
-          import json
-          d = json.load(open('flag_sync_summary.json'))
-          items = d['updated']
-          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
-          ")
-            REMOVED_LIST=$(python3 -c "
-          import json
-          d = json.load(open('flag_sync_summary.json'))
-          items = d['removed']
-          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
-          ")
-            SKIPPED_LIST=$(python3 -c "
-          import json
-          d = json.load(open('flag_sync_summary.json'))
-          items = d['skipped']
-          print(', '.join(items[:25]) + (' …' if len(items) > 25 else '') if items else 'None')
-          ")
-            EXCEPTION_NOTE=$(python3 -c "
-          import json
-          d = json.load(open('flag_sync_summary.json'))
-          tests, flags = d.get('tests_updated', []), d.get('exception_flags', [])
-          print('Unit tests (' + ', '.join('\`' + t + '\`' for t in tests) + ') were updated in this PR to account for the ' + str(len(flags)) + ' non-official exception flags in the synced dataset: ' + ', '.join(flags) + '.' if tests else '')
-          ")
-          fi
+          def flag_list(items):
+              return ", ".join(items[:25]) + (" …" if len(items) > 25 else "") if items else "None"
 
-          # Write body to a file to avoid shell-escaping issues
-          # written outside the workspace so it isn't committed into the PR
-          cat > "$RUNNER_TEMP/pr_body.md" << MDEOF
-          ## Upstream Flag Icons Sync — ${LATEST_TAG}
+          tag, url, date = os.environ["LATEST_TAG"], os.environ["RELEASE_URL"], os.environ["RELEASE_DATE"]
+          tests, flags = d.get("tests_updated", []), d.get("exception_flags", [])
+          exception_note = (
+              "Unit tests (" + ", ".join(f"`{t}`" for t in tests) + ") were updated in this PR to account for the "
+              f"{len(flags)} non-official exception flags in the synced dataset: " + ", ".join(flags) + "."
+              if tests else ""
+          )
 
-          A new release of [**lipis/flag-icons**](${RELEASE_URL}) was published on ${RELEASE_DATE}.
+          body = f"""## Upstream Flag Icons Sync — {tag}
 
-          This PR syncs the \`iso3166-1-flags\` folder with the upstream \`flags/4x3/\` directory from that release.
+          A new release of [**lipis/flag-icons**]({url}) was published on {date}.
 
-          ### Changes to \`iso3166-1-flags/\`
+          This PR syncs the `iso3166-1-flags` folder with the upstream `flags/4x3/` directory from that release.
+
+          ### Changes to `iso3166-1-flags/`
 
           | | Count | Flags |
           |---|---|---|
-          | ✅ Added   | $ADDED_COUNT   | $ADDED_LIST |
-          | 🔄 Updated | $UPDATED_COUNT | $UPDATED_LIST |
-          | ❌ Removed | $REMOVED_COUNT | $REMOVED_LIST |
-          | ⏭️ Skipped (not official ISO 3166-1) | $SKIPPED_COUNT | $SKIPPED_LIST |
+          | ✅ Added   | {len(d['added'])}   | {flag_list(d['added'])} |
+          | 🔄 Updated | {len(d['updated'])} | {flag_list(d['updated'])} |
+          | ❌ Removed | {len(d['removed'])} | {flag_list(d['removed'])} |
+          | ⏭️ Skipped (not official ISO 3166-1) | {len(d['skipped'])} | {flag_list(d['skipped'])} |
 
-          Skipped files are new upstream flags whose filename is not an official ISO 3166-1 alpha-2 code (e.g. \`arab.svg\`, \`es-ct.svg\`) — they are deliberately **not** added to this repo.
+          Skipped files are new upstream flags whose filename is not an official ISO 3166-1 alpha-2 code (e.g. `arab.svg`, `es-ct.svg`) — they are deliberately **not** added to this repo.
 
-          $EXCEPTION_NOTE
+          {exception_note}
 
           ### Review checklist
-          - [ ] Spot-check changed SVGs against the [upstream release](${RELEASE_URL})
+          - [ ] Spot-check changed SVGs against the [upstream release]({url})
           - [ ] Confirm no custom / curated flags were accidentally overwritten
-          - [ ] Sanity-check the regenerated CSS, README and \`iso3166-flags-metadata/\` files in the diff
-          - [ ] Run the full test suite (\`python -m unittest discover tests -v\`)
+          - [ ] Sanity-check the regenerated CSS, README and `iso3166-flags-metadata/` files in the diff
+          - [x] Unit tests passed in the workflow run before this PR was opened
 
           ---
           *Automatically created by the [check-upstream-flags](.github/workflows/check_upstream_flags.yml) workflow.*
-          MDEOF
+          """
 
-          # Remove the ephemeral summary so it is not committed
-          rm -f flag_sync_summary.json
+          # written outside the workspace so it isn't committed into the PR
+          with open(os.path.join(os.environ["RUNNER_TEMP"], "pr_body.md"), "w") as fh:
+              fh.write(body)
+          PYEOF
 
       # -------------------------------------------------------
       # 5. Open a pull request with all changed SVG files
       # -------------------------------------------------------
       - name: Create Pull Request
+        if: steps.check_existing.outputs.skip != 'true'
         uses: peter-evans/create-pull-request@c5a7806660adbe173f04e3e038b0ccdcd758773c # v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}

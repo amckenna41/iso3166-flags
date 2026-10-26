@@ -1,0 +1,11 @@
+version: 2
+updates:
+  #bumps the SHA-pinned actions in .github/workflows/, keeping the "# vX" version comments in sync
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    #one PR per month for all action bumps rather than one per action
+    groups:
+      github-actions:
+        patterns: ["*"]
